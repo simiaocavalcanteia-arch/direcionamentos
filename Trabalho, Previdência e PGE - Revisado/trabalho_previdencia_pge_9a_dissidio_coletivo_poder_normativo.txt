@@ -1,0 +1,174 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Dissídio Coletivo: Processo, Poder Normativo, Recursos e Mediação</h1>
+<p class="subtitulo">Ponto 9, item "a" — Dissídio coletivo: processo e procedimento, competência, limites do poder normativo, efeitos da sentença normativa, recursos cabíveis, mediação e arbitragem</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>O dissídio coletivo é o instrumento processual pelo qual se resolvem conflitos trabalhistas de natureza coletiva — ou seja, aqueles que envolvem categorias profissionais e econômicas como um todo, e não trabalhadores individualmente considerados. Trata-se de exercício do <strong>poder normativo</strong> da Justiça do Trabalho: a capacidade de criar normas jurídicas (cláusulas normativas) aplicáveis a toda uma categoria, com eficácia erga omnes.</p>
+
+<p>Após a EC 45/2004, o poder normativo foi significativamente restringido, passando a exigir <strong>comum acordo</strong> entre as partes para a instauração do dissídio coletivo de natureza econômica (art. 114, §2º, CF). Essa mudança reorientou o sistema para privilegiar a autocomposição (negociação coletiva, mediação, arbitragem) em detrimento da heterocomposição judicial.</p>
+
+<p>Para o Procurador do Estado, o tema é relevante em duas frentes: a greve de servidores públicos (que pode ensejar dissídio coletivo de greve, com implicações diretas para o Estado) e a defesa do ente público em dissídios que envolvam empregados públicos celetistas. A decisão do STF em 2025 permitindo que TJs julguem dissídios de greve de servidores públicos reforçou a importância do tema.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Espécies de dissídio coletivo</h3>
+
+<table>
+<tr><th>Espécie</th><th>Objeto</th><th>Fundamento</th></tr>
+<tr><td>De natureza econômica</td><td>Criação de novas condições de trabalho (reajuste salarial, benefícios, jornada)</td><td>Art. 114, §2º, CF — exige comum acordo</td></tr>
+<tr><td>De natureza jurídica (ou de direito)</td><td>Interpretação ou aplicação de norma coletiva preexistente (convenção, acordo ou sentença normativa)</td><td>Art. 114, §2º, CF — sem exigência de comum acordo</td></tr>
+<tr><td>De greve</td><td>Declarar a legalidade ou ilegalidade do movimento grevista e fixar condições durante ou após a greve</td><td>Art. 114, §3º, CF — pode ser instaurado pelo MPT</td></tr>
+<tr><td>Revisional</td><td>Revisão de sentença normativa após 1 ano de vigência, quando se alterarem as circunstâncias (cláusula rebus sic stantibus)</td><td>Art. 873, CLT</td></tr>
+</table>
+
+<h3>Competência</h3>
+
+<p>A competência originária para julgar dissídios coletivos pertence aos <strong>Tribunais Regionais do Trabalho</strong> quando o conflito se limita à jurisdição de um TRT, ou ao <strong>Tribunal Superior do Trabalho (SDC)</strong> quando ultrapassa a jurisdição de mais de um TRT ou envolve categorias de âmbito nacional.</p>
+
+<p>Para greves de <strong>servidores públicos estatutários</strong>, a competência é da Justiça Comum (estadual ou federal), conforme decidiu o STF nos MIs 670/708/712. Em 2025, o STF ratificou que os Tribunais de Justiça podem julgar dissídios de greve de servidores estaduais, aplicando por analogia a Lei 7.783/1989 (Lei de Greve).</p>
+
+<h3>Requisito do comum acordo</h3>
+
+<div class="destaque">
+<strong>ADI 3.423 (STF, 2020):</strong> o Plenário declarou <strong>constitucional</strong> a exigência de "comum acordo" para o ajuizamento de dissídio coletivo de natureza econômica (art. 114, §2º, CF). A Reforma do Judiciário (EC 45/2004) quis privilegiar a autocomposição e reduzir o poder normativo da Justiça do Trabalho. Exceção: o MPT pode instaurar dissídio coletivo de greve em atividades essenciais, independentemente de comum acordo (art. 114, §3º).
+</div>
+
+<p>O TST, em novembro de 2025, fixou tese obrigatória complementar: a <strong>recusa arbitrária</strong> de uma das partes em negociar coletivamente satisfaz o requisito do comum acordo (a recusa injustificada equipara-se à anuência). Essa interpretação, baseada na boa-fé objetiva e nas Convenções 98 e 154 da OIT, impede que a exigência de comum acordo se torne obstáculo intransponível ao acesso à jurisdição coletiva.</p>
+
+<h3>Procedimento</h3>
+
+<p>O dissídio coletivo é instaurado por petição dirigida ao TRT (ou TST), subscrita pelo sindicato (ou pelo MPT, no caso de greve em atividades essenciais). Há tentativa obrigatória de conciliação prévia perante o tribunal. Se frustrada a conciliação, o processo segue para julgamento pela Seção de Dissídios Coletivos (SDC) do TRT ou do TST.</p>
+
+<p>Antes do ajuizamento, é necessário comprovar: tentativa de negociação coletiva frustrada (ou recusa em negociar), autorização da assembleia da categoria (art. 859, CLT — quorum qualificado) e, para dissídios econômicos, o comum acordo ou a comprovação de recusa arbitrária de negociação.</p>
+
+<h3>Poder normativo e seus limites</h3>
+
+<p>O poder normativo é a faculdade atribuída à Justiça do Trabalho de criar normas jurídicas de caráter geral e abstrato, aplicáveis a toda a categoria, por meio da sentença normativa. Após a EC 45/2004, esse poder foi limitado: o tribunal deve respeitar as <strong>disposições mínimas legais de proteção ao trabalho</strong> e as <strong>convenções e acordos coletivos anteriormente celebrados</strong> (art. 114, §2º, CF).</p>
+
+<p>O STF tem sido rigoroso na delimitação dos limites do poder normativo. Em janeiro de 2026, concedeu liminar suspendendo cláusulas de sentença normativa do TST no dissídio dos Correios, por entender que o TST extrapolou o poder normativo ao fixar condições que contrariavam disposições legais. Os limites são:</p>
+
+<ul>
+<li>Não pode contrariar legislação vigente (o poder normativo opera no silêncio da lei).</li>
+<li>Não pode fixar cláusulas cujo conteúdo seja reservado à regulamentação legal pela CF.</li>
+<li>Deve respeitar disposições mínimas legais de proteção ao trabalho.</li>
+<li>Deve observar convenções e acordos coletivos previamente celebrados.</li>
+</ul>
+
+<h3>Sentença normativa: efeitos e vigência</h3>
+
+<p>A sentença normativa tem natureza jurídica mista: é ato jurisdicional na forma, mas material legislativo no conteúdo (cria normas gerais e abstratas). Seus efeitos são <strong>erga omnes</strong> (aplicam-se a todos os integrantes das categorias envolvidas, sindicalizados ou não). A vigência é de <strong>no máximo 4 anos</strong> (art. 868, parágrafo único, CLT), e a sentença pode ser revisada após 1 ano se as circunstâncias que a motivaram se alterarem substancialmente (art. 873, CLT).</p>
+
+<p>A <strong>ação de cumprimento</strong> é o instrumento para executar a sentença normativa (art. 872, CLT). Pode ser ajuizada por qualquer trabalhador individualmente ou pelo sindicato, como substituto processual, após o trânsito em julgado ou mesmo na pendência de recurso (a sentença normativa produz efeitos imediatos).</p>
+
+<h3>Recursos cabíveis</h3>
+
+<p>Da sentença normativa proferida pelo TRT cabem: <strong>recurso ordinário</strong> ao TST (SDC), no prazo de 8 dias; e <strong>embargos de declaração</strong>, no prazo de 5 dias. Da sentença normativa proferida pela SDC do TST, cabem embargos infringentes (quando a decisão não for unânime) e recurso extraordinário ao STF (quando houver questão constitucional).</p>
+
+<h3>Mediação e arbitragem</h3>
+
+<p>A EC 45/2004 fortaleceu os meios alternativos de solução de conflitos coletivos. A <strong>mediação</strong> pode ser exercida pelo Ministério do Trabalho (mediadores designados), pelo MPT ou por mediadores particulares. Seu objetivo é facilitar a negociação entre as partes, sem impor solução.</p>
+
+<p>A <strong>arbitragem</strong> é expressamente prevista no art. 114, §§1º e 2º, da CF como alternativa ao dissídio coletivo. As partes podem eleger árbitro (público ou privado) para decidir o conflito. A sentença arbitral tem efeito de convenção coletiva e não se sujeita a recurso judicial (salvo nulidade do procedimento arbitral — Lei 9.307/1996). No âmbito do setor público, a arbitragem em dissídios coletivos é possível, desde que observados os limites da indisponibilidade do interesse público.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>CF, art. 114, §§1º-3º</td><td>Poder normativo, comum acordo, legitimidade do MPT para dissídio de greve</td></tr>
+<tr><td>CLT, arts. 856-875</td><td>Dissídio coletivo: instauração, procedimento, competência, sentença normativa, revisão, ação de cumprimento</td></tr>
+<tr><td>Lei 7.783/1989</td><td>Lei de Greve: atividades essenciais, requisitos, mediação, dissídio de greve</td></tr>
+<tr><td>Lei 9.307/1996</td><td>Lei de Arbitragem: aplicável a conflitos coletivos de trabalho</td></tr>
+<tr><td>IN 4/1993 TST</td><td>Procedimento do dissídio coletivo no TST</td></tr>
+<tr><td>Convenções 98 e 154 OIT</td><td>Negociação coletiva: boa-fé, obrigação de negociar, arbitragem</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>ADI 3.423 (STF, 2020)</td><td>Constitucionalidade do "comum acordo" para dissídio coletivo econômico (art. 114, §2º, CF)</td></tr>
+<tr><td>TST — Tese obrigatória (nov/2025)</td><td>Recusa arbitrária em negociar satisfaz o requisito do comum acordo — baseada na boa-fé objetiva e Convenções OIT</td></tr>
+<tr><td>MIs 670/708/712 (STF, 2007)</td><td>Greve de servidores públicos: aplicação analógica da Lei 7.783/1989 enquanto não editada lei específica</td></tr>
+<tr><td>Tema 531 (STF, 2016)</td><td>A Administração Pública deve descontar os dias de paralisação dos servidores em greve, salvo se houver acordo para compensação</td></tr>
+<tr><td>STF (jan/2026)</td><td>Suspensão de cláusulas de sentença normativa do TST (Correios): limites do poder normativo não podem contrariar legislação vigente</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 114, §§1º a 3º, da CF — são apenas três parágrafos, mas condensam todo o regime constitucional do dissídio coletivo: poder normativo, comum acordo, legitimidade do MPT. Em seguida, leia os arts. 856-875 da CLT (procedimento) e a IN 4/1993 do TST.</p>
+
+<p>Domine a <strong>ADI 3.423</strong> (constitucionalidade do comum acordo) e a tese do TST sobre recusa arbitrária (nov/2025) — essas duas decisões formam o quadro completo do requisito de admissibilidade do dissídio econômico. Para a prova, treine explicar por que a exigência de comum acordo não viola o acesso à jurisdição (fundamento da ADI 3.423) e qual a saída quando uma das partes se recusa arbitrariamente a negociar (tese do TST).</p>
+
+<p>A relação entre dissídio coletivo e greve de servidores públicos é ponto de conexão com os Pontos 5a (direito de greve) e 7a (processo do trabalho). A banca pode pedir que o candidato articule esses temas em questão discursiva.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Comum acordo é requisito apenas para dissídio econômico:</strong> o dissídio coletivo de natureza jurídica e o dissídio de greve não exigem comum acordo. No dissídio de greve em atividades essenciais, o MPT pode instaurá-lo unilateralmente (art. 114, §3º, CF). Questões de prova frequentemente misturam essas espécies para testar se o candidato distingue os requisitos de cada uma.
+</div>
+
+<div class="atencao">
+<strong>Limites do poder normativo após a EC 45/2004:</strong> o poder normativo foi restringido, não extinto. A Justiça do Trabalho continua podendo criar normas coletivas via sentença normativa, mas deve respeitar as disposições mínimas legais e os acordos coletivos vigentes. O tribunal não pode contrariar legislação nem fixar condições em matéria reservada à lei. A decisão do STF de janeiro de 2026 (caso Correios) reforçou essa limitação.
+</div>
+
+<div class="atencao">
+<strong>Recusa arbitrária × recusa legítima:</strong> nem toda recusa em negociar supre o comum acordo. O TST (nov/2025) exige que a recusa seja <strong>arbitrária</strong> (injustificada, contrária à boa-fé). Se a parte apresentar razões legítimas para não negociar (ex.: proposta manifestamente desproporcional), a recusa não equivale ao comum acordo e o dissídio pode ser extinto sem julgamento de mérito.
+</div>
+
+<div class="atencao">
+<strong>Sentença normativa e efeito imediato:</strong> a sentença normativa produz efeitos imediatos, mesmo na pendência de recurso. A ação de cumprimento pode ser ajuizada pelo sindicato como substituto processual antes do trânsito em julgado (art. 872, parágrafo único, CLT). Essa particularidade distingue a sentença normativa de outras decisões judiciais.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Constitucionalidade do comum acordo (ADI 3.423, STF, 2020):</strong> o Plenário, por maioria, declarou constitucional a exigência de que ambas as partes concordem com a instauração do dissídio coletivo econômico. O fundamento: a EC 45/2004 privilegiou a autocomposição e restringiu o poder normativo, alinhando o Brasil às melhores práticas internacionais (Convenções OIT). A exigência não viola o acesso à jurisdição porque existem meios alternativos (negociação, mediação, arbitragem) e porque o dissídio de greve e o de natureza jurídica continuam acessíveis sem comum acordo.</p>
+
+<p><strong>Greve de servidores e dissídio coletivo (MIs 670/708/712, STF, 2007):</strong> enquanto não editada lei específica, aplica-se a Lei 7.783/1989 por analogia. O TJ estadual pode julgar dissídios de greve de servidores estaduais (STF, 2025), o que é especialmente relevante para o Procurador do Estado que defenderá o ente público nessas ações.</p>
+
+<h3>Decisões recentes (2025-2026)</h3>
+
+<p><strong>Recusa arbitrária supre o comum acordo (TST, Pleno, nov/2025):</strong> o TST fixou tese obrigatória: a recusa arbitrária do sindicato patronal (ou de qualquer integrante da categoria econômica) em participar da negociação coletiva satisfaz o requisito do comum acordo para o dissídio econômico. A fundamentação se baseou na boa-fé objetiva (art. 422, CC) e nas Convenções 98 e 154 da OIT, que impõem o dever de negociar de boa-fé. Essa decisão evita que a exigência de comum acordo seja usada como estratégia de obstrução.</p>
+
+<p><strong>Limites do poder normativo — caso Correios (STF, jan/2026):</strong> o STF concedeu liminar suspendendo cláusulas da sentença normativa proferida pelo TST no dissídio coletivo dos Correios (greve de dez/2025). O Ministro relator entendeu que o TST extrapolou os limites do poder normativo ao fixar condições que contrariavam disposições legais expressas. O caso reafirmou que o poder normativo opera nos limites da lei, não contra ela.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparação: dissídio individual × dissídio coletivo</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Dissídio Individual</th><th>Dissídio Coletivo</th></tr>
+<tr><td>Partes</td><td>Empregado(s) × empregador</td><td>Sindicato × sindicato/categoria econômica</td></tr>
+<tr><td>Objeto</td><td>Direito individual do trabalhador</td><td>Condições de trabalho da categoria (normas coletivas)</td></tr>
+<tr><td>Competência originária</td><td>Vara do Trabalho</td><td>TRT (SDC) ou TST</td></tr>
+<tr><td>Natureza da decisão</td><td>Sentença com efeito inter partes</td><td>Sentença normativa com efeito erga omnes</td></tr>
+<tr><td>Requisito especial</td><td>Nenhum (acesso direto)</td><td>Comum acordo (econômico); frustração de negociação</td></tr>
+</table>
+
+<h3>Meios de solução de conflitos coletivos de trabalho</h3>
+
+<table>
+<tr><th>Meio</th><th>Natureza</th><th>Características</th></tr>
+<tr><td>Negociação coletiva</td><td>Autocomposição</td><td>Partes resolvem diretamente; gera CCT ou ACT</td></tr>
+<tr><td>Mediação</td><td>Autocomposição assistida</td><td>Terceiro facilitador (MTE, MPT); partes decidem</td></tr>
+<tr><td>Arbitragem</td><td>Heterocomposição privada</td><td>Árbitro decide; sentença arbitral irrecorrível (salvo nulidade)</td></tr>
+<tr><td>Dissídio coletivo</td><td>Heterocomposição judicial</td><td>Tribunal decide via poder normativo; sentença normativa</td></tr>
+</table>
+
+<h3>Recursos no dissídio coletivo</h3>
+
+<table>
+<tr><th>Decisão</th><th>Recurso Cabível</th><th>Prazo</th><th>Órgão Julgador</th></tr>
+<tr><td>Sentença normativa do TRT</td><td>Recurso ordinário</td><td>8 dias</td><td>TST (SDC)</td></tr>
+<tr><td>Sentença normativa da SDC/TST (não unânime)</td><td>Embargos infringentes</td><td>8 dias</td><td>SDC/TST</td></tr>
+<tr><td>Qualquer decisão</td><td>Embargos de declaração</td><td>5 dias</td><td>Mesmo tribunal</td></tr>
+<tr><td>Decisão do TST com questão constitucional</td><td>Recurso extraordinário</td><td>15 dias</td><td>STF</td></tr>
+</table>
+
+</div>

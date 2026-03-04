@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relações de Trabalho e Previdência - Ponto 6b | PGE/RJ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #faf9f7;
+            --text: #1a1a1a;
+            --accent: #8b2500;
+            --accent-light: #c44d1a;
+            --muted: #5a5a5a;
+            --border: #e0dcd7;
+            --highlight-bg: #fff8f0;
+            --card-bg: #ffffff;
+            --tag-bg: #f0ebe4;
+            --green: #2d6a4f;
+            --blue: #1d3557;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Crimson Pro', Georgia, serif;
+            font-size: 18px;
+            line-height: 1.8;
+            color: var(--text);
+            background: var(--bg);
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        .badge {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            background: var(--tag-bg);
+            display: inline-block;
+            padding: 6px 16px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text);
+            line-height: 1.3;
+            margin-bottom: 32px;
+        }
+
+        .subtitulo {
+            font-size: 1rem;
+            color: var(--muted);
+            margin-top: -24px;
+            margin-bottom: 32px;
+            font-style: italic;
+        }
+
+        h2 {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--accent);
+            margin-top: 48px;
+            margin-bottom: 18px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        h3 {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--blue);
+            margin-top: 28px;
+            margin-bottom: 12px;
+        }
+
+        p {
+            margin-bottom: 16px;
+            text-align: justify;
+        }
+
+        .destaque {
+            background: var(--highlight-bg);
+            border-left: 4px solid var(--accent);
+            padding: 16px 20px;
+            margin: 1.5rem 0;
+            border-radius: 0 6px 6px 0;
+        }
+
+        .atencao {
+            background: #fff3f0;
+            border-left: 4px solid #d32f2f;
+            padding: 16px 20px;
+            margin: 1.5rem 0;
+            border-radius: 0 6px 6px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background: var(--blue);
+            color: #fff;
+            padding: 10px 14px;
+            text-align: left;
+            font-family: 'Source Sans 3', sans-serif;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 10px 14px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        tr:nth-child(even) {
+            background: #f5f3f0;
+        }
+
+        ul, ol {
+            margin: 0 0 16px 24px;
+        }
+
+        li {
+            margin-bottom: 6px;
+        }
+
+        strong {
+            color: var(--text);
+        }
+
+        .tag {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 12px;
+            font-weight: 600;
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 3px;
+            margin-right: 6px;
+        }
+
+        .tag-stf {
+            background: #e8f5e9;
+            color: var(--green);
+        }
+
+        .tag-stj {
+            background: #e3f2fd;
+            color: var(--blue);
+        }
+
+        .tag-lei {
+            background: var(--tag-bg);
+            color: var(--accent);
+        }
+    </style>
+</head>
+<body>
+
+<div class="badge">RELAÇÕES DE TRABALHO E PREVIDÊNCIA | PGE/RJ</div>
+
+<h1>Regime Jurídico Próprio e Único da Previdência Social no Estado do Rio de Janeiro</h1>
+
+<p class="subtitulo">Ponto 6, item "b" — Regime Jurídico Próprio e Único da Previdência Social no Estado do Rio de Janeiro (Lei Estadual nº 5.260, de 11.06.2008). Fundo Único de Previdência Social do Estado do Rio de Janeiro – Rioprevidência (Lei nº 3.189, de 22.02.1999).</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Poucos temas são tão diretamente ligados à atuação cotidiana da PGE/RJ quanto a previdência dos servidores estaduais. O procurador que ingressa nos quadros da Procuradoria se depara, diariamente, com litígios envolvendo concessão e revisão de aposentadorias, pensões por morte, contribuição previdenciária de inativos e adequação das regras estaduais às profundas transformações impostas pela EC nº 103/2019. Conhecer a legislação fluminense em detalhe — e não apenas os princípios constitucionais gerais — é o que diferencia uma resposta mediana de uma resposta consistente na prova discursiva.</p>
+
+<p>O Estado do Rio de Janeiro estruturou seu regime próprio de previdência em torno de dois diplomas legislativos fundamentais. A Lei nº 3.189/1999 criou o Fundo Único de Previdência Social do Estado do Rio de Janeiro — o Rioprevidência — como entidade responsável por arrecadar, administrar e assegurar os recursos destinados ao pagamento de aposentadorias, pensões e demais benefícios previdenciários. A Lei nº 5.260/2008, por sua vez, consolidou o regime jurídico próprio e único da previdência social, abrangendo servidores estatutários de todos os Poderes, membros do Poder Judiciário, do Ministério Público, da Defensoria Pública e do Tribunal de Contas. Ambos os diplomas sofreram alterações significativas, sobretudo com a Lei nº 7.628/2017 e, mais recentemente, com a Lei Complementar nº 195/2021, que adaptou o sistema estadual às novas exigências constitucionais decorrentes da Reforma da Previdência.</p>
+
+<p>Do ponto de vista do edital, este ponto dialoga intensamente com Direito Constitucional (princípios previdenciários, competência legislativa sobre RPPS, repartição de competências), Direito Administrativo (regime jurídico dos servidores, estabilidade, regime disciplinar) e Direito Financeiro (custeio do sistema, equilíbrio financeiro e atuarial, responsabilidade fiscal). Compreender essa teia normativa é fundamental para articular respostas que demonstrem domínio da legislação estadual em harmonia com o quadro constitucional federal.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Natureza jurídica e estrutura do Rioprevidência</h3>
+
+<p>O Rioprevidência, instituído pela Lei nº 3.189/1999, é um fundo de natureza contábil e financeira, vinculado à estrutura do Poder Executivo estadual. Embora não possua personalidade jurídica própria — ao contrário de uma autarquia —, o Rioprevidência atua como unidade gestora única do RPPS fluminense, concentrando a arrecadação de contribuições, a administração dos ativos financeiros e o pagamento dos benefícios previdenciários. Essa centralização foi reforçada pela Lei nº 5.109/2007, que determinou a extinção do antigo Instituto de Previdência do Estado do Rio de Janeiro (IPERJ), transferindo ao Rioprevidência todas as suas atribuições.</p>
+
+<p>A gestão do fundo obedece a uma estrutura bipartida: o Plano Financeiro, que cobre os benefícios dos servidores que ingressaram antes da instituição do regime de capitalização, e o Plano Previdenciário, destinado àqueles que ingressaram posteriormente. Essa separação é relevante para a compreensão do equilíbrio financeiro e atuarial exigido pelo art. 40, caput, da CF — cada plano possui regras próprias de custeio e de concessão de benefícios. O Conselho de Administração do Rioprevidência exerce função deliberativa sobre aplicação de recursos, política de investimentos e definição de critérios atuariais.</p>
+
+<div class="destaque">
+<strong>Ponto sensível para a PGE/RJ:</strong> o Estado do Rio de Janeiro enfrentou grave crise fiscal nos últimos anos, com impactos diretos sobre o Rioprevidência. O déficit atuarial do RPPS fluminense tem sido objeto de debates na Assembleia Legislativa e no TCE/RJ. O procurador deve conhecer as implicações jurídicas desse déficit — inclusive a possibilidade, prevista na EC nº 103/2019, de instituição de contribuição extraordinária para equacionar o passivo (art. 149, §1º-B e §1º-C, da CF, com a redação dada pela Emenda), embora essa faculdade esteja sendo questionada perante o STF.
+</div>
+
+<h3>Segurados e dependentes na Lei nº 5.260/2008</h3>
+
+<p>A Lei nº 5.260/2008 define com precisão o universo de beneficiários do RPPS fluminense. São segurados obrigatórios os titulares de cargos efetivos vinculados ao Poder Executivo (incluindo autarquias e fundações), ao Poder Legislativo, ao Poder Judiciário, ao Ministério Público, à Defensoria Pública e ao Tribunal de Contas do Estado. Membros vitalícios desses órgãos — como desembargadores, promotores de justiça e defensores públicos — também se inserem no regime próprio. Ficam excluídos os servidores contratados temporariamente (art. 37, IX, CF) e os comissionados sem vínculo efetivo, que se vinculam ao Regime Geral de Previdência Social (RGPS).</p>
+
+<p>Os dependentes constituem a segunda categoria de beneficiários — são aqueles habilitados a receber pensão por morte ou auxílio-reclusão. A lei estabelece uma ordem de prioridade entre classes de dependentes: cônjuge, companheiro e filhos menores ou inválidos compõem a primeira classe, com presunção de dependência econômica; pais integram a segunda classe; e irmãos menores ou inválidos, a terceira. A existência de dependente em classe anterior exclui o direito dos dependentes das classes subsequentes. Essa estrutura se assemelha à do RGPS, mas é indispensável conhecer as particularidades estaduais, sobretudo após as alterações legislativas que acompanharam a EC nº 103/2019.</p>
+
+<h3>Benefícios previdenciários</h3>
+
+<p>O cardápio de benefícios previsto na Lei nº 5.260/2008 inclui: aposentadoria (voluntária, compulsória e por incapacidade permanente), pensão por morte, auxílio-doença e auxílio-reclusão. Cada espécie possui requisitos específicos que foram substancialmente alterados pela LC nº 195/2021.</p>
+
+<p><strong>Aposentadoria voluntária.</strong> Com a adaptação à EC nº 103/2019, a aposentadoria voluntária dos servidores civis que ingressaram após a vigência da LC nº 195/2021 exige, cumulativamente: 62 anos de idade para mulheres e 65 anos de idade para homens, com no mínimo 25 anos de contribuição. O cálculo do benefício passou a adotar a média aritmética de todas as contribuições desde julho de 1994 (ou desde o início das contribuições, se posterior), aplicando-se o coeficiente de 60% dessa média acrescido de 2% por ano que exceder 20 anos de contribuição. Essa mudança eliminou, para os novos servidores, a possibilidade de integralidade e paridade.</p>
+
+<p><strong>Aposentadoria compulsória.</strong> Mantém-se o limite etário de 75 anos, nos termos da LC federal nº 152/2015. O cálculo do benefício segue a mesma regra proporcional ao tempo de contribuição.</p>
+
+<p><strong>Aposentadoria por incapacidade permanente.</strong> Substituiu a antiga "aposentadoria por invalidez." O benefício corresponde a 60% da média das contribuições, acrescido de 2% por ano que exceder 20 anos de contribuição. Quando a incapacidade decorrer de acidente em serviço, moléstia profissional ou doença grave prevista em lei, o benefício corresponde a 100% da média.</p>
+
+<p><strong>Pensão por morte.</strong> A EC nº 103/2019 trouxe uma reformulação profunda. A pensão é composta por uma cota familiar fixa de 50% do valor da aposentadoria que o servidor recebia (ou à qual teria direito se aposentado por incapacidade permanente na data do óbito), acrescida de cotas individuais de 10% por dependente habilitado, até o limite de 100%. As cotas individuais cessam com a perda da condição de dependente (maioridade, cessação da invalidez, entre outros). Em nenhuma hipótese o valor da pensão pode ser inferior ao salário mínimo, quando for a única fonte de renda formal do dependente.</p>
+
+<p><strong>Auxílio-doença.</strong> Trata-se de benefício devido ao segurado que se encontra temporariamente incapacitado para o exercício das funções do cargo. A Lei nº 5.260/2008 prevê que o auxílio-doença é mantido enquanto durar a incapacidade, mediante avaliação periódica por junta médica oficial, e pode converter-se em aposentadoria por incapacidade permanente se a recuperação não ocorrer.</p>
+
+<p><strong>Auxílio-reclusão.</strong> Devido aos dependentes do segurado recolhido à prisão, desde que este não receba remuneração, proventos de aposentadoria ou outro benefício previdenciário. A EC nº 103/2019 restringiu o auxílio-reclusão aos dependentes de segurado de baixa renda.</p>
+
+<div class="destaque">
+<strong>Regra de ouro para a prova:</strong> sempre que a questão mencionar benefícios previdenciários de servidores do RJ, identifique primeiro qual é a data de ingresso do servidor no serviço público — isso determina se o cálculo segue as regras anteriores (integralidade/paridade) ou as novas regras da LC nº 195/2021 (média aritmética + coeficiente progressivo). Essa distinção temporal é a mais explorada em provas discursivas de procuradorias.
+</div>
+
+<h3>Contribuição previdenciária: alíquota e base de cálculo</h3>
+
+<p>A contribuição previdenciária dos servidores estaduais do RJ é fixada em 28% para os servidores vinculados ao Plano Financeiro e 22% para os vinculados ao Plano Previdenciário, conforme a Lei nº 7.628/2017, que alterou o art. 14 da Lei nº 3.189/1999. A arrecadação é destinada ao Rioprevidência e distribuída entre os dois planos conforme a vinculação do servidor. Essas alíquotas são superiores ao piso de 14% estabelecido pela EC nº 103/2019 (art. 9º, §4º).</p>
+
+<p>O Estado do Rio de Janeiro não adotou, até o momento, o sistema de alíquotas progressivas autorizado pela EC nº 103/2019 (art. 149, §1º, CF), mas já pratica alíquotas diferenciadas por plano (28% e 22%), ambas superiores ao piso federal de 14%. A contribuição incide sobre a totalidade da remuneração do servidor ativo. Para aposentados e pensionistas, a contribuição incide sobre o valor dos proventos que exceder o teto do RGPS (atualmente R$ 8.157,41, em 2025). Esse ponto é especialmente relevante porque o STF está julgando, nas ADIs 6.254 e 6.255, a constitucionalidade da incidência de contribuição sobre valores abaixo do teto para inativos, com maioria parcial formada pela inconstitucionalidade dessa cobrança ampliada.</p>
+
+<p>A contribuição patronal do ente público é de responsabilidade do Tesouro Estadual, devendo observar os critérios atuariais definidos pelo Conselho de Administração do Rioprevidência. A inadimplência do ente patronal configura grave irregularidade, sujeita a sanções federais — como a vedação de celebração de convênios com a União e a impossibilidade de recebimento de transferências voluntárias —, nos termos da Lei federal nº 9.717/1998.</p>
+
+<h3>Regras de transição (LC nº 195/2021)</h3>
+
+<p>A LC nº 195/2021 estabeleceu regras de transição destinadas aos servidores que já se encontravam no serviço público antes da vigência da nova legislação, mas que ainda não haviam completado os requisitos para aposentadoria pelas regras anteriores. Há duas modalidades principais.</p>
+
+<p><strong>Regra de pontos.</strong> O servidor pode se aposentar quando atingir a pontuação mínima resultante da soma da idade com o tempo de contribuição: 86 pontos para mulheres e 96 pontos para homens, respeitados os pisos mínimos de idade (57 anos para mulheres e 62 anos para homens) e de tempo de contribuição (30 anos para mulheres e 35 anos para homens), com no mínimo 20 anos de serviço público e 5 anos no cargo efetivo em que se dará a aposentadoria. A pontuação mínima é progressiva — sobe um ponto a cada ano, até os limites de 100 pontos para mulheres e 105 para homens.</p>
+
+<p><strong>Regra do pedágio de 100%.</strong> O servidor que já se encontrava no serviço público na data de publicação da EC nº 103/2019 pode se aposentar cumprindo a idade mínima (57 anos para mulheres e 60 anos para homens), o tempo mínimo de contribuição (30 anos para mulheres e 35 anos para homens), além de um período adicional correspondente a 100% do tempo que faltava para completar o tempo de contribuição mínimo na data de promulgação da Emenda. Essa regra preserva a integralidade e a paridade como forma de cálculo dos proventos — por isso é especialmente procurada pelos servidores mais antigos.</p>
+
+<p>Há ainda uma regra transitória específica para os servidores das carreiras de segurança pública (policiais civis, penais e agentes socioeducativos), com idade mínima de 52 anos para mulheres e 53 anos para homens, acrescida de pedágio de 100% do tempo faltante, além de 25 anos de efetiva atividade policial ou de segurança.</p>
+
+<table>
+<tr>
+    <th>Regra</th>
+    <th>Idade mínima (M/H)</th>
+    <th>Contribuição (M/H)</th>
+    <th>Requisito adicional</th>
+    <th>Cálculo</th>
+</tr>
+<tr>
+    <td><strong>Permanente (novos servidores)</strong></td>
+    <td>62 / 65 anos</td>
+    <td>25 anos</td>
+    <td>10 anos serviço público; 5 anos no cargo</td>
+    <td>60% média + 2% por ano acima de 20</td>
+</tr>
+<tr>
+    <td><strong>Transição — pontos</strong></td>
+    <td>57 / 62 anos</td>
+    <td>30 / 35 anos</td>
+    <td>Pontuação progressiva (86/96 a 100/105)</td>
+    <td>60% média + 2% por ano acima de 20</td>
+</tr>
+<tr>
+    <td><strong>Transição — pedágio 100%</strong></td>
+    <td>57 / 60 anos</td>
+    <td>30 / 35 anos + pedágio</td>
+    <td>20 anos serviço público; 5 anos no cargo</td>
+    <td>Integralidade e paridade</td>
+</tr>
+<tr>
+    <td><strong>Segurança pública (transição)</strong></td>
+    <td>52 / 53 anos</td>
+    <td>25 anos atividade policial/segurança</td>
+    <td>Pedágio 100% do tempo faltante</td>
+    <td>Integralidade e paridade</td>
+</tr>
+<tr>
+    <td><strong>Compulsória</strong></td>
+    <td>75 anos</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Proporcional ao tempo de contribuição</td>
+</tr>
+</table>
+
+<h3>Regime de Previdência Complementar — RJPrev</h3>
+
+<p>A partir da Lei nº 6.243/2012, o Estado do Rio de Janeiro instituiu o Regime de Previdência Complementar, gerido pela Fundação de Previdência Complementar do Estado do Rio de Janeiro — RJPrev. A entidade funciona como entidade fechada de previdência complementar, criada nos moldes autorizados pelo art. 40, §§14 e 15, da CF. A RJPrev iniciou suas atividades em setembro de 2013.</p>
+
+<p>O regime complementar se destina aos servidores titulares de cargos efetivos e vitalícios de todos os Poderes, incluindo magistrados, membros do Ministério Público e do Tribunal de Contas. A adesão é voluntária, porém os servidores que ingressaram após o início da operação da RJPrev têm seus proventos de aposentadoria pelo RPPS limitados ao teto do RGPS. Para esses servidores, a previdência complementar deixa de ser um mero benefício adicional e se torna, na prática, instrumento indispensável para a manutenção do padrão remuneratório na inatividade.</p>
+
+<p>O plano principal é o RJPREV-CD (contribuição definida), em que o valor do benefício futuro depende das contribuições realizadas e do desempenho financeiro dos investimentos. A contribuição do servidor é paritariamente acompanhada pela contribuição do ente patronal — o Estado do Rio de Janeiro —, até determinado limite. Essa paridade torna a adesão financeiramente atrativa e constitui um dos argumentos centrais usados pela PGE/RJ em defesa do modelo.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação federal</h3>
+
+<p><span class="tag tag-lei">CF/88</span> <strong>Art. 40</strong> — fundamento constitucional do RPPS. Com a redação dada pela EC nº 103/2019, o dispositivo passou a exigir "equilíbrio financeiro e atuarial" (caput), vedou a existência de mais de um regime próprio por ente federativo (§6º) e autorizou a previdência complementar (§§14, 15 e 16). A interpretação desse artigo é o ponto de partida para qualquer questão sobre previdência de servidores.</p>
+
+<p><span class="tag tag-lei">EC 103/2019</span> — a Reforma da Previdência. Alterou profundamente o art. 40 da CF, fixando idade mínima para aposentadoria, novo cálculo de benefícios (fim da integralidade e paridade para novos servidores), novas regras de pensão por morte e contribuição de inativos. Seus artigos 3º a 22 contêm as regras de transição aplicáveis diretamente aos estados que não promulgassem lei própria no prazo de dois anos.</p>
+
+<p><span class="tag tag-lei">Lei 9.717/1998</span> — normas gerais de organização e funcionamento dos RPPS. Define obrigações dos entes federativos quanto a custeio, gestão, fiscalização e remessa de informações ao Ministério da Previdência Social. O descumprimento dessas obrigações sujeita o ente a sanções severas, incluindo vedação de transferências voluntárias da União.</p>
+
+<p><span class="tag tag-lei">LC 152/2015</span> — fixa a aposentadoria compulsória aos 75 anos para servidores públicos, magistrados, membros do MP e do TC.</p>
+
+<h3>Legislação estadual</h3>
+
+<p><span class="tag tag-lei">Lei 3.189/1999</span> — cria o Rioprevidência como fundo único de previdência social do Estado do RJ. Define a finalidade de arrecadação, gestão e administração de recursos para custeio dos benefícios. Sofreu alterações pela Lei nº 7.628/2017 (que ajustou regras de contribuição) e pela LC nº 195/2021.</p>
+
+<p><span class="tag tag-lei">Lei 5.260/2008</span> — estabelece o regime jurídico próprio e único da previdência social dos servidores estatutários do Estado do RJ. Define segurados, dependentes, benefícios, critérios de concessão, fontes de custeio. É a lei-base do RPPS fluminense.</p>
+
+<p><span class="tag tag-lei">Lei 5.109/2007</span> — determinou a extinção do IPERJ e a transferência de todas as suas atribuições ao Rioprevidência. A concentração da gestão previdenciária num único fundo é parte da racionalização administrativa do sistema.</p>
+
+<p><span class="tag tag-lei">LC 195/2021</span> — adaptação do RPPS fluminense à EC nº 103/2019. Fixou novas idades mínimas para aposentadoria, definiu regras de transição por pontos e pedágio 100%, estabeleceu alíquota de contribuição de 14% e regulamentou o novo cálculo dos benefícios. Vigência a partir de 1º de janeiro de 2022.</p>
+
+<p><span class="tag tag-lei">Lei 6.243/2012</span> — criou a Fundação de Previdência Complementar do Estado do RJ (RJPrev), autorizando a instituição do regime de previdência complementar para servidores do Estado.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADIs 6.254, 6.255, 6.258 e 6.271</strong> — questionam a constitucionalidade de dispositivos centrais da EC nº 103/2019, incluindo a possibilidade de contribuição extraordinária para equacionar déficit atuarial, a contribuição de inativos sobre valores inferiores ao teto do RGPS e o novo cálculo da aposentadoria por incapacidade permanente. O julgamento foi iniciado em 2024, com maioria parcial formada (7 votos a 3) pela inconstitucionalidade da contribuição extraordinária e pela redução da base de cálculo sobre a qual incide a contribuição de aposentados. O voto do ministro Gilmar Mendes, pendente após pedido de vista em junho de 2024, é aguardado para a conclusão do julgamento. Qualquer que seja o resultado final, as teses fixadas terão impacto direto sobre o RPPS do Estado do Rio de Janeiro.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.254 (RE 1.426.306)</strong> — reafirmou que apenas servidores ocupantes de cargos efetivos, admitidos por concurso público, podem integrar o RPPS. Servidores com estabilidade excepcional do art. 19 do ADCT não fazem jus ao regime próprio — devem se aposentar pelo RGPS. A tese é diretamente relevante para o RJ, que possui servidores admitidos antes da CF/88.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 942 (RE 1.014.286)</strong> — admitiu a contagem de tempo em atividade insalubre ou perigosa para fins de aposentadoria especial de servidor público, com aplicação das regras do RGPS (Lei nº 8.213/1991) enquanto não sobrevier lei complementar específica. Após a EC nº 103/2019, contudo, a conversão de tempo especial em comum ficou vedada.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 6.309</strong> — questiona a constitucionalidade dos novos requisitos para aposentadoria especial instituídos pela EC nº 103/2019 (exigência de idade mínima para atividades de risco). O julgamento ainda não foi concluído, mas sinaliza que o STF pode revisar a exigência de idade mínima cumulada com tempo de atividade especial.</p>
+
+<p><span class="tag tag-stf">STF</span> O Plenário manteve, por unanimidade, a constitucionalidade das sanções previstas na Lei nº 9.717/1998 contra estados e municípios que descumpram as normas gerais de organização e funcionamento dos RPPS (2025). A decisão reforça que a União detém competência para fiscalizar e impor consequências pelo descumprimento das regras previdenciárias, mesmo em se tratando de regimes próprios dos demais entes federativos.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>O estudo deste ponto deve começar pela leitura integral da Lei nº 5.260/2008. É um diploma relativamente enxuto, com linguagem acessível, e que fornece a estrutura conceitual do RPPS fluminense: quem são os segurados, quais são os benefícios, como se dá o custeio. Sem essa base, qualquer aprofundamento posterior ficará solto. Reserve um período de estudo dedicado exclusivamente a essa leitura, anotando as definições de segurado, dependente e cada espécie de benefício.</p>
+
+<p>Em seguida, passe à LC nº 195/2021, que é a lei mais recente e, por isso, a mais provável de ser cobrada em prova. Concentre sua atenção nos artigos que tratam das regras de transição (pontos e pedágio 100%), do novo cálculo de benefícios e da alíquota de contribuição de 14%. Compare sistematicamente cada regra de transição: idade mínima, tempo de contribuição, pontuação, presença ou ausência de integralidade e paridade. Construa uma tabela comparativa — o quadro acima pode servir de modelo — e revise-a periodicamente.</p>
+
+<p>A Lei nº 3.189/1999, embora mais antiga, não deve ser negligenciada: ela contém a base normativa do Rioprevidência e foi expressamente mencionada no edital. Conheça a estrutura do fundo, a distinção entre Plano Financeiro e Plano Previdenciário, e as atribuições do Conselho de Administração. Não é necessário memorizar artigos específicos, mas sim compreender a lógica organizacional.</p>
+
+<p>Para a jurisprudência, priorize as ADIs sobre a EC nº 103/2019 (especialmente as ADIs 6.254 e 6.255) e o Tema 1.254 do STF. Essas decisões podem ser cobradas tanto na forma de perguntas diretas ("o STF declarou constitucional/inconstitucional tal dispositivo?") quanto como fundamento para respostas sobre contribuição de inativos ou direito à aposentadoria pelo RPPS. Mantenha um caderno de jurisprudência atualizado até a data da prova — o julgamento das ADIs pode ser concluído a qualquer momento.</p>
+
+<p>Por fim, estude a RJPrev com foco na sua natureza jurídica (entidade fechada de previdência complementar), na forma de adesão (voluntária) e na consequência prática da sua existência: os servidores que ingressaram após setembro de 2013 têm proventos do RPPS limitados ao teto do RGPS. Essa informação pode ser cobrada em questão sobre cálculo de benefícios.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Confusão entre Rioprevidência e RJPrev.</strong> São entidades distintas com funções completamente diferentes. O Rioprevidência é o fundo gestor do RPPS — responsável pelo pagamento de aposentadorias e pensões com recursos do regime próprio. A RJPrev é a fundação de previdência complementar, que oferece planos de contribuição definida para complementar o benefício que excede o teto do RGPS. Misturar os dois numa resposta discursiva é um erro que demonstra desconhecimento da estrutura previdenciária do Estado.
+</div>
+
+<div class="atencao">
+<strong>Integralidade e paridade não acabaram para todos.</strong> A EC nº 103/2019 eliminou integralidade e paridade apenas para os servidores que se aposentam pelas regras permanentes (novos servidores) e pela regra de transição por pontos. A regra do pedágio 100% da LC nº 195/2021 preserva a integralidade e a paridade — isso significa que o servidor que optar por essa via receberá proventos iguais à última remuneração e terá reajustes idênticos aos dos servidores ativos. Muitas respostas em concursos perdem pontos por generalizar que "acabou a integralidade", ignorando a persistência dessas garantias nas regras de transição.
+</div>
+
+<div class="atencao">
+<strong>A contribuição de inativos está sob questionamento no STF.</strong> O art. 149, §1º-A, da CF (redação da EC nº 103/2019) autoriza a contribuição de aposentados e pensionistas sobre o valor que excede o teto do RGPS. Contudo, o STF formou maioria parcial nas ADIs 6.254 e 6.255 para reduzir a base de cálculo dessa contribuição. Se a decisão for confirmada, os estados — incluindo o RJ — poderão ter que devolver valores cobrados indevidamente. Na prova, registre a existência da controvérsia e a tendência do julgamento, sem afirmar como fato consumado o que ainda pende de conclusão.
+</div>
+
+<div class="atencao">
+<strong>Contribuição extraordinária: maioria pela inconstitucionalidade.</strong> A EC nº 103/2019 autorizou, no art. 149, §1º-B, a instituição de contribuição extraordinária para equacionar déficit atuarial dos RPPS, por até 20 anos. No julgamento das ADIs sobre a Reforma, 7 dos 10 ministros que votaram se manifestaram pela inconstitucionalidade dessa previsão. Se a declaração de inconstitucionalidade for confirmada, o Estado do RJ ficará impedido de lançar mão desse instrumento para equilibrar o Rioprevidência. Mencionar esse ponto em prova demonstra conhecimento atualizado.
+</div>
+
+<div class="atencao">
+<strong>Pensão por morte: cuidado com o cálculo.</strong> A fórmula da pensão por morte após a EC nº 103/2019 é contraintuitiva: cota familiar fixa de 50% + cotas individuais de 10% por dependente. Isso significa que uma viúva sem filhos receberá apenas 60% do valor da aposentadoria que o servidor recebia (50% + 10%). Se houver dois dependentes, 70% (50% + 10% + 10%). As cotas individuais são reversíveis apenas entre si, não sendo incorporadas à cota familiar. Errar esse cálculo é comum e gravemente penalizado em provas discursivas.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.254 — RE 1.426.306 (2024)</strong> — reafirmou que "são admitidos no regime próprio de previdência social exclusivamente os servidores públicos civis detentores de cargo efetivo." Servidores estabilizados pela regra excepcional do art. 19 do ADCT devem se aposentar pelo RGPS. A distinção entre estabilidade excepcional e efetividade por concurso é fundamental: a primeira garante apenas a permanência no cargo, não os direitos previdenciários do regime próprio.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 942 — RE 1.014.286 (2020)</strong> — até a EC nº 103/2019, o servidor público exposto a condições insalubres ou perigosas tinha direito à contagem diferenciada de tempo de serviço, com aplicação analógica das regras do RGPS (Lei nº 8.213/1991), por ausência de lei complementar específica. Após a Emenda, a conversão de tempo especial em comum foi expressamente vedada (art. 25, §2º, da EC nº 103/2019). A decisão tem relevância para o RJ porque muitos servidores estaduais — especialmente da área de saúde e segurança — reivindicam aposentadoria especial.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Constitucionalidade das sanções da Lei 9.717/1998 (2025)</strong> — o Plenário manteve, por unanimidade, a validade das sanções impostas pelo governo federal a estados e municípios que descumpram normas gerais de organização dos RPPS. Isso confirma a competência da União para editar normas gerais e fiscalizar os regimes próprios dos demais entes federativos. Para o RJ, que enfrentou dificuldades fiscais e atrasos no envio de informações previdenciárias, a decisão reforça a necessidade de adequação permanente do Rioprevidência às exigências federais.</p>
+
+<h3>Julgamentos pendentes ou em andamento</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADIs 6.254, 6.255, 6.258, 6.271 — Reforma da Previdência (EC nº 103/2019)</strong> — conjunto de ações que questiona vários dispositivos da Reforma. Os temas com maioria parcial formada incluem: (i) inconstitucionalidade da contribuição extraordinária para déficit atuarial (7×3); (ii) redução da base de cálculo da contribuição de aposentados e pensionistas, de modo a incidir apenas sobre o valor que exceda o teto do RGPS, e não sobre a totalidade dos proventos (6×4); (iii) inconstitucionalidade da alteração na base de cálculo da aposentadoria de mulheres (7×3). O julgamento aguarda o voto do ministro Gilmar Mendes. O impacto fiscal estimado dessas ações, se todas as teses forem acolhidas, é de aproximadamente R$ 497,9 bilhões para os cofres públicos, segundo o PLDO 2025.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 6.309 — aposentadoria especial e idade mínima</strong> — questiona a exigência de idade mínima cumulada com tempo de atividade especial para concessão de aposentadoria especial de servidores, conforme previsto na EC nº 103/2019. A ação sustenta que a exigência de idade mínima para atividades que prejudicam a saúde é incompatível com a finalidade protetiva da aposentadoria especial. O julgamento ainda não foi concluído.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Regra de cálculo da aposentadoria por incapacidade permanente (dezembro/2025)</strong> — o STF declarou constitucional a regra que fixa o valor da aposentadoria por incapacidade permanente em 60% da média das contribuições, acrescido de 2% por ano que exceder 20 anos de contribuição (homens) ou 15 anos (mulheres). A decisão consolida a fórmula que já vinha sendo aplicada e afasta a tese de que o cálculo proporcional violaria o princípio da vedação ao retrocesso social.</p>
+
+<table>
+<tr>
+    <th>Tema / Ação</th>
+    <th>Objeto</th>
+    <th>Status</th>
+    <th>Relevância para o RJ</th>
+</tr>
+<tr>
+    <td>Tema 1.254 (RE 1.426.306)</td>
+    <td>RPPS exclusivo para cargo efetivo</td>
+    <td>Julgado (2024) — tese fixada</td>
+    <td>Servidores sem concurso no RJ devem ser aposentados pelo RGPS</td>
+</tr>
+<tr>
+    <td>Tema 942 (RE 1.014.286)</td>
+    <td>Conversão de tempo especial em comum</td>
+    <td>Julgado (2020) — tese fixada</td>
+    <td>Vedação da conversão após EC 103/2019 afeta servidores da saúde e segurança do RJ</td>
+</tr>
+<tr>
+    <td>ADIs 6.254/6.255</td>
+    <td>Contribuição extraordinária e de inativos</td>
+    <td>Em julgamento — maioria parcial formada</td>
+    <td>Impacto direto no custeio do Rioprevidência</td>
+</tr>
+<tr>
+    <td>ADI 6.309</td>
+    <td>Aposentadoria especial — idade mínima</td>
+    <td>Pendente</td>
+    <td>Policiais civis e agentes de segurança do RJ</td>
+</tr>
+<tr>
+    <td>Sanções Lei 9.717/1998</td>
+    <td>Fiscalização federal sobre RPPS estaduais</td>
+    <td>Julgado (2025) — constitucional</td>
+    <td>RJ sujeito a sanções por inadequação do Rioprevidência</td>
+</tr>
+</table>
+
+</body>
+</html>

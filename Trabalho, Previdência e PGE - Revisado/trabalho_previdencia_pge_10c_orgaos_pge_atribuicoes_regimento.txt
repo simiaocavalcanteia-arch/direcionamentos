@@ -1,0 +1,292 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Órgãos da PGE, Atribuições do Procurador-Geral, Dispensa de Recurso e Regimento Interno</h1>
+<p class="subtitulo">Ponto 10, item "c" — Dos órgãos da PGE e suas atribuições. O Procurador-geral do estado e suas atribuições. Dispensa de interposição de recurso judicial e a desistência dos interpostos. Regimento interno e a organização interna da PGE</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este é o último ponto da disciplina de Relações de Trabalho e Previdência e Princípios Institucionais da PGE, e trata da organização interna da Procuradoria-Geral do Estado do Rio de Janeiro em sua dimensão mais concreta: quais são os órgãos que compõem a PGE, como se distribuem suas atribuições, quais são os poderes do Procurador-Geral e como funciona o mecanismo de dispensa de recurso judicial. Para o candidato que pretende ingressar na carreira, o domínio desses aspectos organizacionais é essencial — trata-se, literalmente, de conhecer a casa onde irá trabalhar.</p>
+
+<p>A base normativa principal é a <strong>LC 15/1980</strong> (Lei Orgânica da PGE/RJ), complementada pela LC 104/2002 (que criou a Corregedoria), pela LC 226/2025 (que ampliou o quadro) e pela Constituição Estadual (arts. 176-177). O candidato deve saber articular a estrutura organizacional com as funções constitucionais da advocacia pública (art. 132 CF) e demonstrar compreensão de como a PGE se organiza para exercer a representação judicial e a consultoria jurídica do Estado.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Órgãos da PGE/RJ e suas atribuições</h3>
+
+<p>A PGE/RJ estrutura-se em órgãos de direção superior, órgãos de execução e órgãos de apoio. No topo da hierarquia encontra-se o <strong>Procurador-Geral do Estado</strong>, auxiliado por dois <strong>Subprocuradores-Gerais</strong> e pelos <strong>Procuradores-Assessores</strong>. A LC 15/1980 organiza a PGE em Procuradorias Especializadas, cada uma chefiada por um Procurador-Chefe, responsáveis por matérias específicas.</p>
+
+<p>As <strong>Procuradorias Especializadas</strong> constituem os órgãos de execução por excelência. A divisão por matéria permite maior especialização técnica e eficiência na atuação. Entre as principais, destacam-se: a <strong>Procuradoria Tributária</strong> (defesa em ações tributárias, execuções fiscais de ICMS, IPVA e demais tributos estaduais); a <strong>Procuradoria da Dívida Ativa</strong> (cobrança judicial e extrajudicial dos créditos do Estado); a <strong>Procuradoria Trabalhista</strong> (defesa do Estado em reclamações trabalhistas — diretamente conectada ao conteúdo desta disciplina); a <strong>Procuradoria de Autarquias e Fundações</strong> (representação judicial das autarquias e fundações estaduais, com fundamento no art. 132 CF); a <strong>Procuradoria de Serviços Públicos</strong> (atuação residual nos procedimentos e processos que não se enquadram nas demais especializadas); e a <strong>Procuradoria do Contencioso</strong> (litígios cíveis em geral contra o Estado).</p>
+
+<p>As <strong>Procuradorias Regionais</strong> exercem a representação judicial do Estado nas 13 sedes regionais localizadas no interior do Estado, subordinadas administrativamente à Coordenadoria Geral das Procuradorias Regionais. Essa estrutura descentralizada garante a presença da PGE em comarcas do interior, evitando que a defesa do Estado dependa exclusivamente da capital.</p>
+
+<p>Além das Procuradorias de atuação contenciosa, a PGE possui órgãos de consultoria e assessoramento: a <strong>Consultoria Jurídica</strong>, responsável por pareceres sobre questões jurídicas submetidas pelos órgãos da administração, e os <strong>setores de assessoramento</strong> vinculados às secretarias de Estado. A função consultiva é tão relevante quanto a contenciosa — a advocacia preventiva evita litígios e reduz contingenciamento.</p>
+
+<div class="destaque">
+<p><strong>Órgãos colegiados:</strong> a PGE/RJ possui dois órgãos colegiados relevantes. O <strong>Conselho Superior</strong>, integrado pelo Procurador-Geral (presidente, com voto de qualidade), Subprocurador-Geral, 2 Procuradores-Assessores, 2 Procuradores-Chefes mais antigos na função e 6 Procuradores eleitos por seus pares. O Conselho organiza listas tríplices para promoção por merecimento, opina sobre alterações na estrutura da PGE e delibera sobre questões institucionais. A <strong>Corregedoria</strong> (LC 104/2002), chefiada pelo Procurador-Corregedor (nomeado pelo PGE dentre membros das duas categorias mais elevadas com pelo menos 10 anos de carreira), fiscaliza o desempenho dos Procuradores, realiza correições ordinárias e extraordinárias, e acompanha o estágio confirmatório.</p>
+</div>
+
+<h3>O Procurador-Geral do Estado e suas atribuições</h3>
+
+<p>O Procurador-Geral do Estado é o chefe da PGE, nomeado pelo Governador dentre os integrantes das duas classes finais da carreira, maiores de 35 anos e com mais de 10 anos de carreira (art. 177, CERJ, com redação da EC Estadual 26/2002). A Constituição Estadual (art. 176) define a PGE como "instituição essencial à Justiça, diretamente vinculada ao Governador", o que situa o PGE como auxiliar direto do chefe do Executivo para questões jurídicas. A nomeação é ato de confiança do Governador, mas recai necessariamente sobre integrante da carreira que preencha esses requisitos — diferentemente do Procurador-Geral da República, que pode ser pessoa de fora da carreira.</p>
+
+<p>As atribuições do Procurador-Geral abrangem diversas dimensões. Na <strong>dimensão de chefia</strong>, compete ao PGE dirigir a instituição, distribuir os Procuradores entre os órgãos, designar Procuradores-Chefes e criar grupos de trabalho para matérias específicas. Na <strong>dimensão consultiva</strong>, o PGE pode fixar a interpretação da legislação estadual por meio de pareceres normativos vinculantes para toda a administração, quando aprovados pelo Governador — mecanismo análogo ao parecer normativo da AGU no âmbito federal. Na <strong>dimensão contenciosa</strong>, o PGE pode avocar processos judiciais em tramitação em qualquer Procuradoria, exercendo pessoalmente a representação do Estado quando entender necessário.</p>
+
+<p>Uma atribuição especialmente relevante para o edital é a competência do PGE para autorizar a <strong>confissão</strong>, a <strong>transação</strong> e a <strong>desistência</strong> em processos judiciais. Esses atos dispositivos, por envolverem disposição de direitos do Estado, dependem de autorização expressa do Procurador-Geral. O Procurador do Estado que atua no processo não pode, por conta própria, confessar, transigir ou desistir — deve submeter a questão ao PGE, que avaliará a conveniência e a oportunidade do ato à luz do interesse público.</p>
+
+<h3>Dispensa de interposição de recurso judicial e desistência dos interpostos</h3>
+
+<p>A dispensa de recurso é um dos temas mais práticos do ponto e reflete uma tendência da advocacia pública contemporânea: a racionalização da litigância estatal. Em vez de recorrer de toda decisão desfavorável por princípio, a PGE pode — e deve — avaliar se o recurso é viável e conveniente. Quando a tese está consolidada contra o Estado nos tribunais superiores, a interposição de recurso configura litigância protelatória e desperdiça recursos institucionais.</p>
+
+<p>O fundamento normativo da dispensa de recurso encontra-se em dois planos. No plano federal, o art. 19 da Lei 10.522/2002 autoriza a Fazenda Nacional a não interpor recurso e a desistir dos já interpostos quando a matéria estiver em conformidade com entendimento consolidado do STF ou do STJ em súmula, recurso repetitivo ou repercussão geral. No plano estadual, a LC 15/1980 atribui ao Procurador-Geral a competência para autorizar a dispensa de recurso e a desistência dos interpostos, que pode ser exercida por ato normativo (resolução ou parecer normativo) ou por autorização específica em caso concreto.</p>
+
+<p>A mecânica funciona assim: quando o STF ou o STJ fixa tese em tema de repercussão geral ou recurso repetitivo que é desfavorável ao Estado, o Procurador-Geral pode editar ato normativo dispensando os Procuradores de recorrer sobre aquela matéria e autorizando a desistência dos recursos já interpostos sobre o mesmo tema. Esse mecanismo evita a acumulação de processos inúteis, reduz o acervo judicial e concentra a atuação da PGE nos litígios com real chance de êxito.</p>
+
+<div class="destaque">
+<p><strong>Distinção importante:</strong> a dispensa de recurso não é o mesmo que reconhecimento jurídico do pedido. Ao dispensar o recurso, a PGE aceita que a tese jurídica está consolidada contra o Estado, mas não reconhece a procedência do pedido em cada caso concreto — o autor ainda precisa comprovar que preenche os requisitos para a concessão do direito. Da mesma forma, a desistência do recurso interposto não implica confissão quanto aos fatos.</p>
+</div>
+
+<h3>Regimento interno e organização interna da PGE</h3>
+
+<p>O regimento interno da PGE/RJ detalha a organização e o funcionamento da instituição, regulamentando aspectos que a LC 15/1980 prevê em linhas gerais. O regimento define a competência de cada Procuradoria Especializada, o fluxo de distribuição de processos, os prazos internos para manifestação, as regras de substituição entre Procuradores e os procedimentos para consultas jurídicas.</p>
+
+<p>A organização interna da PGE pode ser entendida em três níveis. O <strong>nível estratégico</strong> compreende o Procurador-Geral, os Subprocuradores-Gerais e o Conselho Superior — responsáveis pela definição das diretrizes institucionais, pela política de atuação judicial e pela uniformização de teses. O <strong>nível tático</strong> é composto pelos Procuradores-Chefes das Procuradorias Especializadas e pelas Coordenadorias — que traduzem as diretrizes em ações concretas e distribuem o trabalho entre os Procuradores. O <strong>nível operacional</strong> compreende os Procuradores do Estado individualmente considerados, que exercem a representação judicial e a consultoria jurídica no dia a dia.</p>
+
+<p>A <strong>autonomia administrativa e financeira</strong> da PGE (garantida pelo art. 176 da CE/RJ) materializa-se na existência de dotação orçamentária própria e na capacidade de gerir seus recursos internamente. Essa autonomia é essencial para assegurar a independência técnica dos Procuradores — a PGE não depende de autorização de outro órgão para contratar serviços, adquirir materiais ou organizar sua estrutura interna.</p>
+
+<p>A LC 226/2025, que ampliou o quadro para 330 cargos de Procurador do Estado, refletiu a necessidade de adequar a estrutura à crescente demanda judicial e consultiva. A ampliação tem impacto direto na organização interna: mais Procuradores permitem maior especialização e melhor distribuição da carga de trabalho entre as Procuradorias.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 132:</strong> os Procuradores dos Estados exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas, organizados em carreira com ingresso por concurso público de provas e títulos, com participação da OAB. Fundamento constitucional de toda a estrutura da PGE.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><strong>Art. 176:</strong> a representação judicial e a consultoria jurídica do Estado serão exercidas pelos Procuradores do Estado, membros da PGE, instituição essencial à Justiça, diretamente vinculada ao Governador. A PGE é o órgão central do sistema jurídico do Estado, com supervisão sobre os serviços jurídicos da administração direta e indireta. Dotação orçamentária própria, com autonomia administrativa e financeira.</p>
+
+<p><strong>Art. 177:</strong> complementa o art. 176 com disposições sobre a carreira de Procurador, o Conselho Superior e as garantias institucionais.</p>
+
+<h3>LC 15/1980 (Lei Orgânica da PGE/RJ)</h3>
+
+<p>Diploma fundamental da organização da PGE. Define a estrutura da instituição (Procuradorias Especializadas, Procuradorias Regionais, Consultoria), as atribuições do Procurador-Geral (direção, avocação, fixação de interpretação, autorização para confissão/transação/desistência), a carreira de Procurador (ingresso, promoção, remoção), o Conselho Superior e as disposições sobre convênios.</p>
+
+<h3>LC 104/2002</h3>
+
+<p>Criou a Corregedoria da PGE, introduzindo a Seção V no Capítulo II do Título II da LC 15/1980. Define as atribuições do Procurador-Corregedor, o regime de correições e o acompanhamento do estágio confirmatório.</p>
+
+<h3>LC 226/2025</h3>
+
+<p>Ampliou o quadro de Procuradores do Estado para 330 cargos, refletindo a necessidade de fortalecimento institucional.</p>
+
+<h3>Lei 10.522/2002, art. 19</h3>
+
+<p>No âmbito federal, autoriza a Fazenda Nacional a não contestar, a não interpor recurso e a desistir dos interpostos quando a matéria estiver em conformidade com entendimento consolidado do STF ou do STJ. Embora aplicável diretamente apenas à União, serve como paradigma para a disciplina estadual da dispensa de recurso pela PGE/RJ.</p>
+
+<h3>Jurisprudência</h3>
+
+<p><strong>ADI 6.022 (STF, 2022):</strong> reconheceu a autonomia funcional da PGE, afirmando a necessidade de garantias institucionais mínimas para o exercício independente da advocacia pública estadual.</p>
+
+<p><strong>ADI 7.218/PB (STF, 2024):</strong> reafirmou o princípio da unicidade orgânica da advocacia pública (art. 132 CF), declarando inconstitucionais procuradorias paralelas em autarquias e fundações. Decisão que reforça a centralidade da PGE como órgão exclusivo de representação judicial.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Este ponto é mais institucional do que doutrinário — exige memorização da estrutura organizacional e compreensão funcional dos mecanismos internos. Comece pela leitura da CE/RJ (arts. 176-177) e da LC 15/1980 nos trechos relativos à estrutura da PGE, às atribuições do PGE e ao Conselho Superior. Não é necessário decorar artigo por artigo, mas entender a lógica da organização.</p>
+
+<p>Para as atribuições do Procurador-Geral, concentre-se nos poderes de chefia (direção da instituição), consultivos (fixação de interpretação, pareceres normativos) e dispositivos (autorização para confissão, transação, desistência de recurso). A dispensa de recurso merece atenção especial — a banca pode pedir uma reflexão sobre a racionalização da litigância estatal.</p>
+
+<p>Quanto ao regimento interno, o foco deve ser conceitual: compreenda a lógica da organização em Procuradorias Especializadas (especialização por matéria) e Procuradorias Regionais (descentralização territorial). Saiba que existe a Corregedoria (LC 104/2002), o Conselho Superior e a ESAP como órgãos de controle interno, deliberação colegiada e formação, respectivamente.</p>
+
+<p>Uma questão discursiva provável pediria ao candidato que explicasse o fundamento e a mecânica da dispensa de recurso pela PGE, ou que discorresse sobre a organização interna da PGE e sua relação com a eficiência da advocacia pública. Prepare-se para essas duas vertentes.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Procurador-Geral ≠ Procurador-Geral da República:</strong> o PGE é nomeado pelo Governador dentre os integrantes das duas classes finais da carreira, maiores de 35 anos e com mais de 10 anos de carreira (art. 177, CERJ) — não há sabatina legislativa nem aprovação pela Assembleia Legislativa. Já o PGR é nomeado pelo Presidente após aprovação do Senado e pode ser pessoa de fora da carreira do MPF. Essa distinção institucional é frequentemente cobrada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Dispensa de recurso ≠ reconhecimento do pedido:</strong> dispensar o recurso significa aceitar que a tese jurídica está pacificada contra o Estado, mas o autor ainda precisa demonstrar que preenche os requisitos de fato para obter o direito. Não se trata de confissão nem de reconhecimento jurídico do pedido. A desistência de recurso também não implica confissão quanto aos fatos controvertidos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Confissão e transação dependem de autorização do PGE:</strong> o Procurador do Estado não tem poderes para confessar, transigir ou desistir por conta própria em processos judiciais. Esses atos dispositivos dependem de autorização expressa do Procurador-Geral. Sem essa autorização, o ato é ineficaz e pode gerar responsabilidade funcional do Procurador que o praticou.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Autonomia administrativa não significa independência funcional plena:</strong> a PGE tem autonomia administrativa e financeira (dotação própria, gestão interna), mas está "diretamente vinculada ao Governador" (art. 176 CE/RJ). Isso a diferencia do Ministério Público e da Defensoria Pública, que possuem independência funcional mais ampla. O Procurador-Geral é cargo de confiança do Governador, demissível <em>ad nutum</em>. A autonomia técnica do Procurador individual (opinião jurídica em pareceres) não se confunde com a autonomia institucional da PGE.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Princípio da unicidade orgânica (art. 132 CF):</strong> jurisprudência consolidada do STF no sentido de que apenas a PGE pode exercer a representação judicial e a consultoria jurídica do Estado, de suas autarquias e fundações públicas. Diversas ADIs declararam inconstitucionais procuradorias paralelas, reforçando a centralidade da PGE na estrutura jurídica estadual. A ADI 7.218/PB (2024) é o precedente mais recente.</p>
+
+<p><strong>Obrigatoriedade de concurso público para ingresso:</strong> o art. 132 CF exige concurso de provas e títulos com participação da OAB em todas as fases. Não se admite provimento derivado para o cargo de Procurador nem nomeação sem concurso. As garantias institucionais da carreira (estabilidade após três anos, promoção por antiguidade e merecimento) decorrem diretamente da Constituição.</p>
+
+<p><strong>Dispensa de recurso — precedentes vinculantes:</strong> embora o art. 19 da Lei 10.522/2002 se aplique diretamente à Fazenda Nacional, o STJ tem reconhecido que os Estados podem adotar mecanismo análogo por meio de legislação ou ato normativo próprio. A racionalidade é a mesma: quando a tese está pacificada em súmula, recurso repetitivo ou repercussão geral, a interposição de recurso é inútil e onerosa.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><strong>ADI 6.022 (STF, 2022, com repercussões até 2024):</strong> reconheceu que a PGE necessita de garantias institucionais mínimas (autonomia funcional e administrativa) para exercer independentemente suas funções de advocacia pública. A decisão impacta a organização interna da PGE ao reforçar que a instituição não é mero apêndice do Poder Executivo, mas órgão dotado de funções constitucionalmente definidas.</p>
+
+<p><strong>ADI 7.218/PB (Informativo 1.127, março de 2024):</strong> declarou inconstitucionais normas que criavam cargos de advogado ou procurador em autarquias e fundações estaduais fora da estrutura da PGE. Modulação de 24 meses. Reforça que a PGE, por meio de suas Procuradorias Especializadas (notadamente a Procuradoria de Autarquias e Fundações), é o órgão exclusivo de representação dessas entidades.</p>
+
+<p><strong>LC 226/2025:</strong> embora não se trate de decisão judicial, a ampliação do quadro para 330 Procuradores tem impacto jurisprudencial indireto, pois fortalece a capacidade da PGE de absorver a representação judicial de toda a administração indireta sem depender de corpos jurídicos paralelos — exatamente o que o STF determinou na ADI 7.218/PB.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Órgão</th>
+<th>Função principal</th>
+<th>Chefia/Composição</th>
+</tr>
+<tr>
+<td>Procurador-Geral do Estado</td>
+<td>Direção superior da PGE; representação do Estado em matéria jurídica</td>
+<td>Nomeado pelo Governador dentre integrantes das duas classes finais, com 35+ anos e 10+ anos de carreira (art. 177 CERJ)</td>
+</tr>
+<tr>
+<td>Subprocuradores-Gerais (2)</td>
+<td>Auxílio e substituição do PGE; coordenação de atividades</td>
+<td>Designados pelo PGE</td>
+</tr>
+<tr>
+<td>Conselho Superior</td>
+<td>Deliberação colegiada; listas tríplices; questões institucionais</td>
+<td>PGE + Subprocurador + 2 Assessores + 2 Chefes + 6 eleitos</td>
+</tr>
+<tr>
+<td>Corregedoria (LC 104/2002)</td>
+<td>Fiscalização; correições; estágio confirmatório</td>
+<td>Procurador-Corregedor (10+ anos de carreira)</td>
+</tr>
+<tr>
+<td>Procuradorias Especializadas</td>
+<td>Representação judicial por matéria</td>
+<td>Procurador-Chefe em cada uma</td>
+</tr>
+<tr>
+<td>Procuradorias Regionais (13)</td>
+<td>Representação judicial no interior do Estado</td>
+<td>Coordenadoria Geral das Regionais</td>
+</tr>
+<tr>
+<td>Consultoria Jurídica</td>
+<td>Pareceres e assessoramento à administração</td>
+<td>Vinculada à direção superior</td>
+</tr>
+<tr>
+<td>ESAP</td>
+<td>Formação continuada; residência jurídica; produção científica</td>
+<td>Diretor designado pelo PGE</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Procuradoria Especializada</th>
+<th>Matéria</th>
+</tr>
+<tr>
+<td>Procuradoria Tributária</td>
+<td>Ações tributárias (ICMS, IPVA, taxas estaduais); defesa em mandados de segurança tributários</td>
+</tr>
+<tr>
+<td>Procuradoria da Dívida Ativa</td>
+<td>Cobrança judicial e extrajudicial de créditos inscritos em dívida ativa</td>
+</tr>
+<tr>
+<td>Procuradoria Trabalhista</td>
+<td>Defesa em reclamações trabalhistas; litígios com servidores celetistas</td>
+</tr>
+<tr>
+<td>Procuradoria de Autarquias e Fundações</td>
+<td>Representação judicial de autarquias e fundações estaduais (art. 132 CF)</td>
+</tr>
+<tr>
+<td>Procuradoria de Serviços Públicos</td>
+<td>Atuação residual; matérias não afetadas às demais especializadas</td>
+</tr>
+<tr>
+<td>Procuradoria do Contencioso</td>
+<td>Litígios cíveis diversos contra o Estado</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Atribuição do PGE</th>
+<th>Descrição</th>
+<th>Observação</th>
+</tr>
+<tr>
+<td>Direção da PGE</td>
+<td>Chefia da instituição; distribuição de Procuradores; designação de chefias</td>
+<td>Cargo de confiança do Governador</td>
+</tr>
+<tr>
+<td>Fixação de interpretação</td>
+<td>Pareceres normativos vinculantes para a administração (se aprovados pelo Governador)</td>
+<td>Análogo ao parecer normativo da AGU</td>
+</tr>
+<tr>
+<td>Avocação</td>
+<td>Poder de chamar para si processos em tramitação em qualquer Procuradoria</td>
+<td>Exercício pessoal da representação</td>
+</tr>
+<tr>
+<td>Autorização dispositiva</td>
+<td>Confissão, transação e desistência dependem de autorização do PGE</td>
+<td>Procurador não pode praticar esses atos sozinho</td>
+</tr>
+<tr>
+<td>Dispensa de recurso</td>
+<td>Autorizar não recorrer e desistir de recursos em temas pacificados</td>
+<td>Racionalização da litigância estatal</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>PGE (Advocacia Pública)</th>
+<th>MP (Ministério Público)</th>
+<th>Defensoria Pública</th>
+</tr>
+<tr>
+<td>Função constitucional</td>
+<td>Representação judicial e consultoria do Estado</td>
+<td>Defesa da ordem jurídica e dos interesses sociais</td>
+<td>Assistência jurídica integral aos necessitados</td>
+</tr>
+<tr>
+<td>Nomeação do chefe</td>
+<td>Governador, dentre integrantes das duas classes finais (35+ anos, 10+ carreira), sem sabatina</td>
+<td>Governador, dentre lista tríplice</td>
+<td>Governador, dentre lista tríplice</td>
+</tr>
+<tr>
+<td>Autonomia</td>
+<td>Administrativa e financeira (art. 176 CE/RJ)</td>
+<td>Funcional, administrativa e financeira</td>
+<td>Funcional, administrativa e financeira</td>
+</tr>
+<tr>
+<td>Vinculação</td>
+<td>Diretamente ao Governador</td>
+<td>Sem vinculação hierárquica</td>
+<td>Sem vinculação hierárquica</td>
+</tr>
+<tr>
+<td>Demissibilidade do chefe</td>
+<td><em>Ad nutum</em></td>
+<td>Mandato de 2 anos</td>
+<td>Mandato de 2 anos</td>
+</tr>
+</table>
+
+</div>
