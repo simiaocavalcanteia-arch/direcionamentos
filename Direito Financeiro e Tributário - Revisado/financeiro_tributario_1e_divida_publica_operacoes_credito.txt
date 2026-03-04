@@ -1,0 +1,292 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 1e — Dívida Pública, Operações de Crédito e Leis Complementares 148, 156, 159 e 173</h1>
+<p class="subtitulo">Conceito e classificação da dívida pública, regras de endividamento (LRF), renegociação de dívidas dos estados e Regime de Recuperação Fiscal</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>A dívida pública é o componente mais sensível da atividade financeira do Estado. Quando a arrecadação não é suficiente para cobrir as despesas, o Estado recorre ao crédito público — contrai empréstimos ou emite títulos para financiar o déficit. A disciplina jurídica desse endividamento ocupa posição central no Direito Financeiro: a CF/88 reserva à lei complementar a matéria de dívida pública (art. 163, II) e de sustentabilidade da dívida (art. 163, VIII, acrescido pela EC 109/2021), a LRF (LC 101/2000) fixa limites de endividamento e veda operações entre entes, e Resoluções do Senado estabelecem os tetos de dívida consolidada.</p>
+
+<p>Para a PGE/RJ, este é possivelmente o ponto mais relevante de toda a disciplina. O Estado do Rio de Janeiro atravessa uma crise fiscal crônica e aderiu ao Regime de Recuperação Fiscal (RRF), primeiro sob a LC 159/2017 e depois sob a LC 178/2021. Essa adesão impôs contrapartidas severas — vedação de reajustes a servidores, limitação de contratações, privatizações — e gerou intensa judicialização. A Procuradoria atua diretamente nessas questões, tanto na defesa do Estado perante a União (cumprimento do Plano de Recuperação) quanto na assessoria ao Governo sobre os limites de endividamento e as condições do regime.</p>
+
+<p>Além do RRF, o ponto abrange as sucessivas renegociações das dívidas dos estados com a União (Lei 9.496/1997, LC 148/2014, LC 156/2016), as medidas de emergência da pandemia (LC 173/2020) e, mais recentemente, o PROPAG — Programa de Pleno Pagamento de Dívidas dos Estados (LC 212/2025), que constitui a mais recente alternativa ao RRF. A compreensão desse arcabouço normativo — que soma mais de meia dúzia de leis complementares — é indispensável para qualquer procurador de estado.</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e classificação da dívida pública</h3>
+
+<p>Dívida pública é o conjunto de obrigações financeiras do Estado decorrentes de empréstimos, financiamentos, emissão de títulos ou outras operações de crédito. A doutrina e a legislação classificam-na sob dois critérios principais.</p>
+
+<p><strong>Quanto ao prazo (Lei 4.320/1964):</strong> dívida fundada é a constituída por compromissos de exigibilidade superior a 12 meses, contraída para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos (art. 98); dívida flutuante é a de curto prazo, compreendendo restos a pagar, serviços da dívida a pagar, depósitos de terceiros e débitos de tesouraria (art. 92). Note que a ARO integra a dívida flutuante por seu caráter de curto prazo.</p>
+
+<p><strong>Quanto à natureza (LRF, art. 29):</strong> dívida pública consolidada é o montante total das obrigações financeiras do ente, assumidas em virtude de leis, contratos, convênios ou tratados, para amortização em prazo superior a 12 meses; dívida pública mobiliária é a representada por títulos emitidos pela União, Estados ou Municípios.</p>
+
+<div class="destaque">
+<p><strong>Atenção à ampliação pela LRF:</strong> o art. 29, §1º, equipara a operação de crédito a assunção, o reconhecimento ou a confissão de dívidas pelo ente da Federação — sem prejuízo do cumprimento das exigências dos arts. 15 e 16 da LRF. Já o §3º do mesmo artigo estabelece que também integram a dívida pública consolidada as operações de crédito de prazo inferior a 12 meses cujas receitas tenham constado do orçamento. Essa dupla ampliação conceitual — tanto no conceito de operação de crédito (§1º) quanto no de dívida consolidada (§3º) — visa evitar que Estados e Municípios contornem os limites de endividamento por meio de operações atípicas.</p>
+</div>
+
+<h3>Regras constitucionais sobre dívida e operações de crédito</h3>
+
+<p>A Constituição estabelece um conjunto de princípios e vedações sobre endividamento público. O art. 163 reserva à lei complementar as normas sobre dívida pública (II), concessão de garantias pelas entidades públicas (III) e emissão e resgate de títulos (IV). Com a EC 109/2021, foi acrescido o inciso VIII, que reserva à lei complementar a disciplina da sustentabilidade da dívida, especificando indicadores de apuração, níveis de compatibilidade dos resultados fiscais com a trajetória da dívida, medidas de ajuste e planejamento de alienação de ativos. A mesma emenda introduziu o art. 164-A, que determina a todos os entes federativos conduzir suas políticas fiscais de forma a manter a dívida em níveis sustentáveis. O art. 164, §1º, veda ao Banco Central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira — é a vedação ao financiamento monetário do déficit.</p>
+
+<p>O art. 167 contém vedações orçamentárias que afetam o endividamento. A "regra de ouro" (art. 167, III) veda a realização de operações de crédito que excedam o montante das despesas de capital, salvo as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta. O inciso II veda a realização de despesas que excedam os créditos orçamentários; o inciso X veda transferências voluntárias para pagamento de pessoal. O art. 167-A (incluído pela EC 109/2021) estabelece os chamados "gatilhos fiscais": quando a razão entre despesas correntes e receitas correntes superar 95%, ficam autorizadas medidas de ajuste como vedação de reajustes, criação de cargos e concessão de garantias.</p>
+
+<p>O Senado Federal desempenha papel central na disciplina do endividamento: autoriza operações de crédito externo (art. 52, V), fixa limites globais de endividamento (art. 52, VI e VII) e dispõe sobre limites de operações de crédito (art. 52, VIII e IX).</p>
+
+<h3>Limites de endividamento (LRF e Resoluções do Senado)</h3>
+
+<p>A LRF (arts. 29-42) disciplina detalhadamente o endividamento dos entes. Os limites concretos são fixados por Resoluções do Senado: a Resolução 40/2001 estabelece que a dívida consolidada líquida (DCL) não pode exceder 2 vezes a RCL para Estados e DF, e 1,2 vezes a RCL para Municípios. A Resolução 43/2001 fixa limites para operações de crédito e garantias.</p>
+
+<p>Quando o ente ultrapassa o limite de endividamento, entra em regime de recondução: deve retornar ao limite no prazo de 3 quadrimestres (art. 31, LRF), eliminando pelo menos 25% do excedente no primeiro quadrimestre. Enquanto perdurar o excesso, fica impedido de realizar novas operações de crédito (inclusive ARO) e não pode receber transferências voluntárias da União (art. 31, §2º).</p>
+
+<p>A LRF contém vedações específicas sobre operações de crédito: o art. 35 proíbe operações de crédito entre entes federativos (inclusive por intermédio de fundos, autarquias ou empresas estatais); o art. 36 veda operações de crédito com instituições financeiras controladas pelo próprio ente; o art. 37 equipara a operações de crédito a captação de recursos mediante emissão, aceite ou aval de títulos de crédito. Essas vedações visam impedir o financiamento cruzado entre entes e o uso de bancos estaduais como instrumentos de endividamento.</p>
+
+<h3>Renegociação das dívidas dos estados com a União</h3>
+
+<p>A relação financeira entre estados e União é marcada por rodadas de renegociação de dívidas. A Lei 9.496/1997 autorizou a União a assumir a dívida pública mobiliária dos estados e do DF, mediante contratos com condições uniformes: pagamento em 360 meses (30 anos), correção por IGP-DI + juros de 6% ao ano, com comprometimento de 13% da receita líquida real. Quase todos os estados aderiram, incluindo o Rio de Janeiro.</p>
+
+<p><strong>LC 148/2014:</strong> alterou os indexadores dos contratos de refinanciamento: substituiu o IGP-DI + 6% por IPCA + 4% ao ano (ou pela taxa Selic, o que for menor). A mudança representou redução significativa no custo da dívida para os estados, que vinham pagando correção muito acima da inflação efetiva. Previu também a devolução, pela União, de valores pagos a maior no período anterior à alteração.</p>
+
+<p><strong>LC 156/2016:</strong> concedeu prazo adicional de até 240 meses (20 anos) para pagamento das dívidas refinanciadas, mediante contrapartidas como a limitação do crescimento das despesas correntes primárias à variação do IPCA. Ofereceu ainda redução temporária das parcelas (moratória escalonada de 6 meses), como medida de alívio para estados em dificuldade.</p>
+
+<h3>Regime de Recuperação Fiscal (LC 159/2017 e LC 178/2021)</h3>
+
+<p>A LC 159/2017 criou o Regime de Recuperação Fiscal (RRF) para estados com grave desequilíbrio fiscal. O regime oferece ao estado aderente a suspensão do pagamento das dívidas com a União e a possibilidade de contratação de operações de crédito, em troca de um Plano de Recuperação que inclui medidas de ajuste fiscal. O Rio de Janeiro foi o primeiro estado a aderir ao regime, em 2017. Posteriormente, Goiás aderiu em 2021 e Rio Grande do Sul em 2022. Minas Gerais teve o pedido de adesão autorizado em 2022, mas seu Plano de Recuperação só foi homologado pelo Governo Federal em janeiro de 2025.</p>
+
+<p>A LC 178/2021 reformulou o RRF, ampliando as contrapartidas exigidas e refinando os mecanismos de acompanhamento. As principais alterações: exigência de privatização de empresas estatais, vedação de reajustes a servidores, limitação de contratações, obrigatoriedade de informações periódicas ao Tesouro Nacional, e penalidades por descumprimento (incluindo exclusão do regime). O Estado do Rio de Janeiro migrou para o novo regime em 2022, com aprovação do Plano de Recuperação pelo Governo Federal.</p>
+
+<p>Em janeiro de 2025, a LC 212/2025 instituiu o PROPAG (Programa de Pleno Pagamento de Dívidas dos Estados), oferecendo uma alternativa ao RRF. O PROPAG permite a revisão dos termos das dívidas com a União, com redução significativa de juros, alongamento do prazo de pagamento por até 30 anos e possibilidade de negociação de ativos para amortização. O RJ obteve autorização legislativa para aderir ao PROPAG (Lei Estadual 11.072/2025) e a transição do RRF para o novo programa está em curso, com prazo garantido pelo STF (Min. Toffoli, ACO 3.457) até junho de 2026.</p>
+
+<div class="destaque">
+<p><strong>Para a PGE/RJ:</strong> o RRF é tema cotidiano da Procuradoria. As contrapartidas exigidas pelo regime geram demandas judiciais de servidores (contra o congelamento de remunerações), questionamentos sobre a constitucionalidade das restrições impostas ao Estado e litígios entre o RJ e a União sobre o cumprimento do Plano. O STF já se manifestou em diversas ocasiões sobre o regime, como na ACO 3.457 (Min. Toffoli), em que determinou a manutenção do RJ no RRF.</p>
+</div>
+
+<h3>LC 173/2020: Programa Federativo de Enfrentamento ao Coronavírus</h3>
+
+<p>A LC 173/2020 foi editada no contexto da pandemia de Covid-19 e criou o Programa Federativo de Enfrentamento ao Coronavírus. Seus principais efeitos: (i) suspensão do pagamento de dívidas de estados, DF e municípios com a União durante 2020; (ii) disponibilização de R$ 60 bilhões em auxílio financeiro da União; (iii) flexibilização de regras da LRF para permitir gastos emergenciais; (iv) vedação, em contrapartida, de aumento de despesa com pessoal até 31/12/2021 (depois prorrogada). A lei alterou dispositivos da LRF para incluir vedações de reajustes, criação de cargos e reestruturação de carreiras no período de calamidade.</p>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 163, II a IV e VIII:</strong> reserva de lei complementar para dívida pública (II), concessão de garantias (III), emissão e resgate de títulos (IV) e sustentabilidade da dívida (VIII, incluído pela EC 109/2021). O inciso VIII exige lei complementar que defina indicadores de apuração, níveis de compatibilidade fiscal e medidas de ajuste.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 164-A (EC 109/2021):</strong> determina que todos os entes devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167-A (EC 109/2021):</strong> "gatilhos fiscais" — quando a razão entre despesas correntes e receitas correntes superar 95% (Estados, DF e Municípios), ficam autorizadas medidas de contenção (vedação de reajustes, criação de cargos, concessão de garantias a outros entes etc.).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 164, §1º:</strong> vedação ao BC de conceder empréstimos ao Tesouro Nacional.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167, III ("regra de ouro"):</strong> operações de crédito não podem exceder despesas de capital, salvo autorização legislativa por maioria absoluta.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 52, V a IX:</strong> competência do Senado para autorizar operações de crédito externo e fixar limites de endividamento.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>LRF, arts. 29-42:</strong> definições (art. 29: dívida consolidada, dívida mobiliária, operação de crédito, ARO); limites de endividamento (arts. 30-31); recondução ao limite (art. 31); contratação de operações de crédito (arts. 32-33); vedação de operações entre entes (art. 35) e com instituições financeiras controladas (art. 36); ARO (art. 38).</p>
+
+<p><span class="tag-lei">LEI</span> <strong>Resolução do Senado 40/2001:</strong> limites da DCL — 2× RCL para Estados e DF; 1,2× RCL para Municípios.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>Resolução do Senado 43/2001:</strong> limites para operações de crédito internas e externas, concessão de garantias e contratação de ARO.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 9.496/1997:</strong> autorização para a União assumir a dívida mobiliária dos estados. Condições: pagamento em 360 meses, IGP-DI + 6%, comprometimento de 13% da RLR.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 148/2014:</strong> alterou indexadores dos contratos de renegociação: IPCA + 4% ou Selic (o menor). Previu devolução de valores pagos a maior.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 156/2016:</strong> prazo adicional de até 240 meses, moratória escalonada, contrapartida de limitação de despesas correntes ao IPCA.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 159/2017:</strong> criou o Regime de Recuperação Fiscal para estados com grave desequilíbrio. Suspensão de pagamento de dívidas + contrapartidas fiscais.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 173/2020:</strong> Programa Federativo de Enfrentamento ao Coronavírus. Suspensão de dívidas (2020), auxílio financeiro de R$ 60 bi, vedação de reajustes.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 178/2021:</strong> reformulou o RRF. Novas contrapartidas: privatizações, vedação de reajustes, penalidades por descumprimento. O RJ migrou para o novo regime em 2022.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 212/2025 (PROPAG):</strong> instituiu o Programa de Pleno Pagamento de Dívidas dos Estados, alternativa ao RRF. Permite revisão dos termos das dívidas com a União: redução de juros, alongamento por até 30 anos, negociação de ativos para amortização. Prazo de adesão até 31/12/2025. Estados no RRF podem migrar para o PROPAG mediante exclusão do regime anterior. Os estados devem destinar percentual dos recursos a áreas obrigatórias (mínimo 60% em educação, infraestrutura, segurança pública e enfrentamento das mudanças climáticas).</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Art. 209:</strong> vedações orçamentárias estaduais. O inciso III reproduz a regra de ouro no âmbito do Estado: veda a realização de operações de crédito que excedam o montante das despesas de capital, salvo autorização da Assembleia Legislativa por maioria absoluta. Trata-se de simetria com o art. 167, III, da CF.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Arts. 205-210:</strong> a CE/RJ disciplina o sistema orçamentário estadual (PPA, LDO, LOA) nos arts. 205 a 210, com regras simétricas à CF. O art. 210 trata de créditos adicionais (suplementares, especiais e extraordinários) no âmbito estadual.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ACO 3.457/RJ (Min. Toffoli, 2021-2025):</strong> ação cível originária em que o STF determinou a manutenção do Estado do Rio de Janeiro no Regime de Recuperação Fiscal, suspendendo punições da União por alegado descumprimento das condições do plano e garantindo o pagamento das parcelas da dívida nos valores de 2023 até a regulamentação do novo RRF. Decisão fundamental para a situação fiscal do Estado.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Plenário, j. 24/06/2020):</strong> ao julgar a constitucionalidade da LRF, o STF manteve hígidas as regras de endividamento (arts. 29-42) e as vedações de operações entre entes (art. 35). Declarou inconstitucionais o art. 23, §1º (redução de jornada/vencimentos) e o art. 9º, §3º (limitação unilateral de repasses pelo Executivo).</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelas definições da LRF (art. 29): dívida consolidada, dívida mobiliária, operação de crédito e ARO. Depois, domine os limites de endividamento (Resoluções do Senado 40 e 43/2001) e as vedações (arts. 35-37 da LRF). Esses são os fundamentos que sustentam todo o sistema de controle de endividamento.</p>
+
+<p>Em seguida, estude a sequência cronológica das renegociações: Lei 9.496/1997 → LC 148/2014 → LC 156/2016 → LC 159/2017 → LC 173/2020 → LC 178/2021 → LC 212/2025 (PROPAG). Cada lei respondeu a uma crise fiscal diferente e alterou condições da anterior. Organize essa sequência em uma linha do tempo mental, associando cada lei ao problema que buscou resolver e às contrapartidas que exigiu.</p>
+
+<p>Para a PGE/RJ, aprofunde-se no RRF (LC 159/2017 e LC 178/2021). Conheça as contrapartidas exigidas (vedação de reajustes, privatizações, limitação de contratações), as penalidades por descumprimento e a judicialização do tema (ACO 3.457). Esse conhecimento tem aplicação prática imediata para quem vai atuar na Procuradoria.</p>
+
+<p>A regra de ouro (art. 167, III, CF) merece atenção especial: compreenda o que ela veda (operações de crédito que excedam o montante das despesas de capital), a exceção (autorização mediante créditos suplementares ou especiais com finalidade precisa, aprovados por maioria absoluta) e por que ela gera tensão na prática (quando a dívida pública cresce e as despesas de capital são reduzidas, o cumprimento da regra se torna desafiador). Estude também os "gatilhos fiscais" da EC 109/2021 (arts. 164-A e 167-A), que representam a mais recente camada de controle do endividamento.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Dívida fundada (Lei 4.320) ≠ dívida consolidada (LRF).</strong> A Lei 4.320 define dívida fundada como os compromissos de exigibilidade superior a 12 meses, contraídos para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos (art. 98). A LRF define dívida consolidada de forma mais ampla (art. 29, I): montante total das obrigações financeiras assumidas em virtude de leis, contratos, convênios ou tratados, para amortização em prazo superior a 12 meses. Além disso, o §3º do art. 29 da LRF inclui na dívida consolidada as operações de crédito de prazo inferior a 12 meses cujas receitas tenham constado do orçamento. As duas classificações coexistem para finalidades diferentes: a Lei 4.320 para contabilidade pública; a LRF para controle de endividamento.</p>
+</div>
+
+<div class="atencao">
+<p><strong>O Senado fixa limites, mas o STF controla a constitucionalidade.</strong> As Resoluções do Senado (40 e 43/2001) estabelecem limites concretos de endividamento, mas o STF pode controlar a constitucionalidade dessas resoluções e das leis que disciplinam o endividamento. O Senado não pode liberar limites que violem os princípios constitucionais de responsabilidade fiscal.</p>
+</div>
+
+<div class="atencao">
+<p><strong>ARO não pode ser contraída no último ano de mandato.</strong> A LRF (art. 38, IV, "b") veda a contratação de antecipação de receita orçamentária no último ano de mandato do Chefe do Executivo. Além disso, as AROs devem ser liquidadas até 10 de dezembro de cada ano (art. 38, II). Essas vedações buscam evitar que o chefe do Executivo deixe dívidas de curto prazo para o sucessor.</p>
+</div>
+
+<div class="atencao">
+<p><strong>A LC 173/2020 não apenas ajudou — também restringiu.</strong> A lei concedeu auxílio financeiro e suspendeu dívidas durante a pandemia, mas em contrapartida vedou aumentos de despesa com pessoal (reajustes, reestruturações de carreira, novas admissões não essenciais) até 31/12/2021. Essas vedações geraram intensa judicialização, com servidores questionando a constitucionalidade do "congelamento". O STF validou as restrições como contrapartida legítima do auxílio federal.</p>
+</div>
+
+<div class="atencao">
+<p><strong>EC 109/2021: camada adicional de controle do endividamento.</strong> A EC 109/2021 acresceu ao art. 163 o inciso VIII (sustentabilidade da dívida), criou o art. 164-A (dever de manter a dívida em níveis sustentáveis) e o art. 167-A (gatilhos fiscais automáticos quando despesas correntes superarem 95% das receitas correntes). Esses dispositivos são recentes e ainda pouco explorados em provas, mas representam mudança estrutural no regime constitucional de endividamento. A lei complementar prevista no inciso VIII do art. 163 ainda não foi editada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Regime de Recuperação Fiscal e PROPAG: RJ como caso paradigmático.</strong> O RJ foi o primeiro estado a aderir ao RRF (2017) e serve como caso de referência para toda a discussão sobre endividamento estadual. Goiás (2021), Rio Grande do Sul (2022) e Minas Gerais (plano homologado em jan/2025) também aderiram. Com a LC 212/2025, o RJ está em processo de transição do RRF para o PROPAG (autorizado pela Lei Estadual 11.072/2025). A banca da PGE/RJ pode explorar as contrapartidas dos dois regimes, a relação jurídica entre Estado e União, os limites constitucionais das restrições impostas e as diferenças entre RRF e PROPAG.</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Rel. Min. Alexandre de Moraes, Plenário, j. 24/06/2020):</strong> julgou parcialmente procedente a ação contra a LRF. Declarou inconstitucionais: (i) o art. 23, §1º (que autorizava, em ultima ratio, a redução de jornada e vencimentos de servidores para adequação ao limite de despesas com pessoal); (ii) o art. 9º, §3º (que permitia ao Executivo limitar unilateralmente repasses aos demais Poderes). Os dispositivos sobre endividamento (arts. 29-42), vedações de operações entre entes (art. 35) e mecanismos de controle foram mantidos hígidos.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 6.357-MC/DF (Rel. Min. Alexandre de Moraes, 2020):</strong> medida cautelar referendada pelo Plenário que autorizou flexibilização temporária das condicionantes fiscais da LRF e da LDO durante a pandemia, para todos os entes que declararam calamidade pública. A ação foi posteriormente extinta por perda de objeto, em razão da aprovação da EC 106/2020 ("Orçamento de Guerra").</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADIs 6.442, 6.447, 6.450 e 6.525 (Rel. Min. Alexandre de Moraes, 2021):</strong> o STF, por unanimidade, julgou improcedentes as ações que questionavam as vedações de aumento de despesa com pessoal impostas pelo art. 8º da LC 173/2020 (congelamento de remunerações, criação de cargos, reestruturação de carreiras). Entendeu que as restrições constituem contrapartida legítima do auxílio financeiro emergencial, e que a autonomia dos entes federativos não é absoluta quando há recebimento de recursos condicionados.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ACO 3.457/RJ (Min. Toffoli, 2021-2025):</strong> em decisões sucessivas, o Min. Toffoli: (1) determinou a manutenção do RJ no RRF enquanto pendente a regulamentação do novo regime (LC 178/2021); (2) suspendeu penalidades impostas pela União ao Estado por alegado descumprimento; (3) garantiu que o RJ pagasse parcelas da dívida nos valores de 2023 até o fim da transição; (4) suspendeu o aumento de 30% no valor da dívida que a União pretendia aplicar. A ação permanece em tramitação e é o principal litígio financeiro entre o RJ e a União.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenário, 2025):</strong> declarou a necessidade de interpretação conforme a Constituição do art. 3º, caput e §2º, da LC 200/2023 (novo arcabouço fiscal), para excluir do teto de gastos as receitas próprias dos tribunais e órgãos do Poder Judiciário da União destinadas a financiar serviços de suas atividades específicas. Embora focada no Judiciário, a decisão repercute sobre o equilíbrio fiscal ao delimitar o alcance do arcabouço fiscal, reforçando que ele não pode violar a autonomia financeira constitucionalmente assegurada.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ACO 3.457 — transição RRF/PROPAG (Min. Toffoli, dez/2025):</strong> prorrogou por seis meses (até junho/2026) as medidas cautelares que mantêm o RJ no RRF e suspendem sanções da União, a fim de viabilizar a transição para o PROPAG (LC 212/2025). O RJ obteve autorização legislativa para aderir ao PROPAG pela Lei Estadual 11.072/2025, mas a formalização da adesão ainda não se completou.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 212/2025 (PROPAG) — derrubada de vetos (dez/2025):</strong> em dezembro de 2025, o Congresso derrubou seis vetos parciais do Presidente, ampliando os benefícios aos estados: possibilidade de amortização via recursos do FNDR e manutenção de benefícios do RRF durante a transição. Acompanhar eventual questionamento de constitucionalidade.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Dívida fundada/consolidada</th>
+<th>Dívida flutuante</th>
+</tr>
+<tr>
+<td><strong>Prazo</strong></td>
+<td>Superior a 12 meses</td>
+<td>Até 12 meses</td>
+</tr>
+<tr>
+<td><strong>Natureza</strong></td>
+<td>Empréstimos, financiamentos, títulos, precatórios (após 5/5/2000)</td>
+<td>Restos a pagar, serviços da dívida a pagar, depósitos, débitos de tesouraria, ARO</td>
+</tr>
+<tr>
+<td><strong>Controle</strong></td>
+<td>Limites da LRF + Resoluções do Senado</td>
+<td>Regras específicas (ARO: art. 38, LRF)</td>
+</tr>
+<tr>
+<td><strong>Limite</strong></td>
+<td>DCL ≤ 2× RCL (Estados); 1,2× RCL (Municípios)</td>
+<td>—</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Diploma</th>
+<th>Ano</th>
+<th>Contexto</th>
+<th>Principal efeito</th>
+</tr>
+<tr>
+<td><strong>Lei 9.496</strong></td>
+<td>1997</td>
+<td>Crise fiscal dos estados</td>
+<td>União assume dívida mobiliária; 360 meses, IGP-DI + 6%, 13% RLR</td>
+</tr>
+<tr>
+<td><strong>LC 148</strong></td>
+<td>2014</td>
+<td>Custo excessivo da dívida</td>
+<td>Troca de indexador: IPCA + 4% (ou Selic, o menor); devolução de valores</td>
+</tr>
+<tr>
+<td><strong>LC 156</strong></td>
+<td>2016</td>
+<td>Crise fiscal recorrente</td>
+<td>Prazo adicional de 240 meses; moratória escalonada; limite de despesas ao IPCA</td>
+</tr>
+<tr>
+<td><strong>LC 159</strong></td>
+<td>2017</td>
+<td>Grave desequilíbrio fiscal (RJ)</td>
+<td>Regime de Recuperação Fiscal: suspensão de dívidas + contrapartidas severas</td>
+</tr>
+<tr>
+<td><strong>LC 173</strong></td>
+<td>2020</td>
+<td>Pandemia de Covid-19</td>
+<td>Suspensão de dívidas (2020), R$ 60 bi em auxílio, vedação de reajustes</td>
+</tr>
+<tr>
+<td><strong>LC 178</strong></td>
+<td>2021</td>
+<td>Reformulação do RRF</td>
+<td>Novas contrapartidas: privatizações, vedações, penalidades; RJ migra em 2022</td>
+</tr>
+<tr>
+<td><strong>LC 212 (PROPAG)</strong></td>
+<td>2025</td>
+<td>Alternativa ao RRF</td>
+<td>Programa de Pleno Pagamento: juros reduzidos, 30 anos, ativos para amortização, adesão até 31/12/2025</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Vedação (LRF)</th>
+<th>Artigo</th>
+<th>Conteúdo</th>
+</tr>
+<tr>
+<td>Operações entre entes</td>
+<td>Art. 35</td>
+<td>Vedada operação de crédito entre entes federativos (inclusive via fundos, autarquias, estatais)</td>
+</tr>
+<tr>
+<td>Instituição financeira controlada</td>
+<td>Art. 36</td>
+<td>Vedada operação de crédito com instituição financeira controlada pelo próprio ente</td>
+</tr>
+<tr>
+<td>Títulos de crédito</td>
+<td>Art. 37</td>
+<td>Equipara a operação de crédito a captação via emissão, aceite ou aval de títulos</td>
+</tr>
+<tr>
+<td>ARO — restrições</td>
+<td>Art. 38</td>
+<td>Vedada no último ano de mandato; liquidação até 10/12; proibida enquanto houver ARO anterior não resgatada</td>
+</tr>
+</table>
+
+</div>

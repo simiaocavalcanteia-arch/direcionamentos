@@ -1,0 +1,176 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Garantias e Privilégios do Crédito Tributário</h1>
+<p class="subtitulo">Ponto 6, item "d" — Arts. 183 a 193 do CTN: garantias reais e processuais, preferências na falência e recuperação judicial, certidões de regularidade</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>As garantias e privilégios do crédito tributário formam o conjunto de instrumentos jurídicos do Procurador do Estado na defesa da arrecadação. São essas normas que conferem ao crédito fiscal posição privilegiada em relação a outros credores, asseguram a penhora de bens do devedor e condicionam a concessão de certidões de regularidade fiscal. Para a PGE/RJ, o tema é de aplicação diária: a Procuradoria atua em milhares de execuções fiscais, em habilitações de crédito em falências e em disputas sobre a ordem de pagamento em concursos de credores.</p>
+
+<p>Este ponto conecta-se com a execução fiscal (Ponto 7a), com a responsabilidade tributária (Ponto 5d) e com a suspensão e extinção do crédito (Ponto 6b). A prova discursiva pode exigir que o candidato discorra sobre a ordem de preferência dos créditos tributários em relação a trabalhistas e com garantia real, ou sobre as hipóteses de fraude à execução fiscal.</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Garantias do crédito tributário (arts. 183-185-A do CTN)</h3>
+
+<p><strong>Art. 183:</strong> as garantias previstas no CTN não excluem outras que sejam expressamente previstas em lei, em função da natureza ou das características do tributo a que se refiram. A enumeração do CTN não é taxativa quanto às garantias — lei especial pode criar mecanismos adicionais de proteção do crédito.</p>
+
+<p><strong>Art. 184:</strong> sem prejuízo dos privilégios especiais sobre determinados bens previstos em lei, respondem pelo crédito tributário <strong>todos os bens e rendas</strong> do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade/impenhorabilidade. Essa é uma garantia amplíssima: nem mesmo a existência de hipoteca, penhor, cláusula de inalienabilidade ou impenhorabilidade afasta a responsabilidade patrimonial perante o fisco.</p>
+
+<p><strong>Art. 185 — presunção de fraude:</strong> presume-se fraudulenta a alienação ou oneração de bens ou rendas por sujeito passivo em débito para com a Fazenda Pública, inscrito em dívida ativa. A LC 118/2005 alterou o dispositivo para fixar como marco temporal a inscrição em dívida ativa (antes, bastava a existência de crédito tributário). O STJ, no Tema 290 (REsp 1.141.990/PR, 1a Seção, Rel. Min. Luiz Fux, j. 10/11/2010), fixou que essa presunção é <strong>absoluta</strong> (<em>juris et de jure</em>), operando-se independentemente da boa-fé do terceiro adquirente. A única exceção é a do parágrafo único: o devedor pode afastar a presunção demonstrando que reservou bens suficientes para o pagamento total do débito — mas isso cabe ao devedor, não ao terceiro.</p>
+
+<div class="destaque">
+<strong>Fraude à execução fiscal (art. 185 do CTN) vs. fraude à execução do CPC:</strong> no direito tributário, a fraude se presume de forma <strong>absoluta</strong> a partir da inscrição em dívida ativa — não é necessária a citação do devedor na execução fiscal, nem a demonstração de má-fé do terceiro adquirente (Tema 290/STJ). A Súmula 375/STJ (que exige registro da penhora para configuração de fraude à execução) é inaplicável ao regime tributário. No direito processual civil comum, a fraude à execução exige, em regra, a citação válida do devedor (ou registro da distribuição da execução — art. 792, IV, do CPC) e a prova de má-fé ou o registro da penhora. Essa distinção e muito cobrada e favorece a Fazenda Pública.
+</div>
+
+<p><strong>Art. 185-A — indisponibilidade de bens:</strong> na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à penhora no prazo legal, e não forem encontrados bens penhoráveis, o juiz determinará a indisponibilidade de seus bens e direitos, comunicando a decisão aos órgãos e entidades registradores. É a chamada "penhora online" ou bloqueio patrimonial. O STJ disciplinou a aplicação: antes de decretar a indisponibilidade, o juiz deve esgotar as diligências para localizar bens penhoráveis (Súmula 560/STJ).</p>
+
+<h3>Preferências do crédito tributário (arts. 186-190 do CTN)</h3>
+
+<p><strong>Art. 186, caput:</strong> o crédito tributário prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constituição, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho.</p>
+
+<p><strong>Art. 186, parágrafo único (LC 118/2005):</strong> na falência, o crédito tributário não prefere aos créditos extraconcursais, às importâncias passíveis de restituição, nem aos créditos com garantia real, no limite do valor do bem gravado. O parágrafo único reduz significativamente a posição do crédito tributário na falência em relação à regra geral do caput.</p>
+
+<p><strong>Art. 187:</strong> a cobrança judicial do crédito tributário não está sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento. Isso significa que a execução fiscal tramita em paralelo ao processo falimentar, sem sujeição ao juízo universal da falência. Porém, o STJ entende que, embora a execução fiscal não se suspenda, a penhora e a expropriação de bens devem respeitar a ordem de preferência da Lei 11.101/2005.</p>
+
+<p><strong>Art. 188:</strong> são extraconcursais os créditos tributários decorrentes de fatos geradores ocorridos no curso do processo de falência. Os créditos tributários anteriores à falência são concursais e obedecem à classificação do art. 83 da Lei 11.101/2005.</p>
+
+<p><strong>Art. 190:</strong> são pagos preferencialmente a quaisquer créditos habilitados ou a quaisquer outros encargos da massa falida os créditos tributários vencidos e vincendos, exigíveis no decurso do processo de falência. Essa preferência, contudo, deve ser lida em conjunto com o parágrafo único do art. 186.</p>
+
+<h3>Certidões de regularidade fiscal (arts. 191-193 do CTN)</h3>
+
+<p><strong>Art. 191:</strong> a extinção das obrigações do falido exige prova de quitação dos tributos.</p>
+
+<p><strong>Art. 191-A (LC 118/2005):</strong> a concessão de recuperação judicial depende da apresentação de certidão negativa de débitos tributários. Antes da Lei 14.112/2020, o STJ dispensava a CND quando inexistia programa específico de parcelamento para empresas em recuperação. Porém, a Lei 14.112/2020 criou parcelamento em até 120 meses para tributos federais de empresas em recuperação (arts. 10-A a 10-D da Lei 10.522/2002, incluídos pela Lei 14.112/2020), e o STJ passou a exigir a comprovação de regularidade fiscal como requisito para homologação do plano de recuperação judicial (3a Turma, REsp 2.082.781/CE, Rel. Min. Nancy Andrighi, j. 24/10/2023; 4a Turma, REsp 2.053.240/SP, Rel. Min. Antonio Carlos Ferreira, j. 06/02/2024). A não apresentação da CND implica suspensão do processo recuperacional, com retomada das execuções individuais. Processos de recuperação anteriores a Lei 14.112/2020 continuam dispensados da exigência.</p>
+
+<p><strong>Art. 192:</strong> nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação dos tributos relativos aos bens ou rendas do espólio ou partilhados.</p>
+
+<p><strong>Art. 193:</strong> ressalvados os casos de dispensa legal, a prova de quitação de todos os tributos devidos à Fazenda Pública é exigida para participação em concorrência promovida pela administração pública.</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos centrais</h3>
+
+<table>
+<tr><th>Dispositivo</th><th>Conteúdo</th><th>Relevância</th></tr>
+<tr><td>Art. 184 do CTN</td><td>Todos os bens respondem, inclusive gravados por ônus real ou inalienabilidade</td><td>Garantia patrimonial amplíssima</td></tr>
+<tr><td>Art. 185 do CTN</td><td>Presunção de fraude: alienação após inscrição em DA</td><td>Marco: inscrição em DA (LC 118/2005)</td></tr>
+<tr><td>Art. 185-A do CTN</td><td>Indisponibilidade de bens do devedor citado que não paga nem nomeia bens</td><td>Bloqueio patrimonial — Súmula 560/STJ</td></tr>
+<tr><td>Art. 186, caput</td><td>Crédito tributário prefere a qualquer outro, salvo trabalhistas/acidentários</td><td>Regra geral de preferência</td></tr>
+<tr><td>Art. 186, par. único</td><td>Na falência: crédito tributário cede a extraconcursais, restituições e garantias reais</td><td>Posição reduzida na falência</td></tr>
+<tr><td>Art. 187 do CTN</td><td>Execução fiscal: não sujeita a concurso de credores nem habilitação</td><td>Autonomia da execução fiscal</td></tr>
+<tr><td>Art. 191-A do CTN</td><td>Recuperação judicial: exige CND</td><td>STJ exige após Lei 14.112/2020</td></tr>
+<tr><td>Lei 6.830/80 (LEF)</td><td>Lei de Execuções Fiscais</td><td>Procedimento especial de cobrança</td></tr>
+<tr><td>Lei 14.112/2020</td><td>Reforma da Lei de Falência e Recuperação Judicial</td><td>Revogou incisos IV e V do art. 83; incluiu inciso IX; criou parcelamento para recuperandas</td></tr>
+</table>
+
+<h3>Jurisprudência relevante</h3>
+
+<div class="destaque">
+<strong>Súmula 560/STJ (1a Seção, DJe 15/12/2015):</strong> "A decretação da indisponibilidade de bens e direitos, na forma do art. 185-A do CTN, pressupõe o exaurimento das diligências na busca por bens penhoráveis, o qual fica caracterizado quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição de ofícios aos registros públicos do domicílio do executado, ao Denatran ou Detran." Ou seja: o juiz deve primeiro tentar BACENJUD (ativos financeiros), ofícios a cartórios de imóveis e consulta ao Renajud/Denatran (veículos) antes de decretar a indisponibilidade geral.
+</div>
+
+<p><strong>Súmula 392/STJ:</strong> "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução." A CDA goza de presunção de certeza e liquidez (art. 204 do CTN), mas pode ser emendada para corrigir erros que não alterem o polo passivo.</p>
+
+<p><strong>STJ — execução fiscal e recuperação judicial:</strong> a execução fiscal não se suspende com o deferimento da recuperação judicial (art. 6º, §7º-B, da Lei 11.101/2005). Todavia, atos de constrição não podem recair sobre bens de capital essenciais à manutenção da atividade empresarial. A tensão entre a proteção ao crédito tributário e a preservação da empresa é tema frequente.</p>
+
+<p><strong>STJ — CND e recuperação judicial (evolução):</strong> até 2020, o STJ dispensava a CND na recuperação judicial por inexistir parcelamento específico para empresas em recuperação. A partir da Lei 14.112/2020, que instituiu parcelamento em até 120 parcelas de tributos federais, o STJ passou a exigir a regularidade fiscal como requisito para a homologação do plano (REsp 2.082.781/CE, 3a Turma, j. 24/10/2023; REsp 2.053.240/SP, 4a Turma, j. 06/02/2024). Exceção: a mora do Fisco na análise do pedido de parcelamento pode afastar a exigência (STJ, 2025). Processos de recuperação homologados antes da Lei 14.112/2020 seguem dispensados.</p>
+
+<p><strong>STJ — fraude à execução fiscal (art. 185 do CTN):</strong> após a LC 118/2005, a presunção de fraude opera-se com a inscrição do crédito em dívida ativa. Não é necessária a citação do devedor na execução fiscal. A Súmula 375/STJ (que exige registro da penhora para configuração de fraude à execução) não se aplica à matéria tributária, onde o regime é o do art. 185 do CTN.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Organize o estudo em três blocos: garantias (arts. 183-185-A), preferências (arts. 186-190) e certidões (arts. 191-193). Para o primeiro bloco, domine o art. 184 (universalidade da garantia patrimonial), o art. 185 (fraude presumida) e o art. 185-A (indisponibilidade). Para o segundo, concentre-se no art. 186 e sua distinção entre regra geral (caput) e regime falimentar (parágrafo único).</p>
+
+<p>A relação entre execução fiscal e falência/recuperação judicial é tema de alta complexidade e frequência em provas. Estude o art. 187 do CTN em conjunto com os arts. 6º e 83 da Lei 11.101/2005. A posição da jurisprudência do STJ sobre a dispensa de CND na recuperação judicial é um ponto que diferencia o candidato bem preparado.</p>
+
+<p>Para a prova discursiva, prepare um parágrafo-padrão sobre a ordem de preferência dos créditos na falência, conforme a redação dada pela Lei 14.112/2020: (1) créditos extraconcursais e restituições; (2) créditos trabalhistas até 150 SM; (3) créditos com garantia real até o valor do bem; (4) créditos tributários (exceto multas); (5) quirografários — que agora incluem os antigos créditos com privilégio especial e geral, extintos pela Lei 14.112/2020 (art. 83, §6º); (6) multas contratuais, penais e tributárias; (7) subordinados; (8) juros vencidos após a decretação da falência (inciso IX, incluído pela Lei 14.112/2020).</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Art. 186, caput vs. parágrafo único — regimes distintos:</strong> fora da falência, o crédito tributário só cede aos trabalhistas/acidentários (caput). Na falência, cede também aos extraconcursais, restituições e créditos com garantia real (parágrafo único). A banca pode explorar essa distinção em questão discursiva. Lembre-se: as multas tributárias, na falência, são rebaixadas para a classe dos créditos subquirografários (art. 83, VII, da Lei 11.101/2005).
+</div>
+
+<div class="atencao">
+<strong>Fraude à execução fiscal ≠ fraude à execução civil:</strong> no regime tributário (art. 185 do CTN), a presunção de fraude é <strong>absoluta</strong> e opera com a inscrição em dívida ativa — sem necessidade de citação nem de demonstração de má-fé do terceiro adquirente (Tema 290/STJ). No regime civil (art. 792 do CPC), exige-se registro da distribuição da ação ou da penhora. A Súmula 375/STJ ("O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente") é inaplicável à matéria tributária (Tema 290/STJ). É erro grave confundir os dois regimes.
+</div>
+
+<div class="atencao">
+<strong>Indisponibilidade de bens (art. 185-A) — requisitos prévios:</strong> o juiz só pode decretar a indisponibilidade geral de bens após esgotamento de diligências (Súmula 560/STJ): primeiro BACENJUD (ativos financeiros), depois ofícios a cartórios de registro de imóveis. Somente se infrutíferas essas medidas é que se justifica o bloqueio patrimonial generalizado. Pedir a indisponibilidade sem demonstrar o esgotamento prévio é causa de indeferimento.
+</div>
+
+<div class="atencao">
+<strong>Multas tributárias na falência — rebaixamento:</strong> embora o crédito tributário (principal + juros) ocupe a terceira classe de preferência na falência (após trabalhistas e com garantia real), as multas tributárias são separadas e classificadas como créditos subquirografários (art. 83, VII, da Lei 11.101/2005). A banca pode cobrar essa distinção entre o principal tributário e a penalidade.
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<table>
+<tr><th>Tema / Súmula</th><th>Conteúdo</th><th>Status</th></tr>
+<tr><td>Tema 290/STJ (REsp 1.141.990/PR)</td><td>Fraude à execução fiscal: presunção absoluta a partir da inscrição em DA; inaplicável Súmula 375</td><td>Consolidada (recurso repetitivo)</td></tr>
+<tr><td>Súmula 560/STJ</td><td>Indisponibilidade (art. 185-A) exige esgotamento de diligências prévias (BACENJUD + registros + Denatran/Detran)</td><td>Consolidada</td></tr>
+<tr><td>Súmula 392/STJ</td><td>Fazenda pode substituir CDA até sentença de embargos (vedada alteração de sujeito passivo)</td><td>Consolidada</td></tr>
+<tr><td>Súmula 375/STJ</td><td>Fraude à execução exige registro de penhora ou prova de má-fé</td><td>Consolidada — inaplicável a tributos</td></tr>
+<tr><td>STJ — CND e recuperação judicial</td><td>Após Lei 14.112/2020, CND é exigida para homologação do plano (há parcelamento em 120x)</td><td>Consolidada (novo entendimento)</td></tr>
+</table>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><strong>STJ — Tema 290 (REsp 1.141.990/PR, 1a Seção, Rel. Min. Luiz Fux, j. 10/11/2010):</strong> tese fixada em recurso repetitivo sobre fraude à execução fiscal. A presunção do art. 185 do CTN é <strong>absoluta</strong> (<em>juris et de jure</em>), operando-se independentemente da boa-fé do terceiro adquirente. A Súmula 375/STJ é inaplicável às execuções fiscais. O único caminho para afastar a presunção é a demonstração, <strong>pelo próprio devedor</strong>, de que reservou bens suficientes para quitação integral do débito (parágrafo único do art. 185). Essa posição reforça enormemente a posição da Fazenda Pública.</p>
+
+<p><strong>Lei 14.112/2020 (reforma da Lei de Recuperação Judicial e Falência):</strong> trouxe alterações profundas para a relação entre crédito tributário e processos de insolvência. Na classificação de créditos falimentares, revogou os incisos IV e V do art. 83 (créditos com privilégio especial e geral), que passaram a ser quirografários (§6º). Incluiu o inciso IX (juros vencidos após a decretação da falência). Quanto à recuperação judicial, disciplinou parcelamento de tributos federais em até 120 meses (arts. 10-A a 10-D da Lei 10.522/2002), e com isso o STJ passou a exigir a CND como requisito para homologação do plano.</p>
+
+<p><strong>STJ — execução fiscal e bens essenciais em recuperação judicial (2024-2025):</strong> a Corte tem refinado os critérios para definir quais bens são "de capital essenciais à manutenção da atividade empresarial" (art. 6º, §7º-B, da Lei 11.101/2005) e, portanto, protegidos contra constrição na execução fiscal durante a recuperação judicial. Valores em dinheiro não constituem bens de capital. O juízo da execução fiscal penhora o bem; o juízo da recuperação avalia se é essencial e, sendo, determina a substituição (não a liberação pura e simples). Essa interlocução entre juízos é tema prático de grande relevância para a PGE/RJ.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadro Esquemático</h2>
+
+<h3>Ordem de preferência dos créditos na falência (redação dada pela Lei 14.112/2020)</h3>
+
+<div class="atencao">
+<strong>Atenção:</strong> a Lei 14.112/2020 revogou os incisos IV e V do art. 83 (créditos com privilégio especial e geral), que passaram a ser quirografários (art. 83, §6º). A tabela abaixo reflete a classificação vigente.
+</div>
+
+<table>
+<tr><th>Ordem</th><th>Classe</th><th>Fundamento</th></tr>
+<tr><td>1ª</td><td>Créditos extraconcursais e restituições</td><td>Arts. 84 e 85 da Lei 11.101/2005</td></tr>
+<tr><td>2ª</td><td>Créditos trabalhistas/acidentários (até 150 SM por credor)</td><td>Art. 83, I</td></tr>
+<tr><td>3ª</td><td>Créditos com garantia real (até valor do bem)</td><td>Art. 83, II</td></tr>
+<tr><td>4ª</td><td>Créditos tributários (exceto multas tributárias)</td><td>Art. 83, III + art. 186, par. único, CTN</td></tr>
+<tr><td>5ª</td><td>Quirografários (incluindo antigos créditos com privilégio especial e geral — §6º)</td><td>Art. 83, VI-A</td></tr>
+<tr><td>6ª</td><td>Multas contratuais, penais e tributárias</td><td>Art. 83, VII</td></tr>
+<tr><td>7ª</td><td>Subordinados (sócios/administradores sem vínculo)</td><td>Art. 83, VIII</td></tr>
+<tr><td>8ª</td><td>Juros vencidos após a decretação da falência</td><td>Art. 83, IX (incluído pela Lei 14.112/2020)</td></tr>
+</table>
+
+<h3>Art. 186 — preferência dentro e fora da falência</h3>
+
+<table>
+<tr><th>Contexto</th><th>Crédito tributário cede a:</th><th>Crédito tributário prefere:</th></tr>
+<tr><td>Fora da falência (caput)</td><td>Apenas créditos trabalhistas e acidentários</td><td>Todos os demais (com garantia real, quirografários etc.)</td></tr>
+<tr><td>Na falência (par. único)</td><td>Extraconcursais, restituições, trabalhistas (até 150 SM) e créditos com garantia real</td><td>Quirografários (inclusive antigos privilegiados — Lei 14.112/2020), multas, subordinados, juros</td></tr>
+</table>
+
+<h3>Garantias do crédito tributário — síntese</h3>
+
+<table>
+<tr><th>Instrumento</th><th>Fundamento</th><th>Requisitos/Condições</th></tr>
+<tr><td>Universalidade patrimonial</td><td>Art. 184 do CTN</td><td>Todos os bens respondem, inclusive os gravados</td></tr>
+<tr><td>Presunção de fraude</td><td>Art. 185 do CTN</td><td>Alienação após inscrição em DA; presunção absoluta (<em>juris et de jure</em>) — Tema 290/STJ</td></tr>
+<tr><td>Indisponibilidade de bens</td><td>Art. 185-A do CTN</td><td>Devedor citado que não paga/nomeia bens + esgotamento de diligências (Súmula 560/STJ)</td></tr>
+<tr><td>Presunção de certeza e liquidez da CDA</td><td>Art. 204 do CTN</td><td>CDA é título executivo extrajudicial</td></tr>
+<tr><td>Execução fiscal autônoma</td><td>Art. 187 do CTN + LEF</td><td>Não sujeita a concurso de credores</td></tr>
+</table>
+
+</div>

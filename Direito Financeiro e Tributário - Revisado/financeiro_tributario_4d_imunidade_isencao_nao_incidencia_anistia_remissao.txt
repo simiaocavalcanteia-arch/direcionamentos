@@ -1,0 +1,265 @@
+
+
+<div class="badge">Direito Financeiro e Tributário | PGE/RJ</div>
+
+<h1>Imunidade, Isenção, Não Incidência, Anistia e Remissão</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Imunidade, isenção e não incidência são categorias que impedem ou dispensam a tributação, mas por fundamentos e mecanismos distintos. A imunidade é limitação constitucional ao poder de tributar; a isenção é dispensa legal do pagamento; a não incidência é a ausência de subsunção do fato à hipótese normativa. Já a anistia e a remissão operam sobre o crédito tributário já constituído: a anistia exclui penalidades; a remissão perdoa o tributo. Dominar essas distinções é requisito para qualquer questão sobre desoneração tributária.</p>
+
+<p>Para a PGE/RJ, o tema é especialmente relevante. O Procurador atua na defesa da tributação estadual contra pretensões de imunidade (entidades que alegam ser educacionais ou assistenciais para afastar o ICMS), na sustentação de isenções condicionadas (benefícios fiscais de ICMS vinculados a investimentos) e na análise de programas de anistia e remissão que o Estado periodicamente institui para recuperar créditos inadimplidos.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>1. Imunidades tributárias (art. 150, VI, CF)</h3>
+
+<p>As imunidades são <strong>limitações constitucionais ao poder de tributar</strong> — normas de competência negativa que retiram determinados fatos, pessoas ou situações do alcance da tributação. Diferentemente da isenção (que é infraconstitucional e revogável), a imunidade tem sede na Constituição e só pode ser alterada por emenda constitucional (respeitado o limite do art. 60, § 4.º, se se tratar de cláusula pétrea).</p>
+
+<p>O art. 150, VI, prevê cinco imunidades genéricas (aplicáveis a <em>impostos</em>):</p>
+
+<p><strong>Alínea a — imunidade recíproca:</strong> veda a cobrança de impostos sobre patrimônio, renda ou serviços entre os entes federativos. É extensiva a autarquias e fundações mantidas pelo Poder Público (art. 150, § 2.º). O STF ampliou essa imunidade para empresas públicas e sociedades de economia mista prestadoras de serviço público essencial (Correios — RE 601.392, Tema 235, Plenário, Rel. p/ acórdão Min. Gilmar Mendes, maioria 6x5; Infraero — RE 363.412-AgR, 2.ª Turma, Rel. Min. Celso de Mello).</p>
+
+<p><strong>Alínea b — imunidade religiosa:</strong> veda impostos sobre templos de qualquer culto, abrangendo patrimônio, renda e serviços relacionados às finalidades essenciais. O STF interpreta amplamente: estacionamentos, imóveis alugados e outras rendas são imunes se destinados às finalidades religiosas (RE 325.822, Plenário, j. 18/12/2002, Rel. p/ acórdão Min. Gilmar Mendes). No Tema 336 (RE 630.790, Plenário virtual, j. 18/03/2022, Rel. Min. Roberto Barroso, unânime), a Corte decidiu que entidades religiosas que prestam assistência social podem ser equiparadas a entidades assistenciais para fins de imunidade mais ampla (art. 150, VI, c).</p>
+
+<p><strong>Alínea c — imunidade subjetiva:</strong> veda impostos sobre patrimônio, renda ou serviços de partidos políticos, entidades sindicais dos trabalhadores, e instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei. O art. 14 do CTN estabelece três requisitos: (I) não distribuir parcela do patrimônio ou rendas; (II) aplicar integralmente os recursos no país nas finalidades essenciais; (III) manter escrituração regular.</p>
+
+<p><strong>Alínea d — imunidade cultural:</strong> veda impostos sobre livros, jornais, periódicos e o papel destinado à sua impressão. O STF decidiu que essa imunidade alcança livros eletrônicos (e-books) e os suportes exclusivamente utilizados para fixá-los, como e-readers (RE 330.817, Tema 593, Plenário, j. 08/03/2017, Rel. Min. Dias Toffoli). Em caso conexo, a Corte estendeu a imunidade a componentes eletrônicos que integram unidade didática com fascículos (RE 595.676, Tema 259, Plenário, j. 2017).</p>
+
+<p><strong>Alínea e — imunidade fonográfica</strong> (EC 75/2013): veda impostos sobre fonogramas e videofonogramas musicais produzidos no Brasil, contendo obras de autores brasileiros ou interpretadas por artistas brasileiros, e sobre os suportes materiais ou arquivos digitais que os contenham (exceto na etapa de replicação industrial).</p>
+
+<h3>2. Outras imunidades constitucionais</h3>
+
+<p>Além do art. 150, VI, existem imunidades específicas: <strong>ITBI</strong> na integralização de capital social (art. 156, § 2.º, I — com a limitação do Tema 796); <strong>IPI</strong> sobre produtos industrializados destinados ao exterior (art. 153, § 3.º, III); <strong>contribuições sociais e CIDE</strong> sobre receitas de exportação (art. 149, § 2.º, I); e <strong>ITR</strong> sobre pequenas glebas rurais exploradas pelo proprietário que não possua outro imóvel (art. 153, § 4.º, II). No campo previdenciário, o art. 195, § 7.º, prevê imunidade de contribuições sociais para entidades beneficentes de assistência social que atendam às exigências legais — norma cuja natureza de imunidade (e não isenção, apesar do texto constitucional) é pacífica no STF.</p>
+
+<h3>3. Isenção (arts. 175-179 CTN)</h3>
+
+<p>A isenção é causa de <strong>exclusão do crédito tributário</strong> (art. 175, I). Ocorre o fato gerador, nasce a obrigação tributária, mas a lei dispensa o pagamento — o crédito fica excluído. A isenção é sempre concedida por lei (art. 176); pode ser restrita a determinada região do território do ente, em função de condições peculiares (art. 176, parágrafo único); e não é extensiva às taxas e contribuições de melhoria nem aos tributos instituídos posteriormente à sua concessão, salvo disposição em contrário (art. 177).</p>
+
+<p>A isenção pode ser <strong>onerosa</strong> (condicionada ao cumprimento de requisitos e concedida por prazo certo) — nesse caso, não pode ser livremente revogada (art. 178 CTN). A revogação de isenção onerosa antes do prazo viola direito adquirido. Isenções não onerosas, por outro lado, podem ser revogadas a qualquer tempo, observada a anterioridade geral e nonagesimal (revogação equivale a majoração indireta — RE 564.225/RS, 1.ª Turma e Embargos de Divergência no Plenário, Rel. Min. Marco Aurélio).</p>
+
+<h3>4. Não incidência</h3>
+
+<p>A não incidência é a situação em que o fato simplesmente não se enquadra na hipótese de incidência do tributo. Não há norma dispensando o pagamento — o tributo não é devido porque o fato não preenche os requisitos legais. Exemplos: venda de imóvel não é fato gerador do ICMS (que incide sobre mercadorias); doação entre cônjuges, se a legislação estadual não a prevê como fato gerador do ITCMD.</p>
+
+<p>A não incidência pode ser <strong>pura</strong> (o fato está fora do campo de incidência por natureza) ou <strong>juridicamente qualificada</strong> (a lei expressamente exclui determinado fato — hipótese que se confunde, na prática, com a isenção). A distinção tem relevância processual: na imunidade e na não incidência, o contribuinte pode agir sem necessidade de reconhecimento administrativo prévio; na isenção, geralmente é necessário requerer o benefício.</p>
+
+<h3>5. Anistia (arts. 180-182 CTN)</h3>
+
+<p>A anistia é causa de <strong>exclusão do crédito tributário</strong> (art. 175, II) que abrange exclusivamente as <strong>infrações</strong> cometidas anteriormente à legislação que a conceder. Diferentemente da isenção (que dispensa o tributo), a anistia perdoa apenas a penalidade — o tributo continua devido. O art. 180 veda anistia de atos praticados com dolo, fraude ou simulação (inciso I), ou de infrações resultantes de conluio (inciso II). A anistia pode ser geral (abrange todas as infrações) ou limitada a infrações específicas, região, condição ou tributo (art. 181).</p>
+
+<h3>6. Remissão (art. 172 CTN)</h3>
+
+<p>A remissão é causa de <strong>extinção do crédito tributário</strong> (art. 156, IV). Consiste no perdão da dívida — tanto do tributo quanto da penalidade. A lei pode autorizar a remissão total ou parcial, considerando: (I) situação econômica do sujeito passivo; (II) erro ou ignorância escusável do sujeito passivo; (III) diminuta importância do crédito; (IV) considerações de equidade; (V) condições peculiares de determinada região. A remissão não gera direito adquirido e pode ser revogada se descumpridas as condições.</p>
+
+<div class="destaque">
+<strong>Distinção essencial:</strong> isenção e anistia excluem o crédito (antes de constituído ou impedindo sua constituição); remissão extingue o crédito (já constituído). Isenção dispensa o tributo; anistia dispensa a penalidade; remissão perdoa ambos. Essa tripartição é cobrada com frequência.
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais</h3>
+
+<p><strong>Art. 150, VI, a-e</strong> — imunidades genéricas (impostos): recíproca, religiosa, subjetiva (partidos/sindicatos/educação/assistência social), cultural (livros/jornais) e fonográfica.</p>
+
+<p><strong>Art. 150, § 4.º</strong> — as imunidades das alíneas b e c abrangem apenas patrimônio, renda e serviços relacionados com as finalidades essenciais.</p>
+
+<p><strong>Art. 156, § 2.º, I</strong> — imunidade do ITBI na integralização de capital social, com exceção para atividade preponderante imobiliária.</p>
+
+<h3>Dispositivos do CTN</h3>
+
+<p><strong>Art. 14</strong> — requisitos para imunidade do art. 150, VI, c: não distribuir patrimônio/rendas; aplicar recursos no país; manter escrituração.</p>
+
+<p><strong>Arts. 175-179</strong> — isenção como exclusão do crédito; concedida por lei; isenção onerosa não revogável (art. 178).</p>
+
+<p><strong>Arts. 180-182</strong> — anistia: exclusão do crédito relativo a infrações; vedada para dolo/fraude/simulação/conluio.</p>
+
+<p><strong>Art. 172</strong> — remissão: extinção do crédito por perdão da dívida.</p>
+
+<h3>Legislação fluminense</h3>
+
+<p><strong>CE/RJ, arts. 192-195</strong> — sistema tributário estadual: princípio da justiça fiscal (art. 193), espécies tributárias estaduais (art. 194), contribuição previdenciária dos servidores (art. 195). A CE/RJ reforça as limitações constitucionais ao poder de tributar.</p>
+
+<p><strong>Lei 7.174/2015 (ITCMD-RJ)</strong> — dispõe sobre o ITCMD (denominado ITD no RJ), com alíquotas progressivas de 4% a 8% em seis faixas (conforme o valor em UFIR-RJ). Prevê isenções relevantes: transmissão causa mortis de imóvel residencial de até 60.000 UFIR-RJ (art. 8.º, XI); doações em dinheiro de até 11.250 UFIR-RJ por ano civil (art. 8.º); e doações de imóveis para regularização fundiária de comunidades de baixa renda. O reconhecimento de imunidade, não incidência e isenção depende de ato da autoridade fiscal.</p>
+
+<p><strong>Benefícios fiscais de ICMS no RJ:</strong> a Lei 8.926/2020 exige que incentivos fiscais de ICMS sejam aprovados por lei estadual (mesmo que já autorizados por Convênio CONFAZ). A Lei 10.356/2024 prorrogou até 31/12/2026 sessenta benefícios fiscais de ICMS internalizados pelo Convênio ICMS 226/2023. A concessão e revogação de isenções de ICMS estadual segue as regras da LC 24/1975 (exigência de convênio e unanimidade para novos benefícios) e da LC 160/2017 (quórum de 2/3 exclusivamente para convalidação de benefícios anteriores irregulares).</p>
+
+<h3>Jurisprudência</h3>
+
+<p><strong>RE 796.376 — Tema 796</strong> (STF, Plenário, j. 2020): a imunidade do ITBI (art. 156, § 2.º, I) não alcança o valor dos bens que exceder o limite do capital social a ser integralizado. Se o imóvel vale mais do que o capital subscrito, incide ITBI sobre a diferença.</p>
+
+<p><strong>RE 630.790 — Tema 336</strong> (STF, Plenário virtual, j. 18/03/2022, Rel. Min. Roberto Barroso, unânime): entidades religiosas que prestam assistência social podem ser equiparadas às instituições de assistência social para fins da imunidade do art. 150, VI, c. A filantropia exercida com base em preceitos religiosos não desvirtua a natureza assistencial.</p>
+
+<p><strong>RE 330.817 — Tema 593</strong> (STF, Plenário, j. 08/03/2017, Rel. Min. Dias Toffoli): a imunidade cultural (art. 150, VI, d) alcança livros eletrônicos (e-books) e os suportes exclusivamente utilizados para fixá-los, como e-readers.</p>
+
+<p><strong>RE 611.510 — Tema 328</strong> (STF, Plenário virtual, j. 12/04/2021, Rel. Min. Rosa Weber, unânime): a imunidade do art. 150, VI, c, abrange o IOF incidente sobre operações financeiras de partidos políticos, entidades sindicais e instituições de educação e assistência social sem fins lucrativos.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Monte um quadro comparativo com cinco colunas: imunidade, isenção, não incidência, anistia e remissão. Em cada coluna, registre o fundamento normativo, o efeito jurídico, se é constitucional ou legal, se é revogável e qual o objeto (tributo, penalidade ou ambos). Esse quadro resolve qualquer questão sobre o tema em prova discursiva.</p>
+
+<p>Para as imunidades, memorize as cinco alíneas do art. 150, VI, com os julgados emblemáticos de cada uma. A banca pode perguntar, por exemplo, se a imunidade religiosa alcança imóvel alugado pela igreja (sim — desde que o rendimento seja destinado às finalidades essenciais). Ou se livro digital é imune (sim — Tema 593). Cada alínea tem sua jurisprudência característica.</p>
+
+<p>Quanto à isenção, dê especial atenção ao art. 178 do CTN: isenção onerosa, concedida por prazo certo e em função de determinadas condições, não pode ser livremente revogada. Essa regra é relevante para benefícios fiscais de ICMS condicionados a investimentos — situação comum no RJ.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Imunidade ≠ isenção — a diferença é de hierarquia normativa:</strong> a imunidade está na Constituição e limita a competência tributária; a isenção está na lei e pressupõe a competência para tributar. Se a banca perguntar "a isenção impede o exercício da competência tributária?", a resposta é não — a isenção pressupõe a competência e dispensa o pagamento. Quem impede o exercício da competência é a imunidade.
+</div>
+
+<div class="atencao">
+<strong>Imunidade do art. 150, VI — aplica-se apenas a impostos:</strong> as imunidades genéricas do art. 150, VI, alcançam somente impostos, não taxas nem contribuições de melhoria. Há imunidades específicas para contribuições (art. 195, § 7.º — entidades beneficentes de assistência social), mas são normas autônomas. A banca pode perguntar se entidade imune está dispensada de pagar taxa de lixo — não está, pois a imunidade do art. 150, VI, não abrange taxas.
+</div>
+
+<div class="atencao">
+<strong>Anistia ≠ remissão — o objeto é distinto:</strong> a anistia perdoa apenas infrações (penalidades); o tributo continua devido. A remissão perdoa a dívida tributária (tributo e/ou penalidade). Ambas exigem lei, mas a anistia é causa de exclusão (art. 175) e a remissão é causa de extinção (art. 156). Confundir as duas é erro clássico em provas.
+</div>
+
+<div class="atencao">
+<strong>Tema 796 — ITBI e integralização de capital:</strong> a imunidade do art. 156, § 2.º, I, não é absoluta. Se o valor do imóvel excede o capital social subscrito, o ITBI incide sobre a diferença. A decisão afeta diretamente a constituição de holdings familiares e patrimoniais, tema frequente na advocacia pública.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>RE 796.376 — Tema 796</strong> (STF, Plenário virtual, sessão encerrada em 05/08/2020, Rel. Min. Alexandre de Moraes): fixou que a imunidade do ITBI (art. 156, § 2.º, I, CF) alcança exclusivamente o valor dos bens correspondente ao capital social integralizado. O valor que excede o capital subscrito não é imune. A tese impactou a constituição de holdings patrimoniais, que tradicionalmente utilizavam a integralização de imóveis como forma de evitar o ITBI.</p>
+
+<p><strong>RE 330.817 — Tema 593</strong> (STF, Plenário, j. 08/03/2017, Rel. Min. Dias Toffoli): a imunidade do art. 150, VI, d, alcança livros eletrônicos e os suportes exclusivamente utilizados para fixá-los (e-readers). O STF adotou interpretação teleológica — a finalidade da imunidade cultural é promover o acesso ao conhecimento, independentemente do suporte físico ou digital.</p>
+
+<p><strong>RE 601.392 — Tema 235</strong> (STF, Plenário, Rel. p/ acórdão Min. Gilmar Mendes, maioria 6x5): estendeu a imunidade recíproca à ECT (Empresa Brasileira de Correios e Telégrafos), abrangendo todos os serviços prestados — incluindo aqueles em que a empresa não atua em regime de monopólio. Tese: os serviços prestados pela ECT, inclusive aqueles em que a empresa não atua em regime de monopólio, estão abrangidos pela imunidade recíproca (art. 150, VI, a, e §§ 2.º e 3.º).</p>
+
+<p><strong>RE 630.790 — Tema 336</strong> (STF, Plenário virtual, j. 18/03/2022, Rel. Min. Roberto Barroso, unânime): entidades religiosas com atividade assistencial beneficiam-se da imunidade ampla do art. 150, VI, c. A decisão equiparou entidades filantrópicas confessionais às instituições de assistência social.</p>
+
+<p><strong>RE 611.510 — Tema 328</strong> (STF, Plenário virtual, j. 12/04/2021, Rel. Min. Rosa Weber, unânime): a imunidade do art. 150, VI, c, abrange o IOF, inclusive sobre aplicações financeiras de curto prazo. A tese reforça a amplitude da imunidade subjetiva: se a renda é vinculada às finalidades essenciais, todos os impostos que incidam sobre ela são alcançados.</p>
+
+<p><strong>RE 564.225/RS</strong> (STF, Embargos de Divergência, Plenário, Rel. Min. Marco Aurélio): a revogação ou redução de benefício fiscal equivale a aumento indireto do tributo, devendo observar o princípio da anterioridade tributária (geral e nonagesimal). Precedente fundamental para a PGE/RJ na defesa de programas de incentivo fiscal estadual.</p>
+
+<h3>Decisões recentes e temas em evolução (2024-2026)</h3>
+
+<p><strong>LC 214/2025 — imunidades do IBS e da CBS (art. 9.º):</strong> a Lei Complementar 214, de 16/01/2025, regulamentou as imunidades dos novos tributos. O art. 9.º reproduz as hipóteses do art. 150, VI, para fornecimentos realizados por entes federativos (imunidade recíproca), entidades religiosas, partidos políticos, sindicatos de trabalhadores e instituições de educação e assistência social sem fins lucrativos. Para estas últimas, os requisitos do art. 14 do CTN continuam aplicáveis. Atenção: a imunidade do IBS/CBS protege os fornecimentos (saídas) dessas entidades, não suas aquisições.</p>
+
+<p><strong>ITBI e LC 214/2025:</strong> o ITBI foi mantido como tributo municipal, não afetado pelo IBS. A imunidade do art. 156, § 2.º, I, permanece vigente, e a interpretação do Tema 796 continua aplicável.</p>
+
+<p><strong>Regime de transição (2026-2033):</strong> a EC 132/2023 prevê coexistência dos tributos antigos (ICMS, ISS) com os novos (IBS, CBS). Durante esse período, as imunidades do art. 150, VI, aplicam-se ao ICMS e ao ISS; já as imunidades do IBS e da CBS seguem o art. 9.º da LC 214/2025 (que espelha o art. 150, VI, com adaptações). O candidato deve conhecer ambos os regimes.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Imunidade, isenção, não incidência — comparativo</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Imunidade</th>
+<th>Isenção</th>
+<th>Não incidência</th>
+</tr>
+<tr>
+<td>Sede normativa</td>
+<td>Constituição</td>
+<td>Lei</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mecanismo</td>
+<td>Limitação de competência</td>
+<td>Exclusão do crédito (art. 175, I)</td>
+<td>Fato fora da hipótese de incidência</td>
+</tr>
+<tr>
+<td>Fato gerador</td>
+<td>Não ocorre (competência suprimida)</td>
+<td>Ocorre, mas crédito é excluído</td>
+<td>Não ocorre (fato atípico)</td>
+</tr>
+<tr>
+<td>Revogabilidade</td>
+<td>Apenas por EC (se não for cláusula pétrea)</td>
+<td>Revogável (salvo onerosa — art. 178)</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Obrigações acessórias</td>
+<td>Subsistem (art. 194, parágrafo único, CTN — fiscalização aplica-se a imunes)</td>
+<td>Subsistem (art. 175, parágrafo único)</td>
+<td>Em regra, não subsistem</td>
+</tr>
+</table>
+
+<h3>Isenção, anistia e remissão — comparativo</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Isenção</th>
+<th>Anistia</th>
+<th>Remissão</th>
+</tr>
+<tr>
+<td>Natureza</td>
+<td>Exclusão do crédito</td>
+<td>Exclusão do crédito</td>
+<td>Extinção do crédito</td>
+</tr>
+<tr>
+<td>Fundamento</td>
+<td>Art. 175, I + arts. 176-179</td>
+<td>Art. 175, II + arts. 180-182</td>
+<td>Art. 156, IV + art. 172</td>
+</tr>
+<tr>
+<td>Objeto</td>
+<td>Tributo (dispensa pagamento)</td>
+<td>Penalidades (perdão de infrações)</td>
+<td>Tributo e/ou penalidades (perdão total)</td>
+</tr>
+<tr>
+<td>Momento</td>
+<td>Antes ou no momento da constituição do crédito</td>
+<td>Infrações anteriores à lei concessiva</td>
+<td>Crédito já constituído</td>
+</tr>
+<tr>
+<td>Vedações</td>
+<td>Art. 177 (não extensiva a taxas e novos tributos)</td>
+<td>Art. 180 (vedada para dolo/fraude/simulação/conluio)</td>
+<td>—</td>
+</tr>
+</table>
+
+<h3>Imunidades do art. 150, VI — quadro-resumo</h3>
+
+<table>
+<tr>
+<th>Alínea</th>
+<th>Imunidade</th>
+<th>Decisão paradigmática</th>
+</tr>
+<tr>
+<td>a</td>
+<td>Recíproca (entes federativos)</td>
+<td>RE 601.392 (Correios); RE 363.412 (Infraero)</td>
+</tr>
+<tr>
+<td>b</td>
+<td>Religiosa (templos de qualquer culto)</td>
+<td>RE 325.822 (imóveis alugados); RE 630.790 Tema 336 (assistência social)</td>
+</tr>
+<tr>
+<td>c</td>
+<td>Subjetiva (partidos, sindicatos, educação, assistência social)</td>
+<td>RE 611.510 Tema 328 (IOF); art. 14 CTN (requisitos)</td>
+</tr>
+<tr>
+<td>d</td>
+<td>Cultural (livros, jornais, periódicos)</td>
+<td>RE 330.817 Tema 593 (livros digitais e e-readers)</td>
+</tr>
+<tr>
+<td>e</td>
+<td>Fonográfica (fonogramas/videofonogramas brasileiros)</td>
+<td>EC 75/2013 — exceto replicação industrial</td>
+</tr>
+</table>
+

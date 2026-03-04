@@ -1,0 +1,273 @@
+
+
+<div class="badge">Direito Financeiro e Tributário | PGE/RJ</div>
+
+<h1>Legislação Tributária: Conceito e Vigência</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O tema "legislação tributária" envolve duas dimensões distintas. A primeira, conceitual, diz respeito a <em>o que</em> se considera legislação tributária — e aqui o CTN adota uma definição ampla que vai muito além da "lei" em sentido formal. A segunda, funcional, trata de <em>quando</em> e <em>onde</em> essa legislação produz efeitos, desdobrando-se nas regras de vigência temporal e espacial.</p>
+
+<p>Para a PGE/RJ, dominar esse tema é essencial porque o Procurador lida diariamente com a hierarquia e a vigência das normas tributárias, seja para sustentar a validade de decretos estaduais que regulamentam o ICMS, seja para questionar a aplicabilidade de convênios CONFAZ ou tratados internacionais. A distinção entre vigência e eficácia — mediada pelo princípio da anterioridade — é fonte perene de questões em concursos de procuradorias.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>1. O conceito amplo do art. 96 do CTN</h3>
+
+<p>O art. 96 do CTN define "legislação tributária" como a expressão que compreende as leis, os tratados e convenções internacionais, os decretos e as normas complementares que versem, no todo ou em parte, sobre tributos e relações jurídicas a eles pertinentes. A definição é intencionalmente abrangente: "legislação" não é sinônimo de "lei". Enquanto "lei" designa o ato normativo aprovado pelo Legislativo com sanção do Executivo, "legislação" abrange o conjunto normativo completo — desde a Constituição até atos administrativos de menor hierarquia.</p>
+
+<h3>2. As fontes formais: lei em sentido amplo</h3>
+
+<p>O art. 97 do CTN enumera as matérias submetidas à reserva de lei formal (legalidade estrita). Porém, dentro do conceito de "leis" do art. 96, incluem-se diversos veículos normativos:</p>
+
+<p><strong>Lei complementar</strong> — exigida pelo art. 146 da CF para normas gerais de direito tributário, conflitos de competência e limitações constitucionais ao poder de tributar. O CTN foi recepcionado com esse status (RE 138.284, j. 1992).</p>
+
+<p><strong>Lei ordinária</strong> — veículo padrão para instituir e majorar tributos, salvo os que exigem LC (empréstimo compulsório — art. 148; IGF — art. 153, VII; impostos residuais — art. 154, I; contribuições sociais residuais — art. 195, § 4.º).</p>
+
+<p><strong>Medida provisória</strong> — tem força de lei e pode instituir ou majorar tributos, desde que não invada reserva de LC (art. 62, § 1.º, III). A EC 32/2001 acrescentou o § 2.º ao art. 62: a MP que implique instituição ou majoração de impostos (salvo II, IE, IPI, IOF e IEG) só produz efeitos no exercício seguinte se convertida em lei até o último dia daquele em que foi editada. Essa regra constitucionaliza a relação entre MP e anterioridade para impostos.</p>
+
+<p><strong>Lei delegada</strong> — admitida em tese para matéria tributária, desde que não reservada à LC. Na prática, nunca foi utilizada para tributos.</p>
+
+<p><strong>Resoluções do Senado</strong> — fixam alíquotas interestaduais de ICMS (art. 155, § 2.º, IV), alíquotas mínimas de ICMS (inciso V, a) e máximas de ITCMD (art. 155, § 1.º, IV). Não são "leis" em sentido formal, mas integram a legislação tributária.</p>
+
+<h3>3. Tratados e convenções internacionais (art. 98 do CTN)</h3>
+
+<p>O art. 98 dispõe que os tratados e as convenções internacionais "revogam ou modificam a legislação tributária interna, e serão observados pela que lhes sobrevenha". A redação é polêmica. O STF e o STJ não interpretam o dispositivo como verdadeira revogação, mas como <strong>suspensão de eficácia</strong> da lei interna nos limites do tratado: a lei doméstica continua válida e aplicável às situações que não envolvam os sujeitos e os elementos de estraneidade definidos na convenção. A relação se resolve pelo critério da especialidade, não da hierarquia.</p>
+
+<p>Isso significa que lei posterior <em>genérica</em> não revoga tratado tributário: o tratado, por ser norma especial que regula situações internacionais, prevalece sobre a lei interna que discipline a mesma matéria de forma geral. Esse entendimento é particularmente relevante para as convenções contra dupla tributação (TDTs) celebradas pelo Brasil.</p>
+
+<h3>4. Decretos (art. 99 do CTN)</h3>
+
+<p>Os decretos regulamentam as leis tributárias, explicitando seu conteúdo sem inovar a ordem jurídica. O art. 99 do CTN é claro: o conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos. O decreto não pode criar obrigação não prevista em lei, ampliar hipótese de incidência, majorar alíquota nem alterar base de cálculo — exceto nos casos constitucionais de delegação expressa (alíquotas de II, IE, IPI, IOF).</p>
+
+<h3>5. Normas complementares (art. 100 do CTN)</h3>
+
+<p>O art. 100 elenca quatro categorias de normas complementares da legislação tributária: (i) atos normativos expedidos pelas autoridades administrativas (instruções normativas, portarias, ordens de serviço); (ii) decisões dos órgãos singulares ou coletivos de jurisdição administrativa com eficácia normativa; (iii) práticas reiteradamente observadas pelas autoridades administrativas; e (iv) convênios celebrados entre os entes federados. O parágrafo único do art. 100 estabelece que a observância dessas normas exclui a imposição de penalidades, a cobrança de juros de mora e a atualização monetária — mas não exclui o tributo em si. Trata-se de proteção à confiança legítima do contribuinte.</p>
+
+<h3>6. Vigência temporal</h3>
+
+<p>O art. 101 do CTN remete às regras gerais da LINDB (Lei 4.657/1942): a norma tributária entra em vigor na data por ela fixada ou, na ausência de previsão, 45 dias após a publicação oficial. O art. 103 do CTN traz regras especiais para as normas complementares do art. 100: os atos normativos administrativos entram em vigor na data de publicação, salvo disposição em contrário; as decisões administrativas com eficácia normativa, 30 dias após a publicação; e os convênios, na data neles prevista.</p>
+
+<p>O art. 104 do CTN, por sua vez, estabelece que entram em vigor no primeiro dia do exercicio seguinte os dispositivos de lei referentes a <strong>impostos sobre o patrimonio ou a renda</strong> que: (I) instituem ou majoram tais impostos; (II) definem novas hipoteses de incidencia; ou (III) extinguem ou reduzem isencoes, salvo se a lei dispuser de maneira mais favoravel ao contribuinte (observado o art. 178 do CTN, que protege isencoes onerosas concedidas por prazo certo e sob condicoes). Embora o dispositivo fale em "vigencia", a doutrina majoritaria (Hugo de Brito Machado, Leandro Paulsen) entende tratar-se de regra de <strong>eficacia</strong>, parcialmente absorvida e ampliada pelo art. 150, III, b e c, da CF (anterioridade). Note que o art. 104 so se aplica a impostos sobre patrimonio e renda — os demais tributos seguem exclusivamente as regras constitucionais de anterioridade.</p>
+
+<div class="destaque">
+<strong>Vigência ≠ eficácia:</strong> essa distinção é frequente em provas. Uma lei tributária pode estar vigente (inserida no ordenamento, apta a produzir efeitos em abstrato) sem ser eficaz (incapaz de produzir efeitos concretos por conta da anterioridade). Exemplo: lei publicada em 15 de dezembro que majora ICMS está vigente desde a publicação, mas seus efeitos ficam paralisados até 1.º de janeiro do exercício seguinte (anterioridade de exercício) ou até completar 90 dias (noventena), o que ocorrer por último.
+</div>
+
+<h3>7. Vigência espacial</h3>
+
+<p>O art. 102 do CTN consagra a regra da <strong>territorialidade</strong>: a legislação tributária de cada ente vigora apenas dentro de seu território. A exceção é a <strong>extraterritorialidade</strong>, admitida em dois casos: (a) nos limites em que reconhecida pelos convênios de que participem os entes; e (b) nos limites do que disponha o próprio CTN ou outras leis de normas gerais expedidas pela União. Na prática, a extraterritorialidade ocorre, por exemplo, quando um convênio CONFAZ disciplina que determinada regra de ICMS de um Estado será observada em outro — ou quando a LC 87/1996 (Lei Kandir) impõe regra uniforme de incidência aplicável a todas as unidades federativas.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos do CTN</h3>
+
+<p><strong>Art. 96</strong> — conceito amplo de legislação tributária. Memorizar que "legislação" ≠ "lei".</p>
+
+<p><strong>Art. 97</strong> — reserva legal (legalidade estrita). Seis incisos: (I) instituicao/extincao de tributos; (II) majoracao/reducao; (III) definicao do fato gerador da obrigacao tributaria principal e do sujeito passivo; (IV) fixacao de aliquota e base de calculo; (V) cominacao de penalidades; (VI) hipoteses de exclusao, suspensao e extincao de creditos tributarios, ou de dispensa ou reducao de penalidades. O par. 1 equipara a majoracao a modificacao da base de calculo que a torne mais onerosa; o par. 2 exclui a mera atualizacao monetaria da reserva legal.</p>
+
+<p><strong>Art. 98</strong> — tratados e legislação interna. Não se trata de revogação propriamente dita, mas de suspensão de eficácia da lei doméstica nos limites do tratado (critério da especialidade).</p>
+
+<p><strong>Art. 99</strong> — decretos regulamentares: conteúdo e alcance restritos à lei regulamentada.</p>
+
+<p><strong>Art. 100</strong> — normas complementares e seu parágrafo único (exclusão de penalidades, juros e correção monetária — mas não do tributo).</p>
+
+<p><strong>Arts. 101 a 104</strong> — vigencia temporal e espacial. O art. 101 remete a LINDB; o art. 102 fixa a territorialidade com ressalva de extraterritorialidade; o art. 103 disciplina a vigencia das normas complementares; o art. 104 trata da eficacia no exercicio seguinte para impostos sobre patrimonio ou renda (parcialmente absorvido pela anterioridade constitucional).</p>
+
+<h3>Legislacao do Estado do Rio de Janeiro</h3>
+
+<p><strong>CE/RJ, arts. 192-194</strong> — o art. 192 subordina o sistema tributario estadual a CF, as LCs federais, a CE e as leis estaduais. O art. 193 consagra o principio da justica fiscal como diretriz da tributacao estadual e municipal. O art. 194 enumera as especies tributarias que Estado e Municipios podem instituir. Esses dispositivos sao relevantes porque enquadram a legislacao tributaria estadual na hierarquia normativa do art. 96 do CTN.</p>
+
+<p><strong>Decreto-Lei Estadual 5/1975</strong> (Codigo Tributario do Estado do Rio de Janeiro) — institui normas gerais aplicaveis a todos os impostos, taxas e contribuicoes devidos ao Estado, incluindo regras proprias de vigencia e interpretacao que complementam o CTN no ambito fluminense. Alterado diversas vezes, inclusive pela Lei Estadual 5.367/2009.</p>
+
+<h3>Dispositivos constitucionais</h3>
+
+<p><strong>Art. 62, § 1.º, III, e § 2.º</strong> — vedação de MP sobre matéria reservada à LC; MP que institui ou majora impostos só produz efeitos no exercício seguinte, se convertida em lei até o último dia do exercício em que editada.</p>
+
+<p><strong>Art. 146</strong> — três funções da LC tributária (conflitos de competência, limitações ao poder de tributar, normas gerais). Relaciona-se diretamente com o art. 96 do CTN.</p>
+
+<p><strong>Art. 150, III, b e c</strong> — anterioridade de exercício e noventena. Superaram parcialmente o art. 104 do CTN no campo da eficácia.</p>
+
+<h3>Jurisprudência</h3>
+
+<p><strong>RE 138.284</strong> (STF, j. 1992): o CTN, embora formalmente lei ordinária, foi recepcionado pela CF/88 com status de lei complementar. Decisão que fundamenta toda a hierarquia normativa tributária.</p>
+
+<p><strong>RE 229.096</strong> (STF, Plenário, j. 2007): tratados internacionais firmados pela República Federativa do Brasil podem conceder isenções de tributos estaduais e municipais, sem violação do art. 151, III. O que atua no plano internacional é a República, não a União como ente federativo interno.</p>
+
+<p><strong>ADI 1.417-MC</strong> (STF): a MP pode regular matéria tributária, desde que não invada a reserva de LC. Reafirmou que medida provisória tem força de lei, sendo veículo idôneo para instituir e majorar tributos nos limites constitucionais.</p>
+
+<p><strong>MP e contribuicoes sociais — noventena (art. 195, par. 6, CF):</strong> em materia de contribuicoes sociais, a anterioridade e apenas nonagesimal (90 dias), sem exigencia de anterioridade de exercicio. A MP que majora contribuicao social produz efeitos 90 dias apos sua publicacao, sem necessidade de conversao em lei no mesmo exercicio — a regra do art. 62, par. 2, aplica-se exclusivamente a impostos. O termo inicial da noventena e a data de publicacao da MP originaria, nao da lei de conversao (salvo se houver alteracao substancial no texto). Esse entendimento e consolidado na jurisprudencia do STF (RE 169.740, j. 1997; RE 232.896, j. 1998).</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Este ponto exige estudo metódico. Comece pelo art. 96 do CTN e percorra até o art. 104, capítulo por capítulo, sempre relacionando os dispositivos com a Constituição. O candidato que domina a hierarquia completa — Constituição → LC/tratados → lei ordinária/MP → decreto → normas complementares — consegue resolver qualquer questão sobre conflito normativo em matéria tributária.</p>
+
+<p>Um exercicio util e comparar o art. 97 do CTN (reserva de lei) com as excecoes constitucionais a legalidade. A lista do art. 97 nao admite excecoes, mas a Constituicao, norma superior, as preve — como a alteracao de aliquotas de II, IE, IPI e IOF por decreto (art. 153, par. 1) e a reducao e restabelecimento de aliquota da CIDE-combustiveis por ato do Executivo (art. 177, par. 4, I, b). Essa convivencia entre regra legal e excecao constitucional e exatamente o tipo de raciocinio cobrado em provas discursivas.</p>
+
+<p>Quanto ao art. 98 do CTN, evite a afirmação simplista de que "tratado revoga lei interna". O correto é explicar que o tratado suspende a eficácia da legislação doméstica nas hipóteses por ele reguladas, prevalecendo pelo critério da especialidade. A lei posterior genérica não afasta o tratado. Essa precisão terminológica pode ser cobrada numa discursiva de 15 linhas.</p>
+
+<p>Para as normas complementares, decore o parágrafo único do art. 100: ele exclui penalidade, juros e correção monetária, mas <em>não</em> exclui o tributo. É uma pegadinha clássica — o contribuinte que segue uma instrução normativa equivocada continua devendo o tributo, apenas fica protegido dos acréscimos.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Art. 104 do CTN — vigencia ou eficacia?</strong> Atencao ao ambito restrito do dispositivo: ele so se aplica a <em>impostos sobre o patrimonio ou a renda</em>, nao a tributos em geral. Os tres incisos cobrem: (I) instituicao ou majoracao; (II) novas hipoteses de incidencia; (III) extincao ou reducao de isencoes (salvo lei mais favoravel ao contribuinte, observado o art. 178). Embora o CTN fale em "entram em vigor no primeiro dia do exercicio seguinte", a doutrina (Hugo de Brito Machado, Leandro Paulsen) entende tratar-se de regra de eficacia, nao de vigencia. A norma entra em vigor na data da publicacao (ou conforme a LINDB), mas seus efeitos ficam diferidos. Na pratica, o art. 150, III, b e c, da CF ja absorve essa disciplina para tributos em geral; o art. 104 tem utilidade residual limitada.
+</div>
+
+<div class="atencao">
+<strong>MP e impostos — o § 2.º do art. 62 vale apenas para impostos:</strong> a exigência de conversão em lei até o final do exercício para que a MP produza efeitos no exercício seguinte aplica-se exclusivamente a impostos (II, IE, IPI, IOF e IEG ficam fora dessa regra). Contribuições sociais, taxas e demais espécies tributárias seguem a regra geral de anterioridade sem essa condição adicional. A banca pode explorar essa distinção apresentando MP que majora contribuição social — nesse caso, basta observar a noventena (art. 195, § 6.º), sem necessidade de conversão em lei no exercício.
+</div>
+
+<div class="atencao">
+<strong>Art. 100, parágrafo único — a proteção é parcial:</strong> a observância de norma complementar exclui penalidade, juros e atualização monetária, mas o tributo continua devido. O candidato que afirmar que o contribuinte está dispensado do tributo por seguir instrução normativa cometerá erro grave. A proteção é à boa-fé e à confiança legítima, não uma isenção implícita.
+</div>
+
+<div class="atencao">
+<strong>Tratado tributario e lei posterior:</strong> nao afirme que "tratado e hierarquicamente superior a lei ordinaria". A posicao do STF para tratados comuns (nao de direitos humanos) e de paridade com a lei ordinaria, com a ressalva de que, em materia tributaria, o art. 98 do CTN impoe a prevalencia do tratado pelo criterio da especialidade. Tratados de direitos humanos, por sua vez, tem status supralegal (RE 466.343, j. 03/12/2008). A distincao importa porque o fundamento da prevalencia do tratado tributario nao e hierarquico, mas de especialidade.
+</div>
+
+<div class="atencao">
+<strong>CE/RJ e medida provisoria estadual:</strong> a Constituicao Estadual do Rio de Janeiro NAO preve medida provisoria como especie normativa do processo legislativo estadual. Apenas seis Estados brasileiros a preveem (TO, SC, AC, PI, PB e MA). Em questao sobre legislacao tributaria estadual do RJ, nao e possivel cogitar a utilizacao de MP estadual para instituir ou majorar tributos como ICMS ou ITCMD. Toda alteracao da legislacao tributaria fluminense exige lei em sentido formal (ordinaria ou complementar, conforme o caso) aprovada pela ALERJ.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>RE 138.284</strong> (STF, Plenário, j. 01/07/1992): reconheceu que o CTN foi recepcionado com status de lei complementar pela CF/88, embora aprovado formalmente como lei ordinária (Lei 5.172/1966). O fundamento é que a CF/67, sob a qual o CTN foi editado, não exigia lei complementar para normas gerais de direito tributário — essa exigência surgiu com a CF/88. Como o conteúdo do CTN corresponde a normas gerais, ele foi recepcionado com a força de LC. Consequência prática: só outra LC pode revogar ou alterar dispositivos do CTN.</p>
+
+<p><strong>RE 229.096</strong> (STF, Plenário, j. 16/08/2007): tratado internacional pode conceder isenção de tributo estadual. O GATT isentava o ICM (hoje ICMS) sobre mercadoria importada equiparando-a à similar nacional isenta. O STF entendeu que não há violação do art. 151, III (isenção heterônoma), porque quem celebra o tratado é a República Federativa do Brasil — entidade diversa da União enquanto ente federativo. Tese de enorme importância prática, especialmente diante da multiplicação de TDTs e acordos comerciais.</p>
+
+<p><strong>RE 466.343</strong> (STF, Plenário, j. 03/12/2008): embora não propriamente tributário, fixou que tratados de direitos humanos não incorporados pelo rito do art. 5.º, § 3.º, têm status supralegal. Para tratados tributários comuns, porém, a posição prevalente é de paridade hierárquica com lei ordinária, com prevalência pelo critério da especialidade (art. 98 CTN).</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><strong>Tema 1.383 — anterioridade e revogacao de beneficios fiscais</strong> (RE 1.473.645/PA, STF, Plenario, j. 22/03/2025, Rel. Min. Luis Roberto Barroso, unanimidade): o STF fixou em repercussao geral que "o principio da anterioridade tributaria, geral e nonagesimal, se aplica as hipoteses de reducao ou de supressao de beneficios ou de incentivos fiscais que resultem em majoracao indireta de tributos, observadas as determinacoes e as excecoes constitucionais para cada tributo." A decisao e diretamente relevante para o art. 104, III, do CTN (extincao ou reducao de isencoes) e para a atuacao da PGE/RJ em materia de ICMS: a revogacao de beneficios fiscais estaduais deve observar a anterioridade, sob pena de inconstitucionalidade.</p>
+
+<p><strong>ADIs 7.912 e 7.914</strong> (STF, Rel. Min. Nunes Marques, dez/2025): questionam a Lei 15.270/2025, que instituiu a tributacao sobre lucros e dividendos, por violacao ao principio da anterioridade. O Ministro Relator concedeu medida cautelar prorrogando prazos para cumprimento das exigencias legais, reconhecendo a inexequibilidade de norma publicada em 26/11/2025 com efeitos a partir de 01/01/2026. Pendente de referendo pelo Plenario (sessao virtual de 13 a 24/02/2026). Demonstra a vitalidade pratica do tema da vigencia e eficacia das normas tributarias.</p>
+
+<p><strong>LC 214/2025</strong> (sancionada em 16/01/2025): regulamentou a EC 132/2023, instituindo o IBS, a CBS e o Imposto Seletivo. A lei cria regras proprias de vigencia para o novo sistema durante o periodo de transicao (2026-2033), coexistindo com as regras do CTN que continuam aplicaveis aos tributos remanescentes (ICMS, ISS, PIS, COFINS, IPI parcialmente). A <strong>LC 227/2026</strong> (sancionada em 13/01/2026), segunda lei complementar da reforma, criou o Comite Gestor do IBS e regulamentou o ITCMD sobre bens no exterior — ampliando ainda mais o quadro normativo em materia de vigencia tributaria.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Fontes da legislação tributária — hierarquia e vigência</h3>
+
+<table>
+<tr>
+<th>Fonte</th>
+<th>Fundamento</th>
+<th>Vigência</th>
+</tr>
+<tr>
+<td>Constituição Federal e ECs</td>
+<td>Poder constituinte originário / derivado</td>
+<td>Publicação (salvo anterioridade)</td>
+</tr>
+<tr>
+<td>Lei Complementar</td>
+<td>Art. 146 CF / arts. 148, 154 I, 195 § 4.º</td>
+<td>LINDB ou data da lei (+ anterioridade)</td>
+</tr>
+<tr>
+<td>Tratados internacionais</td>
+<td>Art. 98 CTN — especialidade</td>
+<td>Decreto de promulgação</td>
+</tr>
+<tr>
+<td>Lei Ordinária</td>
+<td>Art. 97 CTN — veículo padrão</td>
+<td>LINDB ou data da lei (+ anterioridade)</td>
+</tr>
+<tr>
+<td>Medida Provisória</td>
+<td>Art. 62, § 2.º CF (impostos)</td>
+<td>Imediata (eficácia sujeita à anterioridade e conversão em lei para impostos)</td>
+</tr>
+<tr>
+<td>Lei Delegada</td>
+<td>Art. 68 CF (vedada matéria de LC)</td>
+<td>LINDB ou data da lei</td>
+</tr>
+<tr>
+<td>Resoluções do Senado</td>
+<td>Arts. 155, § 1.º, IV; § 2.º, IV e V</td>
+<td>Publicação</td>
+</tr>
+<tr>
+<td>Decretos</td>
+<td>Art. 99 CTN — regulamentação</td>
+<td>Publicação</td>
+</tr>
+<tr>
+<td>Normas complementares (art. 100)</td>
+<td>Atos normativos, decisões, práticas, convênios</td>
+<td>Art. 103 CTN (publicação / 30 dias / data prevista)</td>
+</tr>
+</table>
+
+<h3>Vigência das normas complementares (art. 103 do CTN)</h3>
+
+<table>
+<tr>
+<th>Tipo de norma complementar</th>
+<th>Início da vigência</th>
+</tr>
+<tr>
+<td>Atos normativos (IN, portarias, OS)</td>
+<td>Data da publicação, salvo disposição contrária</td>
+</tr>
+<tr>
+<td>Decisões administrativas com eficácia normativa</td>
+<td>30 dias após a publicação, salvo disposição contrária</td>
+</tr>
+<tr>
+<td>Convênios entre entes federados</td>
+<td>Na data neles prevista</td>
+</tr>
+<tr>
+<td>Práticas reiteradamente observadas</td>
+<td>Não há data formal — vigência decorre do uso contínuo</td>
+</tr>
+</table>
+
+<h3>Art. 97 do CTN — matérias sujeitas à reserva legal</h3>
+
+<table>
+<tr>
+<th>Inciso</th>
+<th>Matéria</th>
+</tr>
+<tr>
+<td>I</td>
+<td>Instituicao de tributos ou sua extincao</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Majoracao de tributos ou sua reducao, ressalvadas as excecoes constitucionais (arts. 21, 26, 39, 57 e 65)</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Definição do fato gerador da obrigação tributária principal, ressalvado o disposto no inciso I do § 3.º do art. 52, e do seu sujeito passivo</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Fixacao de aliquota do tributo e da sua base de calculo, ressalvadas as excecoes constitucionais</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Cominacao de penalidades para acoes ou omissoes contrarias a seus dispositivos, ou para outras infracoes nela definidas</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>Hipoteses de exclusao, suspensao e extincao de creditos tributarios, ou de dispensa ou reducao de penalidades</td>
+</tr>
+<tr>
+<td>§ 1.º</td>
+<td>Equipara à majoração a modificação da base de cálculo que a torne mais onerosa</td>
+</tr>
+<tr>
+<td>§ 2.º</td>
+<td>Atualização monetária não constitui majoração (dispensa lei)</td>
+</tr>
+</table>
+

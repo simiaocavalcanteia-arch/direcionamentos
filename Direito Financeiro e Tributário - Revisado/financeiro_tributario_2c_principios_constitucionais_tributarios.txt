@@ -1,0 +1,329 @@
+
+
+<div class="badge">Direito Financeiro e Tributário | PGE/RJ</div>
+
+<h1>Princípios Gerais e Constitucionais Tributários</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os princípios constitucionais tributários constituem as limitações ao poder de tributar, inscritas nos arts. 150 a 152 da Constituição. São direitos fundamentais do contribuinte que operam como barreira entre a competência tributária — prevista nos arts. 145, 153, 155 e 156 — e o exercício concreto dessa competência por meio de lei. O tema é transversal a toda a disciplina: qualquer questão discursiva sobre tributo específico pode exigir que o candidato demonstre domínio dos princípios aplicáveis.</p>
+
+<p>Para a PGE/RJ, a importância é dupla. De um lado, o Procurador precisa defender a higidez da legislação estadual em face de alegações de ofensa a princípios; de outro, deve reconhecer quando uma norma efetivamente viola limitação constitucional, evitando defesas insustentáveis. A EC 132/2023 (Reforma Tributária) acrescentou cinco novos princípios ao art. 145, § 3.º, além de um mandamento de progressividade no § 4.º, o que renova o tema e torna provável sua cobrança em provas vindouras. A Constituição Estadual do RJ reforça esse quadro: o art. 193 da CE/RJ consagra o princípio da justiça fiscal como vetor da atuação tributária do Estado e dos Municípios fluminenses.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>1. Legalidade tributária (art. 150, I)</h3>
+
+<p>A legalidade tributária exige lei formal para instituir ou majorar tributo. Trata-se de legalidade estrita: não basta a autorização genérica, sendo necessária a definição legal de todos os elementos da obrigação tributária — fato gerador, base de cálculo, alíquota, sujeito passivo. A Constituição, porém, prevê exceções explícitas. O Poder Executivo pode, por decreto, alterar alíquotas de II, IE, IPI e IOF (art. 153, § 1.º). Após a EC 33/2001, a CIDE-combustíveis pode ter alíquota restabelecida por ato do Executivo (art. 177, § 4.º, I, b). O ICMS-monofásico sobre combustíveis segue alíquotas fixadas por convênio CONFAZ (art. 155, § 4.º, IV). E a EC 132/2023 trouxe a possibilidade de o Poder Executivo alterar alíquotas do Imposto Seletivo nas mesmas hipóteses do IPI.</p>
+
+<p>Há uma distinção sutil entre instituição (que sempre exige lei) e mera alteração de alíquota dentro de parâmetros legais. No <strong>Tema 829</strong> (RE 838.284, j. 2016), o STF fixou tese de que não viola a legalidade a lei que, prescrevendo o teto, possibilita ao ato normativo infralegal fixar o valor de taxa em proporção razoável com os custos da atuação estatal, vedada atualização em percentual superior a índices de correção monetária legalmente previstos. Essa decisão é relevante porque define a fronteira entre delegação legítima e delegação em branco.</p>
+
+<h3>2. Isonomia tributária (art. 150, II)</h3>
+
+<p>É vedado tratamento desigual entre contribuintes que se encontrem em situação equivalente. O princípio opera em duas direções: proíbe discriminações arbitrárias e autoriza diferenciações legítimas (extrafiscalidade, progressividade, seletividade). A isonomia se complementa com princípios federativos: o art. 151, I impõe uniformidade geográfica aos tributos federais — com a ressalva de que são admitidos incentivos fiscais para promoção do equilíbrio socioeconômico entre regiões. Já o art. 152 veda a Estados, DF e Municípios estabelecer diferença tributária em razão da procedência ou destino de bens e serviços.</p>
+
+<h3>3. Irretroatividade (art. 150, III, a)</h3>
+
+<p>É vedado cobrar tributo em relação a fatos geradores ocorridos antes da vigência da lei que os houver instituído ou aumentado. O princípio se articula com o art. 106 do CTN, que admite retroatividade benigna em dois casos: (i) lei expressamente interpretativa, excluída penalidade por infração; (ii) lei mais benéfica ao infrator, quanto a ato não definitivamente julgado — seja reduzindo penalidade, seja deixando de defini-lo como infração. Essa retroatividade benigna do art. 106, II, do CTN é frequentemente cobrada em concursos de procuradorias.</p>
+
+<h3>4. Anterioridade (art. 150, III, b e c)</h3>
+
+<p>A anterioridade possui duas dimensões que se aplicam cumulativamente: a <strong>anterioridade de exercício</strong> (alínea b — a lei não pode produzir efeitos no mesmo exercício financeiro de sua publicação) e a <strong>anterioridade nonagesimal</strong> ou noventena (alínea c — mínimo de 90 dias entre publicação e eficácia). Os prazos correm simultaneamente, não sucessivamente.</p>
+
+<p>As exceções à anterioridade formam um quadro complexo que merece memorização cuidadosa. Tributos como II, IE, IOF, IEG e empréstimo compulsório de guerra não se sujeitam a nenhuma das duas anterioridades — são de eficácia imediata. O IPI e as contribuições para a seguridade social (art. 195, § 6.º) observam apenas a noventena, não a anterioridade de exercício. Já o IR e as alterações de base de cálculo de IPTU e IPVA sujeitam-se apenas à anterioridade de exercício, dispensada a noventena.</p>
+
+<div class="destaque">
+<strong>Majoração indireta e anterioridade:</strong> o STF consolidou entendimento de que a revogação ou redução de benefício fiscal equivale a majoração indireta de tributo, devendo observar o mesmo regime de anterioridade aplicável ao tributo cuja carga é indiretamente aumentada. Esse raciocínio foi firmado no RE 564.225 AgR (ICMS — revogação de benefício) e reforçado no caso REINTEGRA, em que a Corte decidiu que a redução de alíquotas do programa sujeita-se à anterioridade nonagesimal, por configurar majoração indireta de PIS/COFINS. A <strong>Súmula Vinculante 50</strong>, por outro lado, preserva a distinção: norma legal que apenas altera o prazo de recolhimento da obrigação tributária não se sujeita à anterioridade, pois não configura instituição nem majoração.
+</div>
+
+<h3>5. Vedação ao confisco (art. 150, IV)</h3>
+
+<p>O princípio veda a utilização de tributo com efeito confiscatório. A Constituição não fixa parâmetros objetivos, cabendo ao Judiciário avaliar caso a caso, à luz da proporcionalidade e da razoabilidade. Na ADI 1.075-MC, o Min. Celso de Mello definiu o não confisco como a interdição constitucional de qualquer pretensão governamental que possa conduzir à injusta apropriação estatal do patrimônio ou dos rendimentos do contribuinte.</p>
+
+<p>O STF estende a vedação ao confisco às <strong>multas tributárias</strong>. Para multas moratórias, o parâmetro jurisprudencial aceito é de até 20% do valor do tributo. Para multas punitivas (por descumprimento de obrigações acessórias ou sonegação), a Corte tem declarado confiscatórias aquelas superiores a 100% do tributo devido, embora não haja tese vinculante com percentual fixo. Esse é um tema recorrente no STF, com diversos julgados reconhecendo o caráter confiscatório de multas de 300% ou 500%.</p>
+
+<h3>6. Liberdade de tráfego (art. 150, V)</h3>
+
+<p>É vedado estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público. O STF, no julgamento da ADI 800 (2014), decidiu que o pedágio cobrado pela efetiva utilização de rodovias tem natureza de preço público (tarifa), e não de taxa.</p>
+
+<h3>7. Capacidade contributiva (art. 145, § 1.º)</h3>
+
+<p>O § 1.º do art. 145 determina que, "sempre que possível", os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte. Durante décadas, a jurisprudência entendia que a progressividade (instrumento de concretização da capacidade contributiva) aplicava-se apenas a impostos pessoais. Esse entendimento mudou radicalmente com o <strong>RE 562.045</strong> (Tema 21, j. 2013), em que o STF declarou constitucional a progressividade do ITCMD, reconhecendo que a capacidade contributiva se aplica a <em>todos</em> os impostos, pessoais ou reais. A EC 132/2023 positivou essa orientação ao tornar obrigatória a progressividade do ITCMD (art. 155, § 1.º, VI).</p>
+
+<p>No caso do IPTU, a progressividade fiscal foi autorizada pela EC 29/2000 (art. 156, § 1.º, I), e a progressividade extrafiscal (função social da propriedade) está no art. 182, § 4.º, II. Já para o IPVA, não há previsão constitucional expressa de progressividade, e o tema permanece controverso nos tribunais.</p>
+
+<h3>8. Novos princípios — EC 132/2023 (art. 145, § 3.º)</h3>
+
+<p>A Reforma Tributária introduziu expressamente cinco princípios que passam a reger o sistema tributário (art. 145, § 3.º): <strong>simplicidade</strong>, <strong>transparência</strong>, <strong>justiça tributária</strong>, <strong>cooperação</strong> e <strong>defesa do meio ambiente</strong>. O § 4.º do mesmo artigo acrescenta um mandamento adicional: "as alterações na legislação tributária buscarão atenuar efeitos regressivos". A transparência já contava com previsão no art. 150, § 5.º (lei deve esclarecer consumidores sobre impostos incidentes); agora ganha status de princípio geral. A cooperação — inspirada na "reliance relationship" do direito tributário comparado — visa substituir a lógica adversarial por uma relação colaborativa entre Fisco e contribuinte, o que repercute na interpretação de obrigações acessórias e no contencioso. A defesa do meio ambiente fundamenta a criação do Imposto Seletivo (IS) com incidência sobre bens e serviços prejudiciais à saúde e ao meio ambiente. A LC 214/2025 regulamentou os novos tributos (IBS, CBS e IS) em consonância com esses princípios, e a LC 227/2026 complementou o quadro normativo (Comitê Gestor do IBS, ITCMD sobre bens no exterior).</p>
+
+<h3>9. Princípios federativos específicos</h3>
+
+<p>Além da uniformidade geográfica (art. 151, I) e da não discriminação por origem/destino (art. 152), merece atenção a vedação de isenção heterônoma (art. 151, III): a União não pode conceder isenções de tributos estaduais e municipais. A exceção reconhecida pelo STF está nos tratados internacionais — no RE 229.096 (Plenário, Rel. Min. Ilmar Galvão, Rel. p/ acórdão Min. Cármen Lúcia, j. 16/08/2007), a Corte decidiu que tratados internacionais firmados pela República Federativa do Brasil podem conceder isenção de tributos estaduais e municipais, porque quem atua no plano internacional é a República (pessoa jurídica de direito público externo), e não a União (ente federativo interno).</p>
+
+<p>Um precedente fundamental que atravessa todos esses princípios é a <strong>ADI 939</strong> (Plenário, Rel. Min. Sydney Sanches, j. 15/12/1993), em que o STF declarou parcialmente inconstitucional a EC 3/1993 (que criou o IPMF) por violação à anterioridade e às imunidades recíprocas. A relevância dessa decisão está em ter estabelecido que as limitações constitucionais ao poder de tributar constituem cláusulas pétreas (art. 60, § 4.º, IV), por integrarem os direitos fundamentais do contribuinte. Trata-se do primeiro caso em que o STF declarou inconstitucional uma emenda constitucional.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais</h3>
+
+<p><strong>Art. 150, I a V</strong> — princípios limitadores do poder de tributar: legalidade (I), isonomia (II), irretroatividade e anterioridade (III, a, b e c), vedação ao confisco (IV) e liberdade de tráfego (V). O inciso VI trata das imunidades tributárias, que são tema específico (ponto separado do edital). Dominar as exceções de cada princípio é mais importante do que saber enunciá-los.</p>
+
+<p><strong>Art. 150, § 1.º</strong> — lista os tributos excepcionados da anterioridade e/ou da noventena. Junto com o art. 195, § 6.º (contribuições para seguridade social — 90 dias), forma o quadro completo de exceções.</p>
+
+<p><strong>Art. 145, § 1.º</strong> — capacidade contributiva. O "sempre que possível" não é faculdade do legislador: o STF interpreta como mandamento de otimização.</p>
+
+<p><strong>Art. 145, § 3.º</strong> (EC 132/2023) — simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente. <strong>Art. 145, § 4.º</strong> (EC 132/2023) — mandamento de que alterações na legislação tributária busquem atenuar efeitos regressivos. Dispositivos novos, ainda sem densificação jurisprudencial, mas com altíssimo potencial de cobrança.</p>
+
+<p><strong>Arts. 151 e 152</strong> — princípios federativos: uniformidade geográfica, vedação de tributação federal mais onerosa que a estadual correspondente (art. 151, II — pouco cobrado), vedação de isenção heterônoma (art. 151, III) e não discriminação por procedência ou destino (art. 152).</p>
+
+<h3>Legislação estadual do RJ</h3>
+
+<p><strong>CE/RJ, arts. 192 e 193</strong> — o art. 192 define que o sistema tributário estadual é regulado pela CF, por leis complementares federais, pela CE e por leis estaduais. O art. 193 consagra o princípio da <strong>justiça fiscal</strong>, determinando que o Estado e os Municípios fluminenses orientem sua atuação tributária por esse princípio e pelo uso de mecanismos fiscais prioritariamente como instrumento de realização social.</p>
+
+<p><strong>Lei Estadual 7.174/2015</strong> — disciplina o ITD (Imposto sobre Transmissão Causa Mortis e Doação) no Estado do Rio de Janeiro. Instituiu alíquotas progressivas em seis faixas (de 4% a 8%, conforme o valor em UFIR-RJ), em linha com o entendimento firmado no RE 562.045 (Tema 21). O RJ já atendia, portanto, à exigência de progressividade antes mesmo da EC 132/2023.</p>
+
+<h3>Dispositivos infraconstitucionais</h3>
+
+<p><strong>Art. 97 do CTN</strong> — desdobra o princípio da legalidade, enumerando as matérias submetidas à reserva legal: instituição, majoração, definição do fato gerador, fixação de alíquota e base de cálculo, penalidades, hipóteses de exclusão/suspensão/extinção do crédito tributário. O § 1.º equipara majoração à modificação da base de cálculo que a torne mais onerosa; o § 2.º esclarece que a mera atualização monetária não se sujeita à legalidade.</p>
+
+<p><strong>Art. 106 do CTN</strong> — retroatividade benigna da lei tributária. Aplicável a penalidades quando a lei nova deixa de definir o ato como infração ou comina penalidade menos severa, desde que o ato não esteja definitivamente julgado.</p>
+
+<p><strong>Art. 108 do CTN</strong> — métodos de integração: analogia, princípios gerais de direito tributário, princípios gerais de direito público e equidade. Com as ressalvas do § 1.º (analogia não pode exigir tributo) e § 2.º (equidade não pode dispensar tributo).</p>
+
+<h3>Jurisprudência</h3>
+
+<p><strong>RE 838.284 — Tema 829</strong> (j. 2016): não viola a legalidade tributária a lei que, prescrevendo o teto, possibilita ao ato normativo infralegal fixar o valor de taxa em proporção razoável com os custos da atuação estatal, vedada atualização superior a índices legais de correção monetária. Decisão que reconhece uma zona de delegação permitida na fixação de taxas.</p>
+
+<p><strong>RE 562.045 — Tema 21</strong> (Plenário, Rel. Min. Ricardo Lewandowski, Rel. p/ acórdão Min. Cármen Lúcia, j. 06/02/2013): é constitucional a progressividade de alíquotas do ITCMD. O STF superou entendimento anterior de que progressividade seria aplicável apenas a impostos pessoais, passando a reconhecer que a capacidade contributiva alcança impostos reais. Decisão reforçada pela EC 132/2023, que tornou obrigatória a progressividade do ITCMD (art. 155, § 1.º, VI).</p>
+
+<p><strong>RE 564.225 AgR</strong> (1.ª Turma, Rel. Min. Marco Aurélio, j. 02/09/2014): a revogação de benefício fiscal de ICMS configura majoração indireta, devendo respeitar a anterioridade tributária (exercício e noventena, conforme o tributo envolvido).</p>
+
+<p><strong>SV 50</strong>: norma legal que altera o prazo de recolhimento da obrigação tributária não se sujeita ao princípio da anterioridade.</p>
+
+<p><strong>ADI 1.075-MC</strong> (Rel. Min. Celso de Mello): definição paradigmática de confisco tributário como a interdição de qualquer pretensão governamental que conduza à injusta apropriação estatal do patrimônio do contribuinte.</p>
+
+<p><strong>RE 229.096</strong> (Plenário, Rel. Min. Ilmar Galvão, Rel. p/ acórdão Min. Cármen Lúcia, j. 16/08/2007): tratados internacionais podem conceder isenção de tributos estaduais e municipais, sem violação ao art. 151, III, porque quem atua na ordem externa é a República Federativa, e não a União.</p>
+
+<p><strong>ADI 939</strong> (Plenário, Rel. Min. Sydney Sanches, j. 15/12/1993): declarou parcialmente inconstitucional a EC 3/1993 (que criou o IPMF) por violação à anterioridade e às imunidades recíprocas. Estabeleceu que as limitações ao poder de tributar são cláusulas pétreas, por configurarem direitos fundamentais do contribuinte (art. 60, § 4.º, IV). Primeiro caso de declaração de inconstitucionalidade de emenda constitucional pelo STF.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>O estudo dos princípios tributários exige abordagem em dois níveis. No primeiro, o candidato deve internalizar a estrutura dos arts. 150 a 152 com suas exceções — são dispositivos longos, repletos de ressalvas, e a banca costuma cobrar exatamente as exceções, não a regra. No segundo nível, é necessário compreender como o STF aplica esses princípios em casos concretos, especialmente quando reconhece que determinada situação configura majoração "indireta" (revogação de benefício fiscal, alteração de obrigação acessória com reflexo econômico) e portanto sujeita-se aos princípios protetivos.</p>
+
+<p>Uma estratégia eficiente é montar um quadro pessoal das exceções à anterioridade, separando os tributos em quatro grupos: (i) os que não se sujeitam a nenhuma das anterioridades; (ii) os que observam apenas noventena; (iii) os que observam apenas anterioridade de exercício; e (iv) os que observam ambas (regra geral). Esse quadro evita confusões e pode ser reproduzido rapidamente numa resposta discursiva.</p>
+
+<p>Dê atenção especial aos novos princípios da EC 132/2023. Embora ainda não tenham sido densificados pela jurisprudência, eles oferecem oportunidade de o candidato demonstrar atualização e visão sistêmica. Numa questão sobre ICMS ou IBS, mencionar o princípio da simplicidade ou da cooperação pode enriquecer a resposta.</p>
+
+<p>Quanto à legalidade, não basta saber que tributo exige lei: é necessário compreender a distinção entre legalidade estrita (regra) e mitigações constitucionais (alíquotas por decreto), além de conhecer o Tema 829 sobre delegação na fixação de taxas. A irretroatividade deve ser estudada em conjunto com o art. 106 do CTN — a banca pode explorar situações de retroatividade benigna aplicáveis a penalidades.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Anterioridade — prazos simultâneos, não sucessivos:</strong> um erro comum é tratar as anterioridades de exercício e nonagesimal como prazos que se somam. Na verdade, correm ao mesmo tempo. Lei publicada em outubro de determinado ano só produz efeitos em 1.º de janeiro do ano seguinte (anterioridade de exercício) — que já supera os 90 dias. Mas lei publicada em novembro pode ter de aguardar até fevereiro/março seguinte para cumprir a noventena, mesmo já tendo respeitado a anterioridade de exercício.
+</div>
+
+<div class="atencao">
+<strong>Confisco e multas — sem percentual vinculante:</strong> a jurisprudência do STF não fixou tese vinculante com percentual máximo para multas. O parâmetro de 20% para multa moratória e 100% para multa punitiva aparece em julgados esparsos, mas o candidato deve apresentá-los como tendência jurisprudencial, não como regra absoluta. A banca pode explorar exatamente essa zona de indeterminação.
+</div>
+
+<div class="atencao">
+<strong>Isenção heterônoma — a exceção dos tratados:</strong> muitos candidatos afirmam categoricamente que a União não pode conceder isenção de tributos estaduais e municipais, esquecendo a exceção firmada no RE 229.096. Em prova de procuradoria estadual, demonstrar conhecimento dessa exceção — e de seus fundamentos — é especialmente valioso.
+</div>
+
+<div class="atencao">
+<strong>Capacidade contributiva não é sinônimo de progressividade:</strong> a progressividade é <em>uma</em> das técnicas de concretização da capacidade contributiva, ao lado da proporcionalidade e da seletividade. O RE 562.045 autorizou a progressividade de impostos reais, mas não obrigou todos os impostos reais a serem progressivos — depende de previsão constitucional ou legal. A obrigatoriedade de progressividade do ITCMD veio apenas com a EC 132/2023.
+</div>
+
+<div class="atencao">
+<strong>SV 50 vs. revogação de benefício fiscal:</strong> não confunda as situações. A SV 50 diz que alterar prazo de recolhimento não é majoração — logo, não sujeita à anterioridade. Já a revogação de benefício fiscal é majoração indireta — logo, sujeita à anterioridade. São raciocínios opostos que a banca pode colocar numa mesma questão para testar se o candidato domina ambos.
+</div>
+
+<div class="atencao">
+<strong>IOF: exceção constitucional completa:</strong> o IOF está excepcionado de ambas as anterioridades (exercício e noventena) pelo art. 150, § 1.º. Na tabela de exceções, II, IE, IOF, IEG e empréstimo compulsório de guerra são de eficácia imediata. A polêmica de 2025 (Decretos 12.466 e 12.499) não foi sobre a aplicabilidade da anterioridade ao IOF, mas sobre os limites da competência do Executivo para majorar alíquotas e sobre a constitucionalidade material das elevações.
+</div>
+
+<div class="atencao">
+<strong>Limitações ao poder de tributar = cláusulas pétreas:</strong> desde a ADI 939 (1993), o STF considera que as limitações ao poder de tributar integram os direitos fundamentais do contribuinte e, portanto, são cláusulas pétreas (art. 60, § 4.º, IV). Isso significa que emenda constitucional não pode suprimir princípios como legalidade, anterioridade ou imunidades recíprocas. Esse fundamento pode ser decisivo numa resposta discursiva sobre os limites da reforma tributária.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>RE 562.045 — Tema 21</strong> (Plenário, Rel. Min. Ricardo Lewandowski, Rel. p/ acórdão Min. Cármen Lúcia, j. 06/02/2013): o STF, por maioria, reconheceu a constitucionalidade da lei do Estado do Rio Grande do Sul que previa alíquotas progressivas de ITCMD. Tese: "é constitucional a fixação de alíquota progressiva para o Imposto sobre Transmissão Causa Mortis e Doação — ITCD". Superou a interpretação restritiva de que a progressividade seria reservada a impostos pessoais. A EC 132/2023 consolidou legislativamente o entendimento ao incluir no art. 155, § 1.º, VI, a obrigatoriedade de progressividade do ITCMD em razão do valor da transmissão.</p>
+
+<p><strong>RE 838.284 — Tema 829</strong> (Plenário, Rel. Min. Dias Toffoli, j. 19/10/2016): questão da delegação legislativa na fixação de taxas. O relator distinguiu entre tributos vinculados (taxas) e não vinculados (impostos), admitindo que, nas taxas, a lei pode fixar o teto e delegar ao ato infralegal a fixação do valor concreto, desde que proporcional ao custo da atuação estatal. Tese: "não viola a legalidade tributária a lei que, prescrevendo o teto, possibilita ao ato normativo infralegal fixar o valor de taxa em proporção razoável com os custos da atuação estatal, vedada a atualização do valor assim fixado em percentual superior aos índices de correção monetária legalmente previstos".</p>
+
+<p><strong>SV 50</strong> (aprovada em 17/06/2015): "norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade". Decorre do entendimento de que alteração de prazo de pagamento não configura instituição nem majoração de tributo.</p>
+
+<p><strong>RE 229.096</strong> (Plenário, Rel. Min. Ilmar Galvão, Rel. p/ acórdão Min. Cármen Lúcia, j. 16/08/2007): discutiu-se se o GATT poderia isentar o ICM (antigo ICMS) sobre mercadoria importada. O STF entendeu que sim: a isenção concedida por tratado internacional não viola o art. 151, III (vedação de isenção heterônoma), porque o tratado é firmado pela República Federativa do Brasil como pessoa jurídica de direito público externo, e não pela União como ente federativo.</p>
+
+<p><strong>ADI 939</strong> (Plenário, Rel. Min. Sydney Sanches, j. 15/12/1993): ao julgar parcialmente inconstitucional a EC 3/1993 (IPMF), o STF firmou que as limitações ao poder de tributar (anterioridade, imunidades recíprocas) são cláusulas pétreas. Precedente fundante da proteção constitucional do contribuinte e primeiro caso de declaração de inconstitucionalidade de emenda constitucional no Brasil.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><strong>ARE 1.285.177 — Tema 1.108</strong> (Plenário virtual, Rel. Min. Cristiano Zanin, sessão encerrada em 23/05/2025, 8x3): o STF decidiu que a redução das alíquotas do REINTEGRA por decreto presidencial sujeita-se à anterioridade nonagesimal (art. 195, § 6.º), por configurar majoração indireta de PIS e COFINS. Tese fixada: "as reduções do percentual do crédito a ser apurado no REINTEGRA, bem como a revogação do benefício, acarretam majoração indireta de contribuições ao PIS e à COFINS e devem observar, quanto à sua vigência, o princípio da anterioridade nonagesimal previsto no art. 195, § 6.º, da Constituição Federal, não se lhes aplicando o princípio da anterioridade geral ou de exercício, previsto no art. 150, III, b". A decisão firmou, como ratio decidendi, que a redução ou supressão de benefícios fiscais deve observar a anterioridade conforme o regime do tributo cuja carga é indiretamente majorada.</p>
+
+<p><strong>Crise do IOF — Decretos 12.466 e 12.499/2025:</strong> em maio de 2025, o Poder Executivo editou o Decreto 12.466/2025, que elevou substancialmente alíquotas do IOF sobre crédito, câmbio e seguros. Após forte repercussão, sobreveio o Decreto 12.467/2025 (recuo parcial), seguido do Decreto 12.499/2025 (consolidação). O Congresso aprovou o Decreto Legislativo 176/2025, sustando os efeitos dos três decretos. Em decisão cautelar conjunta nas ADIs 7.827 e 7.839 e na ADC 96 (Rel. Min. Alexandre de Moraes, 16/07/2025), o STF restabeleceu parcialmente a eficácia dos decretos com efeito retroativo. O IOF está constitucionalmente excepcionado tanto da anterioridade de exercício quanto da noventena (art. 150, § 1.º, c/c art. 153, V), mas a crise reacendeu o debate sobre os limites da competência do Executivo para alterar alíquotas e sobre o controle congressual (art. 49, V, CF). O julgamento de mérito pelo Plenário ainda está pendente.</p>
+
+<p><strong>Tema 1.195 (RE 1.335.293) — multas confiscatórias:</strong> encontra-se pendente no STF a definição de tese vinculante sobre a possibilidade de fixação de multa tributária punitiva (não qualificada) em montante superior a 100% do tributo devido. O Rel. Min. Luiz Fux reconheceu repercussão geral em 2022. A jurisprudência atual aponta para o limite de 100% do tributo como parâmetro para multas punitivas simples e 20% para multas moratórias, mas ainda sem tese vinculante. A definição desse tema impactará diretamente a atuação das Procuradorias de Estado.</p>
+
+<p><strong>EC 132/2023, LC 214/2025 e LC 227/2026 — novos princípios e ITCMD progressivo:</strong> a LC 214/2025 (sancionada em 16/01/2025) regulamentou o IBS, a CBS e o Imposto Seletivo, dando concretude aos princípios de simplicidade e neutralidade. A LC 227/2026 (sancionada em 13/01/2026) criou o Comitê Gestor do IBS e regulamentou o ITCMD sobre bens no exterior. Com a obrigatoriedade de progressividade do ITCMD, os Estados que ainda mantinham alíquota fixa (como São Paulo) iniciaram reformas legislativas. O Rio de Janeiro já atendia à exigência desde a Lei Estadual 7.174/2015, que prevê seis faixas progressivas (4% a 8%). Os primeiros questionamentos sobre os novos modelos de progressividade de outros Estados já chegam ao Judiciário.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Exceções à anterioridade tributária</h3>
+
+<table>
+<tr>
+<th>Tributo / Situação</th>
+<th>Anterioridade de exercício (b)</th>
+<th>Noventena (c)</th>
+</tr>
+<tr>
+<td>II, IE, IOF</td>
+<td>Não se aplica</td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>IEG (art. 154, II)</td>
+<td>Não se aplica</td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>Empréstimo compulsório — guerra/calamidade (art. 148, I)</td>
+<td>Não se aplica</td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>IPI</td>
+<td>Não se aplica</td>
+<td><strong>Aplica-se</strong></td>
+</tr>
+<tr>
+<td>Contribuições para seguridade social (art. 195, § 6.º)</td>
+<td>Não se aplica</td>
+<td><strong>Aplica-se</strong> (90 dias)</td>
+</tr>
+<tr>
+<td>CIDE-combustíveis (restabelecimento de alíquota)</td>
+<td>Não se aplica</td>
+<td><strong>Aplica-se</strong></td>
+</tr>
+<tr>
+<td>ICMS-monofásico combustíveis (restabelecimento)</td>
+<td>Não se aplica</td>
+<td><strong>Aplica-se</strong></td>
+</tr>
+<tr>
+<td>IR</td>
+<td><strong>Aplica-se</strong></td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>Base de cálculo do IPTU</td>
+<td><strong>Aplica-se</strong></td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>Base de cálculo do IPVA</td>
+<td><strong>Aplica-se</strong></td>
+<td>Não se aplica</td>
+</tr>
+<tr>
+<td>Demais tributos (regra geral)</td>
+<td><strong>Aplica-se</strong></td>
+<td><strong>Aplica-se</strong></td>
+</tr>
+</table>
+
+<h3>Princípios tributários — quadro geral</h3>
+
+<table>
+<tr>
+<th>Princípio</th>
+<th>Fundamento</th>
+<th>Decisão-chave</th>
+</tr>
+<tr>
+<td>Legalidade estrita</td>
+<td>Art. 150, I + art. 97 CTN</td>
+<td>Tema 829 (RE 838.284) — delegação em taxas</td>
+</tr>
+<tr>
+<td>Isonomia</td>
+<td>Art. 150, II</td>
+<td>Conecta-se com capacidade contributiva</td>
+</tr>
+<tr>
+<td>Irretroatividade</td>
+<td>Art. 150, III, a + art. 106 CTN</td>
+<td>Retroatividade benigna em penalidades</td>
+</tr>
+<tr>
+<td>Anterioridade</td>
+<td>Art. 150, III, b e c</td>
+<td>SV 50 (prazo) / RE 564.225 (benefício fiscal)</td>
+</tr>
+<tr>
+<td>Vedação ao confisco</td>
+<td>Art. 150, IV</td>
+<td>ADI 1.075-MC (Celso de Mello)</td>
+</tr>
+<tr>
+<td>Liberdade de tráfego</td>
+<td>Art. 150, V</td>
+<td>ADI 800 (pedágio = tarifa)</td>
+</tr>
+<tr>
+<td>Capacidade contributiva</td>
+<td>Art. 145, § 1.º</td>
+<td>Tema 21 (RE 562.045) — impostos reais</td>
+</tr>
+<tr>
+<td>Uniformidade geográfica</td>
+<td>Art. 151, I</td>
+<td>Exceção: incentivos regionais</td>
+</tr>
+<tr>
+<td>Vedação isenção heterônoma</td>
+<td>Art. 151, III</td>
+<td>RE 229.096 — exceção tratados</td>
+</tr>
+<tr>
+<td>Não discriminação origem/destino</td>
+<td>Art. 152</td>
+<td>Corolário do pacto federativo</td>
+</tr>
+<tr>
+<td>Simplicidade</td>
+<td>Art. 145, § 3.º (EC 132/2023)</td>
+<td>Novo — sem jurisprudência</td>
+</tr>
+<tr>
+<td>Transparência</td>
+<td>Art. 145, § 3.º + art. 150, § 5.º</td>
+<td>Novo como princípio geral</td>
+</tr>
+<tr>
+<td>Cooperação</td>
+<td>Art. 145, § 3.º (EC 132/2023)</td>
+<td>Novo — sem jurisprudência</td>
+</tr>
+<tr>
+<td>Justiça tributária</td>
+<td>Art. 145, § 3.º (EC 132/2023)</td>
+<td>Novo — sem jurisprudência</td>
+</tr>
+<tr>
+<td>Defesa do meio ambiente</td>
+<td>Art. 145, § 3.º (EC 132/2023)</td>
+<td>Fundamenta o Imposto Seletivo (IS)</td>
+</tr>
+<tr>
+<td>Atenuação de regressividade</td>
+<td>Art. 145, § 4.º (EC 132/2023)</td>
+<td>Novo — sem jurisprudência</td>
+</tr>
+</table>
+

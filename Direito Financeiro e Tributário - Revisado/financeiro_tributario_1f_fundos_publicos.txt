@@ -1,0 +1,281 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 1f — Fundos Públicos</h1>
+<p class="subtitulo">Conceito, classificação, regime jurídico dos fundos especiais (Lei 4.320), fundos constitucionais e fundos estaduais do Rio de Janeiro</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>Fundos públicos são mecanismos de vinculação de receitas a finalidades específicas, que permitem ao Estado organizar a gestão de recursos destinados a programas, serviços ou políticas determinadas. Embora a regra geral do Direito Financeiro seja a não vinculação de receitas de impostos (art. 167, IV, CF), a própria Constituição cria exceções relevantes e autoriza a instituição de fundos para áreas como saúde, educação, combate à pobreza e desenvolvimento regional.</p>
+
+<p>Para a PGE/RJ, o tema tem relevância prática considerável. O Estado do Rio de Janeiro possui diversos fundos especiais, sendo o mais importante o FECP (Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais), financiado por adicional de ICMS, que gera receita significativa e cujo regime jurídico é frequentemente questionado em juízo. Além do FECP, o Estado mantém o FECAM (Fundo Estadual de Conservação Ambiental, Lei 1.060/1986), o FUNPERJ (Fundo da PGE, LCE 111/2006), o FOT (Fundo Orçamentário Temporário, Lei 8.645/2019, validado pelo STF na ADI 5.635) e outros fundos setoriais. A Procuradoria também atua em questões envolvendo fundos de participação (FPE), FUNDEB e fundos especiais de natureza administrativa.</p>
+
+<p>O ponto conecta-se com o regime orçamentário (Ponto 1d), com o federalismo fiscal e a repartição de receitas (Ponto 1c), com as receitas públicas e a Lei 4.320 (Ponto 1d) e com a dívida pública (Ponto 1e — LC 178/2021 prevê privatizações como contrapartida do RRF, o que pode incluir fundos estaduais).</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e natureza jurídica dos fundos especiais</h3>
+
+<p>O art. 71 da Lei 4.320/1964 define fundo especial como "o produto de receitas especificadas que, por lei, se vinculam à realização de determinados objetivos ou serviços, facultada a adoção de normas peculiares de aplicação". Dessa definição extraem-se três elementos: (i) vinculação de receitas a finalidades específicas; (ii) necessidade de criação por lei; (iii) possibilidade de normas próprias de gestão.</p>
+
+<p>Os fundos especiais não possuem personalidade jurídica — são patrimônios separados ou contábeis, vinculados a determinado órgão ou entidade. Não podem contrair obrigações em nome próprio, não têm capacidade processual autônoma e não possuem servidores próprios. São instrumentos de gestão financeira, não sujeitos de direito. O órgão ou entidade a que estão vinculados responde por suas obrigações.</p>
+
+<p>O art. 165, §9º, II, da CF prevê que lei complementar estabeleça condições para a instituição e funcionamento de fundos. Essa lei complementar jamais foi editada, o que não impede a criação de fundos por leis ordinárias ou complementares específicas — a lacuna é suprida pelas regras gerais da Lei 4.320.</p>
+
+<div class="destaque">
+<p><strong>Fundos especiais e vinculação de receitas:</strong> a criação de fundo especial é exceção ao princípio da não vinculação (art. 167, IV). Duas vedações constitucionais distintas incidem sobre fundos: (i) o inciso IX do art. 167 veda a instituição de fundos de qualquer natureza sem prévia autorização legislativa; (ii) o inciso XIV, incluído pela EC 109/2021, veda a criação de fundos quando seus objetivos puderem ser alcançados mediante vinculação de receitas orçamentárias específicas ou execução direta por programação orçamentária de órgão ou entidade da administração pública. Quanto à alimentação dos fundos, a vedação de vincular receitas de impostos decorre do próprio inciso IV (com as exceções constitucionais — saúde, educação, repartição de receitas, administração tributária, combate à pobreza). Fundos alimentados por contribuições, taxas ou receitas não tributárias não sofrem essa restrição.</p>
+</div>
+
+<h3>Regime jurídico na Lei 4.320/1964</h3>
+
+<p>Os arts. 71 a 74 da Lei 4.320 disciplinam o regime dos fundos especiais:</p>
+
+<p><strong>Art. 72:</strong> a aplicação das receitas orçamentárias vinculadas a fundos especiais far-se-á por meio de dotação consignada na Lei de Orçamento ou em créditos adicionais. Os recursos do fundo integram o orçamento do ente e sua execução segue as regras orçamentárias gerais.</p>
+
+<p><strong>Art. 73:</strong> salvo determinação contrária da lei instituidora, o saldo positivo do fundo apurado em balanço será transferido para o exercício seguinte, a crédito do mesmo fundo. Essa possibilidade de "transporte de saldo" é uma das vantagens operacionais dos fundos: os recursos não utilizados em um exercício não se perdem — transitam para o exercício seguinte vinculados à mesma finalidade.</p>
+
+<p><strong>Art. 74:</strong> a lei que instituir o fundo poderá determinar normas peculiares de controle, prestação e tomada de contas, sem elidir a competência do Tribunal de Contas. Isso significa que fundos podem ter regras de controle diferenciadas, mas sempre submetidas à fiscalização do TC.</p>
+
+<h3>Classificação dos fundos</h3>
+
+<p>A doutrina classifica os fundos públicos sob diversos critérios:</p>
+
+<p><strong>Quanto à previsão normativa:</strong> fundos constitucionais (previstos na própria Constituição — FPE, FPM, FNO, FNE, FCO, FUNDEB, fundos de combate à pobreza) e fundos legais (criados por lei ordinária ou complementar — fundos estaduais e municipais específicos).</p>
+
+<p><strong>Quanto à natureza contábil:</strong> fundos de natureza contábil (mera segregação de receitas e despesas dentro do orçamento — não possuem personalidade jurídica) e fundos de natureza financeira (com patrimônio separado e regras próprias de gestão, mas igualmente sem personalidade jurídica).</p>
+
+<p><strong>Quanto à vinculação:</strong> fundos de participação (vinculados à repartição constitucional de receitas — FPE, FPM), fundos de destinação (vinculados a áreas específicas de gasto — FUNDEB, Fundo de Saúde, FECP) e fundos de financiamento (destinados a operações de crédito — FNO, FNE, FCO).</p>
+
+<h3>Principais fundos constitucionais</h3>
+
+<p><strong>FPE e FPM (art. 159, I):</strong> fundos de participação que distribuem receitas do IR e do IPI entre Estados e Municípios, respectivamente. O FPE recebe 21,5% (art. 159, I, "a"). O FPM recebe 22,5% (alínea "b") + 1% em dezembro (alínea "d", EC 55/2007) + 1% em julho (alínea "e", EC 84/2014) + 1% adicional (alínea "f", EC 112/2021), totalizando 25,5%. Estudados em detalhe no Ponto 1c (federalismo fiscal). Os critérios de distribuição do FPE foram declarados inconstitucionais pelo STF na ADI 5.069 (Plenário, Rel. Min. Cármen Lúcia, jun/2023), com modulação de efeitos para manter as regras vigentes até que nova lei seja editada (prazo prorrogado até 01/03/2026 pelo Min. Edson Fachin).</p>
+
+<p><strong>FNO, FNE e FCO (art. 159, I, "c"):</strong> fundos constitucionais de financiamento das Regiões Norte, Nordeste e Centro-Oeste. Recebem 3% do IR + IPI. Geridos por bancos oficiais (BASA, BNB e BB, respectivamente). Destinam-se a financiar o setor produtivo dessas regiões, promovendo o desenvolvimento regional.</p>
+
+<p><strong>FUNDEB (art. 212-A, incluído pela EC 108/2020):</strong> Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação. Fundo contábil de âmbito estadual, composto por 20% de receitas vinculadas (FPE, FPM, ICMS, IPI-exportação, ITCMD, IPVA, ITR/Municípios) + complementação da União (23% a partir de 2026). É o principal mecanismo de financiamento da educação básica no Brasil. Tornado permanente pela EC 108/2020 (antes, a EC 53/2006 o havia instituído com prazo de vigência de 14 anos).</p>
+
+<p><strong>Fundos de combate à pobreza (art. 82, ADCT):</strong> a EC 31/2000 criou o Fundo de Combate e Erradicação da Pobreza no âmbito federal, e o art. 82 do ADCT autorizou Estados, DF e Municípios a criar fundos equivalentes. Os Estados e o DF podem instituir adicional de até 2 pontos percentuais na alíquota do ICMS sobre produtos e serviços supérfluos (par. 1). Os Municípios podem instituir adicional de até meio ponto percentual no ISS sobre serviços supérfluos (par. 2). A EC 42/2003 validou os adicionais estaduais já instituídos, mesmo os que não observaram rigorosamente a EC 31/2000 -- ponto confirmado pelo STF no Tema 1.305 (RE 592.152, jun/2024).</p>
+
+<h3>O FECP do Rio de Janeiro</h3>
+
+<p>O Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais (FECP) é o fundo especial de maior impacto arrecadatório no Estado do Rio de Janeiro. Criado com base no art. 82 do ADCT, o FECP é financiado por adicional de 2% na alíquota do ICMS sobre a generalidade das mercadorias e serviços tributados. Excepcionalmente, o adicional é de 1% para importações postais/expressas e de 4% para energia elétrica acima de 300 kWh mensais e transporte público eletrificado.</p>
+
+<p>A legislação do FECP passou por sucessivas renovações. A Lei Complementar Estadual 210/2023 reinstituiu o fundo, revogando a Lei Estadual 4.056/2022. Os recursos devem ser aplicados em iniciativas que beneficiem pessoas em situação de vulnerabilidade social, com 5% destinados ao Fundo Estadual de Habitação de Interesse Social (Lei Estadual 4.962/2006). O fundo é gerido por Conselho Gestor com participação da sociedade civil, presidido pelo Governador ou Secretário por ele designado.</p>
+
+<div class="destaque">
+<p><strong>Contencioso sobre o FECP:</strong> o adicional de ICMS que alimenta o FECP gera frequente contencioso judicial. Contribuintes questionam a incidência do adicional sobre operações que consideram essenciais (não supérfluas), argumentando que o art. 82 do ADCT autoriza o adicional apenas sobre "produtos e serviços supérfluos". O STF já decidiu que a definição de "supérfluo" compete ao legislador estadual, conferindo margem de discricionariedade, mas a questão permanece sensível — especialmente após a seletividade do ICMS ter sido objeto de decisão relevante (RE 714.139, Tema 745).</p>
+</div>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 165, §5º, I:</strong> o orçamento fiscal compreende receitas e despesas dos fundos, órgãos e entidades da administração direta e indireta. Os fundos integram o orçamento.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 165, §9º, II:</strong> lei complementar estabelecerá condições para a instituição e funcionamento de fundos. Nunca editada integralmente.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167, IV:</strong> vedação de vinculação de receita de impostos a fundo, órgão ou despesa, salvo exceções constitucionais (repartição de receitas, saúde, educação, administração tributária, garantias).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167, IX:</strong> vedação de instituição de fundos de qualquer natureza sem prévia autorização legislativa.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167, XIV (EC 109/2021):</strong> vedação de criação de fundos quando seus objetivos puderem ser alcançados mediante vinculação de receitas orçamentárias específicas ou execução direta por programação orçamentária de órgão ou entidade da administração pública.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 212-A (EC 108/2020):</strong> FUNDEB permanente. Define fontes, percentuais e complementação da União.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 82, ADCT (EC 31/2000):</strong> autoriza Estados e Municípios a criar fundos de combate à pobreza financiados por adicional de até 2% sobre ICMS/ISS de produtos supérfluos.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 4.320/1964, arts. 71-74:</strong> regime geral dos fundos especiais. Conceito (art. 71), aplicação por dotação orçamentária (art. 72), transporte de saldo (art. 73), controle pelo TC (art. 74).</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LRF, art. 1º, §3º, I, "b":</strong> a LRF compreende, nas referências a "ente da Federação", as respectivas administrações diretas, fundos, autarquias, fundações e empresas estatais dependentes. Os fundos estão, portanto, sujeitos às regras de responsabilidade fiscal.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 7.827/1989:</strong> regulamenta os fundos constitucionais de financiamento (FNO, FNE, FCO). Define fontes, critérios de aplicação e gestão pelos bancos oficiais.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 14.113/2020:</strong> regulamenta o novo FUNDEB (permanente). Substitui a Lei 11.494/2007 (FUNDEB original). Detalha critérios de complementação da União, distribuição entre entes, aplicação mínima em remuneração de profissionais da educação (70%) e regras de transparência.</p>
+
+<h3>Legislação estadual do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>LCE 210/2023:</strong> reinstituiu o FECP. Adicional de 2% sobre ICMS. Recursos para pessoas em vulnerabilidade social. 5% destinados ao Fundo de Habitação de Interesse Social. Conselho Gestor com participação da sociedade civil.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Resolução SEFAZ 757/2025</strong> (revogou a Resolução SEFAZ 714/2024): regulamenta procedimentos operacionais do FECP, incluindo calculo do adicional (inclusive quando a aliquota do ICMS e ad rem), recolhimento e prestação de contas.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Lei Estadual 8.645/2019:</strong> institui o FOT (Fundo Orcamentario Temporario), que condiciona o gozo de beneficios fiscais de ICMS ao deposito de percentual em favor do fundo. Constitucionalidade confirmada pelo STF (ADI 5.635, Rel. Min. Luis Roberto Barroso).</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Lei Estadual 1.060/1986:</strong> cria o FECAM (Fundo Estadual de Conservação Ambiental), financiado por 5% dos royalties do petroleo e por multas ambientais, entre outras fontes. Aplicacao em projetos de conservação ambiental no territorio fluminense.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>LCE 111/2006:</strong> cria o FUNPERJ (Fundo Especial da PGE/RJ), financiado por 5% dos emolumentos extrajudiciais. Constitucionalidade validada pelo STF.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 714.139 (Tema 745, 2021):</strong> seletividade do ICMS. O STF fixou que a essencialidade do bem ou serviço limita a discricionariedade do legislador estadual na fixação de alíquotas de ICMS. Embora o julgado se refira a energia elétrica e telecomunicações, a tese repercute sobre o FECP, pois questiona se o adicional pode incidir sobre bens essenciais.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 592.152 (Tema 1.305, jun/2024):</strong> por unanimidade, o STF reafirmou que os adicionais de ICMS instituidos por Estados e DF para financiar os Fundos de Combate a Pobreza foram validados pelo art. 4 da EC 42/2003. Tese fixada: "o art. 4 da Emenda Constitucional 42/2003 validou os adicionais instituidos pelos Estados e pelo Distrito Federal para financiar os Fundos de Combate a Pobreza". Decisao crucial para o FECP/RJ.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 1.362.061 (Tema 1.275, pendente de julgamento):</strong> discute a constitucionalidade do calculo do FPM pela Uniao, com deducoes relativas a incentivos fiscais (PIN, PROTERRA), uso de portarias da STN em vez do BGU e restituicoes de IR. Tema relevante para a disciplina dos fundos de participacao.</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelos arts. 71-74 da Lei 4.320 — são apenas quatro artigos e formam o regime geral dos fundos especiais. Memorize os três elementos do conceito (vinculação de receitas, criação por lei, normas peculiares) e as duas regras práticas mais relevantes (transporte de saldo — art. 73; controle pelo TC — art. 74).</p>
+
+<p>Em seguida, mapeie os fundos constitucionais: FPE e FPM (repartição de receitas — Ponto 1c), FNO/FNE/FCO (financiamento regional), FUNDEB (educação) e fundos de combate à pobreza (art. 82, ADCT). Para cada um, saiba: fonte de receita, finalidade e base constitucional.</p>
+
+<p>Para a PGE/RJ, aprofunde-se no FECP. Conheça: a LCE 210/2023 (legislação atual), o adicional de 2% sobre ICMS, as exceções (1% para importações postais, 4% para energia), a destinação dos recursos e o contencioso judicial sobre a incidência do adicional em bens essenciais. A interseção entre FECP e seletividade do ICMS (Tema 745, RE 714.139) é um tema provável em prova da PGE/RJ.</p>
+
+<p>Conecte os fundos publicos com as tres vedacoes do art. 167: nao vinculacao de receita de impostos (inciso IV), autorizacao legislativa previa (inciso IX) e subsidiariedade na criacao de fundos (inciso XIV, EC 109/2021). A compreensao das excecoes constitucionais a essas vedacoes (saude, educacao, combate a pobreza, reparticao de receitas) e o dominio das tres decisoes recentes do STF (Tema 1.305 sobre FECP, ADI 5.635 sobre FOT/RJ, ADI 5.069 sobre FPE) sao essenciais para responder qualquer questao discursiva sobre o tema.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Fundos não têm personalidade jurídica.</strong> É erro comum afirmar que fundos são "entidades" ou "órgãos". Fundos são conjuntos patrimoniais contábeis, sem personalidade jurídica, sem capacidade processual e sem servidores próprios. Quem responde pelas obrigações do fundo é o órgão ou entidade a que está vinculado. Em prova discursiva, evite personificar o fundo.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Tres vedacoes distintas sobre fundos no art. 167.</strong> Nao confunda: (i) o inciso IV veda a vinculacao de receita de impostos a qualquer orgao, fundo ou despesa, salvo excecoes constitucionais (saude, educacao, reparticao de receitas, administracao tributaria); (ii) o inciso IX veda a instituicao de fundos de qualquer natureza sem previa autorizacao legislativa; (iii) o inciso XIV (EC 109/2021) veda a criacao de fundos quando seus objetivos puderem ser alcancados por vinculacao de receitas especificas ou execucao direta por programacao orcamentaria. Sao tres camadas de controle distintas e cumulativas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>O FECP não é ICMS — é adicional ao ICMS.</strong> A natureza jurídica do FECP é objeto de debate. Formalmente, trata-se de um adicional de alíquota de ICMS destinado a finalidade específica. Alguns autores sustentam que, sendo receita vinculada a fundo de combate à pobreza, o adicional tem natureza de contribuição. A questão é relevante porque a não cumulatividade do ICMS e as imunidades podem ou não se aplicar ao adicional do FECP, a depender da posição adotada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>O FUNDEB é permanente (EC 108/2020), mas a complementação da União é progressiva.</strong> A complementação da União ao FUNDEB não foi fixada de imediato em 23% — segue escala progressiva: 12% (2021), 15% (2022), 17% (2023), 19% (2024), 21% (2025), 23% (a partir de 2026). Cuidado para não afirmar que a complementação já atingiu o patamar final.</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.925 (Rel. Min. Ellen Gracie, Rel. p/ acordao Min. Marco Aurelio, Plenario, 19/12/2003):</strong> o STF admitiu o controle abstrato de constitucionalidade de norma orcamentaria que desviava recursos da CIDE-combustiveis de sua finalidade constitucional (art. 177, par. 4, II, CF). Embora nao trate diretamente de fundos, o precedente e relevante porque reafirmou que a vinculacao de receitas a finalidades especificas e juridicamente exigivel e pode ser controlada judicialmente.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 714.139 (Tema 745, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Dias Toffoli, Plenário, 2021):</strong> a seletividade do ICMS impõe que bens e serviços essenciais (energia elétrica, telecomunicações) tenham alíquotas menores que as aplicáveis em geral. Repercute sobre o FECP porque o adicional incide uniformemente, sem distinguir a essencialidade dos bens. A questão de saber se o adicional do FECP deve observar a seletividade permanece aberta.</p>
+
+<h3>Decisoes recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 592.152 (Tema 1.305, jun/2024):</strong> por unanimidade, o STF reafirmou a validade dos adicionais de ICMS instituidos por Estados e DF para financiar Fundos de Combate a Pobreza. Tese fixada: "o art. 4 da Emenda Constitucional 42/2003 validou os adicionais instituidos pelos Estados e pelo Distrito Federal para financiar os Fundos de Combate a Pobreza". Decisao de altissima relevancia para o FECP/RJ, pois consolida definitivamente a constitucionalidade do adicional.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 5.635 / RE 1.506.320 (Tema 1.386, 2025):</strong> o STF validou as normas do Estado do Rio de Janeiro que condicionam o gozo de beneficios fiscais de ICMS a depositos no FOT (Fundo Orcamentario Temporario, Lei Estadual 8.645/2019). Rel. Min. Luis Roberto Barroso. O Tribunal entendeu que nao se trata de criacao de novo tributo, mas de reducao parcial (10%) dos beneficios fiscais ja concedidos, medida emergencial de equilibrio fiscal. Decisao diretamente sobre fundo do RJ.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 1.362.061 (Tema 1.275, pendente de julgamento):</strong> discute a constitucionalidade da forma como a Uniao calcula o FPM, com deducoes de incentivos fiscais (PIN, PROTERRA), uso de portarias da STN em vez do BGU, e restituicoes de IR. O julgamento pode impactar o volume de recursos repassados aos Municipios e, indiretamente, a composicao do FUNDEB e de outros fundos alimentados por receitas do FPM.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 5.069 (Plenario, Rel. Min. Cármen Lúcia, jun/2023, efeitos prorrogados ate 01/03/2026):</strong> declarou inconstitucionais os criterios de distribuicao do FPE da LC 62/1989 (alterada pela LC 143/2013), com modulacao de efeitos. O prazo para o Congresso editar nova lei foi prorrogado pelo Min. Edson Fachin ate 01/03/2026. A decisao repercute sobre fundos alimentados por receitas do FPE, como o FUNDEB.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Fundo</th>
+<th>Base constitucional</th>
+<th>Fonte de receita</th>
+<th>Finalidade</th>
+</tr>
+<tr>
+<td><strong>FPE</strong></td>
+<td>Art. 159, I, "a"</td>
+<td>21,5% IR + IPI</td>
+<td>Repartição de receitas entre Estados/DF</td>
+</tr>
+<tr>
+<td><strong>FPM</strong></td>
+<td>Art. 159, I, "b","d","e","f"</td>
+<td>22,5% + 1% + 1% + 1% IR + IPI (total 25,5%)</td>
+<td>Reparticao de receitas entre Municipios</td>
+</tr>
+<tr>
+<td><strong>FNO/FNE/FCO</strong></td>
+<td>Art. 159, I, "c"</td>
+<td>3% IR + IPI</td>
+<td>Financiamento do setor produtivo (N, NE, CO)</td>
+</tr>
+<tr>
+<td><strong>FUNDEB</strong></td>
+<td>Art. 212-A (EC 108/2020)</td>
+<td>20% de FPE, FPM, ICMS, IPI-exp., ITCMD, IPVA, ITR + complementação da União (23%)</td>
+<td>Educação básica e valorização dos profissionais</td>
+</tr>
+<tr>
+<td><strong>Fundos de combate à pobreza</strong></td>
+<td>Art. 82, ADCT (EC 31/2000)</td>
+<td>Adicional de até 2% ICMS (Estados) ou ISS (Municípios) sobre supérfluos</td>
+<td>Combate e erradicação da pobreza</td>
+</tr>
+<tr>
+<td><strong>FNDR (Reforma Tributaria)</strong></td>
+<td>Art. 159-A (EC 132/2023)</td>
+<td>Aportes da Uniao: R$ 8 bi (2029) a R$ 60 bi/ano (2043)</td>
+<td>Reduzir desigualdades regionais (infraestrutura, inovacao, atividades produtivas)</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Lei 4.320/1964</th>
+<th>LRF (LC 101/2000)</th>
+</tr>
+<tr>
+<td><strong>Conceito</strong></td>
+<td>Art. 71: receitas vinculadas a objetivos/serviços</td>
+<td>Art. 1º, §3º, I: fundos que recebem transferências do Tesouro se submetem à LRF</td>
+</tr>
+<tr>
+<td><strong>Execução</strong></td>
+<td>Art. 72: dotação na LOA ou créditos adicionais</td>
+<td>Sujeitos a limites de empenho e contingenciamento</td>
+</tr>
+<tr>
+<td><strong>Saldo</strong></td>
+<td>Art. 73: transportado para exercício seguinte</td>
+<td>—</td>
+</tr>
+<tr>
+<td><strong>Controle</strong></td>
+<td>Art. 74: normas peculiares, sem elidir o TC</td>
+<td>Sujeitos aos instrumentos de transparência (arts. 48-49)</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>FECP (RJ)</th>
+</tr>
+<tr>
+<td><strong>Base constitucional</strong></td>
+<td>Art. 82, ADCT (EC 31/2000)</td>
+</tr>
+<tr>
+<td><strong>Legislação atual</strong></td>
+<td>LCE 210/2023</td>
+</tr>
+<tr>
+<td><strong>Fonte de receita</strong></td>
+<td>Adicional de 2% sobre ICMS (regra geral); 1% (importações postais); 4% (energia >300 kWh e transporte eletrificado)</td>
+</tr>
+<tr>
+<td><strong>Finalidade</strong></td>
+<td>Iniciativas para pessoas em vulnerabilidade social</td>
+</tr>
+<tr>
+<td><strong>Vinculação interna</strong></td>
+<td>5% ao Fundo Estadual de Habitação de Interesse Social</td>
+</tr>
+<tr>
+<td><strong>Gestão</strong></td>
+<td>Conselho Gestor com participação civil, presidido pelo Governador ou Secretário</td>
+</tr>
+<tr>
+<td><strong>Contencioso</strong></td>
+<td>Incidência sobre bens essenciais × art. 82 ADCT ("supérfluos"); relação com seletividade (Tema 745)</td>
+</tr>
+</table>
+
+</div>

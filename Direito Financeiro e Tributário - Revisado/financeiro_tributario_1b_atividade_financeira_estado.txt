@@ -1,0 +1,242 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 1b — Atividade Financeira do Estado</h1>
+<p class="subtitulo">Conceito, elementos, funções econômicas do Estado, controle e fiscalização da atividade financeira</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>A atividade financeira do Estado é o objeto central do Direito Financeiro. Compreende o conjunto de ações pelas quais o poder público obtém, gere e aplica recursos para satisfazer necessidades públicas. Essa atividade não existe como fim em si mesma — é instrumental: serve para que o Estado realize políticas públicas, preste serviços e concretize direitos fundamentais. Todo o arcabouço normativo de finanças públicas (CF arts. 163-169, Lei 4.320/1964, LRF) gira em torno da disciplina jurídica dessa atividade.</p>
+
+<p>Para a PGE/RJ, a relevância é direta e cotidiana. A Procuradoria defende o Estado em ações que questionam a execução orçamentária, emite pareceres sobre abertura de créditos adicionais, sobre renúncia de receita e sobre limites de endividamento. Compreender a atividade financeira em suas quatro dimensões — receita, despesa, orçamento e crédito público — é necessário para fundamentar qualquer manifestação nessas áreas.</p>
+
+<p>O ponto conecta-se intimamente com todo o programa de Direito Financeiro: a teoria geral da atividade financeira fundamenta os pontos sobre receitas públicas (1d), dívida pública (1e), fundos (1f), federalismo fiscal (1c) e princípios orçamentários. Conecta-se também com o Direito Constitucional (arts. 70-75 — controle externo; art. 174 — função regulatória do Estado; arts. 145-162 — Sistema Tributário Nacional) e com o Direito Administrativo (contratos, convênios, licitações — todas operações que envolvem despesa pública).</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e características da atividade financeira</h3>
+
+<p>Aliomar Baleeiro definiu a atividade financeira do Estado como "a procura de meios para obter recursos destinados a satisfazer necessidades públicas". De forma mais analítica, a atividade financeira abrange quatro fenômenos interdependentes: (1) a obtenção de receitas públicas (arrecadação tributária e não tributária), (2) a realização de despesas públicas (pagamento de servidores, custeio de serviços, investimentos), (3) a gestão do orçamento público (planejamento, aprovação, execução e controle dos recursos), e (4) a administração do crédito público (emissão e gestão da dívida pública).</p>
+
+<p>A atividade financeira tem três características essenciais que as bancas costumam explorar: (i) é <strong>instrumental</strong> — não constitui um fim em si mesma, mas meio para a consecução das finalidades estatais; (ii) é <strong>complexa</strong> — envolve dimensões jurídica, econômica e política; (iii) é <strong>submetida ao Direito Público</strong> — rege-se por normas de ordem pública, princípios constitucionais e controle pelos órgãos competentes (Tribunais de Contas, Poder Legislativo, Ministério Público).</p>
+
+<div class="destaque">
+<p><strong>Para a prova discursiva:</strong> a definição de Baleeiro continua sendo a mais utilizada. Mas é preciso complementá-la com a visão contemporânea: a atividade financeira não se limita a arrecadar e gastar — ela envolve planejamento (PPA, LDO, LOA), gestão fiscal responsável (LRF) e transparência (LC 131/2009, LAI). A atividade financeira do Estado Social vai além da mera fiscalidade — ela se torna instrumento de políticas públicas redistributivas e de estabilização econômica.</p>
+</div>
+
+<h3>Necessidades públicas e serviços públicos</h3>
+
+<p>A atividade financeira existe para atender necessidades públicas. Mas o que são necessidades públicas? São aquelas que o Estado, por decisão política materializada no ordenamento jurídico, decide atender mediante a alocação de recursos. A distinção entre necessidades individuais, coletivas e públicas é classicamente apresentada na doutrina: necessidades individuais são satisfeitas pelo próprio indivíduo no mercado; necessidades coletivas são sentidas por grupos sociais; necessidades públicas são aquelas que o Estado assume como suas, destinando-lhes recursos orçamentários.</p>
+
+<p>Nem toda necessidade coletiva se transforma automaticamente em necessidade pública. A "publicização" de uma necessidade depende de uma escolha política que se concretiza, juridicamente, no orçamento. É por isso que o orçamento é muito mais do que uma peça contábil — é a expressão financeira das prioridades políticas do Estado. A Constituição de 1988 reforçou essa dimensão ao vincular receitas a áreas como saúde (EC 29/2000, art. 198, §2º), educação (art. 212) e segurança pública, sinalizando que certas necessidades são constitucionalmente obrigatórias.</p>
+
+<h3>As funções econômicas do Estado (Musgrave)</h3>
+
+<p>Richard Musgrave, em sua obra clássica <em>The Theory of Public Finance</em> (1959), identificou três funções econômicas do Estado que se materializam por meio da atividade financeira. Essa classificação é frequentemente cobrada em concursos, inclusive na área jurídica:</p>
+
+<p><strong>Função alocativa:</strong> o Estado intervém para fornecer bens e serviços que o mercado não consegue ofertar adequadamente (bens públicos puros, como defesa nacional e iluminação pública) ou que oferta de maneira insuficiente (bens meritórios, como saúde e educação). A função alocativa corrige falhas de mercado — externalidades, monopólios naturais, assimetria de informação — e se materializa nas despesas orçamentárias com serviços públicos e na regulação econômica.</p>
+
+<p><strong>Função distributiva:</strong> o Estado utiliza a atividade financeira para redistribuir renda e riqueza, reduzindo desigualdades sociais. Instrumentos típicos: tributação progressiva (IR com alíquotas escalonadas), transferências diretas (Bolsa Família/Auxílio Brasil), gratuidade de serviços públicos essenciais, isenções tributárias para itens da cesta básica. A função distributiva conecta-se diretamente com os objetivos fundamentais da República (art. 3º, III — erradicar a pobreza e reduzir desigualdades).</p>
+
+<p><strong>Função estabilizadora:</strong> o Estado utiliza instrumentos fiscais (tributação e gasto público) e monetários para manter a estabilidade econômica — controle da inflação, estímulo ao emprego, equilíbrio do balanço de pagamentos. Em períodos de recessão, o Estado pode expandir gastos públicos (política fiscal expansionista); em períodos de superaquecimento, pode aumentar a carga tributária ou reduzir despesas (política fiscal contracionista). Essa função dialoga com os mecanismos da LRF (metas fiscais, limites de endividamento) e com as emendas constitucionais sobre regras fiscais (EC 95/2016, cujos dispositivos no ADCT foram revogados pela EC 126/2022, após a edição da LC 200/2023 — novo arcabouço fiscal).</p>
+
+<div class="destaque">
+<p><strong>Extrafiscalidade e a atividade financeira:</strong> a extrafiscalidade é a utilização de instrumentos fiscais (especialmente tributos) para finalidades que vão além da mera arrecadação. Quando o Estado eleva alíquotas de IPI sobre cigarros para desestimular o consumo, ou reduz alíquotas sobre itens da cesta básica para torná-los acessíveis, está exercendo função extrafiscal. A extrafiscalidade conecta a atividade financeira com as funções alocativa, distributiva e estabilizadora de Musgrave — é a manifestação tributária dessas funções econômicas.</p>
+</div>
+
+<h3>O controle da atividade financeira</h3>
+
+<p>A atividade financeira do Estado sujeita-se a um sistema de controle que se desdobra em controle interno e externo. O art. 70 da CF determina que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação de subvenções e renúncia de receitas, será exercida pelo Congresso Nacional (controle externo) e pelo sistema de controle interno de cada Poder.</p>
+
+<p>O controle externo é exercido pelo Poder Legislativo com o auxílio do Tribunal de Contas (art. 71). Os Tribunais de Contas apreciam as contas anuais do Chefe do Executivo (emitindo parecer prévio — art. 71, I) e julgam as contas dos administradores e demais responsáveis por dinheiro público (art. 71, II). Essa distinção é fundamental e já gerou farta jurisprudência.</p>
+
+<p>O controle interno é exercido por cada Poder sobre sua própria gestão (art. 74). A CF determina que os Poderes mantenham sistema de controle interno com a finalidade de avaliar o cumprimento de metas do PPA, comprovar a legalidade dos atos de gestão, avaliar resultados quanto à eficácia e eficiência e apoiar o controle externo. Os responsáveis pelo controle interno, ao tomarem conhecimento de irregularidade, devem comunicá-la ao Tribunal de Contas, sob pena de responsabilidade solidária (art. 74, §1º).</p>
+
+<h3>Fiscalização financeira e o papel dos Tribunais de Contas</h3>
+
+<p>Os Tribunais de Contas exercem função constitucional autônoma de fiscalização financeira. Não são órgãos do Poder Judiciário, mas tampouco são subordinados ao Poder Legislativo — a relação é de cooperação institucional. O TC auxilia o Legislativo, mas exerce competências próprias previstas na Constituição (art. 71, II a XI).</p>
+
+<p>No Estado do Rio de Janeiro, o controle externo é exercido pela Assembleia Legislativa (ALERJ) com o auxílio do Tribunal de Contas do Estado (TCE-RJ), composto por 7 conselheiros. O Município do Rio de Janeiro preserva o Tribunal de Contas Municipal (TCM-Rio), criado antes da CF/88 e mantido por força do art. 31, §4º. Os demais municípios fluminenses têm suas contas fiscalizadas pelo TCE-RJ.</p>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 70:</strong> define o escopo da fiscalização — contábil, financeira, orçamentária, operacional e patrimonial — e os critérios de controle: legalidade, legitimidade, economicidade, aplicação de subvenções e renúncia de receitas. O parágrafo único estabelece que qualquer pessoa física ou jurídica que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos deve prestar contas.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 71:</strong> competências do Tribunal de Contas da União. Destaque para: apreciar as contas anuais do Presidente (I); julgar as contas dos administradores (II); apreciar legalidade de atos de admissão de pessoal e concessão de aposentadorias (III); realizar inspeções e auditorias (IV); fiscalizar contas nacionais de empresas supranacionais (V); fiscalizar aplicação de recursos repassados pela União (VI); aplicar sanções (VIII); sustar atos quando verificada irregularidade (X); comunicar ao Congresso Nacional irregularidades (XI).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 74:</strong> sistema de controle interno. Cada Poder deve mantê-lo para avaliar metas do PPA, comprovar legalidade, avaliar resultados e apoiar o controle externo. O §1º estabelece dever de comunicação ao TC em caso de irregularidade, sob pena de responsabilidade solidária.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 75:</strong> normas do TCU aplicam-se, no que couber, aos Tribunais de Contas dos Estados, do DF e dos Municípios. É o princípio da simetria em matéria de controle externo.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 4.320/1964, Título VIII (Do Controle da Execução Orçamentária):</strong> arts. 75-82 tratam do controle interno (verificação da legalidade dos atos de execução orçamentária) e externo (exercido pelo Poder Legislativo). O art. 75 estabelece que o controle compreende: legalidade dos atos, fidelidade funcional e cumprimento do programa de trabalho.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 101/2000, Capítulo IX (Da Transparência, Controle e Fiscalização):</strong> arts. 48-59 da LRF disciplinam instrumentos de transparência da gestão fiscal — planos, orçamentos, LDO, relatórios de execução e de gestão fiscal, todos com ampla divulgação. O art. 48-A (incluído pela LC 131/2009) impõe a divulgação em tempo real de informações sobre execução orçamentária e financeira.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Arts. 122-134 (Capítulo VIII — Da Fiscalização Contábil, Financeira e Orçamentária):</strong> disciplinam o controle externo e interno no âmbito estadual. O art. 122 reproduz, no plano estadual, o escopo da fiscalização prevista no art. 70 da CF. O art. 123 trata da composição do TCE-RJ (7 conselheiros) e dos requisitos para investidura. Os artigos seguintes detalham as competências do TCE-RJ — emitir parecer prévio sobre as contas anuais do Governador, julgar as contas dos administradores públicos estaduais, fiscalizar a aplicação de recursos e aplicar sanções.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Controle interno:</strong> a CE/RJ prevê que cada Poder e o Ministério Público mantenham sistema de controle interno integrado, com finalidades análogas às previstas no art. 74 da CF — avaliar metas do PPA, comprovar a legalidade dos atos de gestão, avaliar resultados e apoiar o controle externo.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 848.826/CE (Tema 835, 2016):</strong> o Plenário, ao fixar tese para fins de inelegibilidade (LC 64/1990), consolidou a distinção entre contas de governo e contas de gestão. Para o contexto eleitoral, a apreciação de ambas compete às Câmaras Municipais, com parecer prévio do TC. Fora desse contexto, a competência dos Tribunais de Contas para julgar diretamente as contas de gestão permanece intacta (ARE 1.436.197, Tema 1.287). A distinção entre "contas de governo" e "contas de gestão" é central para o controle da atividade financeira.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 729.744/MG (Tema 157, Rel. Min. Gilmar Mendes, Plenário, 2016):</strong> fixou a tese de que o parecer técnico elaborado pelo Tribunal de Contas tem natureza meramente opinativa, competindo exclusivamente à Câmara de Vereadores o julgamento das contas anuais do Chefe do Poder Executivo local, sendo incabível o julgamento ficto por decurso de prazo. Julgado conjuntamente com o RE 848.826 (Tema 835), os dois recursos compõem o quadro jurisprudencial sobre a divisão de competências entre TC e Legislativo no controle das contas municipais.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADPF 982/PR (Rel. Min. Flávio Dino, Plenário, fev. 2025):</strong> o STF, por unanimidade, decidiu que os Tribunais de Contas possuem competência constitucional para julgar as contas de gestão de prefeitos quando atuam como ordenadores de despesa, podendo imputar débitos e aplicar sanções fora da esfera eleitoral, independentemente de ratificação pelas Câmaras Municipais. A decisão complementa e aprofunda o Tema 835, esclarecendo que a atuação direta do prefeito na ordenação de despesas atrai a competência julgadora (não apenas opinativa) do TC.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Rel. Min. Alexandre de Moraes, Plenário, 2020):</strong> julgamento da constitucionalidade da LRF. Declarou inconstitucionais: art. 9º, §3º (limitação de empenho por ato unilateral do Executivo sobre outros Poderes); art. 23, §1º (parcialmente inconstitucional sem redução de texto — não permite interpretação que autorize redução de vencimentos de servidores) e §2º (redução temporária de jornada com adequação de vencimentos); arts. 56, caput, e 57, caput (distorção do modelo constitucional de prestação de contas). Conferiu interpretação conforme ao art. 12, §2º e ao art. 21, II. Manteve os mecanismos centrais de responsabilidade fiscal, consolidando a LRF como diploma válido em suas linhas essenciais.</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo conceito de atividade financeira do Estado e seus quatro elementos (receita, despesa, orçamento e crédito público). Domine a definição de Baleeiro e complemente com as características da atividade financeira no Estado Social contemporâneo — instrumentalidade, submissão ao Direito Público, planejamento obrigatório e transparência.</p>
+
+<p>Em seguida, estude as três funções econômicas de Musgrave (alocativa, distributiva e estabilizadora) e saiba associá-las a instrumentos concretos do Direito Financeiro: a função alocativa materializa-se nas despesas com bens públicos; a distributiva, na tributação progressiva e nos programas sociais; a estabilizadora, nas metas fiscais da LRF e no novo arcabouço fiscal. A extrafiscalidade é o ponto de encontro entre essas funções e o Direito Tributário.</p>
+
+<p>Dedique atenção especial ao controle da atividade financeira. Leia os arts. 70-75 da CF e compreenda a distinção entre controle interno e externo. Memorize a diferença entre "apreciar contas" (parecer prévio — contas de governo do Chefe do Executivo) e "julgar contas" (decisão com força de título executivo — contas de gestão dos administradores). Essa distinção, consolidada no Tema 835 e aprofundada na ADPF 982 (2025), é uma das mais cobradas em provas de Direito Financeiro.</p>
+
+<p>Conecte este ponto com o Ponto 1a (Ciência das Finanças e Direito Financeiro) — a atividade financeira é o objeto comum de ambas as disciplinas — e com o Ponto 1d (receitas públicas e regime constitucional), que aprofunda o primeiro elemento da atividade financeira.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Contas de governo vs. contas de gestão:</strong> essa distinção é uma das maiores fontes de confusão em provas. Contas de governo são as contas anuais globais do Chefe do Executivo, que refletem a gestão política do orçamento — o TC emite parecer prévio, e o Legislativo julga. Contas de gestão são os atos específicos de ordenação de despesa praticados por administradores públicos — o TC julga diretamente. Quando o prefeito atua como ordenador de despesa, suas contas de gestão são julgadas pelo TC (ADPF 982/2025), mas suas contas de governo continuam sendo julgadas pela Câmara Municipal.</p>
+</div>
+
+<div class="atencao">
+<p><strong>O TC não é órgão do Legislativo.</strong> A Constituição diz que o controle externo é exercido pelo Legislativo "com o auxílio" do TC (art. 71), mas isso não significa subordinação. O STF já reconheceu que os Tribunais de Contas possuem autonomia institucional e exercem competências próprias, não delegadas pelo Legislativo. Cuidado para não afirmar que o TC integra o Poder Legislativo — é órgão autônomo de estatura constitucional.</p>
+</div>
+
+<div class="atencao">
+<p><strong>A atividade financeira não se confunde com a atividade econômica do Estado.</strong> A atividade financeira (obter receitas, realizar despesas, gerir orçamento) é instrumental e regida pelo Direito Financeiro. A atividade econômica do Estado (exploração de atividade econômica — art. 173; regulação — art. 174) é regida pelo Direito Econômico. Embora interajam (a regulação econômica gera receitas e despesas), são disciplinas distintas com regimes jurídicos próprios.</p>
+</div>
+
+<div class="atencao">
+<p><strong>A LC 131/2009 (Lei da Transparência) é alteração da LRF.</strong> Muitos candidatos tratam a LC 131 como lei autônoma, mas na verdade ela acrescentou dispositivos à LRF (especialmente os arts. 48-A e 73-A a 73-C). Seu principal efeito foi impor a divulgação em tempo real de informações sobre execução orçamentária e financeira por todos os entes federativos, com prazos de implementação conforme o porte do ente.</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 848.826/CE (Tema 835, Rel. p/ acórdão Min. Ricardo Lewandowski, Plenário, 2016):</strong> a tese fixada foi restrita ao contexto de inelegibilidade: "para os fins do art. 1º, I, 'g', da LC 64/1990, a apreciação das contas de prefeitos, tanto as de governo quanto as de gestão, será exercida pelas Câmaras Municipais, com auxílio dos Tribunais de Contas competentes, cujo parecer prévio somente deixará de prevalecer por decisão de 2/3 dos vereadores". O alcance da tese é exclusivamente eleitoral: para fins de inelegibilidade, quem rejeita as contas (governo ou gestão) é a Câmara. Fora do contexto eleitoral, a competência do TC para julgar contas de gestão permanece intacta — o que foi reafirmado pelo ARE 1.436.197 (Tema 1.287, 2023) e pela ADPF 982 (2025).</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Rel. Min. Alexandre de Moraes, Plenário, 2020):</strong> constitucionalidade da LRF. Declarou inconstitucionais: art. 9º, §3º (limitação de empenho unilateral sobre outros Poderes); art. 23, §2º (redução temporária de jornada com adequação de vencimentos). Declarou a inconstitucionalidade parcial, sem redução de texto, do art. 23, §1º (vedando interpretação que permita redução de vencimentos de cargos providos); arts. 56, caput, e 57, caput (pareceres prévios separados por Poder). Conferiu interpretação conforme ao art. 12, §2º e ao art. 21, II. Manteve hígida a estrutura central da LRF — limites de pessoal, mecanismos de transparência, regras de endividamento. A decisão reafirmou que a responsabilidade fiscal é princípio constitucionalmente legítimo, mas não pode servir de instrumento para violação da separação de Poderes.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 6.357-MC/DF (Rel. Min. Alexandre de Moraes, 2020):</strong> durante a pandemia de Covid-19, o STF referendou medida cautelar que afastou temporariamente condicionantes fiscais da LRF e da LDO (demonstração de adequação orçamentária e compensação) para criação e expansão de programas de combate à pandemia, reconhecendo que crises excepcionais justificam flexibilização fiscal. Posteriormente, a ação foi extinta por perda de objeto, ante a superveniência da EC 106/2020 ("Orçamento de Guerra").</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADPFs 850, 851, 854 e 1.014 (Rel. Min. Rosa Weber, Plenário, dez. 2022):</strong> por 6x5, o STF declarou incompatíveis com a ordem constitucional as práticas orçamentárias que viabilizavam o chamado "orçamento secreto" — emendas do relator-geral do orçamento (RP-9) — por violação aos princípios de publicidade e transparência na execução orçamentária. A decisão determinou que emendas de relator devem destinar-se exclusivamente à correção de erros e omissões. A conexão com o controle da atividade financeira é direta: reafirmou-se que toda despesa pública deve ser transparente, identificável e passível de fiscalização pelos Tribunais de Contas.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADPF 982/PR (Rel. Min. Flávio Dino, Plenário, fev. 2025):</strong> por unanimidade, o STF decidiu que os Tribunais de Contas possuem competência constitucional para julgar as contas de gestão de prefeitos que atuam como ordenadores de despesa, podendo imputar débitos e aplicar sanções fora da esfera eleitoral, independentemente de ratificação pelas Câmaras Municipais. A decisão tem três consequências: (1) prefeitos ordenadores de despesa respondem diretamente perante o TC; (2) o TC pode aplicar sanções (multa, imputação de débito) com força de título executivo; (3) a Câmara Municipal mantém competência para julgar as contas de governo (execução global do orçamento), com efeitos eleitorais.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenário virtual, abr. 2025):</strong> por maioria, decidiu que as receitas próprias do Poder Judiciário da União — custas, emolumentos e outras fontes — destinadas a custear serviços vinculados a atividades específicas da Justiça não se submetem ao limite de despesas da LC 200/2023 (novo arcabouço fiscal). A decisão reforça a autonomia financeira do Judiciário (arts. 99 e 168, CF) e delimita o alcance do arcabouço fiscal, sem comprometer o esforço de recuperação fiscal, pois a limitação permanece para transferências orçamentárias da União.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 4.124/BA (Rel. Min. Nunes Marques, Plenário, dez. 2025):</strong> por unanimidade, decidiu que o Tribunal de Contas dos Municípios da Bahia (TCM-BA) não deve prestar suas próprias contas à Assembleia Legislativa estadual, mas sim ao TCE-BA. A decisão declarou inconstitucionais normas da Constituição baiana e da LC estadual 6/1991 que atribuíam à ALBA a competência para julgar as contas do TCM. Embora referente à Bahia, a decisão reafirma o modelo constitucional de organização dos Tribunais de Contas (arts. 70-75, CF) e repercute sobre a estrutura do controle externo em todos os Estados.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Elemento</th>
+<th>Conceito</th>
+<th>Base normativa</th>
+</tr>
+<tr>
+<td><strong>Receita pública</strong></td>
+<td>Recursos obtidos pelo Estado: tributários, patrimoniais, industriais, de transferências, de operações de crédito</td>
+<td>CF arts. 145-162; Lei 4.320/1964, Título II</td>
+</tr>
+<tr>
+<td><strong>Despesa pública</strong></td>
+<td>Dispêndios do Estado para custeio de serviços, investimentos e transferências</td>
+<td>CF arts. 165-169; Lei 4.320/1964, Título III; LRF arts. 15-24</td>
+</tr>
+<tr>
+<td><strong>Orçamento público</strong></td>
+<td>Planejamento e autorização legislativa para receita e despesa: PPA, LDO, LOA</td>
+<td>CF arts. 165-167; Lei 4.320/1964, Título V</td>
+</tr>
+<tr>
+<td><strong>Crédito público</strong></td>
+<td>Empréstimos tomados pelo Estado (dívida pública); emissão e resgate de títulos</td>
+<td>CF art. 163, II-IV; LRF arts. 29-42</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Função (Musgrave)</th>
+<th>Objetivo</th>
+<th>Instrumentos típicos</th>
+</tr>
+<tr>
+<td><strong>Alocativa</strong></td>
+<td>Ofertar bens e serviços que o mercado não fornece adequadamente</td>
+<td>Despesas com saúde, educação, segurança, infraestrutura; regulação de monopólios naturais</td>
+</tr>
+<tr>
+<td><strong>Distributiva</strong></td>
+<td>Redistribuir renda e reduzir desigualdades</td>
+<td>Tributação progressiva, transferências diretas, gratuidade de serviços, isenções tributárias</td>
+</tr>
+<tr>
+<td><strong>Estabilizadora</strong></td>
+<td>Manter estabilidade econômica (inflação, emprego, câmbio)</td>
+<td>Metas fiscais (LRF), arcabouço fiscal (LC 200/2023), política tributária anticíclica</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Contas de governo</th>
+<th>Contas de gestão</th>
+</tr>
+<tr>
+<td><strong>Natureza</strong></td>
+<td>Contas anuais globais do Chefe do Executivo</td>
+<td>Atos específicos de ordenação de despesa</td>
+</tr>
+<tr>
+<td><strong>Conteúdo</strong></td>
+<td>Execução orçamentária global, cumprimento de metas, políticas públicas</td>
+<td>Legalidade de atos de gestão: contratos, empenhos, pagamentos</td>
+</tr>
+<tr>
+<td><strong>Quem julga</strong></td>
+<td>Poder Legislativo (Câmara ou Assembleia)</td>
+<td>Tribunal de Contas (art. 71, II, CF)</td>
+</tr>
+<tr>
+<td><strong>Papel do TC</strong></td>
+<td>Parecer prévio (opinativo)</td>
+<td>Julgamento (decisão com força de título executivo)</td>
+</tr>
+<tr>
+<td><strong>Consequência eleitoral</strong></td>
+<td>Rejeição pelo Legislativo pode gerar inelegibilidade (LC 64/1990)</td>
+<td>Irregularidade julgada pelo TC gera imputação de débito e sanções administrativas; efeitos eleitorais dependem da Câmara (Tema 835)</td>
+</tr>
+<tr>
+<td><strong>Referência</strong></td>
+<td>RE 848.826 (Tema 835); ADPF 982</td>
+<td>RE 848.826 (Tema 835); ADPF 982 (2025)</td>
+</tr>
+</table>
+
+</div>
