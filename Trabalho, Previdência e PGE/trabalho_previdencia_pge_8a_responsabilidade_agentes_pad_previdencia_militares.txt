@@ -1,0 +1,187 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Responsabilidade dos Agentes Públicos, PAD e Regime de Previdência dos Militares Estaduais</h1>
+<p class="subtitulo">Ponto 8, item "a" — Responsabilidade dos agentes públicos. Responsabilidade administrativa e penal. Efeitos da decisão penal nas esferas civil e administrativa. PAD. Sindicância e inquérito. Regime de previdência dos militares estaduais</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este ponto reúne dois blocos temáticos. O primeiro — responsabilidade dos agentes públicos e processo disciplinar — exige domínio da tríplice responsabilização (administrativa, civil e penal), da independência e comunicação entre instâncias, e do rito do PAD e da sindicância. O segundo — regime de previdência dos militares estaduais — trata de um microssistema previdenciário com regras próprias, reformulado pela EC 103/2019 e pela Lei Federal nº 13.954/2019.</p>
+
+<p>Para o Procurador do Estado, ambos os temas são de alta aplicação prática. A responsabilidade dos agentes públicos é matéria cotidiana na consultoria jurídica (pareceres em PADs, sindicâncias, inquéritos) e no contencioso (ações de improbidade, ações regressivas). Já o regime previdenciário dos militares estaduais gera expressivo volume de litígios, especialmente após a reforma de 2019, com policiais militares e bombeiros questionando alíquotas, regras de reserva remunerada e pensões.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Parte I — Responsabilidade dos agentes públicos</h3>
+
+<h3>Tríplice responsabilização</h3>
+
+<p>O agente público que pratica ato ilícito no exercício de suas funções pode responder simultaneamente nas três esferas: <strong>administrativa</strong> (perante a própria Administração, via PAD), <strong>civil</strong> (obrigação de indenizar os danos causados ao erário ou a terceiros) e <strong>penal</strong> (crimes contra a Administração Pública, arts. 312-327 do CP). A regra geral é a <strong>independência das instâncias</strong>: o resultado de uma esfera não vincula automaticamente as demais (art. 125 da Lei 8.112/1990).</p>
+
+<div class="destaque">
+<strong>Exceções à independência:</strong> a absolvição penal por <strong>inexistência do fato</strong> ou <strong>negativa de autoria</strong> (art. 386, I e IV, CPP) vincula obrigatoriamente as esferas civil e administrativa, impedindo a responsabilização nessas instâncias. Da mesma forma, o reconhecimento de <strong>excludente de ilicitude</strong> na esfera penal (legítima defesa, estado de necessidade, etc.) afasta a responsabilidade civil e administrativa. Já a absolvição por insuficiência de provas <strong>não impede</strong> a punição administrativa, pois os padrões probatórios são distintos.
+</div>
+
+<h3>Responsabilidade administrativa</h3>
+
+<p>A responsabilidade administrativa é apurada mediante <strong>sindicância</strong> (procedimento sumário para infrações de menor gravidade) ou <strong>processo administrativo disciplinar</strong> (PAD — instrumento formal para infrações graves). O art. 5º, LV, da CF assegura ao acusado o contraditório e a ampla defesa.</p>
+
+<p>As penalidades administrativas incluem: advertência, suspensão (até 90 dias), demissão, cassação de aposentadoria/disponibilidade, destituição de cargo em comissão e destituição de função comissionada. A escolha da penalidade observa critérios de <strong>proporcionalidade</strong> (natureza e gravidade da infração, danos causados, circunstâncias atenuantes/agravantes, antecedentes).</p>
+
+<h3>Responsabilidade penal</h3>
+
+<p>Os crimes funcionais estão tipificados nos arts. 312-327 do CP (peculato, concussão, corrupção passiva, prevaricação, condescendência criminosa, advocacia administrativa, entre outros) e em legislação especial (Lei 8.429/1992 — improbidade; Lei 12.846/2013 — responsabilidade de pessoas jurídicas). A condenação penal pode acarretar, como efeito secundário, a <strong>perda do cargo público</strong> (art. 92, I, CP): obrigatoriamente quando houver pena privativa de liberdade ≥ 1 ano em crimes praticados com abuso de poder/violação de dever funcional, ou pena > 4 anos nos demais casos.</p>
+
+<h3>Efeitos da decisão penal na esfera administrativa</h3>
+
+<table>
+<tr><th>Resultado Penal</th><th>Efeito na Esfera Administrativa</th></tr>
+<tr><td>Absolvição por inexistência do fato (art. 386, I, CPP)</td><td>Vincula: impede responsabilização administrativa</td></tr>
+<tr><td>Absolvição por negativa de autoria (art. 386, IV, CPP)</td><td>Vincula: impede responsabilização administrativa</td></tr>
+<tr><td>Absolvição por excludente de ilicitude</td><td>Vincula: afasta responsabilidade administrativa</td></tr>
+<tr><td>Absolvição por insuficiência de provas (art. 386, VII, CPP)</td><td>Não vincula: possível punição administrativa (resíduo administrativo)</td></tr>
+<tr><td>Absolvição por atipicidade (art. 386, III, CPP)</td><td>Não vincula: o fato pode configurar infração administrativa mesmo sem ser crime</td></tr>
+<tr><td>Condenação penal</td><td>Não vincula automaticamente, mas pode ser considerada na dosimetria da sanção administrativa</td></tr>
+<tr><td>Extinção da punibilidade (prescrição, etc.)</td><td>Não vincula: a prescrição penal não extingue a responsabilidade administrativa</td></tr>
+</table>
+
+<h3>PAD — aspectos procedimentais essenciais</h3>
+
+<p>O PAD segue três fases: <strong>instauração</strong> (portaria com descrição dos fatos, composição da comissão processante de 3 servidores estáveis), <strong>inquérito administrativo</strong> (instrução probatória, oitiva do acusado e de testemunhas, alegações finais, relatório da comissão) e <strong>julgamento</strong> (decisão da autoridade competente). O prazo para conclusão é de 60 dias, prorrogável por mais 60 (art. 152, Lei 8.112/1990 — referência analógica).</p>
+
+<p>A autoridade julgadora pode acatar ou divergir do relatório da comissão. Se divergir, deve motivar expressamente a divergência. Pode utilizar <strong>fundamentação per relationem</strong> (Súmula 674/STJ, nov/2024) — isto é, motivar fazendo referência ao relatório da comissão, desde que demonstre correlação com o caso concreto.</p>
+
+<h3>Parte II — Regime de previdência dos militares estaduais</h3>
+
+<h3>Enquadramento constitucional</h3>
+
+<p>Os militares dos Estados (policiais militares e bombeiros militares) possuem regime previdenciário próprio, distinto tanto do RPPS dos servidores civis (art. 40, CF) quanto do RGPS (art. 201, CF). A EC 103/2019 alterou significativamente esse regime, ao incluir o <strong>art. 22, XXI</strong>, da CF, conferindo à <strong>União</strong> competência privativa para legislar sobre normas gerais de inatividade e pensões dos militares estaduais. Simultaneamente, atribuiu aos <strong>Estados</strong> a competência para disciplinar aspectos específicos, inclusive as alíquotas de contribuição.</p>
+
+<p>A Lei Federal nº 13.954/2019 regulamentou o sistema de proteção social dos militares das Forças Armadas e estabeleceu parâmetros gerais para os militares estaduais. Os Estados têm o prazo para adequar suas legislações a essas normas gerais.</p>
+
+<div class="destaque">
+<strong>Tema 1.177 do STF (RE 1.338.750):</strong> o Plenário decidiu que, embora a União tenha competência para editar normas gerais sobre inatividade e pensões dos militares estaduais (art. 22, XXI, CF, com redação da EC 103/2019), compete aos <strong>Estados fixar as alíquotas</strong> de contribuição previdenciária de seus próprios militares inativos e pensionistas. A Lei Federal 13.954/2019 foi declarada inconstitucional nesse ponto específico (fixação de alíquota uniforme para militares estaduais). Houve modulação: as contribuições cobradas até 1º/1/2023 foram preservadas.
+</div>
+
+<h3>Características do sistema previdenciário militar</h3>
+
+<p>O regime dos militares estaduais tem peculiaridades que o distinguem do RPPS civil:</p>
+
+<ul>
+<li><strong>Não há aposentadoria, mas "transferência para a reserva remunerada":</strong> o militar passa à inatividade por tempo de serviço, idade-limite, incapacidade ou reforma.</li>
+<li><strong>Reforma:</strong> equivale à aposentadoria por incapacidade — o militar que se torna incapaz para o serviço ativo é reformado com proventos integrais (se decorrente do serviço) ou proporcionais.</li>
+<li><strong>Reserva remunerada:</strong> o militar completa o tempo de serviço mínimo (geralmente 30 anos) e passa à reserva, percebendo proventos calculados conforme a legislação estadual.</li>
+<li><strong>Pensão militar:</strong> benefício concedido aos dependentes do militar falecido, com regras próprias de cálculo e duração.</li>
+<li><strong>Contribuição:</strong> após a EC 103/2019, os militares estaduais contribuem para o sistema previdenciário. A alíquota é fixada pelo Estado (Tema 1.177, STF).</li>
+</ul>
+
+<h3>Regime no Estado do Rio de Janeiro</h3>
+
+<p>O Rio de Janeiro possui grande contingente de policiais militares e bombeiros, o que torna o regime previdenciário dos militares estaduais uma questão fiscal de grande relevância para o Estado. O Rioprevidência (Lei Estadual nº 3.189/1999) administra os benefícios previdenciários, inclusive dos militares. A legislação estadual deve observar as normas gerais federais (Lei 13.954/2019) nos termos definidos pelo STF no Tema 1.177, mas mantém autonomia para fixar alíquotas e regras complementares.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>CF, art. 5º, LV</td><td>Contraditório e ampla defesa no PAD</td></tr>
+<tr><td>CF, art. 37, §6º</td><td>Responsabilidade objetiva do Estado e direito de regresso contra o agente</td></tr>
+<tr><td>CF, art. 22, XXI (EC 103/2019)</td><td>Competência da União para normas gerais sobre militares estaduais</td></tr>
+<tr><td>CF, art. 42</td><td>Militares dos Estados: policiais militares e bombeiros militares</td></tr>
+<tr><td>CP, arts. 312-327</td><td>Crimes contra a Administração Pública praticados por funcionário público</td></tr>
+<tr><td>CP, art. 92, I</td><td>Perda do cargo como efeito da condenação penal</td></tr>
+<tr><td>CPP, art. 386</td><td>Hipóteses de absolvição e seus efeitos nas demais esferas</td></tr>
+<tr><td>CPP, art. 66</td><td>Coisa julgada penal e efeitos civis</td></tr>
+<tr><td>Lei 8.112/1990, arts. 121-182</td><td>Responsabilidade e PAD do servidor federal — referência analógica</td></tr>
+<tr><td>Lei 13.954/2019</td><td>Sistema de proteção social dos militares: normas gerais para inatividade e pensões</td></tr>
+<tr><td>Lei Estadual 3.189/1999</td><td>Rioprevidência: fundo único de previdência do ERJ (civis e militares)</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>Súmula Vinculante nº 5 (STF)</td><td>Defesa técnica por advogado no PAD não é obrigatória</td></tr>
+<tr><td>Súmula 674/STJ (nov/2024)</td><td>Fundamentação per relationem é válida no PAD</td></tr>
+<tr><td>Súmula 611/STJ</td><td>PAD com base em denúncia anônima é legítimo</td></tr>
+<tr><td>Súmula 591/STJ</td><td>Prova emprestada no PAD é admissível</td></tr>
+<tr><td>Súmula 592/STJ</td><td>Excesso de prazo no PAD só gera nulidade com prejuízo</td></tr>
+<tr><td>Tema 1.177 (STF, RE 1.338.750)</td><td>Competência dos Estados para fixar alíquota de contribuição dos militares estaduais; inconstitucionalidade da Lei 13.954/2019 nesse ponto</td></tr>
+<tr><td>ADI 7.092 (STF, pendente)</td><td>Questiona constitucionalidade de outros dispositivos da Lei 13.954/2019 sobre militares estaduais</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Para a responsabilidade dos agentes, domine a <strong>tabela de efeitos da decisão penal nas demais esferas</strong> — esse é o tipo de conteúdo que a banca cobra em questão discursiva pedindo análise de caso concreto. Leia os arts. 386 do CPP (absolvição), 66 do CPP (coisa julgada penal) e 92, I, do CP (perda do cargo). Complemente com as súmulas do STJ sobre PAD (591, 592, 611 e 674) e a SV 5 do STF.</p>
+
+<p>Para a previdência dos militares, o foco deve ser no <strong>Tema 1.177 do STF</strong> (competência para fixar alíquotas) e nas características gerais do sistema (reserva remunerada × reforma, contribuição, competência federativa). Não é necessário decorar toda a Lei 13.954/2019, mas sim compreender o quadro constitucional de competências e as decisões do STF que moldaram a aplicação dessa lei.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Absolvição por insuficiência de provas ≠ absolvição por inexistência do fato:</strong> somente a absolvição penal por inexistência do fato ou negativa de autoria vincula a esfera administrativa. A absolvição por insuficiência de provas (art. 386, VII, CPP) não impede a punição disciplinar, porque a Administração pode se valer de outros elementos probatórios e adota padrão probatório menos rigoroso que o penal. Essa distinção é cobrada de forma recorrente.
+</div>
+
+<div class="atencao">
+<strong>Perda do cargo penal × demissão administrativa:</strong> a perda do cargo como efeito da condenação penal (art. 92, I, CP) não se confunde com a demissão aplicada em PAD. A primeira não é efeito automático — deve ser motivadamente declarada pelo juiz na sentença condenatória (art. 92, parágrafo único, CP); a segunda exige processo administrativo autônomo. As duas podem coexistir, mas cada uma segue rito próprio.
+</div>
+
+<div class="atencao">
+<strong>Militares estaduais não se submetem ao RPPS civil:</strong> o art. 40 da CF (RPPS) se aplica aos servidores civis titulares de cargos efetivos. Os militares dos Estados (art. 42, CF) possuem regime previdenciário próprio, distinto do RPPS e do RGPS. A EC 103/2019 não unificou os regimes — apenas estabeleceu que a União legislaria sobre normas gerais e os Estados sobre aspectos complementares.
+</div>
+
+<div class="atencao">
+<strong>Tema 1.177 e a competência federativa:</strong> o STF decidiu que a União pode editar normas gerais sobre inatividade e pensões dos militares estaduais, mas <strong>não pode fixar alíquota</strong> de contribuição previdenciária — essa é competência do Estado-membro. A modulação preservou as contribuições cobradas até 1º/1/2023, mas a partir daí os Estados devem legislar sobre suas próprias alíquotas.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Independência das instâncias — regra e exceções:</strong> o STJ e o STF consolidaram que a regra geral é a independência entre as esferas penal, civil e administrativa. As exceções são taxativas: absolvição por inexistência do fato, negativa de autoria ou reconhecimento de excludente de ilicitude. A absolvição por insuficiência de provas, atipicidade ou extinção da punibilidade não vincula as demais esferas.</p>
+
+<p><strong>SV 5 e defesa técnica no PAD:</strong> a questão está pacificada desde 2008 — a ausência de advogado no PAD não gera nulidade. O servidor pode se defender pessoalmente. Se não apresentar defesa, a Administração deve nomear defensor dativo.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><strong>Súmula 674/STJ (novembro de 2024):</strong> consolidou que a fundamentação per relationem é técnica válida no PAD. A autoridade julgadora pode acolher o relatório da comissão processante como razão de decidir, sem necessidade de produzir fundamentação autônoma. Precedentes: MSs 21.674/DF, 22.280/DF e 20.672/DF.</p>
+
+<p><strong>Tema 1.177 (STF) — contribuição de militares estaduais:</strong> o STF julgou em repercussão geral que a fixação de alíquotas previdenciárias para militares estaduais é competência do Estado-membro, não da União. A Lei Federal 13.954/2019 foi declarada inconstitucional no ponto em que fixava alíquota uniforme para militares de todos os Estados. A modulação preservou cobranças até 1º/1/2023. Os Estados que ainda não legislaram sobre o tema têm litígios pendentes com seus militares.</p>
+
+<p><strong>ADI 7.092 (pendente):</strong> questiona outros dispositivos da Lei 13.954/2019 relativos a militares estaduais, incluindo regras de transferência para a reserva e cálculo de proventos. O julgamento pode impactar diretamente o regime previdenciário dos policiais militares e bombeiros do Rio de Janeiro.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Tríplice responsabilização do agente público</h3>
+
+<table>
+<tr><th>Esfera</th><th>Fundamento</th><th>Penalidades</th><th>Instância Julgadora</th></tr>
+<tr><td>Administrativa</td><td>Lei 8.112/1990; lei estadual</td><td>Advertência, suspensão, demissão, cassação de aposentadoria</td><td>Autoridade administrativa (via PAD)</td></tr>
+<tr><td>Civil</td><td>Art. 37, §6º, CF; CC arts. 186-187</td><td>Indenização por danos materiais e morais ao erário ou a terceiros</td><td>Poder Judiciário (ação regressiva ou ação de improbidade)</td></tr>
+<tr><td>Penal</td><td>CP arts. 312-327; legislação especial</td><td>Penas privativas de liberdade, multa, perda do cargo (art. 92, I, CP)</td><td>Poder Judiciário (ação penal)</td></tr>
+</table>
+
+<h3>Previdência: militares estaduais × servidores civis</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Servidor Civil (RPPS)</th><th>Militar Estadual</th></tr>
+<tr><td>Base constitucional</td><td>Art. 40, CF</td><td>Art. 42, CF + art. 22, XXI (EC 103)</td></tr>
+<tr><td>Regime</td><td>RPPS (contributivo, solidário)</td><td>Sistema próprio (contributivo após EC 103)</td></tr>
+<tr><td>Inatividade</td><td>Aposentadoria (voluntária, compulsória, incapacidade)</td><td>Reserva remunerada ou reforma</td></tr>
+<tr><td>Competência legislativa</td><td>Cada ente federado sobre seu RPPS</td><td>União (normas gerais) + Estado (alíquotas e regras complementares)</td></tr>
+<tr><td>Gestão no RJ</td><td>Rioprevidência</td><td>Rioprevidência (fundo único)</td></tr>
+<tr><td>Alíquota de contribuição</td><td>Fixada pelo ente federado</td><td>Fixada pelo Estado (Tema 1.177, STF)</td></tr>
+</table>
+
+<h3>Sindicância × PAD × Inquérito</h3>
+
+<table>
+<tr><th>Instrumento</th><th>Objeto</th><th>Resultado Possível</th></tr>
+<tr><td>Sindicância investigatória</td><td>Apuração preliminar de irregularidade, sem contraditório obrigatório</td><td>Arquivamento ou instauração de PAD</td></tr>
+<tr><td>Sindicância acusatória</td><td>Apuração com contraditório para infrações leves</td><td>Advertência, suspensão até 30 dias, ou instauração de PAD</td></tr>
+<tr><td>PAD</td><td>Apuração formal de infrações graves com rito completo</td><td>Absolvição ou aplicação de qualquer penalidade</td></tr>
+<tr><td>Inquérito policial</td><td>Apuração de fato com aparência de crime</td><td>Denúncia (ação penal) ou arquivamento</td></tr>
+</table>
+
+</div>

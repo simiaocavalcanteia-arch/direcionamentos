@@ -1,0 +1,204 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Terceirização e Responsabilidade do Tomador de Serviço</h1>
+<p class="subtitulo">Ponto 2, item "b" — Vinculação legal e contratual: espécies e caracterização. Terceirização. Responsabilidade do tomador do serviço por danos materiais e morais. Súmula 331/TST. ADC 16/STF (Tema 246). ADPF 324 e Tema 725/STF</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>A terceirização é um dos temas mais litigiosos na prática da PGE/RJ. O Estado do Rio de Janeiro é tomador de serviços terceirizados em larga escala — limpeza, vigilância, manutenção, tecnologia da informação, transporte — e responde subsidiariamente por encargos trabalhistas quando as empresas prestadoras de serviço se tornam inadimplentes. A compreensão do regime jurídico da terceirização, dos limites da responsabilidade do ente público e do ônus da prova é essencial para a defesa do Estado nessas ações.</p>
+
+<p>O tema passou por profunda transformação jurisprudencial: a Súmula 331 do TST, que proibia a terceirização de atividade-fim, foi superada pelo STF no julgamento da ADPF 324 e do RE 958.252 (Tema 725), que consagraram a licitude da terceirização em qualquer atividade. Paralelamente, a ADC 16 (Tema 246) definiu que a responsabilidade da Administração Pública por débitos trabalhistas de terceirizados depende de comprovação de <strong>culpa na fiscalização</strong> — não é automática. Esse conjunto normativo e jurisprudencial é constantemente cobrado em provas de procuradorias.</p>
+
+<p>Este ponto conecta-se com os princípios do Direito do Trabalho (Ponto 1a), com os regimes funcionais (Ponto 2a), com a competência da Justiça do Trabalho (Ponto 1a) e com as prerrogativas da Fazenda Pública (Ponto 7a).</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Vinculação legal e vinculação contratual</h3>
+
+<p>A vinculação ao Estado pode ser <strong>legal</strong> (estatutária — o vínculo decorre de lei, sem contrato bilateral) ou <strong>contratual</strong> (celetista ou temporária — o vínculo decorre de contrato, ainda que regido por normas de direito público). Na terceirização, há uma terceira figura: o trabalhador terceirizado mantém vínculo contratual com a <strong>empresa prestadora</strong> (empregadora), não com o ente público (tomador). A relação entre o ente público e a empresa prestadora é de contrato administrativo de prestação de serviços, regido pela Lei 14.133/2021 (nova Lei de Licitações). Essa triangulação — tomador, prestadora e trabalhador — é a essência da terceirização lícita.</p>
+
+<h3>Conceito e espécies de terceirização</h3>
+
+<p>A terceirização é a transferência, pelo tomador, da execução de determinadas atividades a uma empresa prestadora de serviços, que contrata e remunera os trabalhadores. A Lei 6.019/1974 (com redação da Lei 13.429/2017 e da Lei 13.467/2017) define no art. 4º-A que a prestação de serviços a terceiros é a transferência feita pela contratante da execução de <strong>quaisquer de suas atividades</strong>, inclusive a atividade principal, à pessoa jurídica de direito privado prestadora de serviços com capacidade econômica compatível.</p>
+
+<p>As espécies mais comuns na Administração Pública são: (i) <strong>terceirização de serviços continuados</strong> (limpeza, vigilância, manutenção predial, recepção — serviços de apoio); (ii) <strong>terceirização de serviços especializados</strong> (TI, consultoria, engenharia); e (iii) <strong>trabalho temporário</strong> (art. 2º da Lei 6.019/1974 — prestação de serviços para atender necessidade de substituição transitória de pessoal permanente ou demanda complementar de serviços, por prazo limitado a 180 dias, prorrogável por até 90).</p>
+
+<h3>Licitude da terceirização — ADPF 324 e Tema 725/STF</h3>
+
+<p>O STF, no julgamento da ADPF 324 e do RE 958.252 (Tema 725), fixou a tese: <em>"é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante."</em> A decisão superou a antiga distinção entre atividade-meio (terceirizável) e atividade-fim (não terceirizável), que a Justiça do Trabalho aplicava com base na Súmula 331, I e III, do TST. A tese transitou em julgado em outubro de 2024.</p>
+
+<p>Isso não significa, contudo, que toda terceirização é válida. A licitude pressupõe ausência de <strong>fraude</strong>: se o trabalhador terceirizado presta serviços com pessoalidade e subordinação direta ao tomador (e não à empresa prestadora), pode haver reconhecimento de vínculo empregatício com o tomador. No caso da Administração Pública, porém, o art. 37, §2º, da CF veda a formação de vínculo de emprego sem concurso público — razão pela qual o reconhecimento de vínculo direto com o ente público é afastado, aplicando-se apenas a responsabilidade subsidiária (Súmula 331, II e V, do TST).</p>
+
+<h3>Responsabilidade subsidiária da Administração Pública — ADC 16 (Tema 246)</h3>
+
+<p>A ADC 16 (julgada em 2010) e o RE 760.931 (Tema 246, julgado em 2017) formam o binômio central para a defesa do Estado em ações trabalhistas de terceirizados. Na ADC 16, o STF declarou constitucional o art. 71, §1º, da Lei 8.666/1993. No RE 760.931, fixou a tese: <em>"o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário."</em> Em outras palavras: a responsabilidade da Administração Pública <strong>não é objetiva nem automática</strong>. Depende de demonstração de <strong>culpa</strong> — especificamente, culpa <em>in vigilando</em> (falha na fiscalização do contrato) ou culpa <em>in eligendo</em> (má escolha da contratada).</p>
+
+<p>A Súmula 331, V, do TST foi adaptada a esse entendimento: os entes públicos respondem subsidiariamente <em>"caso evidenciada a sua conduta culposa no cumprimento das obrigações da Lei nº 8.666/1993 [atual Lei 14.133/2021], especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora."</em></p>
+
+<div class="destaque">
+<p><strong>Ônus da prova — questão em aberto:</strong> o STF, nos embargos de declaração do Tema 246, não definiu expressamente a quem cabe o ônus da prova da fiscalização. O TST consolidou entendimento de que cabe à <strong>Administração Pública</strong> comprovar que fiscalizou adequadamente o contrato (ônus invertido). Na prática, isso significa que a PGE deve produzir prova documental da fiscalização (relatórios de acompanhamento, certidões de regularidade da contratada, atas de reunião com a prestadora, comprovantes de recolhimento de encargos) para afastar a responsabilidade subsidiária.</p>
+</div>
+
+<h3>Responsabilidade por danos materiais e morais</h3>
+
+<p>Além dos encargos trabalhistas stricto sensu (salários, férias, FGTS, verbas rescisórias), o tomador de serviços pode ser responsabilizado por <strong>danos materiais e morais</strong> sofridos pelo trabalhador terceirizado. Isso ocorre quando o dano tem nexo causal com o ambiente de trabalho controlado pelo tomador — especialmente em acidentes de trabalho e doenças ocupacionais. A responsabilidade pode ser <strong>solidária</strong> (quando o tomador contribuiu diretamente para o dano, por culpa concorrente ou omissão na segurança do ambiente) ou <strong>subsidiária</strong> (quando o dano decorre de conduta exclusiva da prestadora, mas o tomador falhou na fiscalização).</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 37, II</strong> — concurso público (impede vínculo direto com terceirizados). <strong>Art. 37, §2º</strong> — nulidade da contratação sem concurso. <strong>Art. 37, XXI</strong> — obrigatoriedade de licitação para contratação de serviços.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><strong>Lei 6.019/1974</strong> (com redação das Leis 13.429/2017 e 13.467/2017) — trabalho temporário e terceirização (art. 4º-A: licitude da terceirização de qualquer atividade; art. 5º-A: responsabilidade subsidiária do tomador). <strong>Lei 14.133/2021, art. 121, §1º</strong> — o inadimplemento do contratado quanto aos encargos trabalhistas não transfere à Administração a responsabilidade por seu pagamento (reproduz o antigo art. 71, §1º, da Lei 8.666/1993). <strong>CLT, art. 455</strong> — responsabilidade solidária na subempreitada.</p>
+
+<h3>Jurisprudência</h3>
+
+<p><strong>Súmula 331/TST</strong> — itens I a VI: regime da terceirização e responsabilidade (adaptada após ADC 16 e ADPF 324). <strong>ADC 16/STF (Tema 246)</strong> — responsabilidade subsidiária da Administração apenas com culpa comprovada. <strong>ADPF 324 e RE 958.252 (Tema 725)</strong> — licitude da terceirização de atividade-fim.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Este é um dos pontos mais relevantes para a prática diária da PGE/RJ e, portanto, para a prova. A banca pode apresentar caso prático: "empresa prestadora de serviços de limpeza ao Estado torna-se inadimplente com os encargos trabalhistas de seus empregados. Analise a responsabilidade do Estado." A resposta deve articular: (1) art. 121, §1º, da Lei 14.133/2021 (ausência de responsabilidade automática); (2) ADC 16/Tema 246 (responsabilidade depende de culpa); (3) Súmula 331, V, TST (culpa in vigilando na fiscalização); (4) ônus da prova (cabe ao Estado demonstrar que fiscalizou).</p>
+
+<p>Domine a tríade normativa: (1) ADPF 324/Tema 725 → a terceirização é lícita em qualquer atividade; (2) ADC 16/Tema 246 → a responsabilidade da Administração não é automática; (3) Súmula 331/TST → exige conduta culposa do ente público. Essas três referências cobrem 90% das questões sobre terceirização na Fazenda Pública.</p>
+
+<p>Memorize a diferença prática entre responsabilidade solidária e subsidiária: na solidária, o credor pode cobrar de qualquer devedor a totalidade da dívida (arts. 264 e 275, CC); na subsidiária, primeiro cobra-se do devedor principal (prestadora) e, somente na insuficiência, do subsidiário (tomador/Estado). Para a Administração Pública, a regra é a responsabilidade subsidiária (não solidária), e condicionada a culpa.</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Terceirização lícita ≠ ausência de responsabilidade:</strong> o fato de a terceirização ser lícita (Tema 725/STF) não exime o tomador de toda responsabilidade. A ADPF 324 expressamente mantém a "responsabilidade subsidiária da empresa contratante." O que o STF vedou foi a responsabilidade automática (objetiva) — a Administração responde apenas se houver culpa na fiscalização. A licitude da terceirização resolve a questão do vínculo (não se forma vínculo direto com o tomador), mas não resolve a questão da responsabilidade (que permanece subsidiária com culpa).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 37, §2º — vedação de vínculo direto com a Administração:</strong> mesmo em caso de terceirização irregular (fraude), o trabalhador terceirizado não pode ter vínculo de emprego reconhecido diretamente com o ente público, pois isso violaria a regra do concurso público (art. 37, II). A consequência da terceirização fraudulenta com a Administração Pública é a responsabilidade subsidiária (Súmula 331, II e V) e o pagamento de verbas trabalhistas pela prestadora, não a formação de vínculo com o Estado.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Ônus da prova — inversão na prática:</strong> embora o STF não tenha definido expressamente o ônus da prova no Tema 246, o TST consolidou que cabe à <strong>Administração Pública demonstrar que fiscalizou</strong> adequadamente o contrato de terceirização. Na prática forense, a PGE deve juntar documentação comprobatória: relatórios de fiscalização, certidões de regularidade fiscal e trabalhista da contratada, comprovantes de retenção de encargos, e registros de acompanhamento. A ausência dessa prova implica presunção de culpa in vigilando e condenação subsidiária.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Responsabilidade por acidente de trabalho — pode ser solidária:</strong> quando o acidente ocorre nas dependências do ente público tomador e resulta de falha no ambiente de trabalho sob seu controle (equipamentos, instalações, condições de segurança), a responsabilidade pode ser <strong>solidária</strong> (não apenas subsidiária). O tomador, ao controlar o ambiente, assume dever de segurança diretamente exigível, independentemente da relação com a prestadora. Essa hipótese é distinta da responsabilidade por encargos trabalhistas (que é subsidiária com culpa).</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>ADC 16/STF (2010) e RE 760.931 (Tema 246, 2017) — responsabilidade subsidiária da Administração</h3>
+
+<p>Na ADC 16 (2010), o STF declarou constitucional o art. 71, §1º, da Lei 8.666/1993 (atual art. 121, §1º, da Lei 14.133/2021), que afasta a responsabilidade automática da Administração. No RE 760.931 (Tema 246, julgado em 2017), fixou a tese: "o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário." As duas decisões são complementares: a ADC 16 tratou da constitucionalidade do dispositivo legal; o Tema 246 fixou a tese vinculante sobre a necessidade de culpa comprovada. A Súmula 331, V, do TST foi ajustada para exigir "conduta culposa" do ente público.</p>
+
+<h3>ADPF 324 e RE 958.252 (Tema 725/STF) — terceirização de atividade-fim</h3>
+
+<p>Tese: "é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante." Trânsito em julgado em outubro de 2024. Superou a distinção atividade-meio/atividade-fim da Súmula 331 original.</p>
+
+<h3>Súmula 331/TST — regime consolidado</h3>
+
+<p>Item I: a contratação de trabalhadores por empresa interposta é ilegal (formando vínculo com o tomador), exceto trabalho temporário. Item II: no caso de entes públicos, não se forma vínculo (art. 37, §2º, CF). Item IV: o tomador (setor privado) responde subsidiariamente, inclusive pela Administração Pública. Item V: entes públicos respondem subsidiariamente <strong>caso evidenciada conduta culposa</strong> na fiscalização. Item VI: a responsabilidade subsidiária abrange todas as verbas trabalhistas do período da prestação laboral.</p>
+
+<h3>RE 760.931 — embargos de declaração e ônus da prova</h3>
+
+<p>Nos embargos de declaração do Tema 246, o STF não se pronunciou expressamente sobre a distribuição do ônus da prova. O TST, diante desse silêncio, atribuiu à Administração Pública o ônus de comprovar que fiscalizou adequadamente o contrato. Essa orientação gera impacto direto na estratégia de defesa da PGE: a ausência de documentos comprobatórios de fiscalização leva à condenação subsidiária.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Terceirização: setor privado × Administração Pública</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Setor privado</th>
+<th>Administração Pública</th>
+</tr>
+<tr>
+<td>Terceirização de atividade-fim</td>
+<td>Lícita (Tema 725/STF)</td>
+<td>Lícita (Tema 725/STF)</td>
+</tr>
+<tr>
+<td>Formação de vínculo com terceirizado</td>
+<td>Possível se comprovada fraude</td>
+<td>Impossível (art. 37, §2º, CF)</td>
+</tr>
+<tr>
+<td>Responsabilidade por débitos trabalhistas</td>
+<td>Subsidiária (Súmula 331, IV)</td>
+<td>Subsidiária, apenas com culpa (Súmula 331, V; Tema 246)</td>
+</tr>
+<tr>
+<td>Ônus da prova</td>
+<td>Do trabalhador (regra geral)</td>
+<td>Da Administração (deve provar fiscalização)</td>
+</tr>
+<tr>
+<td>Base normativa do contrato</td>
+<td>Lei 6.019/1974, CLT</td>
+<td>Lei 14.133/2021, Lei 6.019/1974</td>
+</tr>
+</table>
+
+<h3>Responsabilidade solidária × subsidiária</h3>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Solidária</th>
+<th>Subsidiária</th>
+</tr>
+<tr>
+<td>Ordem de cobrança</td>
+<td>Qualquer devedor pode ser acionado diretamente</td>
+<td>Primeiro o devedor principal; subsidiário só na insuficiência</td>
+</tr>
+<tr>
+<td>Hipótese na terceirização</td>
+<td>Acidente de trabalho com culpa direta do tomador; subempreitada (art. 455, CLT)</td>
+<td>Encargos trabalhistas não pagos pela prestadora (regra geral)</td>
+</tr>
+<tr>
+<td>Para a Administração Pública</td>
+<td>Excepcional (dano direto pelo ente público)</td>
+<td>Regra (condicionada a culpa — Tema 246)</td>
+</tr>
+</table>
+
+<h3>Evolução jurisprudencial: terceirização na Administração Pública</h3>
+
+<table>
+<tr>
+<th>Marco</th>
+<th>Regra</th>
+<th>Efeito</th>
+</tr>
+<tr>
+<td>Súmula 331/TST (original)</td>
+<td>Atividade-fim: terceirização ilícita</td>
+<td>Vínculo direto com tomador (exceto Adm. Pública)</td>
+</tr>
+<tr>
+<td>ADC 16/STF (Tema 246)</td>
+<td>Responsabilidade não automática</td>
+<td>Exige culpa in vigilando comprovada</td>
+</tr>
+<tr>
+<td>ADPF 324 / Tema 725 (STF)</td>
+<td>Atividade-fim: terceirização lícita</td>
+<td>Supera distinção meio/fim; mantém responsabilidade subsidiária</td>
+</tr>
+<tr>
+<td>Súmula 331/TST (adaptada)</td>
+<td>Item V: culpa do ente público exigida</td>
+<td>Ônus da prova recai sobre a Administração (TST)</td>
+</tr>
+</table>
+
+</div>

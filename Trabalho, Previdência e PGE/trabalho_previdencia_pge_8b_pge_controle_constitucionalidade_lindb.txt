@@ -1,0 +1,172 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>A PGE e o Controle de Constitucionalidade. Minutas Padrão, Jurisprudência Administrativa e LINDB</h1>
+<p class="subtitulo">Ponto 8, item "b" — A PGE e o controle da constitucionalidade das normas. Papel propositivo no aperfeiçoamento da gestão pública e das medidas administrativas. Minutas padrão, uniformização da jurisprudência administrativa e LINDB</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este ponto reúne três dimensões da atuação da PGE que vão muito além da simples representação judicial: o controle de constitucionalidade das normas estaduais e municipais, o papel propositivo da advocacia pública no aperfeiçoamento da gestão e as ferramentas de uniformização da atuação administrativa (minutas padrão, súmulas, pareceres normativos). A LINDB (Lei de Introdução às Normas do Direito Brasileiro), com os artigos 20 a 30 acrescentados pela Lei nº 13.655/2018, constitui o fio condutor que amarra esses temas, ao estabelecer parâmetros de segurança jurídica, consequencialismo e motivação para as decisões administrativas.</p>
+
+<p>Para o candidato a Procurador do Estado, este é um ponto de alta relevância prática. No dia a dia da PGE, o Procurador não apenas litiga — ele também previne litígios, orienta a Administração, revisa projetos de lei, elabora minutas de contratos e pareceres que moldam a atuação estatal. A banca valoriza candidatos que demonstrem compreender essa dimensão consultiva e preventiva da advocacia pública.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>A PGE e o controle de constitucionalidade</h3>
+
+<p>A PGE participa do controle de constitucionalidade em múltiplos níveis:</p>
+
+<p><strong>Controle preventivo:</strong> a PGE exerce controle prévio de constitucionalidade quando analisa projetos de lei, decretos e atos normativos antes de sua edição. Esse controle se dá no âmbito da função consultiva: o Procurador emite parecer opinando pela inconstitucionalidade ou inadequação do ato normativo, recomendando correções antes da promulgação. É uma forma de evitar que normas inconstitucionais ingressem no ordenamento jurídico.</p>
+
+<p><strong>Controle concentrado perante o TJ:</strong> o Procurador-Geral do Estado pode propor <strong>representação de inconstitucionalidade</strong> (ADI estadual) perante o Tribunal de Justiça quando lei ou ato normativo estadual ou municipal violar a Constituição Estadual (art. 125, §2º, CF). Essa é uma das legitimidades ativas mais relevantes do PGE em defesa da ordem constitucional estadual — a CF (art. 125, §2º) exige que a Constituição Estadual confira legitimidade a mais de um órgão, vedando a concentração em ente único.</p>
+
+<p><strong>Defesa da constitucionalidade de leis estaduais:</strong> quando uma lei estadual é impugnada em ADI perante o STF, é o AGU quem defende sua constitucionalidade (art. 103, §3º, CF). Já no controle estadual (ADI perante o TJ), a defesa da constitucionalidade da lei estadual ou municipal cabe à PGE, conforme disciplinado pela legislação de cada Estado. Essa atuação como "curador da presunção de constitucionalidade" no âmbito do TJ é obrigação institucional, salvo em casos excepcionalíssimos em que a própria PGE já tenha manifestado posição contrária à norma.</p>
+
+<div class="destaque">
+<strong>Controle difuso na atuação cotidiana:</strong> o Procurador do Estado pode, em parecer jurídico, reconhecer a inconstitucionalidade de norma e recomendar que a Administração deixe de aplicá-la. Esse controle difuso-administrativo é exercido pela via consultiva, e a LINDB (art. 28) protege o gestor que agir conforme orientação jurídica institucional, desde que de boa-fé.
+</div>
+
+<h3>Papel propositivo da advocacia pública</h3>
+
+<p>A advocacia pública moderna não se limita a defender o Estado em juízo ou a emitir pareceres reativos. A PGE exerce papel <strong>propositivo</strong>, atuando na melhoria da gestão pública de diversas formas:</p>
+
+<ul>
+<li><strong>Elaboração de projetos de lei e decretos:</strong> a PGE participa da redação de anteprojetos de lei, decretos e regulamentos, assegurando a compatibilidade com a Constituição, a coerência sistêmica do ordenamento e a técnica legislativa adequada.</li>
+<li><strong>Advocacia preventiva:</strong> identificação antecipada de riscos jurídicos, elaboração de pareceres orientativos e alertas normativos para evitar demandas judiciais.</li>
+<li><strong>Câmaras de solução de conflitos:</strong> participação em instâncias de composição administrativa, reduzindo a judicialização de conflitos envolvendo o Estado.</li>
+<li><strong>Capacitação dos gestores:</strong> orientação jurídica para os órgãos da Administração, mediante cursos, cartilhas e orientações normativas que previnem irregularidades.</li>
+<li><strong>Acordos e transações:</strong> autorização ou recomendação de acordos judiciais e extrajudiciais que reduzam o passivo judicial do Estado.</li>
+</ul>
+
+<h3>Minutas padrão e uniformização</h3>
+
+<p>As <strong>minutas padrão</strong> são modelos de contratos, convênios, termos de referência e atos administrativos elaborados pela PGE para padronizar a atuação dos órgãos estaduais. Sua utilização reduz erros, agiliza processos e assegura conformidade jurídica. A PGE/RJ disponibiliza minutas padrão para licitações, contratos administrativos, convênios e parcerias com o terceiro setor.</p>
+
+<p>A <strong>uniformização da jurisprudência administrativa</strong> é instrumento previsto no art. 30 da LINDB. A PGE edita súmulas administrativas, pareceres normativos e orientações que vinculam toda a Administração estadual. Quando o Procurador-Geral aprova parecer com caráter normativo, ele se torna obrigatório para todos os órgãos do Poder Executivo — reduzindo divergências interpretativas e aumentando a previsibilidade da atuação estatal.</p>
+
+<h3>A LINDB (arts. 20-30) e a segurança jurídica na Administração</h3>
+
+<p>Os artigos 20 a 30 da LINDB, acrescentados pela Lei nº 13.655/2018 e regulamentados pelo Decreto nº 9.830/2019, transformaram a forma como as decisões administrativas devem ser motivadas e controladas. Esses dispositivos são centrais para a atuação da PGE e merecem estudo detido:</p>
+
+<table>
+<tr><th>Artigo</th><th>Conteúdo Essencial</th><th>Impacto na PGE</th></tr>
+<tr><td>Art. 20</td><td>Vedação de decisões baseadas em valores jurídicos abstratos sem considerar <strong>consequências práticas</strong> (consequencialismo)</td><td>O Procurador deve considerar os efeitos concretos de suas recomendações e pareceres</td></tr>
+<tr><td>Art. 21</td><td>Decisões que invalidem atos devem indicar expressamente as <strong>consequências jurídicas e administrativas</strong></td><td>Pareceres de anulação devem prever impactos e regime de transição</td></tr>
+<tr><td>Art. 22</td><td>Consideração dos <strong>obstáculos reais</strong> enfrentados pelo gestor e das exigências das políticas públicas</td><td>A PGE deve contextualizar suas orientações à realidade administrativa</td></tr>
+<tr><td>Art. 23</td><td><strong>Regime de transição</strong> obrigatório quando nova interpretação impuser novos deveres ou condicionamentos</td><td>Mudanças de orientação jurídica da PGE devem prever prazo de adaptação</td></tr>
+<tr><td>Art. 24</td><td>Revisão de atos não pode impor <strong>ônus desproporcional</strong>; proteção de atos praticados conforme orientação geral vigente à época</td><td>Atos praticados conforme parecer normativo da PGE estão protegidos</td></tr>
+<tr><td>Art. 26</td><td>Autorização para celebração de <strong>compromisso</strong> (acordo substitutivo) para eliminar irregularidade ou incerteza jurídica</td><td>Base legal para termos de ajustamento de conduta e acordos administrativos</td></tr>
+<tr><td>Art. 27</td><td>Decisão que impuser compensação deve considerar a <strong>situação real</strong> do agente e levar em conta as informações disponíveis</td><td>Proteção do gestor que agiu com base em informações disponíveis à época</td></tr>
+<tr><td>Art. 28</td><td>Responsabilização pessoal do agente apenas por <strong>dolo ou erro grosseiro</strong></td><td>Proteção do Procurador que emitiu parecer técnico-jurídico fundamentado</td></tr>
+<tr><td>Art. 29</td><td>Consultas públicas obrigatórias antes de edição de atos normativos de interesse geral</td><td>A PGE deve recomendar consulta pública quando necessário</td></tr>
+<tr><td>Art. 30</td><td>Dever de aumentar <strong>segurança jurídica</strong> por regulamentos, súmulas e respostas a consultas com efeito vinculante</td><td>Fundamento legal das súmulas administrativas e pareceres normativos da PGE</td></tr>
+</table>
+
+<div class="destaque">
+<strong>Art. 28 da LINDB — proteção do parecerista:</strong> o Procurador que emite parecer jurídico só pode ser responsabilizado pessoalmente se comprovado dolo ou erro grosseiro. Erro de interpretação jurídica, por si só, não gera responsabilidade. Esse dispositivo reforça a proteção já reconhecida pelo STF no MS 24.073/2002 e confere maior segurança para o exercício da função consultiva.
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>CF, art. 125, §2º</td><td>Representação de inconstitucionalidade de leis estaduais/municipais perante o TJ — legitimidade do PGE</td></tr>
+<tr><td>CF, art. 132</td><td>Procuradores dos Estados: representação judicial e consultoria jurídica</td></tr>
+<tr><td>CERJ, arts. 176-181</td><td>Autonomia funcional e administrativa da PGE/RJ</td></tr>
+<tr><td>LINDB, arts. 20-30 (Lei 13.655/2018)</td><td>Segurança jurídica, consequencialismo, proteção da boa-fé do gestor, uniformização, súmulas administrativas</td></tr>
+<tr><td>Decreto 9.830/2019</td><td>Regulamenta os arts. 20-30 da LINDB</td></tr>
+<tr><td>LC 15/1980</td><td>Lei Orgânica da PGE/RJ: função consultiva, pareceres normativos, sistema jurídico</td></tr>
+<tr><td>LC 73/1993</td><td>Lei Orgânica da AGU — referência analógica para o sistema de advocacia pública</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>MS 24.073 (STF, 2002)</td><td>O parecerista jurídico (advogado público) não pode ser responsabilizado pelo TCU, salvo comprovação de dolo ou culpa grave — precedente que antecipou a regra do art. 28 da LINDB</td></tr>
+<tr><td>MS 24.631 (STF, 2007)</td><td>Distinção entre parecer obrigatório, facultativo e vinculante: o grau de responsabilidade do parecerista varia conforme a natureza da consulta</td></tr>
+<tr><td>ADI 6.022 (STF, 2020)</td><td>Os Estados podem conferir autonomia administrativa e financeira às PGEs por suas constituições e leis orgânicas</td></tr>
+<tr><td>RE 576.155 (Tema 340, STF, 2010)</td><td>A legitimidade do PGE para propor ADI estadual decorre diretamente da Constituição Estadual, conforme art. 125, §2º, CF</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>A LINDB (arts. 20-30) é o bloco legislativo mais importante deste ponto. Leia cada artigo e pense em como ele se aplica à atuação concreta da PGE: o art. 20 (consequencialismo) exige que pareceres considerem consequências práticas; o art. 23 (regime de transição) impõe que mudanças de orientação prevejam prazo de adaptação; o art. 28 (erro grosseiro) protege o parecerista de boa-fé; o art. 30 (uniformização) fundamenta súmulas e pareceres normativos.</p>
+
+<p>Para o controle de constitucionalidade, domine a legitimidade do PGE para propor ADI estadual (art. 125, §2º, CF), a distinção entre controle preventivo (via parecer) e repressivo (via ADI), e o dever de defender a constitucionalidade de leis estaduais quando impugnadas.</p>
+
+<p>Para a prova discursiva, a banca pode pedir que o candidato analise uma situação em que a PGE muda sua orientação jurídica: como proceder? A resposta envolve o art. 23 da LINDB (regime de transição), o art. 24 (proteção de atos anteriores) e o princípio da segurança jurídica. Treine esse tipo de questão.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Art. 20 da LINDB — vedação de fundamentação abstrata:</strong> não se decide com base em "valores jurídicos abstratos" (interesse público, princípio da supremacia) sem indicar as consequências práticas da decisão. Isso não significa que princípios jurídicos sejam inaplicáveis — significa que sua invocação exige demonstração concreta dos efeitos da decisão. O Procurador deve traduzir princípios em consequências reais.
+</div>
+
+<div class="atencao">
+<strong>Parecer obrigatório × facultativo × vinculante:</strong> o STF (MS 24.631) distinguiu três tipos. O parecer <strong>facultativo</strong> gera menor responsabilidade do parecerista. O parecer <strong>obrigatório</strong> (exigido por lei para a prática do ato) gera corresponsabilidade do parecerista com o gestor. O parecer <strong>vinculante</strong> (cujo conteúdo determina o ato) torna o parecerista o verdadeiro decisor, com plena responsabilidade. Essa distinção é fundamental para a prova.
+</div>
+
+<div class="atencao">
+<strong>Art. 28 da LINDB — "erro grosseiro" ≠ erro simples:</strong> o Procurador só responde pessoalmente por <strong>dolo</strong> ou <strong>erro grosseiro</strong>. Divergência doutrinária, interpretação razoável que se revelou equivocada ou análise jurídica fundamentada que não prevaleceu são situações que não configuram erro grosseiro. A proteção existe para que o Procurador exerça sua função com liberdade técnica, sem medo de responsabilização por mera divergência interpretativa.
+</div>
+
+<div class="atencao">
+<strong>Mudança de orientação jurídica sem regime de transição:</strong> se a PGE alterar sua interpretação sobre determinado tema (ex.: novo parecer normativo), os atos praticados conforme a orientação anterior ficam protegidos (art. 24, LINDB). Além disso, a nova orientação deve prever regime de transição proporcional (art. 23). Ignorar essas regras pode gerar responsabilidade da Administração e nulidade de atos praticados sem o devido período de adaptação.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Responsabilidade do parecerista (MS 24.073 e MS 24.631, STF):</strong> o STF firmou que o advogado público que emite parecer jurídico não responde automaticamente pelos atos praticados com base em sua opinião. A responsabilização exige demonstração de dolo ou culpa grave (hoje substituída por "erro grosseiro", conforme art. 28 da LINDB). A distinção entre parecer obrigatório, facultativo e vinculante modula o grau de responsabilidade.</p>
+
+<p><strong>Autonomia da PGE (ADI 6.022, STF, 2020):</strong> os Estados podem conferir autonomia funcional e administrativa às suas procuradorias por meio de emenda à Constituição Estadual ou lei orgânica. O STF reconheceu que a autonomia da advocacia pública estadual é matéria de organização interna de cada ente federado, não havendo impedimento constitucional.</p>
+
+<h3>Impacto da LINDB na jurisprudência (2024-2025)</h3>
+
+<p><strong>Consequencialismo e motivação das decisões:</strong> os tribunais superiores têm exigido que decisões administrativas e judiciais que afetem atos da Administração observem o dever de consequencialismo do art. 20 da LINDB. Em 2025, o ConJur destacou artigo acadêmico analisando o que chamou de "apagão das canetas" — a tendência de gestores públicos de se omitirem por medo de responsabilização pessoal. A LINDB busca combater esse fenômeno, protegendo o gestor que age de boa-fé e com fundamentação razoável.</p>
+
+<p><strong>Art. 30 e efeito vinculante das orientações administrativas:</strong> a jurisprudência tem reconhecido que orientações gerais da PGE (pareceres normativos, súmulas administrativas) vinculam os órgãos da Administração e protegem os atos praticados em conformidade, mesmo que a orientação posteriormente seja alterada. Isso reforça a importância institucional da PGE como órgão de uniformização jurídica.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Formas de controle de constitucionalidade pela PGE</h3>
+
+<table>
+<tr><th>Modalidade</th><th>Instrumento</th><th>Momento</th></tr>
+<tr><td>Preventivo consultivo</td><td>Parecer jurídico sobre projetos de lei, decretos, atos normativos</td><td>Antes da edição do ato</td></tr>
+<tr><td>Preventivo legislativo</td><td>Participação na elaboração e revisão de anteprojetos de lei</td><td>Fase de elaboração legislativa</td></tr>
+<tr><td>Repressivo concentrado (TJ)</td><td>ADI estadual proposta pelo PGE (art. 125, §2º, CF)</td><td>Após a edição do ato normativo</td></tr>
+<tr><td>Defesa de constitucionalidade</td><td>Sustentação da validade de lei estadual impugnada em ADI (TJ ou STF)</td><td>Quando a lei estadual é questionada</td></tr>
+<tr><td>Difuso-administrativo</td><td>Parecer reconhecendo inconstitucionalidade de norma; recomendação de não aplicação</td><td>A qualquer tempo, na atividade consultiva</td></tr>
+</table>
+
+<h3>LINDB — artigos 20 a 30: resumo operacional</h3>
+
+<table>
+<tr><th>Artigo</th><th>Palavra-chave</th><th>Aplicação Prática</th></tr>
+<tr><td>20</td><td>Consequencialismo</td><td>Considerar consequências práticas em toda decisão</td></tr>
+<tr><td>21</td><td>Consequências da invalidação</td><td>Indicar expressamente o que acontece se o ato for anulado</td></tr>
+<tr><td>22</td><td>Obstáculos reais</td><td>Considerar dificuldades concretas enfrentadas pelo gestor</td></tr>
+<tr><td>23</td><td>Regime de transição</td><td>Prazo de adaptação para novas interpretações</td></tr>
+<tr><td>24</td><td>Proteção da orientação vigente</td><td>Atos conforme orientação anterior ficam protegidos</td></tr>
+<tr><td>26</td><td>Compromisso/acordo</td><td>TAC e acordos administrativos para resolver irregularidades</td></tr>
+<tr><td>27</td><td>Compensação proporcional</td><td>Considerar situação real do agente ao impor compensação</td></tr>
+<tr><td>28</td><td>Erro grosseiro</td><td>Responsabilização pessoal apenas por dolo ou erro grosseiro</td></tr>
+<tr><td>29</td><td>Consulta pública</td><td>Audiência prévia para atos normativos de interesse geral</td></tr>
+<tr><td>30</td><td>Uniformização</td><td>Regulamentos, súmulas e consultas com efeito vinculante</td></tr>
+</table>
+
+<h3>Tipos de parecer e responsabilidade do parecerista</h3>
+
+<table>
+<tr><th>Tipo de Parecer</th><th>Natureza</th><th>Responsabilidade do Parecerista</th></tr>
+<tr><td>Facultativo</td><td>Emitido a pedido; gestor não é obrigado a solicitá-lo</td><td>Mínima — o parecer não integra o ato administrativo</td></tr>
+<tr><td>Obrigatório</td><td>Exigido por lei; sem ele, o ato é nulo</td><td>Compartilhada — parecerista e gestor respondem solidariamente</td></tr>
+<tr><td>Vinculante</td><td>O ato administrativo deve seguir o conteúdo do parecer</td><td>Plena — o parecerista é o verdadeiro decisor</td></tr>
+</table>
+
+</div>

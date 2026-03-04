@@ -1,0 +1,215 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Direitos e Vantagens dos Servidores: Sistema Remuneratório e Teto</h1>
+<p class="subtitulo">Ponto 3, item "a" — Direitos e vantagens dos servidores públicos. Sistema remuneratório: subsídio e vencimento. Teto remuneratório (art. 37, XI, CF; EC 41/2003; EC 135/2024). Vantagens pecuniárias</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>O sistema remuneratório dos servidores públicos é tema de permanente litígio — e, portanto, de permanente atuação da PGE/RJ. Ações que discutem o teto remuneratório, a incorporação de vantagens pessoais, o enquadramento de parcelas como indenizatórias ou remuneratórias e a irredutibilidade de vencimentos estão entre as mais frequentes no contencioso trabalhista e administrativo do Estado. O Procurador precisa dominar a arquitetura constitucional da remuneração pública: os conceitos de subsídio e vencimento, o sistema de tetos e subtetos (art. 37, XI, CF), e as recentes alterações promovidas pela EC 135/2024.</p>
+
+<p>A EC 41/2003 reformulou integralmente o regime do teto remuneratório, submetendo ao limite todas as vantagens pessoais, inclusive as anteriores à emenda. A EC 47/2005 (§11 do art. 37) excluiu do teto apenas as parcelas de caráter indenizatório previstas em lei. A EC 135/2024 endureceu essa regra: agora, apenas verbas indenizatórias previstas em <strong>lei de caráter nacional</strong> (aprovada pelo Congresso Nacional) estão fora do teto — eliminando a possibilidade de cada ente federativo criar suas próprias exclusões por lei local.</p>
+
+<p>Este ponto conecta-se com os regimes funcionais (Ponto 2a), com a estabilidade e os cargos públicos (Ponto 4a), com a remuneração e o salário no regime celetista (Ponto 5a) e com a previdência do servidor (Ponto 5b).</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Subsídio e vencimento: duas modalidades remuneratórias</h3>
+
+<p>A CF prevê duas formas de remuneração para os agentes públicos: o <strong>subsídio</strong> e o <strong>vencimento</strong> (acrescido de vantagens). O <strong>subsídio</strong> (art. 39, §4º, CF) é a remuneração fixada em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória. É obrigatório para: membros de Poder (Executivo, Legislativo e Judiciário), detentores de mandato eletivo, Ministros de Estado e Secretários, membros do MP, Procuradores do Estado, integrantes da AGU, Defensores Públicos e servidores policiais (art. 144, §9º). A ideia do subsídio é a <strong>transparência</strong>: o cidadão sabe exatamente quanto o agente recebe, sem parcelas ocultas.</p>
+
+<p>O <strong>vencimento</strong> é a retribuição pecuniária pelo exercício do cargo, fixada em lei (art. 40, DL 220/1975, para os servidores fluminenses). Ao vencimento podem ser acrescidas <strong>vantagens pecuniárias</strong>: adicionais por tempo de serviço (anuênio, quinquênio), gratificações (de desempenho, de insalubridade, de periculosidade, de função), abonos e verbas indenizatórias (auxílio-alimentação, auxílio-transporte, diárias). A remuneração total do servidor é o vencimento + vantagens.</p>
+
+<h3>Teto remuneratório (art. 37, XI, CF)</h3>
+
+<p>O art. 37, XI, na redação da EC 41/2003, estabelece o sistema de <strong>teto e subtetos</strong>: nenhum agente público pode receber, a qualquer título, remuneração superior ao subsídio mensal dos Ministros do STF (<strong>teto geral</strong>). Nos Estados e no DF, o teto se desdobra em <strong>subtetos</strong>:</p>
+
+<ul>
+<li><strong>Poder Executivo:</strong> subsídio do Governador;</li>
+<li><strong>Poder Legislativo:</strong> subsídio dos Deputados Estaduais;</li>
+<li><strong>Poder Judiciário, MP, Procuradores e Defensores:</strong> subsídio dos Desembargadores do TJ, limitado a 90,25% do subsídio dos Ministros do STF.</li>
+</ul>
+
+<p>O §12 do art. 37 permite que o Estado opte, por emenda à Constituição Estadual, por <strong>subteto único</strong>: o subsídio dos Desembargadores do TJ como limite para todos os servidores estaduais (exceto Deputados Estaduais). Isso simplifica a aplicação do teto, mas pode resultar em limite inferior ao subsídio do Governador para servidores do Executivo.</p>
+
+<div class="destaque">
+<p><strong>EC 135/2024 — endurecimento das exclusões ao teto:</strong> a EC 135/2024 alterou o §11 do art. 37 da CF para determinar que somente parcelas de caráter indenizatório previstas em <strong>lei de caráter nacional</strong> (aprovada pelo Congresso Nacional) estão excluídas do teto. Enquanto essa lei não for editada, todas as parcelas sujeitam-se ao teto. O STF, em decisão de fevereiro de 2025, suspendeu a eficácia de leis estaduais e federais que classificavam verbas como indenizatórias para burlar o teto (os chamados "penduricalhos"), determinando que a exceção ao teto depende da edição da lei nacional prevista na EC 135/2024.</p>
+</div>
+
+<h3>Vantagens pecuniárias</h3>
+
+<p>As vantagens pecuniárias dos servidores públicos incluem: (i) <strong>adicionais por tempo de serviço</strong> (anuênio, triênio, quinquênio — conforme a lei do ente); (ii) <strong>gratificações</strong> (de desempenho, de produtividade, por exercício de função de chefia ou assessoramento); (iii) <strong>adicionais de insalubridade, periculosidade e penosidade</strong>; (iv) <strong>verbas indenizatórias</strong> (auxílio-alimentação, auxílio-transporte, diárias, ajuda de custo para mudança); e (v) <strong>vantagens pessoais nominalmente identificadas</strong> (VPNI — parcelas incorporadas individualmente ao servidor, em regra por decisão judicial ou por legislação revogada).</p>
+
+<p>Após a EC 41/2003, <strong>todas</strong> as vantagens pessoais — inclusive as concedidas antes da emenda — submetem-se ao teto remuneratório. A única exceção são as parcelas de caráter genuinamente indenizatório (que não remuneram o trabalho, mas ressarcem despesas): auxílio-alimentação, auxílio-transporte, diárias, ajuda de custo. Com a EC 135/2024, mesmo essas exceções dependem de previsão em lei nacional.</p>
+
+<h3>Irredutibilidade de vencimentos e subsídios</h3>
+
+<p>O art. 37, XV, da CF assegura a <strong>irredutibilidade de subsídio e vencimentos</strong> dos servidores públicos. A irredutibilidade é nominal, não real (o STF não reconhece direito à recomposição inflacionária automática). A aplicação do teto remuneratório (abate-teto) não viola a irredutibilidade: o STF entende que a incidência do teto sobre parcelas que antes o ultrapassavam não configura redução, mas adequação constitucional (RE 609.381).</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 37, XI</strong> (EC 41/2003) — teto remuneratório (Ministros do STF) e subtetos estaduais. <strong>Art. 37, §11</strong> (EC 47/2005, alterado pela EC 135/2024) — exclusão de parcelas indenizatórias do teto (agora condicionada a lei nacional). <strong>Art. 37, §12</strong> — faculdade de subteto único (Desembargadores do TJ). <strong>Art. 37, XV</strong> — irredutibilidade de subsídio e vencimentos. <strong>Art. 39, §4º</strong> — subsídio em parcela única. <strong>Art. 39, §3º</strong> — extensão de direitos do art. 7º aos servidores.</p>
+
+<h3>Legislação fluminense</h3>
+
+<p><strong>Decreto-Lei 220/1975</strong> — Estatuto dos Funcionários Públicos do ERJ (vencimento, vantagens, adicionais por tempo de serviço). <strong>Constituição do Estado do RJ, art. 77, §§</strong> — sistema remuneratório e teto estadual.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Monte um quadro mental com três camadas: (1) <strong>teto geral</strong> — subsídio dos Ministros do STF (aplicável a todos os agentes públicos); (2) <strong>subtetos estaduais</strong> — Governador (Executivo), Deputados Estaduais (Legislativo), Desembargadores do TJ (Judiciário, MP, Procuradores, Defensores); (3) <strong>exclusões</strong> — parcelas indenizatórias previstas em lei nacional (EC 135/2024). Esse esquema cobre a maioria das questões sobre teto.</p>
+
+<p>A distinção entre subsídio e vencimento é frequente em provas: subsídio = parcela única (sem gratificações); vencimento = retribuição base + vantagens. Memorize quais agentes recebem por subsídio obrigatório (membros de Poder, MP, Procuradores, Defensores, policiais) e quais podem receber por vencimento + vantagens (demais servidores).</p>
+
+<p>Para a prova discursiva, esteja preparado para discutir a EC 135/2024 e o problema dos "penduricalhos": a criação de parcelas formalmente indenizatórias que, na prática, tinham natureza remuneratória e permitiam burlar o teto. A emenda e a decisão do STF (2025) são temas atuais e prováveis de cobrança.</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>EC 135/2024 — parcelas indenizatórias agora exigem lei nacional:</strong> antes da EC 135/2024, cada ente federativo podia criar suas próprias exclusões ao teto por lei local, classificando parcelas como "indenizatórias." Isso gerou proliferação de penduricalhos (auxílios-moradia, indenizações por acúmulo de acervo, gratificações disfarçadas). A EC 135/2024 centralizou: somente lei de caráter nacional (aprovada pelo Congresso Nacional) pode definir quais parcelas indenizatórias ficam fora do teto. Enquanto essa lei não for editada, todas as parcelas submetem-se ao teto. O STF já suspendeu a eficácia de leis estaduais incompatíveis.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Abate-teto não viola irredutibilidade:</strong> o STF firmou no RE 609.381 que a incidência do teto sobre remunerações que o ultrapassam não configura redução inconstitucional de vencimentos. A irredutibilidade protege o valor nominal da remuneração contra redução por lei, mas não impede a aplicação do teto constitucional, que é norma hierarquicamente superior. Vantagens pessoais anteriores à EC 41/2003 também se submetem ao teto.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Acumulação lícita de cargos e teto:</strong> o STF decidiu no RE 612.975 e no RE 602.043 (Tema 377) que, em caso de acumulação lícita de cargos (art. 37, XVI, CF), o teto remuneratório deve ser aplicado considerando cada cargo <strong>isoladamente</strong>, e não sobre a soma das remunerações. Assim, o servidor pode receber, no total, valor superior ao subsídio de Ministro do STF, desde que nenhum dos cargos, individualmente, ultrapasse o teto.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Subsídio do Procurador do Estado — parcela única:</strong> como o art. 39, §4º, determina que os Procuradores do Estado recebam por subsídio (parcela única), não podem perceber gratificações, adicionais ou outras vantagens remuneratórias. Excetuam-se apenas as parcelas genuinamente indenizatórias (auxílio-alimentação, auxílio-transporte) e os direitos sociais do art. 7º da CF extensíveis aos servidores (décimo terceiro, férias com 1/3, etc. — art. 39, §3º). Qualquer parcela remuneratória além do subsídio é inconstitucional.</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>RE 609.381/STF — abate-teto e vantagens pessoais</h3>
+
+<p>O STF decidiu que o teto remuneratório da EC 41/2003 aplica-se a todas as vantagens pessoais, inclusive as concedidas antes da emenda. A incidência do teto sobre remunerações que o ultrapassem não configura violação à irredutibilidade de vencimentos (art. 37, XV). A decisão consolidou a eficácia imediata do teto constitucional.</p>
+
+<h3>RE 612.975 e RE 602.043 (Tema 377/STF) — acumulação de cargos</h3>
+
+<p>O STF fixou a tese: "nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, XI, da Constituição Federal pressupõe consideração de cada vínculo de forma isolada." Consequência prática: quem acumula dois cargos licitamente pode receber soma superior ao teto, desde que cada cargo individualmente respeite o limite.</p>
+
+<h3>EC 135/2024 e decisão do STF (2025) — suspensão de penduricalhos</h3>
+
+<p>Em fevereiro de 2025, o STF suspendeu a eficácia de normas estaduais e federais que criavam parcelas classificadas como indenizatórias para permitir o pagamento acima do teto. A Corte determinou que, até a edição da lei de caráter nacional prevista na EC 135/2024, todas as parcelas se submetem ao teto, exceto as verbas indenizatórias cuja natureza seja incontroversa (auxílio-alimentação, auxílio-transporte, diárias). A decisão teve impacto imediato nas folhas de pagamento de todos os entes federativos.</p>
+
+<h3>ADI 3.854/STF — subteto de magistrados estaduais</h3>
+
+<p>O STF concedeu medida cautelar na ADI 3.854 para conferir interpretação conforme ao art. 37, XI, da CF, fixando que o subteto dos membros do Poder Judiciário estadual — o subsídio dos Desembargadores, limitado a 90,25% do subsídio dos Ministros do STF — aplica-se uniformemente a todos os magistrados estaduais, inclusive juízes de primeiro grau. A decisão não elevou o teto dos magistrados estaduais ao patamar dos federais: o subteto de 90,25% permanece para toda a magistratura estadual. Procuradores do Estado e membros do MP estadual seguem vinculados ao mesmo subteto.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Teto e subtetos remuneratórios (art. 37, XI, CF)</h3>
+
+<table>
+<tr>
+<th>Âmbito</th>
+<th>Teto/Subteto</th>
+<th>Referência</th>
+</tr>
+<tr>
+<td>Federal (teto geral)</td>
+<td>Subsídio dos Ministros do STF</td>
+<td>Aplicável a todos os agentes públicos</td>
+</tr>
+<tr>
+<td>Estadual — Executivo</td>
+<td>Subsídio do Governador</td>
+<td>Servidores do Executivo estadual</td>
+</tr>
+<tr>
+<td>Estadual — Legislativo</td>
+<td>Subsídio dos Deputados Estaduais</td>
+<td>Servidores do Legislativo estadual</td>
+</tr>
+<tr>
+<td>Estadual — Judiciário, MP, Procuradores, Defensores</td>
+<td>Subsídio dos Desembargadores do TJ</td>
+<td>Limitado a 90,25% do STF</td>
+</tr>
+<tr>
+<td>Estadual — subteto único (§12)</td>
+<td>Subsídio dos Desembargadores do TJ para todos</td>
+<td>Exige emenda à CE (exceto Deputados)</td>
+</tr>
+</table>
+
+<h3>Subsídio × vencimento + vantagens</h3>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Subsídio (art. 39, §4º)</th>
+<th>Vencimento + vantagens</th>
+</tr>
+<tr>
+<td>Estrutura</td>
+<td>Parcela única</td>
+<td>Vencimento-base + gratificações + adicionais</td>
+</tr>
+<tr>
+<td>Vedações</td>
+<td>Vedado acréscimo de gratificações, adicionais, prêmios</td>
+<td>Vantagens permitidas conforme o estatuto</td>
+</tr>
+<tr>
+<td>Agentes obrigatórios</td>
+<td>Membros de Poder, mandatários, MP, Procuradores, Defensores, policiais</td>
+<td>Demais servidores (salvo lei específica)</td>
+</tr>
+<tr>
+<td>Transparência</td>
+<td>Alta (valor único visível)</td>
+<td>Menor (múltiplas parcelas)</td>
+</tr>
+<tr>
+<td>Exceções permitidas</td>
+<td>Parcelas indenizatórias e direitos do art. 7º/CF</td>
+<td>N/A (todas as vantagens previstas em lei)</td>
+</tr>
+</table>
+
+<h3>Evolução do teto remuneratório</h3>
+
+<table>
+<tr>
+<th>Marco normativo</th>
+<th>Regra</th>
+</tr>
+<tr>
+<td>CF/88 (redação original)</td>
+<td>Teto vinculado a cada Poder (sem eficácia prática)</td>
+</tr>
+<tr>
+<td>EC 19/1998</td>
+<td>Teto único: subsídio dos Ministros do STF</td>
+</tr>
+<tr>
+<td>EC 41/2003</td>
+<td>Teto + subtetos estaduais; todas as vantagens pessoais incluídas</td>
+</tr>
+<tr>
+<td>EC 47/2005</td>
+<td>Exclusão de parcelas indenizatórias previstas em lei</td>
+</tr>
+<tr>
+<td>EC 135/2024</td>
+<td>Exclusão somente de indenizatórias previstas em lei nacional</td>
+</tr>
+<tr>
+<td>STF (2025)</td>
+<td>Suspensão de penduricalhos até edição da lei nacional</td>
+</tr>
+</table>
+
+</div>

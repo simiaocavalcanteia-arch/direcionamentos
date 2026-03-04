@@ -1,0 +1,176 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Regras Gerais para Organização e Funcionamento dos RPPS</h1>
+<p class="subtitulo">Ponto 9, item "b" — Regras gerais para organização e funcionamento dos regimes próprios de previdência social</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os Regimes Próprios de Previdência Social (RPPS) constituem sistemas previdenciários mantidos pelos entes federativos (União, Estados, Distrito Federal e Municípios) para seus servidores titulares de cargos efetivos. A organização e o funcionamento dos RPPS são disciplinados por um quadro normativo composto pela CF (art. 40), pela Lei nº 9.717/1998 (Lei Geral dos RPPS), pela EC 103/2019 e pela regulamentação infralegal (Portaria MTP 1.467/2022).</p>
+
+<p>Este ponto do edital foca especificamente nas <strong>normas gerais</strong> que todo RPPS deve observar — equilíbrio financeiro e atuarial, vedação de benefícios distintos do RGPS, gestão responsável dos recursos, fiscalização pela União e regras de governança. Para o Procurador do Estado do Rio de Janeiro, a matéria é de aplicação cotidiana: o Estado mantém o Rioprevidência como fundo único de previdência, e o Procurador frequentemente defende a constitucionalidade de reformas previdenciárias estaduais e a aplicação das regras de equilíbrio atuarial.</p>
+
+<p>Este guia complementa os Pontos 6a (RPPS e aposentadoria pela EC 103/2019), 6b (pensão por morte e previdência complementar) e 7b (modalidades de aposentadoria e cumulação de proventos), concentrando-se nos aspectos organizacionais e de governança do RPPS.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Princípios constitucionais do RPPS</h3>
+
+<p>O art. 40 da CF, com a redação da EC 103/2019, estrutura o RPPS sobre os seguintes princípios:</p>
+
+<ul>
+<li><strong>Contributividade:</strong> o regime é financiado por contribuições do ente público e dos servidores (ativos, inativos e pensionistas).</li>
+<li><strong>Solidariedade:</strong> os servidores ativos contribuem para financiar os benefícios dos inativos e pensionistas (não há capitalização individual no RPPS clássico).</li>
+<li><strong>Equilíbrio financeiro e atuarial:</strong> as receitas devem ser suficientes para cobrir as despesas presentes (financeiro) e futuras (atuarial) com benefícios.</li>
+<li><strong>Caráter contributivo:</strong> inexistência de benefício sem a correspondente fonte de custeio e contribuição prévia.</li>
+</ul>
+
+<h3>Lei nº 9.717/1998 — Lei Geral dos RPPS</h3>
+
+<p>A Lei 9.717/1998 estabelece as normas gerais que todos os RPPS devem observar. Após a EC 103/2019, essa lei foi <strong>recepcionada com status de lei complementar</strong>, o que significa que suas disposições só podem ser alteradas por lei complementar federal. Os principais comandos são:</p>
+
+<table>
+<tr><th>Artigo</th><th>Conteúdo</th></tr>
+<tr><td>Art. 1º</td><td>Todos os RPPS devem observar critérios de <strong>equilíbrio financeiro e atuarial</strong></td></tr>
+<tr><td>Art. 1º, I</td><td>Realização de avaliação atuarial inicial e em cada balanço, com base em parâmetros técnicos</td></tr>
+<tr><td>Art. 1º, III</td><td>Cobertura exclusiva de servidores titulares de <strong>cargos efetivos</strong></td></tr>
+<tr><td>Art. 1º, IV</td><td>Alíquota de contribuição do servidor não inferior à do servidor federal (atualmente 14%, podendo chegar a 22% progressivamente para remunerações acima do teto do RGPS)</td></tr>
+<tr><td>Art. 1º, V</td><td>Vedação de concessão de benefícios distintos dos previstos no RGPS (salvo aposentadoria e pensão por morte, que têm regras próprias)</td></tr>
+<tr><td>Art. 2º</td><td>Contribuição do ente público não pode exceder o <strong>dobro</strong> da contribuição do servidor</td></tr>
+<tr><td>Art. 5º</td><td>Vedação de utilização de recursos previdenciários para finalidades distintas do pagamento de benefícios (vedação de desvio de finalidade)</td></tr>
+<tr><td>Art. 6º</td><td>Ente que não observar as normas terá suspensas as <strong>transferências voluntárias</strong> da União</td></tr>
+<tr><td>Art. 9º</td><td>Fiscalização dos RPPS pela União por intermédio do Ministério da Previdência Social</td></tr>
+</table>
+
+<h3>Mudanças da EC 103/2019 na organização dos RPPS</h3>
+
+<div class="destaque">
+<strong>Vedação de criação de novos RPPS:</strong> a EC 103/2019 (art. 40, §22) vedou a instituição de novos RPPS. Somente os entes que já possuíam regime próprio na data da promulgação da emenda (13/11/2019) podem mantê-lo. Os municípios que não tinham RPPS devem vincular seus servidores ao RGPS. Essa vedação é uma das inovações mais significativas da reforma.
+</div>
+
+<p><strong>Benefícios limitados:</strong> o RPPS deve conceder apenas <strong>aposentadoria</strong> e <strong>pensão por morte</strong>. Os demais benefícios (auxílio-doença, salário-maternidade, auxílio-reclusão, etc.) ficam a cargo do ente federativo, fora do fundo previdenciário. Isso visa preservar o equilíbrio atuarial do RPPS, concentrando-o nas obrigações de longo prazo.</p>
+
+<p><strong>Previdência complementar obrigatória:</strong> o art. 40, §14, da CF (com redação da EC 103/2019) torna obrigatória a instituição de regime de previdência complementar para os servidores, limitando os benefícios do RPPS ao teto do RGPS (atualmente R$ 7.786,02 em 2024). A parcela excedente é coberta pela entidade fechada de previdência complementar (Funpresp, no âmbito federal; fundações estaduais, no âmbito dos Estados).</p>
+
+<p><strong>Alíquota progressiva:</strong> a EC 103/2019 permitiu a adoção de alíquotas progressivas de contribuição (art. 149, §1º-A, CF), variando conforme a faixa remuneratória. No âmbito federal, as alíquotas variam de 7,5% a 22%. Os Estados podem adotar alíquotas progressivas semelhantes ou manter alíquota fixa, desde que não inferior à federal.</p>
+
+<h3>Gestão e governança do RPPS</h3>
+
+<p>A Portaria MTP nº 1.467/2022 regulamenta a gestão dos RPPS e estabelece:</p>
+
+<ul>
+<li><strong>Unidade gestora única:</strong> cada ente deve possuir uma unidade gestora centralizada para administrar o RPPS.</li>
+<li><strong>Certificação profissional:</strong> os dirigentes e conselheiros da unidade gestora devem possuir certificação profissional em previdência do servidor público.</li>
+<li><strong>Comitê de investimentos:</strong> obrigatório para RPPS que possuam investimentos, com regras de governança e controle de riscos.</li>
+<li><strong>Avaliação atuarial anual:</strong> elaborada por atuário habilitado, com base em parâmetros definidos pelo Ministério da Previdência.</li>
+<li><strong>Certificado de Regularidade Previdenciária (CRP):</strong> documento emitido pelo Ministério da Previdência que atesta o cumprimento das normas gerais pelos RPPS. Sem o CRP, o ente fica impedido de receber transferências voluntárias da União e de celebrar convênios federais.</li>
+</ul>
+
+<h3>Rioprevidência — o RPPS fluminense</h3>
+
+<p>O Fundo Único de Previdência Social do Estado do Rio de Janeiro — <strong>Rioprevidência</strong> — foi criado pela Lei Estadual nº 3.189/1999 como autarquia estadual de natureza previdenciária, com personalidade jurídica de direito público e patrimônio próprio. Administra os benefícios previdenciários dos servidores civis e militares do Estado. As regras de funcionamento devem observar as normas gerais federais (Lei 9.717/1998, EC 103/2019, Portaria MTP 1.467/2022), além da legislação estadual específica (Lei Estadual 5.260/2008).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>CF, art. 40 (EC 103/2019)</td><td>RPPS: princípios, modalidades de aposentadoria, vedação de novos RPPS, previdência complementar obrigatória</td></tr>
+<tr><td>CF, art. 149, §1º-A</td><td>Alíquotas progressivas de contribuição previdenciária</td></tr>
+<tr><td>Lei 9.717/1998</td><td>Lei Geral dos RPPS: equilíbrio atuarial, vedação de benefícios distintos do RGPS, fiscalização pela União, sanções (suspensão de transferências)</td></tr>
+<tr><td>EC 103/2019</td><td>Reforma: regras permanentes, transição, vedação de novos RPPS, previdência complementar</td></tr>
+<tr><td>Portaria MTP 1.467/2022</td><td>Regulamentação da gestão dos RPPS: governança, certificação, comitê de investimentos, CRP</td></tr>
+<tr><td>Lei Estadual 3.189/1999</td><td>Criação do Rioprevidência — fundo único de previdência do ERJ</td></tr>
+<tr><td>Lei Estadual 5.260/2008</td><td>Regime jurídico próprio e único da previdência social no ERJ</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>ADI 3.105 (STF, 2004)</td><td>Constitucionalidade da contribuição de inativos e pensionistas (EC 41/2003) — a solidariedade do RPPS justifica a contribuição</td></tr>
+<tr><td>ADI 3.104 (STF, 2007)</td><td>Inexistência de direito adquirido a regime previdenciário: normas previdenciárias têm aplicação imediata</td></tr>
+<tr><td>ADI 2.024 (STF, 2007)</td><td>A competência da União para editar normas gerais sobre RPPS (art. 24, XII, CF) não viola a autonomia dos entes federados — decisão anterior à EC 103/2019</td></tr>
+<tr><td>ADI 2.024 (STF, 2007)</td><td>A Lei 9.717/1998 é constitucional — a União tem competência para editar normas gerais sobre RPPS (art. 24, XII, CF)</td></tr>
+<tr><td>Tema 1.177 (STF)</td><td>Competência dos Estados para fixar alíquotas de contribuição de militares estaduais</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Leia a <strong>Lei 9.717/1998</strong> integralmente — é texto curto (9 artigos substantivos) e concentra todas as regras gerais dos RPPS. Em seguida, domine as inovações da <strong>EC 103/2019</strong> sobre organização do RPPS: vedação de novos regimes (§22 do art. 40), obrigatoriedade de previdência complementar (§14), alíquotas progressivas (art. 149, §1º-A) e benefícios limitados a aposentadoria e pensão por morte.</p>
+
+<p>A <strong>Portaria MTP 1.467/2022</strong> é extensa, mas basta dominar os conceitos de CRP (Certificado de Regularidade Previdenciária), unidade gestora única, avaliação atuarial anual e comitê de investimentos. Para a prova, a banca pode pedir que o candidato explique as consequências da perda do CRP para o ente federativo (suspensão de transferências voluntárias e impedimento de celebrar convênios).</p>
+
+<p>A conexão com o Rioprevidência (Lei Estadual 3.189/1999 e Lei 5.260/2008) é importante para situar o RPPS no contexto do Estado do Rio de Janeiro. O candidato deve saber que o Rioprevidência administra tanto os benefícios dos servidores civis quanto dos militares estaduais.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Lei 9.717/1998 recepcionada como lei complementar:</strong> após a EC 103/2019, a Lei 9.717/1998 passou a ter status de lei complementar. Isso significa que suas disposições só podem ser alteradas ou revogadas por lei complementar federal — uma lei ordinária não tem essa competência. Essa mudança de status é relevante para questões sobre hierarquia normativa e competência legislativa.
+</div>
+
+<div class="atencao">
+<strong>Vedação de novos RPPS (art. 40, §22, CF):</strong> somente os entes que já possuíam RPPS em 13/11/2019 (data da EC 103) podem mantê-lo. Municípios que não tinham regime próprio devem vincular seus servidores ao RGPS. Essa vedação não impede a extinção voluntária de RPPS existentes — apenas proíbe a criação de novos. Questão de prova pode explorar a situação de municípios que tentam criar RPPS após a reforma.
+</div>
+
+<div class="atencao">
+<strong>Contribuição do ente público: limite do dobro:</strong> a Lei 9.717/1998 (art. 2º) determina que a contribuição do ente público não pode exceder o dobro da contribuição do servidor. Se a alíquota do servidor é 14%, a contribuição máxima do Estado é 28%. Esse limite protege as finanças públicas e impede que o ente assuma encargos desproporcionais.
+</div>
+
+<div class="atencao">
+<strong>Benefícios do RPPS limitados a aposentadoria e pensão:</strong> após a EC 103/2019, o RPPS não deve custear auxílio-doença, salário-maternidade, auxílio-reclusão ou salário-família — esses benefícios ficam por conta do Tesouro do ente, fora do fundo previdenciário. A distinção é importante porque protege o equilíbrio atuarial do RPPS e pode ser cobrada em questão que misture benefícios do RGPS com o RPPS.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Constitucionalidade da Lei 9.717/1998 (ADI 2.024, STF, 2007):</strong> o STF confirmou que a União tem competência para editar normas gerais sobre RPPS, com fundamento no art. 24, XII, da CF (competência concorrente em matéria de previdência social). A Lei 9.717 é norma geral nacional, aplicável a todos os entes federativos. Os Estados podem legislar suplementarmente, desde que não contrariem as normas gerais.</p>
+
+<p><strong>Contribuição de inativos (ADI 3.105, STF, 2004):</strong> constitucionalidade confirmada com base no princípio da solidariedade do sistema previdenciário. A contribuição incide sobre a parcela dos proventos que exceder o teto do RGPS (ou o teto reduzido em caso de aposentadoria por incapacidade decorrente de moléstia grave).</p>
+
+<h3>Questões atuais (2024-2025)</h3>
+
+<p><strong>Equilíbrio atuarial e déficit dos RPPS estaduais:</strong> diversos Estados enfrentam desequilíbrio atuarial em seus RPPS, exigindo aportes crescentes do Tesouro estadual. O Rio de Janeiro é um dos Estados com maior déficit previdenciário, o que torna o tema especialmente relevante para o Procurador. A defesa do equilíbrio atuarial — incluindo a sustentação da constitucionalidade de alíquotas progressivas e de reformas previdenciárias estaduais — é uma das principais frentes de atuação da PGE.</p>
+
+<p><strong>Alíquotas progressivas e confiscatoriedade:</strong> há questionamentos judiciais sobre a constitucionalidade de alíquotas progressivas elevadas (que podem chegar a 22% para faixas superiores no âmbito federal). A tese dos servidores é que alíquotas muito altas configuram confisco. O STF ainda não se pronunciou definitivamente sobre esse ponto no contexto da EC 103/2019.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparação: RPPS × RGPS</h3>
+
+<table>
+<tr><th>Aspecto</th><th>RPPS</th><th>RGPS</th></tr>
+<tr><td>Base constitucional</td><td>Art. 40, CF</td><td>Art. 201, CF</td></tr>
+<tr><td>Beneficiários</td><td>Servidores titulares de cargos efetivos</td><td>Trabalhadores da iniciativa privada, celetistas, etc.</td></tr>
+<tr><td>Gestão</td><td>Ente federativo (unidade gestora própria)</td><td>INSS (autarquia federal)</td></tr>
+<tr><td>Benefícios</td><td>Aposentadoria e pensão por morte (após EC 103)</td><td>Todos os benefícios previdenciários (aposentadoria, auxílio, pensão, salário-maternidade, etc.)</td></tr>
+<tr><td>Equilíbrio</td><td>Financeiro e atuarial (obrigatório)</td><td>Equilíbrio financeiro e atuarial (princípio)</td></tr>
+<tr><td>Previdência complementar</td><td>Obrigatória (teto do RGPS para novos servidores)</td><td>Facultativa (art. 202, CF)</td></tr>
+<tr><td>Fiscalização</td><td>Ministério da Previdência (CRP)</td><td>Própria (INSS + TCU)</td></tr>
+</table>
+
+<h3>Principais sanções por descumprimento das normas gerais</h3>
+
+<table>
+<tr><th>Irregularidade</th><th>Sanção</th><th>Base Legal</th></tr>
+<tr><td>Descumprimento de normas gerais</td><td>Suspensão de transferências voluntárias da União</td><td>Art. 6º, Lei 9.717/1998</td></tr>
+<tr><td>Não obtenção/perda do CRP</td><td>Impedimento de celebrar convênios federais e receber transferências</td><td>Portaria MTP 1.467/2022</td></tr>
+<tr><td>Desvio de recursos previdenciários</td><td>Responsabilização pessoal do gestor (improbidade); suspensão de transferências</td><td>Art. 5º, Lei 9.717/1998</td></tr>
+<tr><td>Concessão de benefícios sem fonte de custeio</td><td>Desequilíbrio atuarial; possível intervenção do Ministério da Previdência</td><td>Art. 1º, Lei 9.717/1998</td></tr>
+</table>
+
+<h3>Evolução normativa dos RPPS</h3>
+
+<table>
+<tr><th>Marco Normativo</th><th>Inovação Principal</th></tr>
+<tr><td>EC 20/1998</td><td>Introduziu o caráter contributivo e o equilíbrio atuarial; vedou acumulação de proventos + remuneração (art. 37, §10)</td></tr>
+<tr><td>Lei 9.717/1998</td><td>Normas gerais dos RPPS: fiscalização pela União, vedação de benefícios distintos do RGPS</td></tr>
+<tr><td>EC 41/2003</td><td>Fim da integralidade e paridade para novos ingressantes; contribuição de inativos</td></tr>
+<tr><td>EC 47/2005</td><td>Regra de transição adicional para servidores anteriores à EC 41</td></tr>
+<tr><td>EC 103/2019</td><td>Vedação de novos RPPS; previdência complementar obrigatória; alíquotas progressivas; benefícios limitados a aposentadoria e pensão</td></tr>
+<tr><td>Portaria MTP 1.467/2022</td><td>Governança: CRP, unidade gestora, comitê de investimentos, certificação</td></tr>
+</table>
+
+</div>

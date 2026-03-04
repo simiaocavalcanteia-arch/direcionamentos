@@ -1,0 +1,200 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>LC 15/1980: Direitos, Deveres, Garantias e Vedações dos Procuradores do Estado</h1>
+<p class="subtitulo">Ponto 7, item "c" — LC 15/1980 e os direitos, deveres e garantias dos Procuradores do Estado. Dos deveres, proibições e impedimentos</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>A LC nº 15/1980 (Lei Orgânica da PGE/RJ), com suas alterações posteriores (especialmente LCs nº 104/2002, nº 113/2006 e nº 226/2025), disciplina o regime jurídico dos Procuradores do Estado do Rio de Janeiro. O ponto do edital exige que o candidato conheça tanto os direitos e garantias que protegem o exercício da função quanto os deveres, proibições e impedimentos que limitam a atuação do Procurador.</p>
+
+<p>Esse tema é particularmente relevante para o concurso porque trata do estatuto jurídico do cargo que o candidato pretende assumir. A banca pode cobrar situações concretas envolvendo garantias (estabilidade, irredutibilidade, intimação pessoal), deveres funcionais (sigilo, dedicação, legalidade) ou vedações (advocacia privada, atividade político-partidária). Além disso, o paralelo com as garantias do Ministério Público e da Defensoria Pública é recorrente em provas, exigindo que o candidato saiba distinguir os regimes.</p>
+
+<p>Este guia deve ser estudado em conjunto com os Pontos 3c (Lei Orgânica e princípios institucionais da PGE), 4d (papel da PGE como órgão central do sistema jurídico) e 6c (Corregedoria, Conselho Superior e regime disciplinar).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Direitos dos Procuradores do Estado</h3>
+
+<p>Os Procuradores do Estado do Rio de Janeiro, como servidores públicos ocupantes de cargo efetivo, gozam dos direitos inerentes ao regime estatutário, acrescidos de prerrogativas específicas conferidas pela lei orgânica. Os principais direitos são:</p>
+
+<p><strong>Estabilidade:</strong> após 3 anos de efetivo exercício (estágio probatório constitucional — art. 41, CF), o Procurador adquire estabilidade e só pode ser demitido mediante sentença judicial transitada em julgado, processo administrativo disciplinar (com ampla defesa) ou avaliação periódica de desempenho (esta última ainda carece de regulamentação por lei complementar federal). Antes da estabilidade, sujeita-se ao estágio confirmatório de 18 meses (LC 15/1980, com alterações da LC 226/2025).</p>
+
+<p><strong>Irredutibilidade de subsídio:</strong> os Procuradores do Estado têm direito à irredutibilidade nominal de sua remuneração (art. 37, XV, CF). Os subsídios são fixados por lei específica e escalonados em categorias (3ª, 2ª e 1ª), com diferença de 5% entre cada categoria (LC 226/2025).</p>
+
+<p><strong>Intimação pessoal:</strong> o Procurador do Estado tem direito à intimação pessoal em todos os processos, por meio de carga dos autos, remessa ou meio eletrônico (art. 183, CPC/2015). Essa prerrogativa é da Fazenda Pública, mas beneficia diretamente os Procuradores que a representam.</p>
+
+<p><strong>Honorários de sucumbência:</strong> os honorários advocatícios sucumbenciais pertencem aos Procuradores do Estado como verba de natureza alimentar, conforme reconhecido pelo art. 85, §19, do CPC/2015 e pela Lei nº 13.327/2016 (para advogados públicos federais). No âmbito estadual, a distribuição dos honorários segue regulamentação própria.</p>
+
+<p><strong>Promoção na carreira:</strong> direito à promoção alternada por antiguidade e merecimento, conforme quadros organizados pelo Conselho Superior (LC 15/1980, art. 6º e seguintes).</p>
+
+<p><strong>Independência técnica:</strong> embora vinculados à hierarquia administrativa (diferente da independência funcional plena do MP), os Procuradores exercem suas funções com <strong>autonomia técnico-jurídica</strong>, podendo emitir pareceres segundo sua convicção fundamentada. A LC nº 15/1980 assegura que o Procurador não pode ser punido por opinião jurídica fundamentada, salvo comprovada má-fé.</p>
+
+<h3>Garantias funcionais</h3>
+
+<div class="destaque">
+<strong>Garantias constitucionais da advocacia pública:</strong> diferente do MP (que tem vitaliciedade, inamovibilidade e irredutibilidade expressas no art. 128, §5º, I, CF), os Procuradores do Estado não têm essas garantias constitucionalizadas com a mesma extensão. O STF já decidiu que as garantias institucionais do MP e da Defensoria não se estendem automaticamente às Procuradorias dos Estados (ADI 145/CE, entre outros). Contudo, a legislação estadual pode conferir garantias como a estabilidade (art. 41, CF, aplicável a todos os servidores efetivos) e prerrogativas processuais (intimação pessoal, prazo em dobro).
+</div>
+
+<p>A CERJ (Constituição do Estado do Rio de Janeiro), nos arts. 176 a 181, confere à PGE/RJ autonomia funcional e administrativa, e a LC 15/1980 complementa esse quadro com garantias específicas para os membros da carreira.</p>
+
+<p><strong>Inamovibilidade relativa:</strong> embora não haja inamovibilidade constitucional expressa para Procuradores (como há para membros do MP), a LC 15/1980 e a CERJ estabelecem que a remoção de Procuradores deve observar critérios objetivos e o interesse do serviço, vedada a remoção punitiva ou arbitrária. A jurisprudência tem reconhecido que a remoção de Procuradores por ato discricionário sem motivação pode ser anulada judicialmente.</p>
+
+<h3>Deveres dos Procuradores do Estado</h3>
+
+<p>Os deveres funcionais dos Procuradores decorrem tanto da legislação geral aplicável aos servidores públicos quanto das disposições específicas da LC 15/1980. Os principais são:</p>
+
+<table>
+<tr><th>Dever</th><th>Conteúdo</th></tr>
+<tr><td>Lealdade institucional</td><td>Exercer as funções com dedicação, eficiência e probidade, zelando pela defesa do interesse público e do patrimônio estadual</td></tr>
+<tr><td>Sigilo funcional</td><td>Manter reserva sobre assuntos de que tenha conhecimento em razão do cargo, especialmente informações sobre estratégias processuais do Estado</td></tr>
+<tr><td>Assiduidade e pontualidade</td><td>Cumprir a jornada de trabalho e comparecer às audiências, sessões de julgamento e demais compromissos funcionais</td></tr>
+<tr><td>Urbanidade</td><td>Tratar com cortesia as partes, advogados, magistrados e demais servidores</td></tr>
+<tr><td>Residência na comarca</td><td>Residir na comarca ou localidade onde exerce suas funções (salvo autorização do Procurador-Geral)</td></tr>
+<tr><td>Observância de orientações institucionais</td><td>Acatar as orientações normativas, súmulas administrativas e pareceres vinculantes emanados do Procurador-Geral e do Conselho Superior</td></tr>
+<tr><td>Atualização profissional</td><td>Manter-se atualizado sobre a legislação, jurisprudência e doutrina pertinentes às suas funções</td></tr>
+</table>
+
+<h3>Proibições e impedimentos</h3>
+
+<p>As vedações impostas aos Procuradores do Estado visam preservar a imparcialidade e a dedicação exclusiva à função pública. As principais são:</p>
+
+<p><strong>Vedação ao exercício da advocacia privada:</strong> o Procurador do Estado não pode exercer advocacia fora de suas atribuições institucionais (art. 132, CF, c/c Lei 8.906/1994, art. 30). Trata-se de restrição inerente à natureza do cargo público — a dedicação é exclusiva à representação judicial e consultoria do Estado.</p>
+
+<p><strong>Vedação de recebimento de honorários ou vantagens de partes:</strong> é vedado ao Procurador receber, a qualquer título, honorários, gratificações ou vantagens de partes, interessados ou terceiros em processos nos quais atue ou tenha atuado.</p>
+
+<p><strong>Impedimento em causas que envolva interesse próprio:</strong> o Procurador deve declarar impedimento ou suspeição quando tiver interesse pessoal, direto ou indireto, na causa, ou quando envolver parente até determinado grau (por aplicação analógica das regras do CPC).</p>
+
+<p><strong>Vedação de atividade político-partidária incompatível:</strong> embora não haja vedação absoluta à filiação partidária (como existe para magistrados e membros do MP), o Procurador não pode exercer atividade político-partidária que comprometa a imparcialidade de suas funções ou que seja incompatível com o exercício do cargo.</p>
+
+<p><strong>Proibição de acumulação irregular de cargos:</strong> aplica-se a regra geral do art. 37, XVI, CF — o Procurador só pode acumular seu cargo com um cargo de professor ou um cargo técnico/científico, quando houver compatibilidade de horários.</p>
+
+<div class="atencao">
+<strong>Acumulação permitida mais relevante:</strong> a acumulação de cargo de Procurador do Estado com cargo de professor em universidade pública é a hipótese mais comum na prática. A compatibilidade de horários deve ser comprovada perante a Corregedoria ou o órgão de gestão de pessoal.
+</div>
+
+<h3>Paralelo com MP e Defensoria</h3>
+
+<p>Uma das armadilhas comuns em provas de procuradoria é o candidato confundir as garantias dos Procuradores com as do MP. O quadro abaixo esclarece as diferenças fundamentais:</p>
+
+<table>
+<tr><th>Aspecto</th><th>Ministério Público</th><th>Defensoria Pública</th><th>Procuradoria do Estado</th></tr>
+<tr><td>Base constitucional</td><td>Arts. 127-130-A, CF</td><td>Arts. 134-135, CF</td><td>Art. 132, CF</td></tr>
+<tr><td>Vitaliciedade</td><td>Sim (art. 128, §5º, I, "a")</td><td>Não expressamente</td><td>Não</td></tr>
+<tr><td>Inamovibilidade</td><td>Sim (art. 128, §5º, I, "b")</td><td>Sim (art. 134, §1º)</td><td>Não constitucional (pode ser prevista em lei orgânica)</td></tr>
+<tr><td>Irredutibilidade</td><td>Sim (art. 128, §5º, I, "c")</td><td>Sim (art. 134, §1º)</td><td>Genérica (art. 37, XV, como todo servidor)</td></tr>
+<tr><td>Independência funcional</td><td>Plena (princípio institucional)</td><td>Plena (art. 134, §4º)</td><td>Técnica/mitigada (vinculação à hierarquia administrativa)</td></tr>
+<tr><td>Advocacia privada</td><td>Vedada</td><td>Vedada</td><td>Vedada</td></tr>
+<tr><td>Atividade político-partidária</td><td>Vedada</td><td>Vedada (LC 80/94)</td><td>Não vedada expressamente pela CF, mas com restrições</td></tr>
+</table>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>CF, art. 132</td><td>Procuradores dos Estados organizados em carreira, concurso público, representação judicial e consultoria jurídica das respectivas unidades federadas</td></tr>
+<tr><td>CERJ, arts. 176-181</td><td>Fundamento constitucional estadual: autonomia funcional e administrativa da PGE/RJ, essencialidade da função</td></tr>
+<tr><td>LC nº 15/1980</td><td>Lei Orgânica da PGE/RJ: estrutura da carreira, direitos, deveres, garantias, proibições, estágio confirmatório, promoções</td></tr>
+<tr><td>LC nº 104/2002</td><td>Criação da Corregedoria, atribuições do Procurador-Corregedor</td></tr>
+<tr><td>LC nº 226/2025</td><td>Ampliação de 300 para 330 cargos, licenças ampliadas, atualizações na carreira</td></tr>
+<tr><td>Lei 8.906/1994 (EOAB)</td><td>Art. 30: impedimentos dos advogados públicos ao exercício da advocacia privada</td></tr>
+<tr><td>CPC/2015, art. 183</td><td>Intimação pessoal e prazo em dobro para a Fazenda Pública</td></tr>
+<tr><td>CPC/2015, art. 85, §19</td><td>Honorários advocatícios como direito autônomo dos advogados públicos</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>ADI 145/CE (STF)</td><td>As garantias institucionais do MP (vitaliciedade, inamovibilidade) <strong>não se estendem automaticamente</strong> aos Procuradores do Estado — são carreiras com regimes constitucionais distintos</td></tr>
+<tr><td>ADI 469/DF (STF)</td><td>Constitucionalidade de lei estadual que confere certas prerrogativas aos Procuradores, desde que compatíveis com a CF e que não reproduzam ipsis litteris as garantias do MP</td></tr>
+<tr><td>RE 558.258 (STF, 2010)</td><td>Discutiu o teto remuneratório aplicável a procuradores autárquicos, reafirmando que a fixação de teto por decreto estadual deve observar os parâmetros constitucionais</td></tr>
+<tr><td>Tema 1.002 (STF, 2023)</td><td>Decidiu que são devidos honorários de sucumbência à Defensoria Pública quando litiga contra o ente público ao qual é vinculada, superando a Súmula 421/STJ</td></tr>
+<tr><td>ADI 6.022 (STF, 2020)</td><td>Norma estadual pode conferir autonomia administrativa e financeira à PGE, desde que não contrarie a Constituição Federal. Cada Estado tem liberdade para disciplinar sua procuradoria conforme suas peculiaridades</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>A LC nº 15/1980 é o diploma central deste ponto. Leia-a com atenção especial aos capítulos sobre direitos (remuneração, promoção, estabilidade), deveres (assiduidade, sigilo, urbanidade) e vedações (advocacia privada, acumulação de cargos). A LC nº 226/2025 trouxe atualizações pontuais que devem ser lidas em conjunto.</p>
+
+<p>Após dominar a legislação orgânica, articule o tema com o art. 132 da CF e com os arts. 176-181 da CERJ — é fundamental saber o que é garantia constitucional (genérica para todos os servidores, como estabilidade e irredutibilidade) e o que é prerrogativa da lei orgânica (específica da carreira, como intimação pessoal e autonomia técnica).</p>
+
+<p>Prepare-se para a comparação com MP e Defensoria: decore as garantias constitucionais de cada carreira (vitaliciedade, inamovibilidade, irredutibilidade) e saiba explicar por que os Procuradores não as possuem com a mesma extensão. Essa distinção é cobrada com frequência em provas discursivas.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Independência funcional × autonomia técnica:</strong> os Procuradores do Estado não têm independência funcional plena como os membros do MP. Possuem <strong>autonomia técnico-jurídica</strong>, que lhes permite emitir pareceres segundo sua convicção — mas estão sujeitos à hierarquia administrativa e devem observar as orientações normativas e súmulas administrativas da PGE. A diferença é sutil, mas fundamental para a prova.
+</div>
+
+<div class="atencao">
+<strong>Inamovibilidade não é garantia constitucional dos Procuradores:</strong> diferente do MP (art. 128, §5º, I, "b") e da Defensoria (art. 134, §1º), os Procuradores do Estado não possuem inamovibilidade constitucional. A proteção contra remoção arbitrária, quando existe, decorre da lei orgânica estadual e dos princípios da legalidade e motivação — não de garantia constitucional expressa. O STF foi claro nesse ponto (ADI 145/CE).
+</div>
+
+<div class="atencao">
+<strong>Advocacia privada é vedação absoluta:</strong> o Procurador do Estado não pode exercer advocacia privada sob nenhuma hipótese enquanto ocupar o cargo. Essa vedação decorre tanto do art. 30 da Lei 8.906/1994 (EOAB) quanto da própria natureza do cargo público de dedicação exclusiva. A vedação persiste mesmo durante licenças ou afastamentos, salvo expressa autorização legal.
+</div>
+
+<div class="atencao">
+<strong>Honorários de sucumbência — tema em evolução:</strong> o art. 85, §19, do CPC/2015 reconhece os honorários como direito autônomo do advogado. A questão da tributação dos honorários percebidos por advogados públicos segue em debate, com discussões sobre sua natureza remuneratória ou indenizatória. Fique atento às definições pendentes sobre esse tema.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Garantias do MP não se estendem a Procuradores (ADI 145/CE, STF):</strong> o STF deixou claro que as garantias institucionais previstas para o MP (vitaliciedade, inamovibilidade e irredutibilidade qualificada) não podem ser estendidas por analogia ou simetria aos Procuradores do Estado. As carreiras da advocacia pública possuem regime constitucional próprio (art. 132, CF), com prerrogativas definidas pela legislação infraconstitucional de cada ente federado.</p>
+
+<p><strong>Autonomia da PGE por lei estadual (ADI 6.022, STF, 2020):</strong> o STF reconheceu que os Estados podem, por meio de suas constituições e leis orgânicas, conferir autonomia funcional e administrativa às Procuradorias-Gerais, desde que compatível com a Constituição Federal. Essa autonomia não equivale à independência funcional do MP, mas protege a instituição contra interferências políticas indevidas.</p>
+
+<p><strong>Parecer jurídico e responsabilidade (MS 24.073, STF, 2002):</strong> o STF fixou que o advogado público que emite parecer jurídico não pode ser responsabilizado pelo TCU por eventuais prejuízos decorrentes da aprovação do ato administrativo fundamentado naquele parecer — salvo comprovação de culpa grave ou dolo. Esse precedente protege a autonomia técnica do Procurador e diferencia o ato de opinião jurídica do ato de gestão.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><strong>LC 226/2025 — atualização da carreira:</strong> a Lei Complementar nº 226, de 4 de dezembro de 2025, ampliou o quadro de Procuradores de 300 para 330 cargos, atualizou regras sobre licenças (maternidade de 180 dias, paternidade de 30 dias, adoção) e reformulou aspectos da estrutura administrativa da PGE/RJ. Embora não tenha alterado substancialmente os direitos e deveres dos Procuradores, reforçou prerrogativas de carreira e modernizou o regime funcional.</p>
+
+<p><strong>Honorários de sucumbência em face do ente vinculado (Tema 1.002, STF, 2023):</strong> o STF decidiu que são devidos honorários de sucumbência à Defensoria Pública quando litiga contra o ente ao qual é vinculada, superando a Súmula 421/STJ. A decisão reforça a autonomia financeira das funções essenciais à Justiça. Para os Procuradores do Estado, a questão específica da tributação dos honorários percebidos ainda aguarda definição em outros foros.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Direitos e garantias dos Procuradores do Estado do RJ</h3>
+
+<table>
+<tr><th>Direito/Garantia</th><th>Fundamento</th><th>Observação</th></tr>
+<tr><td>Estabilidade</td><td>Art. 41, CF (3 anos)</td><td>+ Estágio confirmatório de 18 meses (LC 15/1980)</td></tr>
+<tr><td>Irredutibilidade de subsídio</td><td>Art. 37, XV, CF</td><td>Garantia geral de todos os servidores</td></tr>
+<tr><td>Intimação pessoal</td><td>Art. 183, CPC/2015</td><td>Prerrogativa da Fazenda Pública</td></tr>
+<tr><td>Prazo em dobro</td><td>Art. 183, CPC; DL 779/1969</td><td>Todas as manifestações processuais</td></tr>
+<tr><td>Honorários de sucumbência</td><td>Art. 85, §19, CPC/2015</td><td>Verba de natureza alimentar, direito autônomo</td></tr>
+<tr><td>Promoção na carreira</td><td>LC 15/1980</td><td>Alternada por antiguidade e merecimento</td></tr>
+<tr><td>Autonomia técnico-jurídica</td><td>LC 15/1980; CERJ arts. 176-181</td><td>Opinião jurídica fundamentada; não é independência funcional plena</td></tr>
+</table>
+
+<h3>Deveres e vedações dos Procuradores do Estado</h3>
+
+<table>
+<tr><th>Categoria</th><th>Conteúdo</th><th>Consequência do Descumprimento</th></tr>
+<tr><td>Dever de assiduidade</td><td>Cumprir jornada, comparecer a audiências e compromissos</td><td>Sindicância ou PAD; advertência ou suspensão</td></tr>
+<tr><td>Dever de sigilo</td><td>Reserva sobre informações estratégicas do Estado</td><td>PAD; suspensão ou demissão conforme gravidade</td></tr>
+<tr><td>Vedação de advocacia privada</td><td>Proibição absoluta de advogar fora das funções institucionais</td><td>PAD; demissão por acumulação ilícita</td></tr>
+<tr><td>Vedação de recebimento de vantagens</td><td>Proibido receber honorários, presentes ou vantagens de partes</td><td>PAD; demissão por improbidade</td></tr>
+<tr><td>Impedimento por interesse pessoal</td><td>Declarar impedimento/suspeição em causas com interesse próprio ou de parentes</td><td>Nulidade de atos praticados; responsabilização funcional</td></tr>
+<tr><td>Observância de orientações</td><td>Acatar súmulas administrativas e pareceres normativos da PGE</td><td>Sindicância; advertência</td></tr>
+</table>
+
+<h3>Estrutura da carreira de Procurador do Estado do RJ</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Detalhamento</th></tr>
+<tr><td>Total de cargos</td><td>330 (LC 226/2025 — antes eram 300)</td></tr>
+<tr><td>Categorias</td><td>3ª (ingresso), 2ª e 1ª (topo), distribuídas igualmente</td></tr>
+<tr><td>Diferença salarial entre categorias</td><td>5% de uma para outra</td></tr>
+<tr><td>Promoção</td><td>Alternada por antiguidade e merecimento</td></tr>
+<tr><td>Estágio confirmatório</td><td>18 meses após posse/exercício</td></tr>
+<tr><td>Ingresso</td><td>Concurso público de provas e títulos (art. 132, CF)</td></tr>
+<tr><td>Regime remuneratório</td><td>Subsídio em parcela única (exceções: verbas indenizatórias)</td></tr>
+</table>
+
+</div>

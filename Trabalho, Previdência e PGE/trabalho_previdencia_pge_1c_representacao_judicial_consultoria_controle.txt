@@ -1,0 +1,203 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Representação Judicial, Consultoria Jurídica e Controle Interno da Legalidade</h1>
+<p class="subtitulo">Ponto 1, item "c" — A representação judicial e a consultoria do Estado. O controle interno da legalidade dos atos do poder público. Advocacia pública como função essencial à justiça</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>A Procuradoria-Geral do Estado exerce, simultaneamente, três funções constitucionais: a <strong>representação judicial</strong> do ente federativo, a <strong>consultoria jurídica</strong> para os órgãos e entidades da administração e o <strong>controle interno da legalidade</strong> dos atos do poder público. Essas três dimensões formam o núcleo da atuação do Procurador do Estado e definem sua identidade institucional. Este ponto é, portanto, diretamente relacionado à carreira — e a banca da PGE/RJ tem especial interesse em cobrar o candidato sobre a compreensão dessas funções.</p>
+
+<p>A representação judicial é a face mais visível: o Procurador atua em juízo na defesa dos interesses do Estado, em todas as instâncias e esferas (cível, trabalhista, criminal quando o Estado é parte, tributária, ambiental). A consultoria jurídica é a atividade preventiva: a emissão de pareceres, informações e manifestações que orientam a atuação dos gestores públicos antes que os atos administrativos sejam praticados. O controle interno da legalidade fecha o ciclo: a PGE funciona como guardiã da juridicidade dos atos estatais, em atuação complementar (não substitutiva) ao controle externo exercido pelo Tribunal de Contas e pelo Poder Judiciário.</p>
+
+<p>Este ponto conecta-se com o art. 132 da CF (Ponto 1b), com a organização interna da PGE (Pontos 3c, 5c, 7c e 10c), com o papel propositivo no aperfeiçoamento da gestão pública (Ponto 8b) e com a LINDB — Lei de Introdução às Normas do Direito Brasileiro (arts. 20-30), que trouxe regras específicas sobre motivação de decisões administrativas e responsabilidade de pareceristas.</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Representação judicial do Estado</h3>
+
+<p>A representação judicial é atribuição <strong>exclusiva</strong> da PGE, por força do art. 132 da CF. Nenhum outro órgão ou entidade pode contratar advogados para representar o Estado em juízo nas matérias de competência da PGE. O STF reforçou esse monopólio na ADI 7.218/PB (2024), declarando inconstitucionais leis que criavam cargos de advogados em autarquias e fundações estaduais para exercer funções de representação judicial.</p>
+
+<p>A representação judicial abrange: (i) a defesa do Estado em ações cíveis, trabalhistas e tributárias; (ii) a propositura de ações em nome do Estado (ações de cobrança, execuções fiscais, ações regressivas); (iii) a atuação em ações constitucionais (ADI, ADC, ADPF) perante o STF, quando o Estado é legitimado ativo ou passivo; (iv) a sustentação oral em tribunais; e (v) a atuação na cobrança judicial e extrajudicial da dívida ativa. No Rio de Janeiro, a CERJ (Constituição Estadual) e a LC 15/1980 detalham essas atribuições.</p>
+
+<h3>Consultoria jurídica</h3>
+
+<p>A consultoria jurídica é a atividade <strong>preventiva</strong> da PGE: a análise prévia de legalidade, constitucionalidade e juridicidade dos atos administrativos antes de sua prática. Materializa-se em <strong>pareceres</strong>, <strong>informações</strong>, <strong>notas técnicas</strong> e <strong>manifestações</strong> emitidos pelos Procuradores em resposta a consultas formuladas por gestores públicos. A consultoria abrange matérias como: contratos administrativos (análise de minutas, prorrogações, reequilíbrio), licitações, convênios, operações de crédito, projetos de lei, decretos regulamentares e atos normativos em geral.</p>
+
+<p>Os <strong>pareceres normativos</strong> merecem destaque: quando aprovados pelo Procurador-Geral do Estado e publicados, vinculam toda a administração estadual naquela matéria, uniformizando a interpretação jurídica e conferindo segurança aos gestores. A função de consultoria posiciona a PGE como <strong>órgão central do sistema jurídico</strong> do Estado — nomenclatura que a CE/RJ e a LC 15/1980 adotam expressamente.</p>
+
+<div class="destaque">
+<p><strong>Consultoria preventiva e redução de litigiosidade:</strong> a atividade consultiva bem exercida reduz o contencioso judicial: quando o gestor consulta a PGE antes de praticar um ato, evitam-se ilegalidades que gerariam ações judiciais contra o Estado. Essa função de "advocacia preventiva" é cada vez mais valorizada e aparece expressamente no edital como "advocacia preventiva" e "papel propositivo no aperfeiçoamento da gestão pública" (Ponto 8b). A PGE não apenas reage a litígios — ela atua para evitá-los.</p>
+</div>
+
+<h3>Controle interno da legalidade</h3>
+
+<p>O controle interno da legalidade é a terceira dimensão da atuação da PGE: a verificação, de ofício ou mediante consulta, da conformidade dos atos administrativos com o ordenamento jurídico. Esse controle é <strong>preventivo</strong> (antes da prática do ato, via parecer consultivo), <strong>concomitante</strong> (durante a execução contratual, via acompanhamento jurídico) e, eventualmente, <strong>corretivo</strong> (quando a PGE identifica ilegalidade em ato já praticado e recomenda sua anulação ou regularização).</p>
+
+<p>O controle exercido pela PGE distingue-se do controle externo (Tribunal de Contas, Poder Judiciário) em três aspectos: (i) é <strong>interno</strong> à Administração (o Procurador integra a estrutura do Estado); (ii) é essencialmente <strong>jurídico</strong> (analisa legalidade e constitucionalidade, não mérito administrativo ou conveniência); e (iii) é <strong>opinativo</strong>, não decisório — o parecer orienta, mas a decisão final cabe ao gestor (salvo quando o parecer é vinculante por previsão legal). A LINDB (arts. 20-22) reforçou a importância da motivação e da análise consequencialista nas decisões administrativas, impactando diretamente a atividade consultiva.</p>
+
+<h3>A LINDB e a responsabilidade do parecerista</h3>
+
+<p>Os arts. 20-30 da LINDB (incluídos pela Lei 13.655/2018) trouxeram balizas para a atuação dos pareceristas. O art. 28 estabelece que o agente público somente responderá pessoalmente por suas decisões ou opiniões técnicas em caso de <strong>dolo ou erro grosseiro</strong>. Isso protege o Procurador que emite parecer de boa-fé, mesmo que o entendimento venha a ser superado posteriormente. O STF, no MS 24.631, distinguiu três tipos de parecer quanto à responsabilidade: (i) <strong>parecer facultativo</strong>: o parecerista não responde, salvo dolo ou erro grosseiro; (ii) <strong>parecer obrigatório</strong>: mesma regra; (iii) <strong>parecer vinculante</strong>: o parecerista pode ser responsabilizado solidariamente com o gestor, pois seu parecer equivale a co-decisão.</p>
+
+<h3>Advocacia pública como função essencial à justiça</h3>
+
+<p>A CF posiciona a Advocacia Pública no Título IV, Capítulo IV — "Das Funções Essenciais à Justiça", ao lado do Ministério Público, da Advocacia (privada) e da Defensoria Pública. Essa posição constitucional confere à PGE status de <strong>instituição de Estado</strong>, não de governo: o Procurador não defende o governante, mas o Estado, incluindo sua ordem jurídica e o interesse público primário. Essa distinção é fundamental para compreender a independência técnica do Procurador no exercício de suas funções — ele pode (e deve) opinar pela ilegalidade de um ato do governo, mesmo que contrarie o interesse imediato do gestor.</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 131</strong> — Advocacia-Geral da União (AGU). <strong>Art. 132</strong> — Procuradores dos Estados e do DF (representação judicial e consultoria jurídica, carreira por concurso com OAB, estabilidade). <strong>Arts. 70-75</strong> — controle externo e interno (fiscalização contábil, financeira). <strong>Art. 37, §3º</strong> — participação do usuário na administração e acesso a informações.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><strong>Arts. 176-181</strong> — Advocacia Pública estadual. <strong>Art. 176</strong> — a PGE é instituição essencial à justiça, vinculada ao Governador, com autonomia funcional. <strong>Art. 177</strong> — funções de representação judicial, consultoria jurídica, controle da legalidade e cobrança da dívida ativa. <strong>Art. 178</strong> — participação obrigatória da OAB no concurso; estabilidade após três anos.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><strong>LC 15/1980</strong> — Lei Orgânica da PGE/RJ. <strong>Lei 13.655/2018</strong> — alteração da LINDB (arts. 20-30): motivação, consequencialismo, responsabilidade do parecerista (art. 28 — dolo ou erro grosseiro). <strong>Decreto 2.479/1979</strong> — Regulamento do Estatuto dos Funcionários Públicos do Estado do Rio de Janeiro.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Este ponto é diretamente institucional e permite ao candidato demonstrar que compreende a função que exercerá. A prova discursiva pode pedir, por exemplo: "disserte sobre as funções da PGE na Constituição Federal e na Constituição do Estado do Rio de Janeiro" ou "explique a distinção entre a atividade contenciosa e a atividade consultiva da PGE." Uma resposta bem estruturada percorre: (1) representação judicial exclusiva (art. 132, CF; ADI 7.218); (2) consultoria jurídica como advocacia preventiva; (3) controle interno da legalidade (complementar ao controle externo); (4) art. 28 da LINDB e a responsabilidade do parecerista.</p>
+
+<p>Conheça também a estrutura organizacional da PGE/RJ (LC 15/1980): Procuradoria Judicial, Procuradoria Fiscal, Procuradoria Trabalhista, Consultoria Jurídica, Corregedoria. Essa estrutura aparece em pontos posteriores (3c, 5c, 6c, 10c), mas uma visão geral já é útil aqui.</p>
+
+<p>Leia o art. 28 da LINDB com atenção: a expressão "erro grosseiro" vem sendo interpretada pelo STF como conduta que se afasta radicalmente do padrão esperado de diligência profissional. Para o Procurador, isso significa que o parecer emitido com fundamentação adequada, mesmo que equivocado, não gera responsabilidade pessoal.</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Representação judicial exclusiva — alcance e exceções:</strong> o art. 132 assegura a exclusividade da PGE na representação judicial e consultoria do Estado, inclusive da administração direta, autárquica e fundacional (ADI 7.218). A exceção são as <strong>empresas estatais</strong> (empresas públicas e sociedades de economia mista), que podem ter quadro próprio de advogados. O STF também admite que o Estado contrate advogados privados em situações excepcionais (causas de alta especificidade técnica), desde que justificado e sem substituição permanente da PGE.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Parecer vinculante × parecer obrigatório × parecer facultativo:</strong> a responsabilidade do parecerista varia conforme a natureza do parecer. No parecer facultativo (solicitado por liberalidade do gestor), o parecerista não responde pelo ato. No parecer obrigatório (exigido por lei como requisito do ato), tampouco responde — salvo dolo ou erro grosseiro (art. 28, LINDB). No parecer vinculante (o gestor é obrigado a seguir a conclusão), o parecerista pode ser responsabilizado solidariamente, pois seu parecer integra a decisão. Essa classificação foi adotada pelo STF no MS 24.631.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Controle interno ≠ controle externo:</strong> o controle exercido pela PGE é interno (órgão integrante da estrutura do Estado) e jurídico (legalidade e constitucionalidade). Não se confunde com o controle externo do Tribunal de Contas (que examina regularidade contábil, financeira e patrimonial) nem com o controle judicial (que depende de provocação e produz coisa julgada). A PGE não pode anular atos administrativos diretamente — emite parecer recomendando a anulação, e o gestor decide. A exceção é quando a lei atribui à PGE competência decisória específica (como na inscrição em dívida ativa).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Independência técnica do Procurador — instituição de Estado, não de governo:</strong> o Procurador do Estado tem independência técnica para emitir parecer contrário aos interesses imediatos do governo, quando entender que o ato viola a ordem jurídica. Essa independência decorre da natureza constitucional da PGE como função essencial à justiça (não ao governo). O Procurador defende a legalidade e o interesse público, mesmo quando isso significa aconselhar o gestor a não praticar determinado ato. A estabilidade funcional (art. 132, parágrafo único) é garantia dessa independência.</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>ADI 7.218/STF (2024) — unicidade da advocacia pública estadual</h3>
+
+<p>O STF declarou inconstitucionais normas estaduais que criavam cargos de advogados em autarquias e fundações para exercer funções de representação judicial e consultoria jurídica, por violação ao art. 132 da CF. A Corte reafirmou o princípio da <strong>unicidade orgânica</strong>: a PGE é o único órgão legitimado para exercer a advocacia pública estadual no âmbito da administração direta, autárquica e fundacional.</p>
+
+<h3>MS 24.631/STF — responsabilidade do parecerista</h3>
+
+<p>O STF distinguiu três categorias de parecer para fins de responsabilidade: (i) <strong>facultativo</strong>: o parecerista não é responsável pelo ato, salvo dolo comprovado; (ii) <strong>obrigatório</strong>: a mesma regra, acrescida da possibilidade de responsabilização por erro grosseiro (após a LINDB); (iii) <strong>vinculante</strong>: o parecerista responde solidariamente com o gestor, pois o parecer integra a decisão administrativa. A decisão é referência para concursos de procuradorias e aparece frequentemente em provas discursivas.</p>
+
+<h3>Tema 936/STF — advogado público e inscrição na OAB</h3>
+
+<p>O STF discute no RE 609.517 (Tema 936) se é obrigatória a inscrição na OAB para o exercício da advocacia pública (procuradores, advogados da União, defensores). O relator, Min. Cristiano Zanin, votou pela desnecessidade, argumentando que a capacidade postulatória do advogado público decorre do concurso público, não da inscrição na OAB. Julgamento suspenso; tema relevante para a carreira de Procurador do Estado.</p>
+
+<h3>Art. 28 da LINDB — erro grosseiro e responsabilidade funcional</h3>
+
+<p>O art. 28 da Lei 13.655/2018 estabelece que o agente público somente responde pessoalmente por decisões ou opiniões técnicas em caso de <strong>dolo ou erro grosseiro</strong>. A jurisprudência vem consolidando que "erro grosseiro" é aquele que se afasta radicalmente do padrão de diligência profissional esperado — não se confunde com mera divergência de interpretação jurídica. Para o Procurador, isso significa que o parecer fundamentado e diligente, mesmo que contenha interpretação posteriormente superada, não gera responsabilidade pessoal.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Funções da PGE: representação, consultoria e controle</h3>
+
+<table>
+<tr>
+<th>Função</th>
+<th>Natureza</th>
+<th>Instrumento</th>
+<th>Exemplo prático</th>
+</tr>
+<tr>
+<td>Representação judicial</td>
+<td>Contenciosa (reativa)</td>
+<td>Petições, contestações, recursos, sustentações orais</td>
+<td>Defesa do Estado em ações indenizatórias, execuções fiscais</td>
+</tr>
+<tr>
+<td>Consultoria jurídica</td>
+<td>Preventiva (opinativa)</td>
+<td>Pareceres, informações, notas técnicas</td>
+<td>Análise de minutas de contratos, projetos de lei, convênios</td>
+</tr>
+<tr>
+<td>Controle interno da legalidade</td>
+<td>Fiscalizatória (jurídica)</td>
+<td>Pareceres opinativos, recomendações de anulação</td>
+<td>Identificação de ilegalidade em ato administrativo e recomendação de correção</td>
+</tr>
+</table>
+
+<h3>Responsabilidade do parecerista (MS 24.631/STF + art. 28, LINDB)</h3>
+
+<table>
+<tr>
+<th>Tipo de parecer</th>
+<th>Vinculação do gestor</th>
+<th>Responsabilidade do parecerista</th>
+</tr>
+<tr>
+<td>Facultativo</td>
+<td>Gestor pode ou não solicitar</td>
+<td>Não responde (salvo dolo)</td>
+</tr>
+<tr>
+<td>Obrigatório</td>
+<td>Lei exige, mas gestor decide</td>
+<td>Não responde (salvo dolo ou erro grosseiro — art. 28, LINDB)</td>
+</tr>
+<tr>
+<td>Vinculante</td>
+<td>Gestor obrigado a seguir</td>
+<td>Responde solidariamente (parecer = co-decisão)</td>
+</tr>
+</table>
+
+<h3>Controle interno (PGE) × controle externo (TC/Judiciário)</h3>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Controle interno (PGE)</th>
+<th>Controle externo (TC)</th>
+<th>Controle judicial</th>
+</tr>
+<tr>
+<td>Posição</td>
+<td>Órgão interno da Administração</td>
+<td>Órgão externo (Poder Legislativo)</td>
+<td>Poder Judiciário</td>
+</tr>
+<tr>
+<td>Objeto</td>
+<td>Legalidade e constitucionalidade</td>
+<td>Legalidade, legitimidade, economicidade</td>
+<td>Legalidade (provocação)</td>
+</tr>
+<tr>
+<td>Natureza</td>
+<td>Opinativo (parecer)</td>
+<td>Decisório (julgamento de contas)</td>
+<td>Decisório (sentença com coisa julgada)</td>
+</tr>
+<tr>
+<td>Iniciativa</td>
+<td>De ofício ou por consulta</td>
+<td>De ofício ou por denúncia</td>
+<td>Apenas por provocação</td>
+</tr>
+</table>
+
+</div>

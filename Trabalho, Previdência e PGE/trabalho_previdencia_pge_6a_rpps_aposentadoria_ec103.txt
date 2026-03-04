@@ -1,0 +1,185 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Regime Previdenciário do Servidor Público: RPPS, Aposentadoria e EC 103/2019</h1>
+<p class="subtitulo">Ponto 6, item "a" — Regime previdenciário do servidor público: RPPS, princípios, regras de aposentadoria (EC 103/2019), regras de transição, integralidade e paridade</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>A previdência do servidor público é um dos campos mais complexos e dinâmicos do Direito Administrativo e Previdenciário brasileiro. O Regime Próprio de Previdência Social (RPPS), previsto no art. 40 da CF, foi profundamente alterado pelas Emendas Constitucionais 20/1998, 41/2003, 47/2005 e, mais recentemente, pela EC 103/2019 (Reforma da Previdência). Para a PGE/RJ, o domínio desse tema é indispensável: o Estado é responsável pelo RPPS dos seus servidores, e a Procuradoria atua na defesa de milhares de ações nas quais aposentados e pensionistas questionam o cálculo de proventos, o direito à paridade, as regras de transição e a constitucionalidade de dispositivos da Reforma.</p>
+
+<p>A EC 103/2019 trouxe mudanças estruturais: fixou idade mínima para aposentadoria, alterou a fórmula de cálculo dos proventos, criou múltiplas regras de transição e condicionou a aplicação de suas normas aos Estados e Municípios à edição de legislação própria. O Estado do Rio de Janeiro editou legislação para adequar seu RPPS (RioPrevidência) às novas regras. O candidato precisa dominar as regras permanentes, as regras de transição e a jurisprudência do STF sobre o tema.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>RPPS — estrutura e princípios</h3>
+
+<p>O art. 40 da CF (com a redação dada pela EC 103/2019) estabelece que o RPPS tem caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, dos servidores ativos, dos aposentados e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial. Os princípios fundamentais são:</p>
+
+<p><strong>Contributividade:</strong> os benefícios previdenciários exigem contribuição prévia. Não há benefício sem contrapartida contributiva. A alíquota de contribuição do servidor foi fixada em, no mínimo, 14% pela EC 103/2019 (art. 9º, §1º), podendo ser progressiva conforme a faixa remuneratória.</p>
+
+<p><strong>Solidariedade:</strong> aposentados e pensionistas contribuem para o regime (contribuição sobre o valor que exceder o teto do RGPS). Esse princípio foi validado pelo STF na ADI 3.105 (2004), que reconheceu a constitucionalidade da contribuição de inativos instituída pela EC 41/2003.</p>
+
+<p><strong>Equilíbrio financeiro e atuarial:</strong> o regime deve ser sustentável no longo prazo, com receitas suficientes para cobrir as obrigações presentes e futuras. Esse princípio justifica as reformas restritivas e a exigência de avaliação atuarial periódica.</p>
+
+<p><strong>Vedação de critérios diferenciados:</strong> é vedada a adoção de requisitos ou critérios diferenciados para aposentadoria, salvo nos casos de servidores com deficiência, que exerçam atividades de risco e atividades exercidas sob condições especiais prejudiciais à saúde ou à integridade física, nos termos definidos em lei complementar (art. 40, §4º).</p>
+
+<h3>Regras permanentes de aposentadoria (EC 103/2019)</h3>
+
+<p>A EC 103/2019 estabeleceu novas regras permanentes no art. 40, §1º, da CF, aplicáveis diretamente à União. Para os Estados, Distrito Federal e Municípios, a EC determinou que a idade mínima seria fixada mediante emenda às respectivas Constituições e Leis Orgânicas, observando-se o tempo de contribuição e os demais requisitos em lei complementar. As modalidades de aposentadoria previstas são:</p>
+
+<p><strong>Aposentadoria voluntária (art. 40, §1º, III):</strong> exige idade mínima de 62 anos (mulher) e 65 anos (homem), com tempo mínimo de contribuição de 25 anos, sendo no mínimo 10 anos de efetivo exercício no serviço público e 5 anos no cargo efetivo em que se der a aposentadoria. Os proventos são calculados com base na média de todos os salários de contribuição (sem exclusão das menores), correspondendo a 60% dessa média + 2% por ano que exceder 20 anos de tempo de contribuição.</p>
+
+<p><strong>Aposentadoria compulsória (art. 40, §1º, II):</strong> aos 75 anos de idade, com proventos proporcionais ao tempo de contribuição (LC 152/2015). O STF analisa a obrigatoriedade dessa aposentadoria e sua compatibilidade com os princípios da dignidade e eficiência (ARE 1.309.642).</p>
+
+<p><strong>Aposentadoria por incapacidade permanente (art. 40, §1º, I):</strong> substituiu a antiga "aposentadoria por invalidez". Os proventos são proporcionais ao tempo de contribuição, exceto nos casos de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, hipóteses em que os proventos são integrais. O STF discute a constitucionalidade dessa regra no Tema 1.300 (RE 1.469.150).</p>
+
+<h3>Integralidade e paridade</h3>
+
+<p>Antes da EC 41/2003, os servidores se aposentavam com proventos integrais (iguais à última remuneração) e com paridade (reajustes idênticos aos da ativa). A EC 41/2003 extinguiu esses benefícios para quem ingressou no serviço público após 31/12/2003, substituindo-os pelo cálculo pela média dos salários de contribuição e pelo reajuste para preservação do valor real.</p>
+
+<p>A <strong>integralidade</strong> significa que os proventos de aposentadoria correspondem ao valor da última remuneração do servidor na ativa, sem redução. A <strong>paridade</strong> garante que os reajustes dos proventos acompanhem, na mesma data e nos mesmos índices, os reajustes concedidos aos servidores da ativa.</p>
+
+<p>Esses benefícios permanecem assegurados apenas a quem preencher os requisitos de alguma regra de transição que os preserve — especialmente a regra do pedágio de 100% para servidores que ingressaram até 31/12/2003.</p>
+
+<h3>Regras de transição (EC 103/2019)</h3>
+
+<p>A EC 103/2019 criou regras de transição para os servidores que ingressaram no serviço público antes da data de publicação da Emenda (13/11/2019) e ainda não haviam preenchido os requisitos para aposentadoria. As principais são:</p>
+
+<table>
+<tr><th>Regra de transição</th><th>Requisitos</th><th>Integralidade/Paridade</th></tr>
+<tr><td><strong>Pontos progressivos</strong> (art. 4º da EC 103)</td><td>Mulher: 56 anos de idade + 30 de contribuição + 86 pontos (idade + TC), com acréscimo de 1 ponto/ano até 100. Homem: 61 anos + 35 de contribuição + 96 pontos, até 105. Mínimo 20 anos no serviço público e 5 no cargo</td><td>Não há integralidade nem paridade. Cálculo pela média</td></tr>
+<tr><td><strong>Pedágio de 100%</strong> (art. 20, §2º, da EC 103)</td><td>Mulher: 57 anos de idade + 30 de contribuição + pedágio de 100% do tempo que faltava em 13/11/2019. Homem: 60 anos + 35 de contribuição + pedágio de 100%. Mínimo 20 anos no serviço público e 5 no cargo</td><td><strong>Se ingressou até 31/12/2003:</strong> integralidade e paridade asseguradas. Se ingressou após: cálculo pela média</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>A regra do pedágio de 100% é a única que preserva integralidade e paridade</strong> para quem ingressou no serviço público até 31/12/2003. Essa é uma informação de alta importância para a prova — as demais regras de transição calculam os proventos pela média, sem paridade com a ativa.</p>
+</div>
+
+<h3>Cálculo dos proventos — fórmula da EC 103/2019</h3>
+
+<p>Para quem não tem direito à integralidade, os proventos são calculados da seguinte forma: (i) apura-se a média de todos os salários de contribuição ao longo da vida contributiva do servidor (sem exclusão das 20% menores contribuições, como era antes); (ii) aplica-se o coeficiente de 60% + 2% por ano de contribuição que exceder 20 anos de tempo de contribuição. Assim, com 20 anos de contribuição, o servidor recebe 60% da média; com 25 anos, 70%; com 30 anos, 80%; com 35 anos, 90%; com 40 anos, 100%.</p>
+
+<p>O resultado não pode exceder a remuneração do cargo efetivo nem o teto do RGPS (para quem aderiu à previdência complementar). Pode, contudo, ser inferior ao salário mínimo (caso raro, pois há garantia constitucional do piso).</p>
+
+<h3>Abono de permanência</h3>
+
+<p>O servidor que, tendo preenchido os requisitos para aposentadoria voluntária, optar por permanecer em atividade faz jus ao abono de permanência (art. 40, §19, CF, c/c art. 3º, §1º, da EC 103/2019). O abono corresponde, no máximo, ao valor da contribuição previdenciária e funciona como incentivo para que o servidor continue trabalhando, postergando a aposentadoria. No âmbito da União, a EC 103/2019 determinou que o abono será definido em lei. Nos Estados, o valor pode ser fixado por legislação própria.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Quadro normativo</h3>
+
+<table>
+<tr><th>Norma</th><th>Conteúdo relevante</th></tr>
+<tr><td>Art. 40, CF (EC 103/2019)</td><td>RPPS: caráter contributivo e solidário; modalidades de aposentadoria; alíquota mínima de 14%</td></tr>
+<tr><td>EC 103/2019 (arts. 4º a 21)</td><td>Regras de transição: pontos progressivos (art. 4º), pedágio 100% (art. 20, §2º); cálculo dos proventos</td></tr>
+<tr><td>EC 41/2003</td><td>Fim da integralidade e paridade para ingressantes após 31/12/2003; contribuição de inativos</td></tr>
+<tr><td>EC 47/2005 (art. 3º)</td><td>Regra de transição com paridade para ingressantes até 16/12/1998 (já esgotada para maioria)</td></tr>
+<tr><td>LC 152/2015</td><td>Aposentadoria compulsória aos 75 anos</td></tr>
+<tr><td>Lei 9.717/1998</td><td>Normas gerais para organização dos RPPS</td></tr>
+<tr><td>Art. 149, §1º, CF</td><td>Contribuição previdenciária dos servidores: alíquota não inferior à do RGPS</td></tr>
+</table>
+
+<h3>Jurisprudência fundamental</h3>
+
+<div class="destaque">
+<p><strong>ADI 3.105 — STF, 2004:</strong> constitucionalidade da contribuição previdenciária de aposentados e pensionistas (EC 41/2003). O princípio da solidariedade justifica a tributação de inativos para a manutenção do equilíbrio do sistema.</p>
+</div>
+
+<div class="destaque">
+<p><strong>Tema 1.300 (RE 1.469.150) — STF, pendente:</strong> discute se a aposentadoria por incapacidade permanente decorrente de doença grave deve ser calculada com proventos integrais (como na regra anterior) ou pela fórmula da EC 103/2019 (60% + 2%/ano). Decisão de grande impacto para os RPPS estaduais.</p>
+</div>
+
+<div class="destaque">
+<p><strong>Tema 139 (RE 590.260) — STF:</strong> os servidores públicos que ingressaram antes da EC 41/2003 e se aposentaram pelas regras de transição da EC 47/2005 têm direito à integralidade e à paridade. Precedente importante para a fixação dos proventos de servidores do regime antigo.</p>
+</div>
+
+<div class="destaque">
+<p><strong>ADI 6.254 e ADI 6.255 — STF:</strong> questionam dispositivos da EC 103/2019 relativos ao redutor de acumulação de aposentadoria e pensão (art. 24 da EC). O STF reconheceu a eficácia imediata do redutor, aplicável independentemente de lei regulamentadora estadual ou municipal.</p>
+</div>
+
+<div class="destaque">
+<p><strong>ARE 1.309.642 — STF, pendente:</strong> discute a obrigatoriedade da aposentadoria compulsória aos 75 anos e sua compatibilidade com os princípios da dignidade e eficiência administrativa.</p>
+</div>
+
+<h3>Legislação fluminense</h3>
+
+<p>O Estado do Rio de Janeiro organiza seu RPPS por meio do RioPrevidência (Fundo Único de Previdência Social do Estado do Rio de Janeiro), regido pela Lei Estadual 3.189/1999 e legislação complementar. Após a EC 103/2019, o Estado editou legislação para adequar suas regras de aposentadoria, fixando idade mínima e alíquotas contributivas. A PGE/RJ defende o RioPrevidência em milhares de ações judiciais que discutem o cálculo de proventos, a aplicação das regras de transição e o direito adquirido à integralidade e paridade.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela leitura do art. 40 da CF na redação atual (EC 103/2019), identificando as três modalidades de aposentadoria e seus requisitos. Em seguida, estude os arts. 4º e 20 da EC 103/2019, que contêm as regras de transição mais relevantes. A regra do pedágio de 100% merece atenção especial, pois é a única que preserva integralidade e paridade para ingressantes até 31/12/2003.</p>
+
+<p>Na parte de cálculo dos proventos, domine a fórmula "60% + 2% por ano excedente a 20 de contribuição". Faça exercícios: com 25 anos de contribuição, o servidor recebe 70% da média; com 30 anos, 80%; com 35 anos, 90%. Essa fórmula é cobrada em provas tanto objetivas quanto discursivas.</p>
+
+<p>Conecte o estudo com os temas do STF: a constitucionalidade da contribuição de inativos (ADI 3.105), a aposentadoria especial com integralidade e paridade (Tema 139), e o cálculo da aposentadoria por incapacidade permanente (Tema 1.300). Esses precedentes demonstram como o STF tem tratado as tensões entre as reformas restritivas e os direitos dos servidores.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>EC 103/2019 — aplicação aos Estados:</strong> a EC 103/2019 fixou regras diretamente aplicáveis à União. Para Estados e Municípios, a Emenda condicionou a idade mínima à edição de emenda às respectivas Constituições/Leis Orgânicas. Porém, parte das normas da EC 103 tem aplicação imediata a todos os entes — como o redutor de acumulação de benefícios (art. 24), a alíquota mínima de 14% (art. 9º) e as bases de cálculo de contribuição. Essa dupla aplicação (parcialmente automática, parcialmente condicionada) é fonte de confusão em provas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Integralidade e paridade — só no pedágio de 100% (para quem entrou até 31/12/2003):</strong> é erro frequente afirmar que toda regra de transição preserva integralidade e paridade. Apenas a regra do pedágio de 100% (art. 20, §2º) garante esses direitos, e somente para servidores que ingressaram no serviço público até 31/12/2003. As demais regras de transição calculam os proventos pela média e não garantem paridade.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fórmula de cálculo — diferença entre RPPS e RGPS:</strong> a fórmula "60% + 2% por ano acima de 20" é comum ao RPPS e ao RGPS após a EC 103/2019. Mas no RPPS, o resultado não pode exceder a remuneração do cargo, enquanto no RGPS, não pode exceder o teto previdenciário. Essa distinção é relevante e pode ser explorada em prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Aposentadoria por incapacidade ≠ aposentadoria por invalidez:</strong> a EC 103/2019 alterou a nomenclatura (de "invalidez" para "incapacidade permanente") e, mais importante, alterou o cálculo: os proventos passaram a ser proporcionais ao tempo de contribuição, exceto nos casos de acidente em serviço, doença profissional ou doença grave. A constitucionalidade dessa regra está sendo discutida no Tema 1.300 do STF.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Contribuição de inativos (ADI 3.105, 2004):</strong> constitucional, com fundamento no princípio da solidariedade. A EC 41/2003 instituiu a contribuição sobre proventos que excedam o teto do RGPS, e a EC 103/2019 ampliou a base de incidência, permitindo alíquotas progressivas.</p>
+
+<p><strong>Direito adquirido à aposentadoria:</strong> o servidor que, antes da data de publicação de uma emenda constitucional, já preenchia todos os requisitos para aposentadoria segundo a regra vigente à época, tem direito adquirido àquela aposentadoria, mesmo que opte por continuar trabalhando. As regras posteriores mais restritivas não lhe são aplicáveis.</p>
+
+<h3>Decisões recentes e pendentes (2024-2025)</h3>
+
+<table>
+<tr><th>Caso / Tema</th><th>Tribunal</th><th>Ano</th><th>Resultado / Status</th></tr>
+<tr><td>Tema 1.300 (RE 1.469.150) — aposentadoria por incapacidade e doença grave</td><td>STF</td><td>Pendente</td><td>Discute se proventos devem ser integrais em caso de doença grave</td></tr>
+<tr><td>ARE 1.309.642 — aposentadoria compulsória aos 75 anos</td><td>STF</td><td>Pendente</td><td>Questiona obrigatoriedade e compatibilidade com dignidade e eficiência</td></tr>
+<tr><td>ADI 6.254 / 6.255 — redutor de acumulação (art. 24, EC 103)</td><td>STF</td><td>2024</td><td>Redutor tem eficácia imediata, independente de lei estadual/municipal</td></tr>
+<tr><td>Tema 139 (RE 590.260) — integralidade e paridade (EC 47/2005)</td><td>STF</td><td>Consolidado</td><td>Integralidade e paridade para quem ingressou antes da EC 41/2003 e se aposentou pelas regras de transição da EC 47/2005</td></tr>
+<tr><td>ADI 3.105 — contribuição de inativos</td><td>STF</td><td>2004</td><td>Constitucional. Princípio da solidariedade</td></tr>
+</table>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Modalidades de aposentadoria (art. 40, §1º, CF — EC 103/2019)</h3>
+
+<table>
+<tr><th>Modalidade</th><th>Requisitos</th><th>Proventos</th></tr>
+<tr><td>Voluntária</td><td>62/65 anos (M/H); 25 anos TC; 10 anos SP; 5 anos no cargo</td><td>60% da média + 2%/ano acima de 20 TC</td></tr>
+<tr><td>Compulsória</td><td>75 anos de idade (LC 152/2015)</td><td>Proporcionais ao tempo de contribuição</td></tr>
+<tr><td>Incapacidade permanente</td><td>Laudo médico oficial atestando incapacidade</td><td>Proporcionais; integrais se acidente em serviço ou doença grave</td></tr>
+</table>
+
+<h3>Evolução das regras — ECs previdenciárias</h3>
+
+<table>
+<tr><th>Emenda</th><th>Ano</th><th>Principal mudança</th></tr>
+<tr><td>EC 20/1998</td><td>1998</td><td>Introduziu idade mínima e caráter contributivo; vedou acumulação de aposentadorias</td></tr>
+<tr><td>EC 41/2003</td><td>2003</td><td>Fim da integralidade e paridade para novos ingressantes (após 31/12/2003); contribuição de inativos</td></tr>
+<tr><td>EC 47/2005</td><td>2005</td><td>Regra de transição favorável para ingressantes até 16/12/1998 (pontos)</td></tr>
+<tr><td>EC 70/2012</td><td>2012</td><td>Integralidade para aposentadoria por invalidez com doença grave (ingressantes até 31/12/2003)</td></tr>
+<tr><td>EC 103/2019</td><td>2019</td><td>Nova idade mínima (62/65); cálculo pela média (60%+2%); regras de transição; alíquota mínima 14%</td></tr>
+</table>
+
+<h3>Regras de transição — EC 103/2019 (resumo)</h3>
+
+<table>
+<tr><th>Regra</th><th>Artigo</th><th>Idade</th><th>TC</th><th>Diferencial</th><th>Integralidade/Paridade</th></tr>
+<tr><td>Pontos progressivos</td><td>Art. 4º</td><td>56/61 (M/H)</td><td>30/35</td><td>86/96 pontos (+1/ano até 100/105)</td><td>Não</td></tr>
+<tr><td>Pedágio 100%</td><td>Art. 20, §2º</td><td>57/60 (M/H)</td><td>30/35</td><td>Pedágio = 100% do tempo faltante em 13/11/2019</td><td>Sim (se ingresso até 31/12/2003)</td></tr>
+</table>
+
+</div>

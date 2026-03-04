@@ -1,0 +1,208 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Dissídio Individual de Trabalho: Processo, Procedimentos e Prerrogativas da Fazenda Pública</h1>
+<p class="subtitulo">Ponto 7, item "a" — Dissídio individual de trabalho. Processo e procedimentos. Prazos. Exceções. Nulidades. Recursos. Execução. Prescrição. Prerrogativas da Fazenda Pública. Aplicação subsidiária do CPC. Comissão de Conciliação Prévia</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>O dissídio individual é o instrumento processual pelo qual se resolve o conflito trabalhista entre empregado e empregador (ou entre trabalhador e tomador de serviços). É o processo do trabalho na sua expressão mais cotidiana — a reclamação trabalhista, que segue ritos próprios na Justiça do Trabalho com características que a distinguem significativamente do processo civil comum.</p>
+
+<p>Para o Procurador do Estado, dominar o processo do trabalho é essencial porque o ente público (Estado do Rio de Janeiro, autarquias, fundações e empresas estatais) figura com frequência no polo passivo de reclamações trabalhistas — seja como empregador direto de celetistas, seja como tomador de serviços (responsabilidade subsidiária). O regime de prerrogativas processuais da Fazenda Pública na Justiça do Trabalho é tema sensível e está regulado pelo Decreto-Lei nº 779/1969, que convive com as inovações da CLT pós-Reforma.</p>
+
+<p>O ponto do edital abarca desde os procedimentos e ritos (ordinário e sumaríssimo) até a prescrição, execução, recursos e a aplicação subsidiária do CPC — um conteúdo extenso que a prova pode cobrar em questão discursiva exigindo articulação entre diferentes institutos.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Ritos procedimentais</h3>
+
+<p>A CLT prevê dois ritos principais para o dissídio individual: o <strong>rito ordinário</strong> (regra geral, arts. 837 a 852 da CLT) e o <strong>rito sumaríssimo</strong> (arts. 852-A a 852-I, para causas de valor até 40 salários mínimos). Há ainda o <strong>procedimento sumário</strong> (Lei nº 5.584/1970, para causas até 2 salários mínimos, com decisão irrecorrível, salvo matéria constitucional).</p>
+
+<div class="destaque">
+<strong>Ponto crucial:</strong> o rito sumaríssimo <strong>não se aplica à Fazenda Pública</strong> (art. 852-A, parágrafo único, CLT). Quando o Estado ou autarquia figurar no polo passivo, o rito será sempre ordinário, independentemente do valor da causa. Essa regra é reflexo da complexidade da representação estatal e da necessidade de prazos compatíveis com a estrutura da advocacia pública.
+</div>
+
+<p>No rito ordinário, a petição inicial (reclamação trabalhista) pode ser escrita ou verbal (art. 840, CLT). Quando verbal, o reclamante deve comparecer à Vara no prazo de 5 dias para reduzi-la a termo. A reclamação escrita deve conter: designação do juízo, qualificação das partes, breve exposição dos fatos, pedido certo e determinado com indicação do valor, data e assinatura. Após a Reforma Trabalhista (Lei nº 13.467/2017), o pedido deve ser <strong>certo, determinado e com indicação de seu valor</strong> (art. 840, §1º).</p>
+
+<h3>Prazos processuais</h3>
+
+<p>Os prazos no processo do trabalho têm contagem em dias úteis (art. 775, CLT, com redação da Lei nº 13.467/2017), alinhando-se ao CPC/2015. Os principais prazos são: contestação — apresentada em audiência no rito ordinário da CLT (art. 847), embora a prática de muitas Varas admita contestação escrita prévia; razões recursais — 8 dias para recurso ordinário, revista e agravo de petição; contrarrazões — 8 dias; embargos de declaração — 5 dias.</p>
+
+<p>A <strong>Fazenda Pública</strong> goza de <strong>prazo em dobro para recorrer</strong> no processo do trabalho, por força do Decreto-Lei nº 779/1969 (art. 1º, III). Além disso, o prazo em dobro para todas as manifestações processuais (contestação, contrarrazões, impugnações) decorre da aplicação subsidiária do art. 183 do CPC/2015.</p>
+
+<h3>Exceções processuais</h3>
+
+<p>As exceções no processo do trabalho estão previstas nos arts. 799 a 802 da CLT e compreendem: <strong>incompetência territorial</strong> (exceção de foro), <strong>suspeição</strong> e <strong>impedimento</strong> do juiz. A exceção de incompetência deve ser oposta no prazo de defesa, antes da contestação. Acolhida, remete-se o processo ao juízo competente; rejeitada, prossegue-se com o rito.</p>
+
+<p>A CLT não prevê exceção de incompetência em razão da matéria — esta deve ser reconhecida de ofício pelo juiz (incompetência absoluta), a qualquer tempo e grau de jurisdição.</p>
+
+<h3>Nulidades processuais</h3>
+
+<p>O regime de nulidades no processo do trabalho é regido pelos arts. 794 a 798 da CLT e adota o <strong>princípio da transcendência</strong> (ou do prejuízo): só haverá nulidade quando resultar dos atos inquinados <strong>manifesto prejuízo</strong> às partes litigantes (art. 794). Esse princípio se desdobra em quatro regras fundamentais:</p>
+
+<ul>
+<li>As nulidades devem ser arguidas na primeira oportunidade de falar nos autos (preclusão), salvo a incompetência de foro, que pode ser declarada de ofício (art. 795).</li>
+<li>A nulidade não será pronunciada quando possível suprir a falta ou repetir o ato (princípio do aproveitamento — art. 796, "a").</li>
+<li>Não poderá arguir nulidade quem lhe tiver dado causa (art. 796, "b").</li>
+<li>A nulidade do ato não prejudicará senão os posteriores dele dependentes (art. 798).</li>
+</ul>
+
+<h3>Recursos trabalhistas</h3>
+
+<p>Os principais recursos no processo do trabalho são: recurso ordinário (RO), recurso de revista (RR), agravo de instrumento (AI), agravo de petição, embargos de declaração e embargos ao TST (SDI-I). O <strong>depósito recursal</strong> é exigência exclusiva do processo do trabalho — trata-se de garantia do juízo, cujo valor é atualizado anualmente pelo TST. A <strong>Fazenda Pública está isenta</strong> do depósito recursal (DL 779/1969, art. 1º, IV), o que constitui prerrogativa processual relevante.</p>
+
+<p>A <strong>transcendência</strong> (art. 896-A, CLT) é requisito de admissibilidade do recurso de revista, introduzido pela Reforma Trabalhista. O TST verifica se a causa apresenta transcendência econômica, política, social ou jurídica. A decisão que nega transcendência é irrecorrível (art. 896-A, §5º).</p>
+
+<h3>Execução trabalhista contra a Fazenda Pública</h3>
+
+<p>A execução contra a Fazenda Pública no processo do trabalho segue regime próprio: não se aplica penhora de bens públicos (impenhorabilidade), e o pagamento se faz por <strong>precatório</strong> (créditos acima de determinado valor, fixado em lei) ou <strong>requisição de pequeno valor (RPV)</strong> (art. 100, CF). Na execução contra o Estado do Rio de Janeiro, aplica-se a Lei Estadual que fixa o limite para RPV.</p>
+
+<p>A Fazenda Pública não se sujeita à execução provisória nos termos gerais (art. 2º-B da Lei nº 9.494/1997), e os embargos à execução (art. 884, CLT) substituem a impugnação ao cumprimento de sentença do CPC. A remessa necessária (reexame obrigatório) se aplica às sentenças contra a Fazenda Pública (Súmula 303 do TST).</p>
+
+<h3>Prescrição trabalhista</h3>
+
+<p>O art. 7º, XXIX, da CF estabelece o prazo prescricional trabalhista: <strong>5 anos</strong> durante a vigência do contrato, respeitado o limite de <strong>2 anos</strong> após a extinção. Contra a Fazenda Pública, não se aplica o prazo quinquenal do Decreto nº 20.910/1932, prevalecendo a prescrição constitucional trabalhista quando a relação for celetista.</p>
+
+<p>A prescrição intercorrente na Justiça do Trabalho foi expressamente admitida pela Reforma Trabalhista (art. 11-A, CLT): conta-se no prazo de 2 anos a partir da inércia do exequente em fase de execução. O STF já reconheceu a constitucionalidade do instituto.</p>
+
+<h3>Aplicação subsidiária do CPC</h3>
+
+<p>O art. 769 da CLT permite a aplicação subsidiária do direito processual comum quando houver <strong>omissão na CLT</strong> e <strong>compatibilidade</strong> com o processo do trabalho. A Instrução Normativa nº 39/2016 do TST detalhou quais dispositivos do CPC/2015 são aplicáveis ao processo do trabalho e quais são incompatíveis.</p>
+
+<p>São aplicáveis, por exemplo: contagem de prazos em dias úteis (já incorporada ao art. 775 da CLT), ordem cronológica de julgamento (art. 12, CPC), negócios jurídicos processuais (art. 190, CPC, com ressalvas), tutela provisória (arts. 294-311, CPC). São incompatíveis: o procedimento comum do CPC (ritos sumário e ordinário do CPC não substituem os ritos da CLT), a desconsideração da personalidade jurídica por requerimento incidental (o processo do trabalho tem procedimento próprio).</p>
+
+<h3>Comissão de Conciliação Prévia (CCP)</h3>
+
+<p>As CCPs foram criadas pela Lei nº 9.958/2000, que acrescentou os arts. 625-A a 625-H à CLT. Podem ser instituídas no âmbito da empresa ou do sindicato, com composição paritária (representantes dos empregados e do empregador). Sua função é tentar conciliar os conflitos individuais antes do ajuizamento da reclamação trabalhista.</p>
+
+<div class="destaque">
+<strong>Decisão do STF (ADIs 2.139, 2.160 e 2.237 — julgamento em agosto de 2018):</strong> o Plenário decidiu que a submissão prévia do conflito à CCP <strong>não é requisito obrigatório</strong> para o ajuizamento da reclamação trabalhista. O art. 625-D da CLT recebeu interpretação conforme a Constituição: a CCP é um meio alternativo de resolução de conflitos baseado na consensualidade, cuja utilização deve ser estimulada, mas não pode constituir obstáculo ao acesso ao Judiciário (art. 5º, XXXV, CF).
+</div>
+
+<p>Se houver acordo perante a CCP, o termo de conciliação é título executivo extrajudicial e tem eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvadas (art. 625-E, parágrafo único, CLT).</p>
+
+<h3>Prerrogativas da Fazenda Pública na Justiça do Trabalho</h3>
+
+<p>O Decreto-Lei nº 779/1969 concentra as principais prerrogativas processuais da Fazenda Pública na Justiça do Trabalho:</p>
+
+<table>
+<tr><th>Prerrogativa</th><th>Base Legal</th></tr>
+<tr><td>Prazo em dobro para recorrer (DL 779) e para todas as manifestações (CPC)</td><td>Art. 1º, III, DL 779/1969 + art. 183, CPC/2015</td></tr>
+<tr><td>Isenção de depósito recursal</td><td>Art. 1º, IV, DL 779/1969</td></tr>
+<tr><td>Remessa necessária das sentenças contrárias</td><td>Súmula 303/TST</td></tr>
+<tr><td>Execução por precatório/RPV</td><td>Art. 100, CF; art. 910, CLT</td></tr>
+<tr><td>Intimação pessoal (e não por publicação)</td><td>Art. 183, CPC (aplicação subsidiária)</td></tr>
+<tr><td>Dispensa de custas processuais</td><td>Art. 790-A, CLT</td></tr>
+</table>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Dispositivos Relevantes</th></tr>
+<tr><td>CLT</td><td>Arts. 769 (subsidiariedade do CPC), 775 (prazos em dias úteis), 794-798 (nulidades), 799-802 (exceções), 837-852 (rito ordinário), 852-A a 852-I (rito sumaríssimo), 896-A (transcendência), 910 (execução contra Fazenda), 11-A (prescrição intercorrente)</td></tr>
+<tr><td>DL 779/1969</td><td>Prerrogativas da Fazenda Pública: prazo em dobro, isenção de depósito, etc.</td></tr>
+<tr><td>CF, art. 7º, XXIX</td><td>Prescrição trabalhista (5 + 2 anos)</td></tr>
+<tr><td>CF, art. 100</td><td>Regime de precatórios e RPV</td></tr>
+<tr><td>CPC/2015</td><td>Aplicação subsidiária conforme IN 39/2016 do TST</td></tr>
+<tr><td>IN 39/2016 TST</td><td>Compatibilidade de dispositivos do CPC/2015 com o processo do trabalho</td></tr>
+<tr><td>Lei nº 9.958/2000</td><td>Comissão de Conciliação Prévia (arts. 625-A a 625-H, CLT)</td></tr>
+</table>
+
+<h3>Jurisprudência</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>Súmula 303/TST</td><td>Remessa necessária das sentenças contrárias à Fazenda Pública — inaplicável quando o valor da condenação não exceder o limite do art. 496, §3º, CPC</td></tr>
+<tr><td>ADIs 2.139/2.160/2.237 (STF, 2018)</td><td>CCP não é requisito obrigatório para ajuizamento de reclamação trabalhista — interpretação conforme a CF</td></tr>
+<tr><td>Tema 1.046 (STF, 2022)</td><td>Prevalência do negociado sobre o legislado quando não se tratar de direito absolutamente indisponível — RE 1.121.633</td></tr>
+<tr><td>Súmula 331/TST</td><td>Responsabilidade subsidiária do tomador de serviços (inclusive ente público) na terceirização — a responsabilidade da Fazenda Pública depende de prova de culpa in vigilando (ADC 16 do STF)</td></tr>
+<tr><td>ADC 16 (STF, 2010)</td><td>Art. 71, §1º, da Lei 8.666 é constitucional — o mero inadimplemento da empresa contratada não transfere automaticamente a responsabilidade ao ente público</td></tr>
+<tr><td>ADI 5.766 (STF, 2021)</td><td>Declarou inconstitucional a restrição total à gratuidade de justiça para beneficiário que obteve créditos em outro processo</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela <strong>CLT</strong>, concentrando-se nas seções sobre procedimentos (arts. 837-852-I), nulidades (794-798) e execução (876-892 e 910). Paralelamente, leia o <strong>Decreto-Lei 779/1969</strong> (texto curto, mas essencial) para dominar as prerrogativas da Fazenda. A <strong>IN 39/2016 do TST</strong> merece leitura cuidadosa, pois é cobrada com frequência em provas de procuradorias para testar a compatibilidade entre CPC e processo do trabalho.</p>
+
+<p>Para a prova discursiva, treine responder sobre o rito sumaríssimo e sua inaplicabilidade à Fazenda Pública, sobre a diferença entre prescrição trabalhista e prescrição contra a Fazenda Pública, e sobre a execução por precatório — esses são os temas mais prováveis em prova de PGE.</p>
+
+<p>As CCPs são tema pontual, mas a decisão do STF (ADIs 2.139/2.160/2.237) é referência obrigatória: não se exige passagem prévia pela CCP para ajuizar reclamação trabalhista.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Rito sumaríssimo e Fazenda Pública:</strong> o art. 852-A, parágrafo único, da CLT exclui expressamente a Administração Pública direta, autárquica e fundacional do rito sumaríssimo. Quando o Estado for parte, o rito será sempre ordinário. Questão frequente em provas e que a banca usa para testar se o candidato domina essa exceção.
+</div>
+
+<div class="atencao">
+<strong>Depósito recursal e Fazenda Pública:</strong> a Fazenda Pública é isenta do depósito recursal (DL 779/1969), mas não do preparo (custas processuais) — quanto a este, o art. 790-A da CLT também isenta. Cuidado para não confundir depósito recursal (garantia do juízo para pagamento futuro) com custas processuais (taxa judiciária).
+</div>
+
+<div class="atencao">
+<strong>Prescrição do FGTS × prescrição trabalhista geral:</strong> após o ARE 709.212 (Tema 608, STF), a prescrição do FGTS passou a ser quinquenal (e não mais trintenária). Contudo, há modulação temporal: para pretensões ajuizadas antes de 13/11/2014, vale a prescrição trintenária; para as ajuizadas depois, vale a quinquenal. Não confunda com a prescrição trabalhista geral (5 + 2, art. 7º, XXIX, CF).
+</div>
+
+<div class="atencao">
+<strong>Prescrição intercorrente (art. 11-A, CLT):</strong> criada pela Reforma Trabalhista, é de 2 anos na execução. Antes da Reforma, o TST resistia à sua aplicação (Súmula 114). A nova regra é expressa e o STF já reconheceu sua constitucionalidade, superando a antiga resistência.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>CCP e acesso ao Judiciário (ADIs 2.139/2.160/2.237, STF, 2018):</strong> o Plenário, por unanimidade (relatora Min. Cármen Lúcia), decidiu que a submissão prévia à CCP não é requisito obrigatório para ajuizamento de reclamação trabalhista. O art. 625-D da CLT recebeu interpretação conforme a Constituição: a CCP constitui subsistema administrativo de pacificação social cuja utilização deve ser estimulada, mas não pode configurar obstáculo ao exercício do direito constitucional de acesso ao Judiciário (art. 5º, XXXV).</p>
+
+<p><strong>Responsabilidade subsidiária da Fazenda Pública (Súmula 331, V, TST + ADC 16, STF):</strong> o TST admite a responsabilidade subsidiária do ente público tomador de serviços quando comprovada sua <strong>culpa in vigilando</strong> na fiscalização do contrato. O STF, na ADC 16 (2010), declarou constitucional o art. 71, §1º, da Lei 8.666 — ou seja, o mero inadimplemento da empresa contratada não gera automaticamente responsabilidade do ente público. A culpa deve ser demonstrada em cada caso concreto.</p>
+
+<p><strong>Remessa necessária e limites (Súmula 303/TST):</strong> aplica-se a remessa necessária das sentenças contrárias à Fazenda Pública na Justiça do Trabalho, exceto quando a condenação não ultrapassar os valores fixados no art. 496, §3º, do CPC (1.000 salários mínimos para a União, 500 para Estados/DF/Municípios de capitais e 100 para demais Municípios). A fundamentação baseada em jurisprudência consolidada do TST ou do STF também afasta a remessa (art. 496, §4º, CPC).</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><strong>Transcendência como filtro recursal:</strong> o TST tem aplicado rigorosamente o requisito da transcendência (art. 896-A, CLT) como verdadeiro filtro de admissibilidade do recurso de revista. A decisão que nega a transcendência é irrecorrível (§5º), o que tem reduzido significativamente o volume de recursos de revista admitidos. Em 2024-2025, o TST consolidou o entendimento de que a mera alegação genérica de transcendência não é suficiente — a parte deve demonstrar concretamente por que a causa transcende os interesses das partes.</p>
+
+<p><strong>Execução trabalhista e estatais em regime concorrencial (Tema 253, STF):</strong> o STF decidiu que empresas públicas e sociedades de economia mista que atuam em regime concorrencial não se submetem ao regime de precatórios. Seus bens são penhoráveis. Esse precedente é relevante porque delimita o alcance das prerrogativas processuais: somente os entes públicos em sentido estrito (e as estatais prestadoras de serviço público) se beneficiam do regime de precatórios e demais prerrogativas da Fazenda.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparação dos ritos no processo do trabalho</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Rito Ordinário</th><th>Rito Sumaríssimo</th><th>Procedimento Sumário</th></tr>
+<tr><td>Valor da causa</td><td>Acima de 40 SM</td><td>Até 40 SM</td><td>Até 2 SM</td></tr>
+<tr><td>Fazenda Pública</td><td>Sim (sempre)</td><td>Não se aplica (art. 852-A, par. único)</td><td>Não se aplica</td></tr>
+<tr><td>Petição inicial</td><td>Escrita ou verbal</td><td>Escrita, pedido certo e com valor de cada pedido</td><td>Escrita ou verbal</td></tr>
+<tr><td>Audiência</td><td>Pode ser fracionada (instrução + julgamento)</td><td>Única (art. 852-C)</td><td>Única</td></tr>
+<tr><td>Testemunhas</td><td>Até 3 por parte (art. 821)</td><td>Até 2 por parte (art. 852-H, §2º)</td><td>Livre apreciação</td></tr>
+<tr><td>Sentença</td><td>Escrita, fundamentada</td><td>Na audiência, dispensado relatório (art. 852-I)</td><td>Irrecorrível (salvo matéria constitucional)</td></tr>
+<tr><td>Recurso</td><td>RO em 8 dias</td><td>RO em 8 dias (sem recurso de revista salvo contrariedade a súmula/OJ)</td><td>Irrecorrível</td></tr>
+</table>
+
+<h3>Prazos processuais relevantes</h3>
+
+<table>
+<tr><th>Ato</th><th>Prazo (dias úteis)</th><th>Observação</th></tr>
+<tr><td>Contestação (rito ordinário)</td><td>Em audiência (art. 847, CLT) — prática: prazo designado pelo juízo</td><td>Fazenda Pública: prazo em dobro (DL 779 + CPC 183)</td></tr>
+<tr><td>Recurso Ordinário</td><td>8 dias</td><td>Fazenda: 16 dias</td></tr>
+<tr><td>Recurso de Revista</td><td>8 dias</td><td>Fazenda: 16 dias</td></tr>
+<tr><td>Agravo de Instrumento</td><td>8 dias</td><td>Fazenda: 16 dias</td></tr>
+<tr><td>Embargos de Declaração</td><td>5 dias</td><td>Fazenda: 10 dias</td></tr>
+<tr><td>Contrarrazões</td><td>8 dias</td><td>Fazenda: 16 dias</td></tr>
+<tr><td>Embargos à Execução</td><td>5 dias (art. 884, CLT) — Fazenda Pública: 30 dias (Lei 9.494/97, art. 1º-B)</td><td>Garantia do juízo ou penhora como requisito</td></tr>
+<tr><td>Prescrição geral</td><td>5 anos (vigência) + 2 anos (extinção)</td><td>Art. 7º, XXIX, CF</td></tr>
+<tr><td>Prescrição intercorrente</td><td>2 anos (execução)</td><td>Art. 11-A, CLT</td></tr>
+</table>
+
+<h3>Nulidades no processo do trabalho — princípios</h3>
+
+<table>
+<tr><th>Princípio</th><th>Conteúdo</th><th>Base Legal</th></tr>
+<tr><td>Prejuízo (transcendência)</td><td>Só há nulidade se houver manifesto prejuízo</td><td>Art. 794, CLT</td></tr>
+<tr><td>Preclusão</td><td>Arguição na primeira oportunidade</td><td>Art. 795, CLT</td></tr>
+<tr><td>Aproveitamento</td><td>Não se anula quando possível suprir a falta</td><td>Art. 796, "a", CLT</td></tr>
+<tr><td>Interesse</td><td>Quem deu causa não pode arguir</td><td>Art. 796, "b", CLT</td></tr>
+<tr><td>Confinamento</td><td>Nulidade não prejudica atos anteriores independentes</td><td>Art. 798, CLT</td></tr>
+</table>
+
+</div>

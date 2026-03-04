@@ -1,0 +1,203 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Corregedoria, Conselho Superior da PGE e Regime Disciplinar</h1>
+<p class="subtitulo">Ponto 6, item "c" — Corregedoria e papel do Conselho Superior da PGE. Correições ordinárias e extraordinárias. Estágio confirmatório e promoções. Responsabilidade funcional e sanções disciplinares. Sindicância e processo disciplinar</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este ponto reúne dois eixos que dialogam intensamente na estrutura institucional da PGE/RJ: o controle interno da atividade funcional dos Procuradores (exercido pela Corregedoria e pelo Conselho Superior) e o regime disciplinar a que se submetem esses agentes. A LC nº 15/1980 (Lei Orgânica da PGE/RJ), com as alterações introduzidas pelas LCs nº 104/2002 e nº 226/2025, disciplina toda essa matéria.</p>
+
+<p>A relevância para a prova é direta: o candidato prestará concurso para integrar a carreira de Procurador do Estado e ficará subordinado exatamente a esse regime institucional. A banca pode cobrar tanto a estrutura orgânica (composição do Conselho Superior, atribuições do Corregedor) quanto o rito disciplinar (fases da sindicância, garantias do acusado, penalidades aplicáveis). Além disso, a jurisprudência do STJ sobre processo administrativo disciplinar é farta e frequentemente cobrada, com súmulas recentes que merecem atenção especial.</p>
+
+<p>Note que o tema se conecta com outros pontos do edital: a responsabilidade dos agentes públicos (Ponto 8a), os direitos e deveres dos Procuradores (Ponto 7c) e a organização geral da PGE (Pontos 3c e 4d). Neste guia, o foco recai sobre a dimensão correcional e disciplinar propriamente dita.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Corregedoria da PGE/RJ</h3>
+
+<p>A Corregedoria foi formalmente instituída na estrutura da PGE/RJ pela LC nº 104/2002, que acrescentou dispositivos à LC nº 15/1980. É chefiada pelo <strong>Procurador-Corregedor</strong>, nomeado pelo Procurador-Geral dentre os integrantes da carreira (de preferência, Procurador de Categoria Especial ou de 1ª Categoria, com experiência e reputação ilibada).</p>
+
+<p>As atribuições do Procurador-Corregedor abrangem três dimensões principais. Primeiro, a <strong>fiscalização permanente</strong>: acompanhar o desempenho funcional dos Procuradores do Estado e dos servidores da PGE, verificando assiduidade, eficiência e cumprimento dos deveres funcionais. Segundo, a <strong>atividade correcional</strong>: realizar correições ordinárias e extraordinárias nos órgãos técnico-jurídicos da Procuradoria e nos demais órgãos e entidades que integram o Sistema Jurídico do Estado. Terceiro, a <strong>proposição de medidas</strong>: sugerir ao Procurador-Geral a adoção de providências administrativas e disciplinares a partir das constatações das correições.</p>
+
+<div class="destaque">
+<strong>Correições ordinárias</strong> são inspeções periódicas e programadas, com o objetivo de verificar a regularidade do serviço, a eficiência dos Procuradores no cumprimento de suas atribuições e a observância das determinações emanadas do Procurador-Geral. Já as <strong>correições extraordinárias</strong> são realizadas de ofício ou por determinação do Procurador-Geral, em caráter excepcional, sempre que houver notícia de irregularidade grave. Devem ser comunicadas com antecedência mínima de 5 dias ao órgão a ser inspecionado.
+</div>
+
+<p>O relatório de cada correição é encaminhado ao Procurador-Geral e ao Conselho Superior, com recomendações e, se for o caso, proposta de instauração de sindicância ou processo disciplinar. A Corregedoria também acompanha o estágio confirmatório dos Procuradores recém-empossados.</p>
+
+<h3>Conselho Superior da PGE/RJ</h3>
+
+<p>O Conselho Superior é o órgão colegiado superior da PGE/RJ, previsto no art. 6º da LC nº 15/1980. Sua composição inclui membros natos (o Procurador-Geral, que o preside, e outros ocupantes de cargos de chefia na estrutura da PGE) e membros eleitos pelos integrantes da carreira. Essa composição mista visa equilibrar a direção institucional com a representatividade da classe.</p>
+
+<p>As atribuições do Conselho Superior podem ser agrupadas em quatro grandes eixos:</p>
+
+<ul>
+<li><strong>Função deliberativa:</strong> deliberar sobre matérias de interesse institucional, aprovar resoluções normativas e examinar questões submetidas pelo Procurador-Geral.</li>
+<li><strong>Função disciplinar:</strong> atuar como instância recursal nas decisões de sindicância e processo administrativo disciplinar, apreciando recursos contra sanções aplicadas pelo Procurador-Geral.</li>
+<li><strong>Função na carreira:</strong> organizar quadros de antiguidade, elaborar listas de merecimento para promoção e remoção, organizar e julgar concursos para ingresso na carreira.</li>
+<li><strong>Função consultiva:</strong> emitir pareceres sobre assuntos relevantes para a instituição, quando provocado pelo Procurador-Geral.</li>
+</ul>
+
+<h3>Estágio confirmatório</h3>
+
+<p>O Procurador do Estado ingressa na carreira na 3ª Categoria. A partir do dia em que entra em exercício, inicia-se o <strong>estágio confirmatório</strong>, com duração de <strong>18 meses</strong>, conforme dispõe a LC nº 15/1980 (com as alterações da LC nº 226/2025). Durante esse período, uma <strong>Comissão de Estágio Confirmatório</strong> — composta preferencialmente por Procuradores de Categoria Especial — avalia se o Procurador reúne os requisitos necessários à confirmação na carreira.</p>
+
+<p>Essa avaliação considera critérios como aptidão para o exercício das funções, eficiência no desempenho, assiduidade, disciplina, capacidade de iniciativa e responsabilidade. Ao final do período, a Comissão elabora relatório conclusivo. Se aprovado, o Procurador é confirmado na carreira; se reprovado, é exonerado.</p>
+
+<div class="atencao">
+<strong>Atenção:</strong> não confunda estágio confirmatório (específico da carreira de Procurador, previsto na lei orgânica) com estágio probatório (instituto geral do art. 41 da CF, com prazo de 3 anos após a EC 19/1998). O estágio confirmatório de 18 meses é instituto próprio da PGE/RJ que se insere dentro do prazo mais amplo de aquisição da estabilidade constitucional.
+</div>
+
+<h3>Promoções na carreira</h3>
+
+<p>A carreira de Procurador do Estado é escalonada em <strong>3ª, 2ª e 1ª Categorias</strong>, com 330 cargos distribuídos igualmente entre elas (LC nº 226/2025 ampliou de 300 para 330). Os direitos e deveres são iguais em todas as categorias; a diferença de vencimento entre uma e outra é de 5%.</p>
+
+<p>A promoção se dá alternadamente por <strong>antiguidade</strong> e <strong>merecimento</strong>. Na promoção por antiguidade, observa-se a posição na lista organizada pelo Conselho Superior. Na promoção por merecimento, o Conselho elabora lista tríplice com base em critérios previamente aprovados e divulgados, cabendo ao Procurador-Geral a escolha final.</p>
+
+<h3>Responsabilidade funcional e sanções disciplinares</h3>
+
+<p>Os Procuradores do Estado respondem funcional, civil e penalmente pelo exercício irregular de suas atribuições, nos termos da legislação aplicável. A responsabilidade funcional é apurada mediante sindicância ou processo administrativo disciplinar, conforme a gravidade da infração.</p>
+
+<p>As penalidades disciplinares aplicáveis aos Procuradores incluem, em ordem crescente de gravidade: <strong>advertência</strong> (faltas leves), <strong>suspensão</strong> (até 90 dias, para infrações de média gravidade), <strong>demissão</strong> (para infrações graves taxativamente previstas) e <strong>cassação de aposentadoria ou disponibilidade</strong> (quando a infração grave é apurada após a inatividade). A aplicação de cada penalidade observa critérios de proporcionalidade, considerando a natureza da falta, os danos causados, as circunstâncias atenuantes e agravantes e os antecedentes funcionais do servidor.</p>
+
+<h3>Sindicância e processo administrativo disciplinar</h3>
+
+<p>A <strong>sindicância</strong> é procedimento sumário de apuração, utilizado para investigar irregularidades funcionais de menor complexidade. Pode resultar em: arquivamento (se infundadas as imputações), aplicação de advertência ou suspensão de até 30 dias, ou instauração de processo administrativo disciplinar (se a gravidade dos fatos assim exigir).</p>
+
+<p>O <strong>processo administrativo disciplinar (PAD)</strong> é o instrumento formal para apuração de infrações graves, assegurando ao acusado o <strong>contraditório</strong> e a <strong>ampla defesa</strong> com todos os meios a ela inerentes (art. 5º, LV, CF). O PAD, via de regra, percorre três fases: instauração (portaria com descrição dos fatos e indicação da comissão processante), inquérito administrativo (instrução, defesa e relatório) e julgamento pela autoridade competente.</p>
+
+<div class="destaque">
+<strong>Garantias do acusado no PAD:</strong> direito a ser notificado pessoalmente de todos os atos, direito de arrolar testemunhas, produzir provas documentais e periciais, ser assistido por advogado em todas as fases, ter vista dos autos e apresentar alegações finais. A inobservância dessas garantias pode acarretar a nulidade do processo.
+</div>
+
+<p>No âmbito da PGE/RJ, a competência para instaurar sindicância e PAD contra Procuradores é do Procurador-Geral, que pode delegar à Corregedoria a condução das investigações preliminares. As decisões disciplinares do Procurador-Geral comportam recurso ao Conselho Superior, que funciona como instância revisora.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo Relevante</th></tr>
+<tr><td>LC nº 15/1980 (Lei Orgânica da PGE/RJ)</td><td>Estrutura da carreira, Conselho Superior (art. 6º), estágio confirmatório (18 meses), promoções por antiguidade e merecimento, deveres e responsabilidades dos Procuradores</td></tr>
+<tr><td>LC nº 104/2002</td><td>Criou a Corregedoria na estrutura da PGE/RJ, definindo atribuições do Procurador-Corregedor, regime das correições ordinárias e extraordinárias</td></tr>
+<tr><td>LC nº 226/2025</td><td>Ampliou cargos de 300 para 330, atualizou regras de estágio confirmatório, licenças e estrutura administrativa da PGE/RJ</td></tr>
+<tr><td>CERJ, arts. 176-181</td><td>Fundamento constitucional estadual da PGE/RJ: representação judicial, consultoria, autonomia funcional e administrativa, essencialidade da função</td></tr>
+<tr><td>CF, art. 132</td><td>Procuradores dos Estados organizados em carreira, ingresso por concurso, representação judicial e consultoria jurídica</td></tr>
+<tr><td>CF, art. 5º, LV</td><td>Contraditório e ampla defesa nos processos administrativos disciplinares</td></tr>
+<tr><td>Lei nº 8.112/1990</td><td>Referência analógica para PAD federal: fases, prazos, penalidades, prescrição (arts. 143-182). Aplicável por analogia quando a legislação estadual for omissa</td></tr>
+<tr><td>Lei nº 9.784/1999</td><td>Processo administrativo federal (motivação, proporcionalidade, segurança jurídica) — aplicação subsidiária</td></tr>
+</table>
+
+<h3>Jurisprudência do STJ sobre PAD</h3>
+
+<table>
+<tr><th>Súmula/Precedente</th><th>Conteúdo</th></tr>
+<tr><td>Súmula 674/STJ (nov/2024)</td><td>A autoridade administrativa pode se utilizar de <strong>fundamentação per relationem</strong> nos processos disciplinares — isto é, motivar sua decisão remetendo ao relatório da comissão processante, desde que haja correlação demonstrada entre a fundamentação e o caso concreto</td></tr>
+<tr><td>Súmula 611/STJ</td><td>É permitida a instauração de PAD com base em <strong>denúncia anônima</strong>, desde que devidamente motivada e com amparo em investigação ou sindicância prévia</td></tr>
+<tr><td>Súmula 591/STJ</td><td>É admissível a <strong>prova emprestada</strong> no PAD, desde que autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa</td></tr>
+<tr><td>Súmula 592/STJ</td><td>O <strong>excesso de prazo</strong> para conclusão do PAD só causa nulidade se houver demonstração de <strong>prejuízo concreto à defesa</strong> (pas de nullité sans grief)</td></tr>
+<tr><td>Súmula 343/STJ</td><td>É obrigatória a <strong>presença de advogado</strong> em todas as fases do processo administrativo disciplinar — <em>atenção: essa súmula foi superada pela Súmula Vinculante nº 5 do STF</em></td></tr>
+</table>
+
+<h3>Jurisprudência do STF sobre PAD</h3>
+
+<table>
+<tr><th>Precedente</th><th>Conteúdo</th></tr>
+<tr><td>Súmula Vinculante nº 5 (2008)</td><td>A falta de <strong>defesa técnica por advogado</strong> no PAD <strong>não ofende a Constituição</strong>. Superou a Súmula 343 do STJ. O servidor pode se defender pessoalmente, sem advogado, sem que isso gere nulidade</td></tr>
+<tr><td>RE 594.296 (Tema 22, 2009)</td><td>O STF reconheceu a possibilidade de <strong>controle judicial do PAD</strong> limitado à legalidade do procedimento — o Judiciário pode analisar aspectos formais (devido processo legal, motivação, proporcionalidade), mas não pode substituir o mérito da decisão administrativa</td></tr>
+<tr><td>MS 24.268/MG (2004)</td><td>Consolidou o entendimento de que a anulação de ato administrativo favorável ao servidor deve observar <strong>contraditório prévio</strong>, em respeito ao devido processo legal e à segurança jurídica</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela leitura da <strong>LC nº 15/1980</strong>, concentrando-se nos dispositivos sobre o Conselho Superior (composição e atribuições) e sobre a carreira (estágio confirmatório, categorias, promoções). Em seguida, leia a <strong>LC nº 104/2002</strong>, que criou a Corregedoria e detalhou as correições. Complete com a <strong>LC nº 226/2025</strong> para as atualizações mais recentes (ampliação de cargos, ajustes no estágio confirmatório).</p>
+
+<p>Para o regime disciplinar, domine as <strong>súmulas do STJ</strong> sobre PAD (611, 591, 592 e a recente 674 de novembro de 2024) e a <strong>Súmula Vinculante nº 5</strong> do STF. Essa combinação é suficiente para responder a maioria das questões sobre processo disciplinar em provas de procuradorias.</p>
+
+<p>Treine a distinção entre sindicância e PAD (objeto, penalidades possíveis, garantias exigidas), e memorize os critérios de promoção (antiguidade × merecimento alternados). Quando o tema aparecer em prova discursiva, a banca valoriza respostas que articulem a estrutura institucional (Corregedoria, Conselho Superior) com as garantias constitucionais do acusado (contraditório, ampla defesa, motivação).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Súmula 343 do STJ × Súmula Vinculante nº 5 do STF:</strong> essa é uma das pegadinhas mais clássicas em concursos de procuradorias. A Súmula 343 do STJ afirmava ser obrigatória a presença de advogado em todas as fases do PAD. Porém, o STF editou a Súmula Vinculante nº 5, estabelecendo que a falta de defesa técnica por advogado não ofende a Constituição. Prevalece a SV 5. Se a questão mencionar a Súmula 343 como vigente, está incorreta.
+</div>
+
+<div class="atencao">
+<strong>Estágio confirmatório ≠ estágio probatório:</strong> o estágio confirmatório da PGE/RJ (18 meses, previsto na lei orgânica) é instituto próprio, distinto do estágio probatório geral de 3 anos (art. 41, CF). O Procurador se submete a ambos: o confirmatório (avaliação pela Comissão da PGE) e o probatório (prazo constitucional para aquisição da estabilidade). O confirmatório se encerra antes do probatório.
+</div>
+
+<div class="atencao">
+<strong>Fundamentação per relationem (Súmula 674/STJ):</strong> a autoridade julgadora pode motivar sua decisão fazendo referência ao relatório da comissão processante, sem necessidade de transcrever toda a fundamentação. Contudo, isso exige que haja efetiva correlação e que fique demonstrada a análise do caso concreto — a mera remissão genérica sem qualquer acréscimo não atende ao dever de motivação.
+</div>
+
+<div class="atencao">
+<strong>Sindicância como instrumento punitivo:</strong> a sindicância pode resultar diretamente na aplicação de advertência ou suspensão de até 30 dias. Se a gravidade da infração exigir penalidade mais severa, a sindicância deve ser encerrada e convertida em PAD. Não se pode aplicar demissão em sede de sindicância.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Controle judicial do PAD — limites:</strong> o Judiciário pode apreciar a regularidade formal do PAD (observância do contraditório, ampla defesa, motivação, proporcionalidade da pena), mas não pode adentrar o mérito da sanção administrativa para substituir o juízo de conveniência e oportunidade da Administração. Esse entendimento é pacífico tanto no STF (RE 594.296) quanto no STJ, que aplica a máxima de que o controle é de legalidade, não de mérito.</p>
+
+<p><strong>Prescrição da pretensão punitiva disciplinar:</strong> no regime federal (Lei 8.112/1990, art. 142), os prazos são de 5 anos para demissão, 2 anos para suspensão e 180 dias para advertência. A contagem se inicia quando o fato se torna conhecido pela autoridade competente. Se o fato também constituir crime, aplica-se a prescrição da lei penal (art. 142, §2º). Esses parâmetros servem de referência analógica quando a legislação estadual for omissa.</p>
+
+<p><strong>Independência das instâncias (penal, civil e administrativa):</strong> a absolvição penal por falta de provas não impede a punição disciplinar, pois os padrões probatórios são distintos. Somente a absolvição penal por inexistência do fato ou negativa de autoria (art. 66 do CPP) vincula obrigatoriamente a esfera administrativa.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><strong>Súmula 674/STJ (novembro de 2024):</strong> aprovada pela Primeira Seção, consolidou a jurisprudência sobre a legitimidade da fundamentação per relationem em processos disciplinares. Na prática, a autoridade administrativa (Ministro de Estado, Governador, Procurador-Geral) pode acolher integralmente as conclusões da comissão processante sem necessidade de produzir fundamentação autônoma — desde que demonstre correlação com o caso concreto. Os precedentes que embasaram a súmula incluem os MSs 21.674/DF, 22.280/DF e 20.672/DF.</p>
+
+<p><strong>Inexistência de prazo para instauração do PAD:</strong> embora a Lei 8.112/1990 preveja prazo de 60 dias para conclusão do PAD (art. 152), não há prazo expresso para sua instauração. Essa lacuna tem sido objeto de crítica doutrinária, pois a demora na instauração pode comprometer a coleta de provas e prejudicar a ampla defesa do acusado. Artigo publicado no ConJur (novembro de 2025) destacou os riscos dessa omissão legislativa, mas até o momento nem o STF nem o STJ fixaram prazo judicial para a instauração.</p>
+
+<p><strong>PAD e servidor aposentado:</strong> o STJ tem admitido a instauração de PAD mesmo após a aposentadoria do servidor, desde que a infração tenha sido praticada na atividade. A penalidade de cassação de aposentadoria foi mantida no ordenamento jurídico, apesar de questionamentos doutrinários sobre sua compatibilidade com o caráter contributivo do regime previdenciário.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Corregedoria × Conselho Superior</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Corregedoria</th><th>Conselho Superior</th></tr>
+<tr><td>Natureza</td><td>Órgão de fiscalização e controle interno</td><td>Órgão colegiado deliberativo e recursal</td></tr>
+<tr><td>Chefia</td><td>Procurador-Corregedor (nomeado pelo PGE)</td><td>Procurador-Geral do Estado (presidente nato)</td></tr>
+<tr><td>Composição</td><td>Procurador-Corregedor + equipe de apoio</td><td>Membros natos + membros eleitos pela classe</td></tr>
+<tr><td>Função principal</td><td>Correições, fiscalização do desempenho funcional, acompanhamento do estágio confirmatório</td><td>Deliberação sobre carreira (promoções, remoções), instância recursal em PAD, organização de concursos</td></tr>
+<tr><td>Base legal</td><td>LC 104/2002 (acrescentou à LC 15/1980)</td><td>LC 15/1980, art. 6º e seguintes</td></tr>
+</table>
+
+<h3>Sindicância × Processo Administrativo Disciplinar</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Sindicância</th><th>PAD</th></tr>
+<tr><td>Objeto</td><td>Apuração sumária de irregularidades de menor complexidade</td><td>Apuração formal de infrações graves, com rito completo</td></tr>
+<tr><td>Prazo</td><td>Até 30 dias (prorrogável por igual período)</td><td>60 dias (prorrogável por mais 60, conforme Lei 8.112)</td></tr>
+<tr><td>Penalidades possíveis</td><td>Advertência ou suspensão até 30 dias</td><td>Todas (advertência, suspensão, demissão, cassação de aposentadoria)</td></tr>
+<tr><td>Comissão</td><td>Pode ser conduzida por comissão simplificada ou pelo próprio Corregedor</td><td>Comissão de 3 servidores estáveis (presidente com formação em Direito, preferencialmente)</td></tr>
+<tr><td>Contraditório</td><td>Exigido quando a sindicância é acusatória (pode resultar em sanção)</td><td>Obrigatório em todas as fases</td></tr>
+<tr><td>Resultado</td><td>Arquivamento, aplicação de penalidade leve, ou conversão em PAD</td><td>Absolvição ou aplicação de penalidade proporcional à infração</td></tr>
+</table>
+
+<h3>Súmulas do STJ e STF sobre PAD</h3>
+
+<table>
+<tr><th>Enunciado</th><th>Tribunal</th><th>Conteúdo Essencial</th></tr>
+<tr><td>SV nº 5</td><td>STF</td><td>Falta de advogado no PAD não gera nulidade</td></tr>
+<tr><td>Súmula 591</td><td>STJ</td><td>Prova emprestada é admissível com contraditório</td></tr>
+<tr><td>Súmula 592</td><td>STJ</td><td>Excesso de prazo só anula se houver prejuízo concreto</td></tr>
+<tr><td>Súmula 611</td><td>STJ</td><td>PAD pode ser instaurado com base em denúncia anônima</td></tr>
+<tr><td>Súmula 674</td><td>STJ (nov/2024)</td><td>Fundamentação per relationem é válida no PAD</td></tr>
+<tr><td>Súmula 343</td><td>STJ (superada)</td><td>Exigia advogado em todas as fases — superada pela SV 5</td></tr>
+</table>
+
+<h3>Promoção na carreira de Procurador do Estado</h3>
+
+<table>
+<tr><th>Critério</th><th>Antiguidade</th><th>Merecimento</th></tr>
+<tr><td>Base</td><td>Posição no quadro de antiguidade organizado pelo Conselho Superior</td><td>Lista tríplice elaborada pelo Conselho Superior com base em critérios previamente divulgados</td></tr>
+<tr><td>Decisão</td><td>Promovido o mais antigo na categoria imediatamente inferior</td><td>Procurador-Geral escolhe um dos três nomes da lista</td></tr>
+<tr><td>Alternância</td><td colspan="2" style="text-align:center">As promoções se dão alternadamente: uma por antiguidade, outra por merecimento</td></tr>
+<tr><td>Categorias</td><td colspan="2" style="text-align:center">3ª Categoria → 2ª Categoria → 1ª Categoria (diferença de 5% no vencimento entre categorias)</td></tr>
+</table>
+
+</div>

@@ -1,0 +1,198 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Extinção do Contrato de Trabalho: Rescisão, Justa Causa, Despedida do Empregado Público e Aviso Prévio</h1>
+<p class="subtitulo">Ponto 4, item "b" — Extinção do contrato de trabalho: rescisão, justa causa, despedida do empregado público, aviso prévio proporcional</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>A extinção do contrato de trabalho é o momento mais sensível da relação empregatícia — é quando se materializam as obrigações rescisórias, se apura a existência de justa causa e se define o alcance das verbas devidas. Para a PGE/RJ, este ponto tem relevância prática direta: o Estado e suas entidades figuram constantemente como réus em ações trabalhistas nas quais se discutem nulidade da dispensa, ausência de motivação, reversão de justa causa e pagamento de verbas rescisórias. A despedida do empregado público, em particular, é tema de intensa controvérsia judicial, especialmente após as decisões do STF nos Temas 131 e 1.022.</p>
+
+<p>O ponto exige o domínio articulado de três eixos: (i) as modalidades de extinção do contrato e suas consequências jurídicas; (ii) as hipóteses de justa causa (art. 482 da CLT) e rescisão indireta (art. 483); e (iii) as regras específicas sobre a despedida de empregados públicos e o aviso prévio proporcional. A Reforma Trabalhista (Lei 13.467/2017) introduziu a rescisão por acordo (art. 484-A) e eliminou a homologação sindical obrigatória das rescisões, alterações que impactam diretamente a prática forense.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Modalidades de extinção do contrato</h3>
+
+<p>O contrato de trabalho pode se extinguir por diversas causas, cada uma com consequências distintas quanto às verbas rescisórias devidas:</p>
+
+<p><strong>Dispensa sem justa causa:</strong> é o exercício do poder potestativo do empregador de rescindir o contrato unilateralmente, sem necessidade de justificação no âmbito privado. As verbas devidas incluem: saldo de salário, aviso prévio (trabalhado ou indenizado), 13º salário proporcional, férias proporcionais + 1/3, FGTS (saque) e multa de 40% sobre o FGTS. O empregado também tem direito ao seguro-desemprego, se preenchidos os requisitos legais.</p>
+
+<p><strong>Dispensa por justa causa (art. 482, CLT):</strong> ocorre quando o empregado comete falta grave, rompendo a confiança que sustenta a relação. As verbas se limitam a saldo de salário e férias vencidas + 1/3. O empregado perde o direito ao aviso prévio, ao 13º proporcional, às férias proporcionais, ao saque do FGTS, à multa de 40% e ao seguro-desemprego.</p>
+
+<p><strong>Pedido de demissão:</strong> iniciativa do empregado. São devidos: saldo de salário, 13º proporcional, férias proporcionais + 1/3 e férias vencidas + 1/3. O empregado deve conceder aviso prévio ao empregador (30 dias), sob pena de desconto do valor correspondente. Não há saque do FGTS nem multa de 40%.</p>
+
+<p><strong>Rescisão indireta (art. 483, CLT):</strong> a "justa causa do empregador" — ocorre quando o empregador comete falta grave que torna insuportável a continuidade da relação. As hipóteses incluem: exigência de serviços superiores às forças do empregado, tratamento com rigor excessivo, descumprimento de obrigações contratuais, redução de trabalho que afete os salários e ato lesivo à honra. As verbas são as mesmas da dispensa sem justa causa.</p>
+
+<p><strong>Rescisão por acordo (art. 484-A, CLT — inovação da Reforma):</strong> modalidade introduzida pela Lei 13.467/2017. Por acordo entre as partes, o aviso prévio (se indenizado) é pago pela metade, a multa do FGTS cai de 40% para 20%, e o empregado saca até 80% do FGTS depositado, mas não tem direito ao seguro-desemprego.</p>
+
+<p><strong>Culpa recíproca (Súmula 14/TST):</strong> reconhecida em juízo quando ambas as partes contribuem para a ruptura contratual. As verbas rescisórias (aviso prévio, 13º e férias proporcionais) são reduzidas pela metade, e a multa do FGTS cai de 40% para 20%.</p>
+
+<h3>Justa causa — art. 482 da CLT</h3>
+
+<p>O art. 482 da CLT enumera as hipóteses de justa causa em rol taxativo. As principais são: (a) ato de improbidade; (b) incontinência de conduta ou mau procedimento; (c) negociação habitual por conta própria em concorrência com o empregador; (d) condenação criminal do empregado transitada em julgado, quando não houver suspensão da execução da pena; (e) desídia no desempenho das funções; (f) embriaguez habitual ou em serviço; (g) violação de segredo da empresa; (h) ato de indisciplina ou insubordinação; (i) abandono de emprego; (j) ato lesivo da honra ou da boa fama praticado contra qualquer pessoa, ou ofensas físicas, nas mesmas condições, salvo em legítima defesa; (k) prática constante de jogos de azar; (l) perda da habilitação profissional ou dos requisitos estabelecidos em lei para o exercício da profissão, em decorrência de conduta dolosa (alínea "m", incluída pela Reforma).</p>
+
+<p>A aplicação da justa causa exige a observância de princípios: <strong>imediatidade</strong> (a punição deve ser aplicada logo após o conhecimento da falta, sob pena de configurar perdão tácito), <strong>proporcionalidade</strong> (a sanção deve ser proporcional à gravidade da falta), <strong>non bis in idem</strong> (o empregador não pode punir o empregado duas vezes pelo mesmo fato) e <strong>nexo causal</strong> (a dispensa deve estar vinculada à conduta faltosa). A prova da justa causa é ônus do empregador (Súmula 212/TST, por analogia).</p>
+
+<div class="destaque">
+<p><strong>Alínea "m" do art. 482 — novidade da Reforma:</strong> a perda da habilitação profissional por conduta dolosa do empregado passou a configurar justa causa. Essa hipótese alcança, por exemplo, o motorista profissional que perde a CNH por embriaguez ao volante, ou o profissional de saúde que tem o registro cassado por irregularidade dolosa. Note que a perda deve decorrer de conduta dolosa — a perda culposa ou por fatores externos não autoriza a justa causa.</p>
+</div>
+
+<h3>Despedida do empregado público</h3>
+
+<p>A dispensa de empregados de empresas públicas e sociedades de economia mista é um dos temas mais relevantes para a PGE. O STF firmou jurisprudência em duas etapas decisivas:</p>
+
+<p><strong>Tema 131 (RE 589.998, 2013):</strong> o Plenário decidiu, no caso da ECT (Empresa Brasileira de Correios e Telégrafos), que é obrigatória a motivação formal da dispensa de empregado de empresa pública prestadora de serviço público. A tese original foi limitada à ECT, em razão do regime de monopólio postal. A motivação exigida não se confunde com a instauração de processo administrativo disciplinar — basta a indicação formal dos motivos determinantes da dispensa.</p>
+
+<p><strong>Tema 1.022 (RE 688.267, 2024):</strong> o STF ampliou o entendimento do Tema 131 a todas as empresas públicas e sociedades de economia mista. A tese fixada em março de 2024 estabeleceu que a dispensa unilateral de empregado de empresa pública ou sociedade de economia mista deve ser formalmente motivada, sejam elas prestadoras de serviço público ou exploradoras de atividade econômica, resguardado que tal motivação não se equipara à exigência de instauração de processo administrativo disciplinar, tampouco implica a concessão de estabilidade.</p>
+
+<div class="destaque">
+<p><strong>Síntese do Tema 1.022 (2024):</strong> (1) a dispensa de empregado público deve ser motivada; (2) a motivação não exige processo administrativo; (3) o empregado público não tem estabilidade (art. 41 não se aplica a celetistas); (4) a exigência de motivação decorre dos princípios da impessoalidade, moralidade e isonomia (art. 37, caput, CF). Para a PGE/RJ, o impacto é direto: ao dispensar empregados de empresas estatais fluminenses, o Estado deve indicar os motivos, mas não precisa instaurar PAD.</p>
+</div>
+
+<p>Importante registrar que a exigência de motivação se aplica prospectivamente: o marco temporal fixado pelo STF no Tema 1.022 é a data de publicação da ata de julgamento (4 de março de 2024). Dispensas anteriores a essa data não estão sujeitas ao novo requisito, salvo as já alcançadas pelo Tema 131 (empresas públicas prestadoras de serviço público).</p>
+
+<h3>Aviso prévio proporcional</h3>
+
+<p>O art. 7º, XXI, da CF garante o aviso prévio proporcional ao tempo de serviço, com mínimo de 30 dias. A Lei 12.506/2011 regulamentou o dispositivo, estabelecendo que ao aviso prévio mínimo de 30 dias serão acrescidos 3 dias por ano de serviço prestado na mesma empresa, até o máximo de 60 dias adicionais — totalizando, no limite, 90 dias de aviso prévio.</p>
+
+<p>O contagem dos 3 dias adicionais começa após o primeiro ano completo de serviço. Assim, um empregado com 1 ano tem direito a 30 dias; com 2 anos, a 33 dias; com 3 anos, a 36 dias, e assim por diante, até o teto de 90 dias (atingido com 21 anos de serviço).</p>
+
+<p>A jurisprudência do TST firmou entendimento de que o aviso prévio proporcional é direito exclusivo do empregado, não podendo ser exigido pelo empregador para período superior a 30 dias. Na prática, se o empregado pede demissão, o empregador pode exigir o cumprimento de no máximo 30 dias de aviso prévio trabalhado, independentemente do tempo de serviço.</p>
+
+<h3>Proteção contra despedida arbitrária</h3>
+
+<p>O art. 7º, I, da CF prevê a proteção da relação de emprego contra despedida arbitrária ou sem justa causa, "nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos". Essa lei complementar nunca foi editada, e o art. 10, I, do ADCT fixou provisoriamente a multa de 40% do FGTS como indenização compensatória. A situação permanece "provisória" desde 1988 — e é justamente essa lacuna que o STF foi chamado a enfrentar em diversas oportunidades.</p>
+
+<p>As estabilidades provisórias funcionam como exceções à regra da livre rescisibilidade do contrato. As mais importantes para concursos são: gestante (art. 10, II, "b", ADCT), cipeiro (art. 10, II, "a", ADCT), dirigente sindical (art. 8º, VIII, CF), empregado acidentado (art. 118, Lei 8.213/1991) e membros da CIPA (Súmula 339/TST).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos legais fundamentais</h3>
+
+<table>
+<tr><th>Dispositivo</th><th>Conteúdo</th></tr>
+<tr><td>Art. 7º, I, CF</td><td>Proteção contra despedida arbitrária — lei complementar (não editada); indenização compensatória</td></tr>
+<tr><td>Art. 7º, XXI, CF</td><td>Aviso prévio proporcional ao tempo de serviço, mínimo 30 dias</td></tr>
+<tr><td>Art. 10, I, ADCT</td><td>Multa de 40% do FGTS como indenização "provisória" contra despedida sem justa causa</td></tr>
+<tr><td>Art. 477, CLT</td><td>Rescisão: prazo de 10 dias para pagamento das verbas, sob pena de multa (§8º)</td></tr>
+<tr><td>Art. 482, CLT</td><td>Hipóteses de justa causa (rol taxativo, 13 alíneas)</td></tr>
+<tr><td>Art. 483, CLT</td><td>Rescisão indireta (justa causa do empregador)</td></tr>
+<tr><td>Art. 484-A, CLT</td><td>Rescisão por acordo: aviso prévio e multa do FGTS pela metade; saque de 80% do FGTS; sem seguro-desemprego</td></tr>
+<tr><td>Lei 12.506/2011</td><td>Aviso prévio proporcional: 30 dias + 3 dias/ano, até 90 dias</td></tr>
+<tr><td>Art. 487-491, CLT</td><td>Regras gerais do aviso prévio: prazos, redução de jornada, reconsideração</td></tr>
+</table>
+
+<h3>Jurisprudência fundamental</h3>
+
+<div class="destaque">
+<p><strong>Tema 1.022 (RE 688.267) — STF, março de 2024:</strong> a dispensa de empregado de empresa pública ou sociedade de economia mista — prestadora de serviço público ou exploradora de atividade econômica — deve ser formalmente motivada. A motivação não exige PAD e não implica estabilidade. Marco temporal: dispensas a partir de 4/3/2024.</p>
+</div>
+
+<div class="destaque">
+<p><strong>Tema 131 (RE 589.998) — STF, 2013:</strong> precedente originário sobre a ECT — a empresa pública prestadora de serviço público deve motivar a dispensa de seus empregados. Superado em parte pelo Tema 1.022, que ampliou a regra a todas as estatais.</p>
+</div>
+
+<div class="destaque">
+<p><strong>Súmula 212 do TST:</strong> o ônus de provar o término do contrato de trabalho, quando negada a prestação de serviço e o despedimento, é do empregador, pois o princípio da continuidade da relação de emprego constitui presunção favorável ao empregado.</p>
+</div>
+
+<div class="destaque">
+<p><strong>Súmula 244, III, do TST:</strong> a empregada gestante tem direito à estabilidade provisória mesmo nos contratos por prazo determinado. O STF confirmou esse entendimento no RE 629.053 (Tema 497).</p>
+</div>
+
+<div class="destaque">
+<p><strong>Súmula 378 do TST:</strong> a estabilidade provisória do empregado acidentado (art. 118 da Lei 8.213/1991) subsiste ainda que a contratação tenha sido por prazo determinado. A dispensa durante o período de estabilidade é nula.</p>
+</div>
+
+<div class="destaque">
+<p><strong>OJ 82 da SDI-I do TST:</strong> a data de saída a ser anotada na CTPS deve corresponder à do término do aviso prévio, ainda que indenizado.</p>
+</div>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Organize o estudo em três blocos. Primeiro, domine as modalidades de extinção e as verbas rescisórias correspondentes a cada uma — construa uma tabela mental ou escrita com as hipóteses (dispensa sem justa causa, com justa causa, pedido de demissão, acordo, rescisão indireta, culpa recíproca) e as verbas respectivas. Esse é um dos quadros mais cobrados em provas objetivas e discursivas.</p>
+
+<p>No segundo bloco, estude as hipóteses de justa causa do art. 482, com atenção aos princípios que regem sua aplicação (imediatidade, proporcionalidade, non bis in idem). Não basta memorizar as alíneas — é preciso compreender como a jurisprudência as aplica. Por exemplo: a embriaguez habitual (alínea "f") vem sendo tratada pela jurisprudência mais recente como doença (alcoolismo — CID F10), o que pode afastar a justa causa e gerar encaminhamento ao INSS.</p>
+
+<p>No terceiro bloco, concentre-se na despedida do empregado público (Temas 131 e 1.022 do STF) e no aviso prévio proporcional (Lei 12.506/2011). A evolução jurisprudencial do STF sobre a motivação da dispensa é um tema "quente" e de alta probabilidade de cobrança, especialmente porque o Tema 1.022 foi fixado em 2024, pouco antes do concurso. Demonstrar conhecimento desse precedente em uma resposta discursiva é estratégico.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Motivação ≠ estabilidade ≠ PAD:</strong> o STF foi enfático nos Temas 131 e 1.022: a exigência de motivação da dispensa do empregado público não se confunde com estabilidade (art. 41, CF) nem com a necessidade de processo administrativo disciplinar. Basta a indicação formal dos motivos. Questões de prova frequentemente confundem esses conceitos — o candidato que os distingue com precisão demonstra maturidade técnica.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Rescisão por acordo (art. 484-A) — sem seguro-desemprego:</strong> na rescisão por acordo, o empregado não tem direito ao seguro-desemprego, recebe apenas 80% do FGTS e a multa é de 20% (não 40%). Essa modalidade foi introduzida pela Reforma Trabalhista para formalizar o antigo "acordo informal" de dispensa simulada. Cuidado com questões que afirmem direito ao seguro-desemprego nessa modalidade.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Aviso prévio proporcional — direito exclusivo do empregado:</strong> a proporcionalidade do aviso prévio (3 dias por ano) só beneficia o empregado. Se o empregado pedir demissão, o empregador pode exigir no máximo 30 dias de aviso prévio trabalhado. O TST consolidou esse entendimento em diversos precedentes, e a PGE/RJ deve observá-lo ao conduzir rescisões de empregados celetistas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Embriaguez habitual — tendência jurisprudencial:</strong> a jurisprudência mais recente do TST tende a tratar o alcoolismo como doença (CID F10), não como causa de justa causa automática. Isso significa que o empregador deve encaminhar o empregado ao tratamento antes de aplicar a dispensa por justa causa. Em prova, cuidado com assertivas que afirmem categoricamente que a embriaguez habitual sempre configura justa causa.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Homologação sindical abolida (art. 477, §1º, revogado):</strong> a Reforma Trabalhista eliminou a obrigatoriedade de homologação da rescisão perante o sindicato ou órgão do Ministério do Trabalho para empregados com mais de 1 ano de serviço. Questões pré-Reforma ainda podem constar de materiais desatualizados — atenção ao regime vigente.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Art. 10, I, ADCT — multa de 40% como proteção provisória:</strong> desde 1988, a multa de 40% sobre o FGTS funciona como a indenização compensatória prevista no art. 7º, I, CF. A Convenção 158 da OIT (que veda a dispensa arbitrária) foi denunciada pelo Brasil em 1996, e o STF decidiu pela validade da denúncia (ADI 1.625, julgada em 2023 — o STF estabeleceu que futuras denúncias de tratados exigem aprovação do Congresso, mas aplicou a decisão prospectivamente, mantendo a denúncia de 1996). Enquanto não editada a lei complementar prevista no art. 7º, I, o regime vigente é o da multa de 40%.</p>
+
+<p><strong>Presunção de continuidade da relação de emprego:</strong> a Súmula 212 do TST consagra o princípio da continuidade, transferindo ao empregador o ônus de provar o término do contrato. Esse princípio fundamenta diversas proteções, inclusive a exigência de motivação da dispensa no serviço público.</p>
+
+<p><strong>Estabilidades provisórias — extensão aos contratos a termo:</strong> as Súmulas 244, III (gestante), e 378, III (acidentado), do TST estendem as estabilidades provisórias aos contratos por prazo determinado. O STF confirmou a estabilidade da gestante mesmo no contrato temporário (RE 629.053, Tema 497, 2018).</p>
+
+<h3>Decisões recentes (2023-2025)</h3>
+
+<table>
+<tr><th>Caso / Tema</th><th>Tribunal</th><th>Ano</th><th>Resultado</th></tr>
+<tr><td>Tema 1.022 (RE 688.267) — motivação da dispensa em todas as estatais</td><td>STF</td><td>2024</td><td>Dispensa de empregado público deve ser motivada; sem PAD e sem estabilidade. Marco: 4/3/2024</td></tr>
+<tr><td>Tema 131 (RE 589.998) — motivação na ECT</td><td>STF</td><td>2013</td><td>Precedente originário: empresa pública prestadora de serviço público deve motivar dispensa</td></tr>
+<tr><td>ADIs 5.826, 5.829 e 6.154 — contrato intermitente e rescisão</td><td>STF</td><td>2024</td><td>Constitucionalidade do contrato intermitente confirmada; extinção segue as regras do art. 452-A da CLT</td></tr>
+<tr><td>Tema 497 (RE 629.053) — estabilidade gestante em contrato a termo</td><td>STF</td><td>2018</td><td>Gestante tem estabilidade mesmo em contrato temporário</td></tr>
+<tr><td>Art. 484-A — rescisão por acordo</td><td>TST</td><td>2024</td><td>Jurisprudência consolidada: sem seguro-desemprego; multa 20%; saque de 80% do FGTS</td></tr>
+</table>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Verbas rescisórias por modalidade de extinção</h3>
+
+<table>
+<tr><th>Verba</th><th>Dispensa s/ justa causa</th><th>Justa causa</th><th>Pedido de demissão</th><th>Acordo (484-A)</th><th>Rescisão indireta</th></tr>
+<tr><td>Saldo de salário</td><td>Sim</td><td>Sim</td><td>Sim</td><td>Sim</td><td>Sim</td></tr>
+<tr><td>Aviso prévio</td><td>Sim</td><td>Não</td><td>Deve ao empregador (30d)</td><td>Metade (se indenizado)</td><td>Sim</td></tr>
+<tr><td>13º proporcional</td><td>Sim</td><td>Não</td><td>Sim</td><td>Sim</td><td>Sim</td></tr>
+<tr><td>Férias proporc. + 1/3</td><td>Sim</td><td>Não</td><td>Sim</td><td>Sim</td><td>Sim</td></tr>
+<tr><td>Férias vencidas + 1/3</td><td>Sim</td><td>Sim</td><td>Sim</td><td>Sim</td><td>Sim</td></tr>
+<tr><td>Multa FGTS</td><td>40%</td><td>Não</td><td>Não</td><td>20%</td><td>40%</td></tr>
+<tr><td>Saque FGTS</td><td>Sim (100%)</td><td>Não</td><td>Não</td><td>Sim (80%)</td><td>Sim (100%)</td></tr>
+<tr><td>Seguro-desemprego</td><td>Sim</td><td>Não</td><td>Não</td><td>Não</td><td>Sim</td></tr>
+</table>
+
+<h3>Estabilidades provisórias</h3>
+
+<table>
+<tr><th>Estabilidade</th><th>Fundamento</th><th>Período</th><th>Extensão a contrato a termo</th></tr>
+<tr><td>Gestante</td><td>Art. 10, II, "b", ADCT</td><td>Confirmação da gravidez até 5 meses após o parto</td><td>Sim (Súmula 244, III/TST; Tema 497/STF)</td></tr>
+<tr><td>Acidentado</td><td>Art. 118, Lei 8.213/91</td><td>12 meses após cessação do auxílio-doença acidentário</td><td>Sim (Súmula 378, III/TST)</td></tr>
+<tr><td>Cipeiro</td><td>Art. 10, II, "a", ADCT</td><td>Registro da candidatura até 1 ano após mandato</td><td>Não (Súmula 339, II/TST)</td></tr>
+<tr><td>Dirigente sindical</td><td>Art. 8º, VIII, CF</td><td>Registro da candidatura até 1 ano após mandato</td><td>Sim (CLT e CF)</td></tr>
+</table>
+
+<h3>Evolução da motivação na dispensa de empregados públicos</h3>
+
+<table>
+<tr><th>Momento</th><th>Precedente</th><th>Alcance</th></tr>
+<tr><td>Antes de 2013</td><td>Sem exigência de motivação</td><td>Empregados públicos dispensados livremente</td></tr>
+<tr><td>2013</td><td>Tema 131 (RE 589.998)</td><td>Motivação exigida para empresa pública prestadora de serviço público (ECT)</td></tr>
+<tr><td>Março de 2024</td><td>Tema 1.022 (RE 688.267)</td><td>Motivação exigida para todas as empresas públicas e SEM, independentemente da atividade</td></tr>
+</table>
+
+</div>

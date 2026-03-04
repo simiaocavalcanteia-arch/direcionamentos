@@ -1,0 +1,224 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Escola Superior de Advocacia Pública, Convênios de Representação e Cooperação entre PGEs</h1>
+<p class="subtitulo">Ponto 9, item "c" — Escola Superior de Advocacia Pública e a promoção da ciência jurídica e social. Entidades da administração indireta e os convênios de representação celebrados com a PGE. Convênio de cooperação técnica com as Procuradorias-gerais dos Estados e do DF</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este ponto do edital abrange três eixos que, embora distintos à primeira vista, compartilham um fio condutor comum: a articulação institucional da PGE para além da litigância cotidiana. A Escola Superior de Advocacia Pública (ESAP) representa o compromisso da instituição com a formação permanente e a produção de conhecimento jurídico. Os convênios com entidades da administração indireta refletem a dimensão prática do princípio da unicidade da representação judicial do Estado. E a cooperação técnica entre Procuradorias-Gerais dos Estados traduz a vocação federativa da advocacia pública para o compartilhamento de experiências e o fortalecimento recíproco dessas instituições.</p>
+
+<p>Para o concurso PGE/RJ, o tema exige do candidato uma compreensão institucional que vai além do contencioso. A banca costuma valorizar o conhecimento sobre a dimensão formativa e cooperativa da Procuradoria, especialmente porque revela maturidade do candidato quanto ao papel contemporâneo da advocacia pública — que não se limita a defender o Estado em juízo, mas inclui a formação de quadros, a produção científica e a articulação interinstitucional.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Escola Superior de Advocacia Pública (ESAP)</h3>
+
+<p>A ESAP da PGE/RJ é o órgão responsável pela formação continuada dos Procuradores do Estado e pela promoção da ciência jurídica e social no âmbito da advocacia pública. Sua criação decorre da compreensão de que a qualidade da atuação institucional depende diretamente do investimento permanente na capacitação de seus membros. A LC 15/1980 (Lei Orgânica da PGE/RJ) prevê a existência da Escola, que foi regulamentada e estruturada ao longo das décadas seguintes.</p>
+
+<p>As funções da ESAP podem ser organizadas em três vertentes. A primeira é a <strong>formação inicial</strong>: a Escola coordena o estágio confirmatório dos novos Procuradores, período de 18 meses durante o qual o aprovado no concurso é avaliado quanto à aptidão para o exercício definitivo do cargo. Nesse período, o Procurador participa de cursos obrigatórios, é acompanhado por Procuradores mais experientes e recebe avaliações periódicas. O estágio confirmatório é condição para a aquisição da estabilidade, conforme o art. 41 da CF e a legislação estadual.</p>
+
+<p>A segunda vertente é a <strong>formação continuada</strong>: a ESAP organiza cursos, seminários, congressos e programas de atualização para os Procuradores já estáveis. Isso inclui o Programa de Residência Jurídica, que possibilita a recém-formados em Direito uma vivência prática na rotina da PGE — embora os residentes não sejam Procuradores, o programa alimenta a instituição com pesquisa e oxigena o debate interno. A ESAP também promove ciclos de palestras temáticas, oficinas de prática processual e workshops sobre novas legislações e decisões judiciais relevantes.</p>
+
+<p>A terceira vertente é a <strong>produção científica</strong>: a ESAP é responsável pela Revista da PGE/RJ, publicação periódica que reúne artigos de Procuradores e acadêmicos sobre temas relevantes para a advocacia pública. A Escola também fomenta a participação de Procuradores em programas de pós-graduação e incentiva a elaboração de trabalhos acadêmicos vinculados à prática profissional.</p>
+
+<div class="destaque">
+<p><strong>Para a prova:</strong> a ESAP não é apenas um centro de treinamento; é a expressão institucional do compromisso da PGE com o aprimoramento técnico e com a contribuição para o desenvolvimento da ciência jurídica. O candidato que demonstrar compreender essa dimensão formativa e científica evidencia uma visão madura da advocacia pública.</p>
+</div>
+
+<h3>Entidades da administração indireta e os convênios de representação</h3>
+
+<p>O art. 132 da CF/1988 atribui aos Procuradores dos Estados a representação judicial e a consultoria jurídica das respectivas unidades federadas. Esse dispositivo consagra o <strong>princípio da unicidade da representação judicial</strong>: compete exclusivamente à PGE representar o Estado em juízo e prestar-lhe consultoria jurídica. A administração direta está integralmente abrangida por essa regra.</p>
+
+<p>A questão se torna mais complexa quando envolve <strong>entidades da administração indireta</strong>. O entendimento consolidado, reafirmado pelo STF em diversas oportunidades, é que a unicidade alcança autarquias e fundações públicas de direito público, que integram a personalidade jurídica do Estado para fins de representação. Já as empresas públicas e sociedades de economia mista, por possuírem personalidade jurídica de direito privado, podem manter quadros jurídicos próprios — embora frequentemente celebrem convênios com a PGE para obter assessoria ou representação em matérias específicas.</p>
+
+<p>No Rio de Janeiro, a <strong>Procuradoria de Autarquias e Fundações</strong> é a unidade especializada responsável pela representação judicial das autarquias e fundações estaduais. A atuação ocorre de forma direta, sem necessidade de convênio, pois decorre do próprio mandato constitucional. Já para empresas públicas e sociedades de economia mista, a PGE/RJ celebra convênios de representação que definem o escopo da atuação, as obrigações recíprocas e os limites da representação.</p>
+
+<p>Esses convênios seguem regime próprio. A entidade da administração indireta que celebra convênio com a PGE se compromete a fornecer informações e documentos necessários à defesa judicial, enquanto a PGE assume a representação nos termos pactuados. A Constituição Estadual do Rio de Janeiro (art. 176) reforça que a PGE é o órgão central do sistema jurídico do Estado, exercendo supervisão dos serviços jurídicos de toda a administração direta e indireta — autarquias, fundações, empresas públicas e sociedades de economia mista.</p>
+
+<div class="destaque">
+<p><strong>Distinção fundamental:</strong> para autarquias e fundações públicas, a representação pela PGE decorre diretamente da Constituição (art. 132 CF) e não depende de convênio. Para empresas públicas e sociedades de economia mista, a representação pode ocorrer por convênio, mas não é constitucionalmente obrigatória — essas entidades podem ter corpo jurídico próprio. A ADI 7.218/PB (2024) reafirmou esse entendimento ao invalidar procuradorias paralelas em autarquias e fundações da Paraíba.</p>
+</div>
+
+<h3>Cooperação técnica entre Procuradorias-Gerais dos Estados e do DF</h3>
+
+<p>A cooperação entre as PGEs dos diversos Estados e do DF tem como principal espaço de articulação o <strong>Colégio Nacional de Procuradores-Gerais dos Estados e do DF (CONPEG)</strong>. Criado em 2001, o CONPEG é um fórum permanente que reúne os Procuradores-Gerais para a discussão de temas comuns, a troca de experiências e a formulação de estratégias conjuntas para o fortalecimento da advocacia pública estadual.</p>
+
+<p>Os convênios de cooperação técnica entre PGEs podem envolver diversas modalidades de colaboração: compartilhamento de pareceres e teses jurídicas sobre temas de interesse comum, intercâmbio de Procuradores para programas de capacitação, atuação coordenada em litígios federativos (especialmente perante o STF), e desenvolvimento conjunto de sistemas de informação e gestão processual. Um exemplo concreto é a atuação coordenada dos Estados em ações que envolvem a repartição de receitas tributárias ou questões federativas, onde a articulação entre PGEs permite uma defesa mais eficiente dos interesses estaduais.</p>
+
+<p>Além do CONPEG, a cooperação se manifesta em <strong>fóruns temáticos</strong> — como o Fórum Nacional de Advocacia Pública (FONAP) — e em convênios bilaterais entre PGEs para o cumprimento de cartas precatórias, atos de comunicação processual e execução de serviços jurídicos em localidades onde o Estado não possui representação própria. A LC 15/1980 prevê que a PGE/RJ pode celebrar convênios visando ao intercâmbio jurídico, ao cumprimento de cartas precatórias e à execução de serviços jurídicos, mediante modelos previamente aprovados pelo Governador.</p>
+
+<p>A <strong>cooperação interinstitucional</strong> também se estende a outros órgãos do sistema de justiça. A PGE pode celebrar termos de cooperação com o Ministério Público, a Defensoria Pública, a OAB e órgãos do Poder Judiciário para temas específicos como conciliação em demandas de massa, prevenção de litígios e desjudicialização de conflitos.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 132, <em>caput</em>:</strong> estabelece que os Procuradores dos Estados e do DF exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas, sendo organizados em carreira com ingresso por concurso público de provas e títulos, com participação da OAB. Esse é o fundamento constitucional do princípio da unicidade e da exclusividade da representação pelo corpo de Procuradores. Note que o dispositivo fala em "unidades federadas" e não em "administração direta", o que permite a interpretação extensiva para alcançar autarquias e fundações.</p>
+
+<p><strong>ADCT, art. 69:</strong> as consultorias jurídicas dos Estados que já existiam na data da promulgação da CF/1988 foram recepcionadas e podem continuar funcionando. Esse dispositivo é relevante porque preservou órgãos jurídicos que já atuavam em autarquias antes da Constituição, evitando uma ruptura abrupta na prestação de serviços.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><strong>Arts. 176 e 177:</strong> disciplinam a PGE/RJ. O art. 176 define que a representação judicial e a consultoria jurídica do Estado serão exercidas pelos Procuradores do Estado, membros da PGE, instituição essencial à Justiça, diretamente vinculada ao Governador. A PGE exerce as funções de órgão central do sistema jurídico do Estado, supervisionando os serviços jurídicos de toda a administração direta e indireta. A Procuradoria possui dotação orçamentária própria, com autonomia administrativa e financeira garantida.</p>
+
+<h3>LC 15/1980 (Lei Orgânica da PGE/RJ)</h3>
+
+<p>A LC 15/1980 é o diploma fundamental da organização da PGE/RJ. Além de estruturar a carreira de Procurador do Estado, prevê a existência da Escola Superior de Advocacia Pública, disciplina a celebração de convênios de representação com entidades da administração indireta e autoriza a formalização de convênios de cooperação com outras Procuradorias. A lei foi sendo complementada por resoluções internas da PGE que regulamentam aspectos específicos, como o funcionamento da ESAP e os procedimentos para celebração de convênios.</p>
+
+<h3>LC 226/2025</h3>
+
+<p>A mais recente alteração na estrutura da PGE/RJ ampliou o quadro para 330 cargos de Procurador do Estado, refletindo o reconhecimento da necessidade de fortalecer a instituição. Essa ampliação tem impacto direto na capacidade da PGE de absorver a representação de entidades da administração indireta sem depender de corpos jurídicos paralelos.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><strong>ADI 7.218/PB (Informativo 1.127, março de 2024):</strong> o Plenário declarou inconstitucionais normas da Paraíba que previam cargos de advogado ou procurador em autarquias e fundações estaduais, por violação ao princípio da unicidade orgânica da advocacia pública (art. 132 CF). A decisão fixou que são inconstitucionais normas locais que criam cargos e carreiras de advogado ou procurador para viabilizar órgãos de assessoramento jurídico no âmbito de autarquias e fundações. Exceção: universidades estaduais podem manter procuradorias próprias, e órgãos existentes na data da promulgação da CF/1988 foram preservados (ADCT, art. 69). A decisão foi modulada para produzir efeitos em 24 meses.</p>
+
+<p><strong>ADI 6.022 (2022):</strong> reafirmou a autonomia funcional da PGE, reconhecendo que a advocacia pública estadual necessita de garantias institucionais para o exercício independente de suas funções. Decisão relevante para compreender o posicionamento da PGE como instituição autônoma dentro da estrutura do Estado.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Este é um ponto que exige mais do que memorização de dispositivos legais — demanda compreensão institucional. Comece pelo art. 132 da CF e pelos arts. 176-177 da Constituição Estadual, que fornecem a base normativa. Em seguida, estude a LC 15/1980 nos trechos relativos à ESAP, aos convênios e à estrutura institucional. Não é necessário decorar artigo por artigo, mas entender a lógica organizacional.</p>
+
+<p>Para a ESAP, concentre-se nas três dimensões: formação inicial (estágio confirmatório), formação continuada (cursos, residência jurídica) e produção científica (revista, incentivo à pós-graduação). Saiba explicar por que uma Escola de Advocacia Pública é relevante para a qualidade da atuação institucional — a banca pode propor uma questão que exija reflexão sobre o papel da formação permanente na melhoria da gestão pública.</p>
+
+<p>Quanto aos convênios de representação, a distinção entre autarquias/fundações (representação por mandato constitucional) e empresas públicas/sociedades de economia mista (representação por convênio) é o ponto central. Memorize o precedente da ADI 7.218/PB e suas exceções — universidades estaduais e órgãos jurídicos preexistentes à CF/1988.</p>
+
+<p>Para a cooperação entre PGEs, basta conhecer a existência do CONPEG, as modalidades de cooperação (intercâmbio de teses, atuação coordenada em litígios federativos, cartas precatórias) e a previsão na legislação estadual. Esse subtema é menos denso normativamente, mas demonstra visão institucional quando mencionado em uma resposta discursiva.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Unicidade não é monopólio absoluto:</strong> o princípio da unicidade da representação judicial (art. 132 CF) não significa que nenhuma entidade da administração indireta pode ter corpo jurídico próprio. Empresas públicas e sociedades de economia mista, por terem personalidade de direito privado, podem manter advogados próprios. O que a Constituição proíbe é a criação de procuradorias paralelas em autarquias e fundações públicas — é essa a tese fixada na ADI 7.218/PB.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Exceção do ADCT, art. 69:</strong> consultorias jurídicas que já existiam em autarquias na data da promulgação da CF/1988 foram recepcionadas e podem continuar funcionando. A ADI 7.218/PB preservou expressamente essa exceção. Cuidado para não afirmar categoricamente que toda assessoria jurídica em autarquia é inconstitucional — as preexistentes estão protegidas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Residência Jurídica não é estágio confirmatório:</strong> não confunda os dois institutos. O estágio confirmatório é o período de 18 meses após a posse do Procurador aprovado em concurso, durante o qual ele é avaliado para fins de estabilidade. A Residência Jurídica é um programa da ESAP destinado a recém-formados em Direito (não Procuradores), que vivenciam a rotina da PGE como forma de qualificação profissional.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Convênio vs. mandato constitucional:</strong> a banca pode tentar confundir o candidato ao perguntar se a PGE "celebra convênio" para representar autarquias. A representação de autarquias decorre diretamente da Constituição (art. 132), não depende de convênio. Os convênios de representação são celebrados com empresas públicas e sociedades de economia mista, para as quais a representação pela PGE é facultativa.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Princípio da unicidade da representação judicial:</strong> o STF possui jurisprudência consolidada no sentido de que o art. 132 da CF confere à PGE a exclusividade na representação judicial e consultoria jurídica da administração direta, autárquica e fundacional. Diversas ADIs foram julgadas ao longo dos anos declarando inconstitucionais leis estaduais que criavam cargos jurídicos em autarquias e fundações fora da estrutura da PGE. A exceção reconhecida é a do ADCT, art. 69 (órgãos preexistentes à CF/1988) e das universidades públicas estaduais.</p>
+
+<p><strong>Autonomia institucional da PGE:</strong> embora não possua a mesma extensão de garantias conferidas ao Ministério Público e à Defensoria Pública, o STF reconheceu em diversas decisões que a PGE goza de autonomia funcional e administrativa. A ADI 145/CE firmou que as garantias do MP não se estendem automaticamente à PGE, mas a ADI 6.022 reconheceu a necessidade de garantias institucionais mínimas para o exercício independente das funções.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><strong>ADI 7.218/PB — Plenário, março de 2024 (Informativo 1.127):</strong> o STF declarou inconstitucionais trechos de leis paraibanas que previam cargos de advogado ou procurador em autarquias e fundações estaduais, por ofensa ao princípio da unicidade orgânica da advocacia pública (art. 132 CF). Tese: são inconstitucionais normas locais que criam cargos e carreiras de advogado ou procurador para viabilizar órgãos de assessoramento jurídico em autarquias e fundações estaduais. Exceções preservadas: (i) procuradorias em universidades estaduais; (ii) órgãos de consultoria jurídica existentes na data da promulgação da CF/1988 (ADCT, art. 69). Modulação: efeitos a partir de 24 meses da publicação da ata de julgamento, para permitir a reestruturação administrativa da PGE da Paraíba.</p>
+
+<p><strong>PEC 28/2023 (Senado Federal):</strong> proposta de emenda constitucional em tramitação que busca incluir os Procuradores Municipais no art. 132 da CF, estendendo a eles as mesmas garantias e prerrogativas dos Procuradores dos Estados. Embora não se trate de decisão judicial, é relevante para o candidato conhecer essa discussão legislativa, que pode alterar significativamente o panorama da advocacia pública no Brasil.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Entidade</th>
+<th>Representação pela PGE</th>
+<th>Fundamento</th>
+<th>Necessita convênio?</th>
+</tr>
+<tr>
+<td>Administração direta</td>
+<td>Obrigatória e exclusiva</td>
+<td>Art. 132 CF + CE/RJ art. 176</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>Autarquias</td>
+<td>Obrigatória e exclusiva</td>
+<td>Art. 132 CF (interpretação extensiva)</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>Fundações públicas de direito público</td>
+<td>Obrigatória e exclusiva</td>
+<td>Art. 132 CF (interpretação extensiva)</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>Empresas públicas</td>
+<td>Facultativa</td>
+<td>Convênio de representação</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Sociedades de economia mista</td>
+<td>Facultativa</td>
+<td>Convênio de representação</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Universidades estaduais</td>
+<td>Podem manter procuradoria própria</td>
+<td>Exceção jurisprudencial (ADI 7.218)</td>
+<td>Não se aplica</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Dimensão da ESAP</th>
+<th>Atividades principais</th>
+<th>Público-alvo</th>
+</tr>
+<tr>
+<td>Formação inicial</td>
+<td>Estágio confirmatório (18 meses), cursos obrigatórios, avaliações periódicas</td>
+<td>Procuradores recém-empossados</td>
+</tr>
+<tr>
+<td>Formação continuada</td>
+<td>Cursos, seminários, congressos, Residência Jurídica, workshops temáticos</td>
+<td>Procuradores estáveis e residentes</td>
+</tr>
+<tr>
+<td>Produção científica</td>
+<td>Revista da PGE/RJ, incentivo à pós-graduação, publicações acadêmicas</td>
+<td>Procuradores e comunidade jurídica</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Modalidade de cooperação</th>
+<th>Descrição</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td>Intercâmbio de teses</td>
+<td>Compartilhamento de pareceres e posições jurídicas entre PGEs</td>
+<td>Teses sobre ICMS em litígios federativos</td>
+</tr>
+<tr>
+<td>Atuação coordenada</td>
+<td>Defesa conjunta em ações perante tribunais superiores</td>
+<td>Ações sobre repartição de receitas no STF</td>
+</tr>
+<tr>
+<td>Capacitação conjunta</td>
+<td>Intercâmbio de Procuradores em programas de formação</td>
+<td>Participação cruzada em ESAPs estaduais</td>
+</tr>
+<tr>
+<td>Cartas precatórias</td>
+<td>Cumprimento de atos processuais em localidades de outro Estado</td>
+<td>Convênio bilateral entre PGE/RJ e PGE/SP</td>
+</tr>
+<tr>
+<td>Fóruns permanentes</td>
+<td>Reuniões periódicas para debate de temas comuns</td>
+<td>CONPEG, FONAP</td>
+</tr>
+</table>
+
+</div>

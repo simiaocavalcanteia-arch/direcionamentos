@@ -1,0 +1,231 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Direito do Trabalho: Conceito, Princípios, Fontes e Justiça do Trabalho</h1>
+<p class="subtitulo">Ponto 1, item "a" — Direito do Trabalho: conceito, princípios, fontes, interpretação e aplicação, renúncia e transação. Direito Constitucional do Trabalho. Reforma Trabalhista (Lei 13.467/2017). Organização e competência da Justiça do Trabalho (art. 114, CF; EC 45/2004)</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>O Direito do Trabalho, neste concurso da PGE/RJ, não é estudado na perspectiva clássica do advogado trabalhista. O enfoque recai sobre as <strong>relações de trabalho na Administração Pública</strong>: o Estado como empregador (quando adota o regime celetista), a competência da Justiça do Trabalho para ações envolvendo entes públicos, os limites da terceirização no setor público e a aplicação dos princípios trabalhistas ao empregado público. Ainda assim, o ponto 1a exige domínio da teoria geral — conceito, princípios, fontes e estrutura da Justiça do Trabalho —, pois é sobre essa base que se constroem todos os demais temas da disciplina.</p>
+
+<p>A Reforma Trabalhista (Lei 13.467/2017) alterou profundamente a CLT, especialmente nos temas de negociação coletiva, hierarquia de fontes e acesso à justiça gratuita. O STF vem examinando a constitucionalidade de diversos dispositivos da reforma, gerando jurisprudência relevante e recente. Para o Procurador do Estado, é fundamental compreender como essas mudanças repercutem na gestão de pessoal celetista do Estado e nas ações trabalhistas em que a Fazenda Pública é parte.</p>
+
+<p>Este ponto conecta-se com os regimes jurídicos funcionais (Ponto 2a), com a terceirização e responsabilidade do tomador (Ponto 2b), com a competência da Justiça do Trabalho para ações envolvendo o Estado (Ponto 7a) e com o direito de greve do servidor público (Ponto 6a).</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e natureza do Direito do Trabalho</h3>
+
+<p>O Direito do Trabalho é o ramo jurídico que regula as relações de trabalho subordinado, estabelecendo normas de proteção ao trabalhador e disciplinando os direitos e deveres de empregados e empregadores. Sua autonomia se manifesta por princípios próprios, legislação específica (CLT, leis esparsas), instituições próprias (Justiça do Trabalho, Ministério Público do Trabalho) e doutrina especializada. A relação de emprego, regulada pelos arts. 2º e 3º da CLT, exige cinco elementos: pessoa física, pessoalidade, não eventualidade (habitualidade), subordinação jurídica e onerosidade.</p>
+
+<h3>Princípios do Direito do Trabalho</h3>
+
+<p>O <strong>princípio da proteção</strong> é o princípio-mãe do Direito do Trabalho: diante da desigualdade econômica entre empregado e empregador, o ordenamento confere ao trabalhador uma superioridade jurídica compensatória. Dele derivam três subprincípios: (i) <em>in dubio pro operario</em> (na dúvida, interpreta-se em favor do trabalhador); (ii) <em>norma mais favorável</em> (havendo conflito entre normas, aplica-se a mais benéfica ao trabalhador); e (iii) <em>condição mais benéfica</em> (as condições mais vantajosas já conquistadas não podem ser suprimidas por norma posterior menos favorável). A reforma trabalhista relativizou esses subprincípios ao consagrar o "negociado sobre o legislado" (art. 611-A da CLT).</p>
+
+<p>O <strong>princípio da primazia da realidade</strong> determina que, havendo divergência entre o que foi documentado e o que efetivamente ocorreu, prevalece a realidade fática. Assim, um contrato formal de prestação de serviços autônomos pode ser desconsiderado se, na prática, estavam presentes os elementos da relação de emprego. O <strong>princípio da irrenunciabilidade</strong> (ou indisponibilidade) significa que o trabalhador não pode, em regra, renunciar a direitos trabalhistas assegurados por normas de ordem pública. A CLT, após a reforma, distingue entre direitos absolutamente indisponíveis (art. 611-B — que não podem ser objeto de negociação coletiva) e direitos relativamente indisponíveis (art. 611-A — que podem ser flexibilizados por acordo ou convenção coletiva).</p>
+
+<p>Outros princípios relevantes: <strong>continuidade da relação de emprego</strong> (presume-se que o contrato de trabalho é por prazo indeterminado — Súmula 212/TST); <strong>intangibilidade salarial</strong> (proteção contra reduções salariais, salvo negociação coletiva — art. 7º, VI, CF); e <strong>inalterabilidade contratual lesiva</strong> (art. 468, CLT — as alterações contratuais só são lícitas por mútuo consentimento e desde que não resultem em prejuízo ao empregado).</p>
+
+<h3>Fontes do Direito do Trabalho</h3>
+
+<p>As fontes formais dividem-se em <strong>heterônomas</strong> (produzidas por terceiros, sem participação direta dos destinatários) e <strong>autônomas</strong> (produzidas pelos próprios interessados). São fontes heterônomas: a Constituição Federal, as leis (CLT, legislação esparsa), os tratados e convenções internacionais ratificados, as medidas provisórias, os decretos regulamentares, as portarias e as sentenças normativas. São fontes autônomas: as convenções coletivas de trabalho, os acordos coletivos de trabalho e os usos e costumes.</p>
+
+<p>A <strong>hierarquia das fontes</strong> no Direito do Trabalho segue regra peculiar: tradicionalmente, aplicava-se a teoria do conglobamento (compara-se o conjunto normativo, não cláusula a cláusula) e prevalecia a norma mais favorável ao trabalhador, independentemente de sua posição hierárquica formal. A Reforma Trabalhista alterou essa lógica ao estabelecer que o <strong>acordo coletivo prevalece sobre a convenção coletiva</strong> (art. 620, CLT) e que a <strong>convenção e o acordo coletivo prevalecem sobre a lei</strong> nos temas do art. 611-A (negociado sobre legislado), desde que respeitados os direitos do art. 611-B (patamar mínimo civilizatório).</p>
+
+<h3>Renúncia e transação</h3>
+
+<p>A <strong>renúncia</strong> é ato unilateral pelo qual o titular de um direito dele se despoja. No Direito do Trabalho, a regra é a irrenunciabilidade: o empregado não pode renunciar a direitos trabalhistas durante a vigência do contrato (por estar em situação de subordinação). Exceções admitidas: renúncia perante o juízo (em audiência) e situações expressamente previstas em lei. A <strong>transação</strong> é ato bilateral de concessões recíprocas para prevenir ou encerrar litígio (art. 840, CC). É admitida no Direito do Trabalho em duas situações: em juízo (homologação judicial) e extrajudicialmente, no âmbito da negociação coletiva. A reforma trabalhista introduziu a possibilidade de <strong>acordo extrajudicial</strong> homologado pela Justiça do Trabalho (arts. 855-B a 855-E, CLT).</p>
+
+<h3>Reforma Trabalhista (Lei 13.467/2017)</h3>
+
+<p>A Lei 13.467/2017 promoveu a mais ampla reforma da CLT desde sua criação em 1943. As principais alterações incluem: (i) prevalência do negociado sobre o legislado (arts. 611-A e 611-B); (ii) regulamentação do trabalho intermitente (art. 443, §3º, e art. 452-A); (iii) fim da contribuição sindical obrigatória (art. 579 — caráter facultativo); (iv) restrição do acesso à justiça gratuita e introdução de honorários de sucumbência na Justiça do Trabalho (arts. 790-B e 791-A); (v) dispensa da homologação sindical na rescisão de contrato com mais de um ano (revogação do §1º do art. 477); (vi) acordo individual para jornada 12×36 (art. 59-A); e (vii) teletrabalho (arts. 75-A a 75-E).</p>
+
+<div class="destaque">
+<p><strong>Negociado sobre legislado (art. 611-A, CLT):</strong> a convenção coletiva e o acordo coletivo têm prevalência sobre a lei em matérias como jornada de trabalho, banco de horas, intervalo intrajornada (mínimo de 30 minutos), teletrabalho, regime de sobreaviso, remuneração por produtividade, PLR, troca de dia de feriado, entre outras. Já o art. 611-B lista os direitos que <strong>não</strong> podem ser suprimidos por negociação: FGTS, salário mínimo, 13º salário, férias proporcionais, normas de saúde e segurança, licença-maternidade (120 dias), aviso prévio proporcional, entre outros. Essa distinção entre o "negociável" e o "inegociável" é recorrente em provas.</p>
+</div>
+
+<h3>Organização e competência da Justiça do Trabalho</h3>
+
+<p>A Justiça do Trabalho é composta pelo <strong>Tribunal Superior do Trabalho</strong> (TST — 27 ministros), pelos <strong>Tribunais Regionais do Trabalho</strong> (TRT — 24 tribunais, um por Estado, sendo que alguns Estados compartilham TRTs — TRT-14 (RO e AC), TRT-8 (PA e AP), TRT-11 (AM e RR) e TRT-10 (DF e TO)) e pelas <strong>Varas do Trabalho</strong> (juízes do trabalho — primeira instância). O TST é composto por 27 ministros, nomeados pelo Presidente da República após aprovação do Senado: um quinto proveniente de advogados e membros do MPT (regra do quinto constitucional — art. 111-A, I, CF), e os demais dentre juízes dos TRT.</p>
+
+<p>A EC 45/2004 ampliou significativamente a competência da Justiça do Trabalho (art. 114, CF), que passou a abranger: (I) ações oriundas da <strong>relação de trabalho</strong> (não apenas da relação de emprego); (II) ações sobre exercício do <strong>direito de greve</strong>; (III) ações sobre <strong>representação sindical</strong>; (IV) <strong>mandados de segurança, habeas corpus e habeas data</strong> quando o ato questionado envolver matéria trabalhista; (VI) ações de <strong>indenização por dano moral ou patrimonial</strong> decorrentes da relação de trabalho; (VII) ações relativas às <strong>penalidades administrativas</strong> impostas por órgãos de fiscalização do trabalho; e (IX) outras controvérsias decorrentes da relação de trabalho, na forma da lei.</p>
+
+<p>A ADI 3.395 (julgada pelo STF em 2020) estabeleceu que a competência do art. 114, I, <strong>não abrange</strong> as causas entre o Poder Público e servidores vinculados por <strong>relação jurídico-estatutária</strong>. Esses litígios permanecem na Justiça Comum (estadual ou federal). A Justiça do Trabalho é competente, porém, para as ações envolvendo empregados públicos (regime celetista) e contratados temporários (quando o regime é materialmente celetista).</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 7º</strong> — direitos dos trabalhadores urbanos e rurais (34 incisos). <strong>Art. 8º</strong> — organização sindical e liberdade sindical. <strong>Art. 9º</strong> — direito de greve. <strong>Art. 111 a 116</strong> — organização da Justiça do Trabalho. <strong>Art. 114</strong> (EC 45/2004) — competência da Justiça do Trabalho. <strong>Art. 111-A</strong> — composição do TST (27 ministros, quinto constitucional).</p>
+
+<h3>CLT (Consolidação das Leis do Trabalho)</h3>
+
+<p><strong>Arts. 2º-3º</strong> — definição de empregador e empregado (elementos da relação de emprego). <strong>Art. 8º</strong> — fontes do Direito do Trabalho e integração. <strong>Art. 9º</strong> — nulidade de atos praticados com fraude à legislação trabalhista. <strong>Art. 444</strong> — liberdade de estipulação contratual (reformulado pela Lei 13.467/2017). <strong>Art. 468</strong> — inalterabilidade contratual lesiva. <strong>Arts. 611-A e 611-B</strong> — negociado sobre legislado (limites). <strong>Art. 620</strong> — prevalência do acordo coletivo sobre a convenção coletiva. <strong>Arts. 791-A e 790-B</strong> — honorários de sucumbência e custas na reforma trabalhista.</p>
+
+<h3>Legislação complementar</h3>
+
+<p><strong>Lei 13.467/2017</strong> — Reforma Trabalhista. <strong>Lei 6.019/1974</strong> (com alterações da Lei 13.467/2017) — trabalho temporário e terceirização. <strong>Lei 7.783/1989</strong> — Lei de Greve.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Este ponto é a porta de entrada da disciplina e exige uma visão panorâmica. Comece pela teoria geral (conceito, princípios, fontes) e, em seguida, avance para a reforma trabalhista e a Justiça do Trabalho. Os princípios são cobrados frequentemente de forma comparativa: a banca pode pedir que o candidato explique como a reforma trabalhista impactou o princípio da norma mais favorável (resposta: o art. 611-A permite que o negociado prevaleça sobre a lei, relativizando a hierarquia protetiva tradicional).</p>
+
+<p>Sobre a Justiça do Trabalho, domine o art. 114 da CF e a ADI 3.395: essa combinação define a fronteira entre a Justiça do Trabalho e a Justiça Comum nas ações envolvendo o Poder Público. Servidor estatutário = Justiça Comum; empregado público celetista = Justiça do Trabalho. Essa distinção é central para o Procurador do Estado, que litiga em ambos os foros.</p>
+
+<p>Para a reforma trabalhista, monte um quadro mental com os arts. 611-A (negociável) e 611-B (inegociável). Na prova discursiva, uma resposta que articule a tensão entre autonomia negocial e proteção ao trabalhador, citando esses dispositivos e a jurisprudência do STF (ADI 5.766, ADPF 324), demonstra maturidade analítica.</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Negociado sobre legislado: o que pode e o que não pode.</strong> O art. 611-A elenca 15 matérias em que a convenção/acordo coletivo prevalece sobre a lei (jornada, banco de horas, intervalo intrajornada com mínimo de 30 min, teletrabalho, sobreaviso, remuneração por produtividade, enquadramento de grau de insalubridade, entre outros). O art. 611-B lista 30 direitos que constituem objeto ilícito de negociação (FGTS, salário mínimo, 13º, férias proporcionais, repouso semanal remunerado, licença-maternidade mínima de 120 dias, normas de saúde e segurança). Em prova, a pegadinha é apresentar matéria do 611-B como se fosse do 611-A, ou vice-versa.</p>
+</div>
+
+<div class="atencao">
+<p><strong>ADI 3.395 — servidores estatutários fora da Justiça do Trabalho:</strong> o STF decidiu que as causas entre o Poder Público e servidores vinculados por relação jurídico-estatutária não são da competência da Justiça do Trabalho, mesmo após a ampliação do art. 114 pela EC 45/2004. A "relação de trabalho" do inciso I do art. 114 não abrange relações estatutárias. Porém, ações envolvendo empregados públicos (regime CLT) e contratados temporários com regime materialmente celetista permanecem na Justiça do Trabalho.</p>
+</div>
+
+<div class="atencao">
+<p><strong>ADI 5.766 — honorários de sucumbência e justiça gratuita:</strong> o STF declarou inconstitucionais os dispositivos da reforma trabalhista que impunham ao beneficiário da justiça gratuita o pagamento de honorários de sucumbência e honorários periciais quando vencido. A cobrança de custas por ausência injustificada à audiência inaugural foi mantida. A ADC 80, em julgamento (2025), discute o grau de comprovação exigido para a declaração de hipossuficiência.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Terceirização de atividade-fim: lícita (Tema 725/STF e ADPF 324):</strong> o STF fixou que é lícita a terceirização em qualquer atividade empresarial, seja meio ou fim, mantida a responsabilidade subsidiária da contratante. A tese transitou em julgado em outubro de 2024. Porém, a licitude não elimina a possibilidade de fraude: se a terceirização mascara relação de emprego (com pessoalidade e subordinação direta), o vínculo pode ser reconhecido. Para a Fazenda Pública, a Súmula 331, V, do TST impõe responsabilidade subsidiária, mas condicionada à comprovação de culpa na fiscalização (Tema 246/STF — ADC 16).</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>ADI 5.766/STF — justiça gratuita na reforma trabalhista</h3>
+
+<p>O STF declarou inconstitucionais os arts. 790-B, caput e §4º, e 791-A, §4º, da CLT (com redação da Lei 13.467/2017), que estabeleciam a cobrança de honorários de sucumbência e periciais do beneficiário da justiça gratuita quando vencido. Prevaleceu o voto do Min. Alexandre de Moraes: as normas violam o direito fundamental de acesso à justiça (art. 5º, XXXV e LXXIV, CF). Foi mantida a constitucionalidade do art. 844, §2º (cobrança de custas por ausência à audiência, salvo justificativa em 15 dias).</p>
+
+<h3>ADC 80/STF (2025) — hipossuficiência e justiça gratuita trabalhista</h3>
+
+<p>Em julgamento iniciado em junho de 2025, o STF discute o grau de comprovação necessário para a declaração de hipossuficiência e a concessão de justiça gratuita na Justiça do Trabalho. O relator, Min. Edson Fachin, votou pela constitucionalidade das alterações da reforma trabalhista quanto aos critérios de comprovação (art. 790, §§3º e 4º, CLT). Julgamento suspenso, sem definição final.</p>
+
+<h3>ADPF 324 e RE 958.252 (Tema 725/STF) — terceirização</h3>
+
+<p>O STF fixou a tese: "é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante." Trânsito em julgado em outubro de 2024. A decisão superou a distinção entre atividade-meio e atividade-fim que a Justiça do Trabalho aplicava historicamente (antiga Súmula 331, I e III, TST).</p>
+
+<h3>ADI 3.395/STF — competência da Justiça do Trabalho e servidores estatutários</h3>
+
+<p>Julgada em abril de 2020. Tese: "o disposto no art. 114, I, da CF não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária." Servidores estatutários litigam na Justiça Comum; empregados públicos celetistas, na Justiça do Trabalho. A decisão é vinculante e resolve o conflito de competência que surgiu após a EC 45/2004.</p>
+
+<h3>ADC 16/STF (Tema 246) — responsabilidade subsidiária da Administração Pública</h3>
+
+<p>O STF declarou constitucional o art. 71, §1º, da Lei 8.666/1993 (atual art. 121, §1º, da Lei 14.133/2021), que afasta a responsabilidade automática da Administração por encargos trabalhistas de terceirizados. Contudo, a responsabilidade subsidiária pode ser reconhecida quando comprovada <strong>culpa in vigilando</strong> — falha na fiscalização do contrato de terceirização. A Súmula 331, V, do TST foi adaptada a esse entendimento.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Princípios do Direito do Trabalho e impacto da reforma</h3>
+
+<table>
+<tr>
+<th>Princípio</th>
+<th>Conteúdo</th>
+<th>Impacto da Lei 13.467/2017</th>
+</tr>
+<tr>
+<td>Proteção</td>
+<td>Compensação jurídica da desigualdade econômica</td>
+<td>Relativizado pelo negociado sobre legislado (art. 611-A)</td>
+</tr>
+<tr>
+<td>Norma mais favorável</td>
+<td>Aplica-se a norma mais benéfica ao trabalhador</td>
+<td>Acordo coletivo prevalece sobre convenção (art. 620); negociado prevalece sobre lei (art. 611-A)</td>
+</tr>
+<tr>
+<td>Condição mais benéfica</td>
+<td>Vantagens adquiridas não podem ser suprimidas</td>
+<td>Ultratividade das normas coletivas vedada (art. 614, §3º)</td>
+</tr>
+<tr>
+<td>Primazia da realidade</td>
+<td>Realidade prevalece sobre documentos formais</td>
+<td>Mantido integralmente</td>
+</tr>
+<tr>
+<td>Irrenunciabilidade</td>
+<td>Direitos trabalhistas são indisponíveis</td>
+<td>Distingue direitos absolutamente indisponíveis (611-B) e relativamente indisponíveis (611-A)</td>
+</tr>
+<tr>
+<td>Continuidade</td>
+<td>Presume-se contrato por prazo indeterminado</td>
+<td>Criação do trabalho intermitente (art. 443, §3º)</td>
+</tr>
+</table>
+
+<h3>Competência da Justiça do Trabalho (art. 114, CF)</h3>
+
+<table>
+<tr>
+<th>Inciso</th>
+<th>Matéria</th>
+<th>Observação</th>
+</tr>
+<tr>
+<td>I</td>
+<td>Ações oriundas da relação de trabalho</td>
+<td>Não abrange servidores estatutários (ADI 3.395)</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Ações sobre direito de greve</td>
+<td>Inclui greve no setor privado e empregados públicos</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Representação sindical</td>
+<td>Conflitos entre sindicatos e entre sindicato e trabalhadores</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Mandado de segurança, HC, HD (matéria trabalhista)</td>
+<td>Quando ato coator envolver matéria de competência da JT</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>Dano moral/patrimonial da relação de trabalho</td>
+<td>Superou a Súmula 392/TST; inclui acidente de trabalho</td>
+</tr>
+<tr>
+<td>VII</td>
+<td>Penalidades administrativas (fiscalização do trabalho)</td>
+<td>Multas do MTE, autos de infração</td>
+</tr>
+<tr>
+<td>IX</td>
+<td>Outras controvérsias da relação de trabalho</td>
+<td>Cláusula residual (depende de lei)</td>
+</tr>
+</table>
+
+<h3>Fontes do Direito do Trabalho</h3>
+
+<table>
+<tr>
+<th>Tipo</th>
+<th>Fontes</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td>Heterônomas (impostas por terceiro)</td>
+<td>CF, leis, tratados, MPs, decretos, sentenças normativas, portarias</td>
+<td>CLT, Lei 13.467/2017, Convenção OIT</td>
+</tr>
+<tr>
+<td>Autônomas (produzidas pelas partes)</td>
+<td>Convenção coletiva, acordo coletivo, usos e costumes</td>
+<td>CCT da categoria, ACT de empresa específica</td>
+</tr>
+</table>
+
+</div>

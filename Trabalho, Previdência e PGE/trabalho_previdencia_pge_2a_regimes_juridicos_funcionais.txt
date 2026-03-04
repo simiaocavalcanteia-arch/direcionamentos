@@ -1,0 +1,212 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Regimes Jurídicos Funcionais: Estatutário, Trabalhista e Contrato Temporário</h1>
+<p class="subtitulo">Ponto 2, item "a" — Regimes jurídicos funcionais: regime estatutário, regime trabalhista (CLT), contrato temporário (art. 37, IX, CF). Distinções, implicações e jurisprudência</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>O estudo dos regimes jurídicos funcionais é central para a prática da PGE/RJ: o Estado mantém servidores estatutários (regidos pelo Decreto-Lei 220/1975), empregados públicos celetistas (em empresas estatais e, após a ADI 2.135, potencialmente na administração direta) e contratados temporários (art. 37, IX, CF). Cada regime gera consequências distintas em matéria de direitos, competência jurisdicional, previdência, estabilidade e forma de desligamento. O Procurador precisa transitar entre esses três universos com segurança.</p>
+
+<p>A ADI 2.135 (novembro de 2024) — já tratada no Ponto 1b — reabriu a possibilidade de coexistência dos regimes estatutário e celetista na administração direta, autárquica e fundacional. Essa decisão torna ainda mais relevante o domínio das diferenças entre os regimes. O contrato temporário, por sua vez, é frequente fonte de litígio: a contratação irregular (sem observância dos requisitos constitucionais) gera ações trabalhistas e administrativas em que a PGE atua como defensora do Estado.</p>
+
+<p>Este ponto conecta-se com a classificação dos agentes públicos (Ponto 1b), com a competência da Justiça do Trabalho (Ponto 1a — ADI 3.395, Tema 1.143), com cargos e empregos públicos (Ponto 4a) e com a terceirização (Ponto 2b).</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Regime estatutário</h3>
+
+<p>O regime estatutário é o vínculo jurídico-legal que une o servidor ao Estado: os direitos e deveres do servidor decorrem de lei (estatuto), não de contrato. A relação é <strong>unilateral</strong> — o Estado pode alterar o estatuto por lei, e essas alterações se aplicam automaticamente aos servidores, desde que respeitados os direitos adquiridos e o ato jurídico perfeito. O servidor estatutário ocupa <strong>cargo público</strong>, criado por lei, com denominação, remuneração e atribuições definidas.</p>
+
+<p>No âmbito federal, o estatuto é a Lei 8.112/1990. No Estado do Rio de Janeiro, é o <strong>Decreto-Lei 220/1975</strong> (Estatuto dos Funcionários Públicos Civis do ERJ), regulamentado pelo Decreto 2.479/1979. As principais características do regime estatutário são: (i) ingresso por concurso público de provas ou de provas e títulos; (ii) <strong>estabilidade</strong> após três anos de efetivo exercício e aprovação em avaliação de desempenho (art. 41, CF); (iii) perda do cargo apenas por sentença judicial transitada em julgado, PAD ou avaliação periódica de desempenho (art. 41, §1º); (iv) vinculação ao <strong>RPPS</strong> (Regime Próprio de Previdência Social); (v) competência da <strong>Justiça Comum</strong> para litígios (ADI 3.395).</p>
+
+<h3>Regime trabalhista (celetista)</h3>
+
+<p>No regime celetista, o vínculo entre o agente público e o Estado é <strong>contratual</strong>, regido pela CLT. O agente ocupa <strong>emprego público</strong> (não cargo). A relação é bilateral: os termos do contrato de trabalho vinculam ambas as partes e não podem ser alterados unilateralmente em prejuízo do empregado (art. 468, CLT). Esse regime é o padrão para as <strong>empresas estatais</strong> (art. 173, §1º, II, CF) e pode ser adotado também pela administração direta, autárquica e fundacional, após a decisão do STF na ADI 2.135.</p>
+
+<p>As principais diferenças em relação ao regime estatutário: (i) o empregado público não tem estabilidade do art. 41, CF (mas sua dispensa deve ser <strong>motivada</strong> — RE 589.998); (ii) vincula-se ao <strong>RGPS</strong> (Regime Geral de Previdência Social — INSS); (iii) tem direito ao <strong>FGTS</strong>; (iv) litiga, em regra, na <strong>Justiça do Trabalho</strong> (exceto para pretensões de natureza administrativa — Tema 1.143/STF); (v) submete-se às normas da CLT, incluindo as alterações da reforma trabalhista.</p>
+
+<h3>Contrato temporário (art. 37, IX, CF)</h3>
+
+<p>O art. 37, IX, da CF autoriza a contratação por tempo determinado para atender a <strong>necessidade temporária de excepcional interesse público</strong>. A regulamentação é feita por lei de cada ente federativo (no âmbito federal, a Lei 8.745/1993). O regime do contratado temporário é <strong>jurídico-administrativo especial</strong>: não é estatutário (não ocupa cargo) nem celetista (não tem contrato de trabalho regido pela CLT), embora a jurisprudência reconheça a aplicação analógica de certos direitos trabalhistas (como FGTS e seguro-desemprego, em caso de contratação irregular).</p>
+
+<p>O STF, no Tema 612 (RE 658.026), firmou os requisitos constitucionais para a validade da contratação temporária: (i) previsão dos casos excepcionais em <strong>lei</strong>; (ii) <strong>prazo predeterminado</strong>; (iii) necessidade <strong>temporária</strong> (não permanente); (iv) interesse público <strong>excepcional</strong> (não ordinário); (v) indispensabilidade da contratação (vedada para serviços ordinários permanentes do Estado). A contratação temporária para atividades regulares e permanentes é inconstitucional, por configurar fraude ao princípio do concurso público.</p>
+
+<div class="destaque">
+<p><strong>Competência jurisdicional do contratado temporário:</strong> o STF decidiu, na ADI 3.395 e em precedentes subsequentes, que os litígios envolvendo contratados temporários com vínculo jurídico-administrativo são da competência da <strong>Justiça Comum</strong>, não da Justiça do Trabalho. A razão: o contrato temporário do art. 37, IX, é de natureza administrativa, não trabalhista. Porém, quando a contratação é irregular (fraudulenta, sem lei autorizadora), parte da jurisprudência reconhece a competência da Justiça do Trabalho para reconhecer o vínculo empregatício.</p>
+</div>
+
+<h3>Direitos do contratado temporário</h3>
+
+<p>O contratado temporário não tem os mesmos direitos do servidor estatutário (não tem estabilidade, não tem direito a licenças e vantagens estatutárias) nem do empregado celetista (não tem FGTS nem seguro-desemprego, em regra). Seus direitos são os previstos na lei que autoriza a contratação. Contudo, a CF garante a extensão de certos <strong>direitos sociais</strong> (art. 7º, aplicável aos servidores por força do art. 39, §3º): remuneração não inferior ao mínimo, décimo terceiro salário, repouso semanal remunerado, férias com acréscimo de 1/3, licença-maternidade, licença-paternidade, entre outros.</p>
+
+<p>Quando a contratação temporária é declarada <strong>nula</strong> (por ausência de requisitos constitucionais), o contratado faz jus ao pagamento das verbas remuneratórias pelo trabalho efetivamente prestado (vedação do enriquecimento sem causa) e ao depósito do FGTS referente ao período trabalhado (art. 19-A da Lei 8.036/1990, incluído pela Lei 13.467/2017), conforme entendimento consolidado na Súmula 363/TST.</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 37, II</strong> — concurso público como regra para provimento de cargos e empregos. <strong>Art. 37, IX</strong> — contratação temporária para necessidade temporária de excepcional interesse público. <strong>Art. 39</strong> — regime jurídico dos servidores (EC 19/1998, validada pela ADI 2.135). <strong>Art. 41</strong> — estabilidade (três anos + avaliação). <strong>Art. 173, §1º, II</strong> — regime de pessoal das estatais (CLT).</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><strong>Decreto-Lei 220/1975</strong> — Estatuto dos Funcionários Públicos Civis do Estado do Rio de Janeiro. <strong>Decreto 2.479/1979</strong> — Regulamento do Estatuto. <strong>Lei 8.112/1990</strong> — Estatuto dos Servidores Públicos Federais. <strong>Lei 8.745/1993</strong> — contratação temporária no âmbito federal. <strong>CLT</strong> — regime dos empregados públicos.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Monte um quadro comparativo entre os três regimes (estatutário, celetista e temporário) com os seguintes critérios: natureza do vínculo, instrumento normativo, ingresso, estabilidade, previdência, FGTS, competência jurisdicional e forma de desligamento. Esse quadro — incluído ao final deste guia — serve tanto para revisão quanto como esqueleto de resposta em prova discursiva.</p>
+
+<p>O contrato temporário é o tema com maior potencial de cobrança neste ponto, pois envolve tensão entre a necessidade da Administração e o princípio do concurso público. A banca pode apresentar situação prática (contratação temporária para atividade permanente) e pedir que o candidato analise a constitucionalidade. A resposta deve percorrer: (1) art. 37, IX, CF; (2) requisitos do Tema 612/STF; (3) consequências da nulidade (Súmula 363/TST, FGTS); (4) competência jurisdicional.</p>
+
+<p>Conheça o Decreto-Lei 220/1975: como Procurador do Estado do RJ, você lidará diariamente com o estatuto dos servidores fluminenses. Não é preciso decorá-lo integralmente, mas convém saber sua estrutura básica (provimento, estabilidade, direitos, deveres, regime disciplinar).</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Contratação temporária para atividade permanente: inconstitucional.</strong> O STF é categórico (Tema 612): a contratação temporária não pode ser utilizada para suprir necessidades permanentes e previsíveis da Administração. Exemplos declarados inconstitucionais: contratação temporária de professores para a rede regular de ensino, agentes penitenciários para sistema prisional em funcionamento ordinário, profissionais de saúde para unidades hospitalares em operação normal. A perpetuação de contratações temporárias evidencia inércia administrativa na realização de concurso público.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Contrato temporário nulo — direitos do contratado:</strong> quando a contratação temporária é declarada nula (por não atender aos requisitos constitucionais), o contratado tem direito ao pagamento pelos serviços efetivamente prestados (vedação do enriquecimento sem causa), ao FGTS do período (art. 19-A da Lei 8.036/1990) e aos demais direitos constitucionais do art. 7º da CF que sejam compatíveis. Não tem direito, porém, a verbas tipicamente estatutárias (como anuênio, licença-prêmio) nem a direitos celetistas que pressuponham contrato válido (como aviso prévio e multa de 40% do FGTS).</p>
+</div>
+
+<div class="atencao">
+<p><strong>ADI 2.135 e a coexistência de regimes:</strong> com a decisão do STF (novembro de 2024) que validou a EC 19/1998, os entes federativos podem adotar simultaneamente regime estatutário e regime celetista. Porém, a escolha do regime deve ser feita por lei; não pode haver transmutação unilateral de regime de servidores já admitidos; e carreiras com regime constitucional próprio (Procuradores, magistrados, MP) permanecem necessariamente estatutárias. O candidato deve evitar confundir a "flexibilidade de regimes" com "livre escolha pelo gestor" — é a lei que define qual regime se aplica a cada categoria.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Competência jurisdicional: cada regime, um foro.</strong> Servidor estatutário → Justiça Comum (ADI 3.395). Empregado público celetista → Justiça do Trabalho (regra), mas Justiça Comum para pretensões de natureza administrativa (Tema 1.143). Contratado temporário com vínculo administrativo → Justiça Comum. Contratação temporária irregular (fraude) → Justiça do Trabalho pode reconhecer vínculo empregatício. Essa variação é frequente em provas e exige atenção do candidato.</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Tema 612/STF (RE 658.026) — contratação temporária</h3>
+
+<p>O STF fixou que a contratação temporária (art. 37, IX, CF) exige cumulativamente: (i) previsão em lei dos casos excepcionais; (ii) prazo predeterminado; (iii) necessidade temporária; (iv) excepcionalidade do interesse público; (v) indispensabilidade da contratação. A utilização de contratação temporária para atividades regulares e permanentes do Estado é inconstitucional, por violação ao princípio do concurso público (art. 37, II).</p>
+
+<h3>ADI 2.135/STF (2024) — fim do regime jurídico único obrigatório</h3>
+
+<p>O STF declarou improcedente a ADI e validou a EC 19/1998, permitindo a coexistência de regimes estatutário e celetista na administração direta, autárquica e fundacional. Modulação: vedada a transmutação de regime de servidores já admitidos; carreiras de Estado com previsão constitucional permanecem estatutárias. A decisão abre caminho para que o Estado do RJ adote o regime celetista para certas categorias, mediante lei.</p>
+
+<h3>ADI 3.395/STF (2020) — competência e servidores estatutários</h3>
+
+<p>Causas entre o Poder Público e servidores com vínculo jurídico-estatutário são da competência da Justiça Comum, não da Justiça do Trabalho. A "relação de trabalho" do art. 114, I, CF, não abrange relações estatutárias. O entendimento estende-se aos contratados temporários com regime jurídico-administrativo.</p>
+
+<h3>Súmula 363/TST — contratação nula pela Administração Pública</h3>
+
+<p>"A contratação de servidor público, após a CF/1988, sem prévia aprovação em concurso público, encontra óbice no respectivo art. 37, II e §2º, somente lhe conferindo direito ao pagamento da contraprestação pactuada, em relação ao número de horas trabalhadas, respeitado o valor da hora do salário mínimo, e dos valores referentes aos depósitos do FGTS." A súmula fixa o piso de direitos do contratado em caso de nulidade.</p>
+
+<h3>Decisões recentes (2024) — contratação temporária para sistema penitenciário e educação</h3>
+
+<p>O STF derrubou leis estaduais que autorizavam contratação temporária de agentes penitenciários e professores para atividades permanentes. A Corte reafirmou que a contratação temporária é exceção, não alternativa ao concurso público. A perpetuação de temporários por anos evidencia fraude à Constituição, e o Estado pode ser condenado ao pagamento de direitos trabalhistas aos contratados irregulares.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparação entre os três regimes funcionais</h3>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Estatutário</th>
+<th>Celetista (CLT)</th>
+<th>Temporário (art. 37, IX)</th>
+</tr>
+<tr>
+<td>Natureza do vínculo</td>
+<td>Legal (unilateral — lei/estatuto)</td>
+<td>Contratual (bilateral — CLT)</td>
+<td>Administrativo especial (lei própria)</td>
+</tr>
+<tr>
+<td>Posição ocupada</td>
+<td>Cargo público</td>
+<td>Emprego público</td>
+<td>Função temporária</td>
+</tr>
+<tr>
+<td>Ingresso</td>
+<td>Concurso público</td>
+<td>Concurso público</td>
+<td>Processo seletivo simplificado</td>
+</tr>
+<tr>
+<td>Estabilidade</td>
+<td>Sim (art. 41 — 3 anos)</td>
+<td>Não (dispensa motivada — RE 589.998)</td>
+<td>Não (prazo determinado)</td>
+</tr>
+<tr>
+<td>Previdência</td>
+<td>RPPS</td>
+<td>RGPS (INSS)</td>
+<td>RGPS (em regra)</td>
+</tr>
+<tr>
+<td>FGTS</td>
+<td>Não</td>
+<td>Sim</td>
+<td>Não (salvo contratação nula — Súmula 363/TST)</td>
+</tr>
+<tr>
+<td>Competência jurisdicional</td>
+<td>Justiça Comum (ADI 3.395)</td>
+<td>Justiça do Trabalho (regra) / Justiça Comum (Tema 1.143)</td>
+<td>Justiça Comum (vínculo administrativo)</td>
+</tr>
+<tr>
+<td>Desligamento</td>
+<td>PAD, sentença judicial ou avaliação periódica</td>
+<td>Dispensa motivada</td>
+<td>Término do prazo ou rescisão antecipada</td>
+</tr>
+<tr>
+<td>Base normativa (RJ)</td>
+<td>DL 220/1975</td>
+<td>CLT + lei estadual</td>
+<td>Lei estadual específica</td>
+</tr>
+</table>
+
+<h3>Requisitos da contratação temporária (Tema 612/STF)</h3>
+
+<table>
+<tr>
+<th>Requisito</th>
+<th>Descrição</th>
+<th>Consequência do descumprimento</th>
+</tr>
+<tr>
+<td>Previsão legal</td>
+<td>Casos excepcionais devem estar previstos em lei</td>
+<td>Nulidade da contratação</td>
+</tr>
+<tr>
+<td>Prazo predeterminado</td>
+<td>O contrato deve ter prazo certo e limitado</td>
+<td>Nulidade; equiparação a vínculo permanente</td>
+</tr>
+<tr>
+<td>Necessidade temporária</td>
+<td>A situação deve ser transitória, não permanente</td>
+<td>Inconstitucionalidade da lei autorizadora</td>
+</tr>
+<tr>
+<td>Excepcionalidade</td>
+<td>O interesse público deve ser excepcional, não ordinário</td>
+<td>Fraude ao concurso público (art. 37, II)</td>
+</tr>
+<tr>
+<td>Indispensabilidade</td>
+<td>A contratação deve ser o único meio viável</td>
+<td>Condenação ao pagamento de direitos trabalhistas</td>
+</tr>
+</table>
+
+</div>

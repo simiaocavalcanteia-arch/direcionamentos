@@ -1,0 +1,264 @@
+<div class="container">
+
+<span class="badge">Relações de Trabalho e Previdência | PGE/RJ</span>
+<h1>Coisa Julgada Trabalhista, Ação Rescisória, Mandado de Segurança, ACP e Tutelas de Urgência</h1>
+<p class="subtitulo">Ponto 10, item "a" — Coisa julgada formal e material da sentença trabalhista. Acordos. Ação Rescisória. Mandado de segurança e ação civil pública no Direito do Trabalho. Ações Coletivas. Ações Especiais. Habeas corpus. Medidas judiciais preventivas. Tutela antecipada</p>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este é um dos pontos mais extensos do edital na disciplina de Relações de Trabalho, reunindo institutos processuais que normalmente ocupariam vários capítulos de um manual. A coisa julgada trabalhista e a ação rescisória tocam o problema da estabilidade das decisões judiciais; o mandado de segurança e a ação civil pública no Direito do Trabalho representam ações constitucionais com aplicação específica na Justiça laboral; e as tutelas de urgência envolvem a tensão entre efetividade da jurisdição e as restrições à concessão de medidas contra a Fazenda Pública.</p>
+
+<p>Para o Procurador do Estado, o domínio desses institutos é operacional: a PGE atua na defesa do Estado em reclamações trabalhistas e precisa manejar a ação rescisória quando decisões desfavoráveis transitam em julgado com vícios, enfrenta mandados de segurança impetrados contra atos administrativos com reflexos trabalhistas, e lida com ações civis públicas propostas pelo Ministério Público do Trabalho contra entes estatais. A banca da PGE/RJ tende a cobrar o entendimento atualizado sobre esses instrumentos, com atenção especial às peculiaridades da Fazenda Pública como parte no processo do trabalho.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Coisa julgada formal e material na sentença trabalhista</h3>
+
+<p>A coisa julgada formal é a imutabilidade da decisão dentro do processo em que foi proferida, decorrente do esgotamento dos recursos cabíveis ou do transcurso do prazo para sua interposição. Toda sentença, inclusive a terminativa (sem resolução de mérito), faz coisa julgada formal. Já a coisa julgada material é a imutabilidade do conteúdo da decisão que projeta efeitos para fora do processo, impedindo que a mesma questão seja rediscutida em nova demanda. Somente a sentença de mérito (definitiva) produz coisa julgada material.</p>
+
+<p>No processo do trabalho, a coisa julgada segue as regras gerais do CPC (arts. 502-508), aplicáveis subsidiariamente por força do art. 769 da CLT. A sentença trabalhista que julga o mérito tem eficácia de lei entre as partes (art. 503 do CPC). Os limites objetivos da coisa julgada são definidos pelo pedido e pela causa de pedir, enquanto os limites subjetivos alcançam apenas as partes do processo — com exceções nas ações coletivas, onde a coisa julgada pode ter eficácia <em>erga omnes</em> ou <em>ultra partes</em>.</p>
+
+<p>Uma peculiaridade do processo trabalhista diz respeito à <strong>sentença homologatória de acordo</strong>: conforme o art. 831, parágrafo único, da CLT, a decisão que homologa o acordo é irrecorrível, salvo para a Previdência Social quanto às contribuições previdenciárias. A coisa julgada formada pela homologação do acordo tem natureza material e impede a rediscussão dos termos transacionados, exceto por ação rescisória.</p>
+
+<h3>Acordos no processo do trabalho</h3>
+
+<p>A conciliação é princípio estruturante do processo trabalhista. A CLT prevê duas tentativas obrigatórias de conciliação: uma na abertura da audiência (art. 846) e outra após as razões finais (art. 850). A ausência dessas tentativas pode gerar nulidade processual.</p>
+
+<p>A Reforma Trabalhista (Lei 13.467/2017) introduziu os arts. 855-B a 855-E na CLT, criando o procedimento de <strong>homologação de acordo extrajudicial</strong>. O processo é iniciado por petição conjunta das partes, que devem estar representadas por advogados distintos (vedada a constituição de advogado comum). O juiz tem 15 dias para analisar o acordo (art. 855-D) e não está obrigado a homologá-lo — cabe-lhe verificar se os requisitos de validade estão presentes e se não há fraude ou renúncia indevida a direitos trabalhistas. Se a homologação for negada, a suspensão do prazo prescricional (que corre durante a tramitação do pedido) cessa no dia útil seguinte ao trânsito em julgado da decisão denegatória (art. 855-E).</p>
+
+<p>A <strong>Resolução 586/2024 do CNJ</strong> trouxe inovação relevante: regulamentou a homologação de acordos extrajudiciais na Justiça do Trabalho com efeito de quitação ampla, geral e irrevogável. Para que o acordo tenha essa eficácia, exige-se previsão expressa da quitação, assistência por advogados distintos (ou sindicato), inexistência de vícios de vontade e, nos primeiros seis meses de vigência, valor superior a 40 salários mínimos. A resolução veda a homologação parcial dos acordos.</p>
+
+<div class="destaque">
+<p><strong>Ponto sensível para a PGE:</strong> acordos envolvendo a Fazenda Pública em reclamações trabalhistas exigem autorização do Procurador-Geral ou de quem tenha competência delegada. Além disso, o pagamento decorrente de acordo homologado segue as regras de precatório/RPV (art. 100 CF), não podendo ser realizado por pagamento direto — o que torna a conciliação trabalhista com entes públicos menos ágil do que com empregadores privados.</p>
+</div>
+
+<h3>Ação Rescisória trabalhista</h3>
+
+<p>A ação rescisória no processo do trabalho visa desconstituir sentença de mérito transitada em julgado. A competência originária é do TRT (quando a decisão rescindenda for de Vara do Trabalho ou do próprio TRT) ou do TST (quando a decisão rescindenda for do TST). O prazo decadencial é de dois anos contados do trânsito em julgado (art. 975 do CPC), aplicável ao processo do trabalho por subsidiariamente.</p>
+
+<p>As hipóteses de cabimento estão no art. 966 do CPC, sendo as mais relevantes para a prática da advocacia pública: violação manifesta de norma jurídica (inciso V), decisão fundada em prova cuja falsidade tenha sido apurada (inciso VI), obtenção de prova nova cuja existência era ignorada ou de utilização impossível (inciso VII), e erro de fato verificável do exame dos autos (inciso VIII).</p>
+
+<p>O art. 836 da CLT impõe requisito específico: o depósito prévio de 20% do valor da causa. Esse depósito funciona como cautela contra rescisórias temerárias. A Fazenda Pública está isenta desse depósito, conforme o art. 968, §1º, do CPC c/c o art. 1º-A do DL 779/1969 (que isenta a Fazenda de depósitos processuais).</p>
+
+<div class="destaque">
+<p><strong>Súmula 298 do TST:</strong> a conclusão sobre violação literal de norma jurídica pressupõe pronunciamento explícito na decisão rescindenda sobre a matéria. Porém, o pronunciamento explícito refere-se à matéria e ao enfoque da tese debatida, não necessariamente ao dispositivo legal tido por violado — basta que o conteúdo da norma tenha sido abordado. Exceção importante: se a decisão rescindenda foi omissa e a parte não opôs embargos de declaração, não cabe rescisória por violação de norma (a parte deve ter provocado o pronunciamento).</p>
+</div>
+
+<h3>Mandado de segurança no Direito do Trabalho</h3>
+
+<p>O mandado de segurança na Justiça do Trabalho tem competência definida pela EC 45/2004, que ampliou a jurisdição trabalhista para processar e julgar "os mandados de segurança, <em>habeas corpus</em> e <em>habeas data</em>, quando o ato questionado envolver matéria sujeita à sua jurisdição" (art. 114, IV, CF). A Lei 12.016/2009 (Lei do Mandado de Segurança) é aplicável integralmente na Justiça do Trabalho.</p>
+
+<p>O MS trabalhista pode ser impetrado contra ato de juiz do trabalho (caso em que a competência é do TRT) ou contra ato de autoridade administrativa que tenha reflexos em relações de trabalho (caso em que a competência pode ser da Vara do Trabalho ou do TRT, conforme a hierarquia da autoridade coatora). Hipóteses frequentes: impetração contra penhora indevida em execução trabalhista, contra decisão que nega tutela de urgência, contra ato de licitação que impõe condições ilegais aos trabalhadores terceirizados.</p>
+
+<p>O <strong>mandado de segurança coletivo</strong> pode ser impetrado por sindicatos na Justiça do Trabalho, com fundamento no art. 5º, LXX, "b", da CF, em defesa dos interesses de seus membros ou associados. A legitimidade é extraordinária (substituição processual), e a coisa julgada opera <em>ultra partes</em>, beneficiando todos os membros da categoria.</p>
+
+<p>Restrições ao MS: não cabe contra ato judicial passível de recurso com efeito suspensivo (art. 5º, II, Lei 12.016/2009); não cabe contra decisão transitada em julgado (Súmula 268 do STF). A OJ 92 da SDI-II do TST fixa que não cabe mandado de segurança contra decisão judicial transitada em julgado.</p>
+
+<h3>Ação civil pública no Direito do Trabalho</h3>
+
+<p>A ação civil pública trabalhista (Lei 7.347/1985 c/c art. 83, III, da LC 75/1993) é o instrumento processual para a tutela de interesses difusos, coletivos e individuais homogêneos nas relações de trabalho. O Ministério Público do Trabalho (MPT) é o principal legitimado, mas sindicatos também podem propô-la.</p>
+
+<p>Para a PGE, a ACP trabalhista é relevante em duas perspectivas: como ré (quando o MPT propõe ACP contra o Estado por irregularidades nas relações de trabalho — terceirização ilícita, descumprimento de normas de saúde e segurança, trabalho análogo ao escravo em entes estaduais) e como fiscal (quando a ACP envolve políticas públicas de emprego ou formação profissional). A competência é da Vara do Trabalho do local onde ocorreu a lesão (art. 2º da Lei 7.347/1985).</p>
+
+<p>A coisa julgada na ACP trabalhista segue o regime do art. 103 do CDC (aplicável por força do art. 21 da Lei 7.347/1985): se a ação for julgada procedente, a coisa julgada é <em>erga omnes</em>; se for julgada improcedente por insuficiência de provas, qualquer legitimado pode repropor com nova prova; se for julgada improcedente por outros fundamentos, a coisa julgada é <em>erga omnes</em> e impede nova propositura.</p>
+
+<h3>Ações coletivas e ações especiais</h3>
+
+<p>Além da ACP, o sistema de tutela coletiva trabalhista compreende o mandado de segurança coletivo (já mencionado), a ação de cumprimento de sentença normativa (art. 872 da CLT) e o dissídio coletivo propriamente dito. A ação anulatória de cláusula de convenção ou acordo coletivo (art. 83, IV, LC 75/1993) é outra ação especial relevante, de competência originária do TRT.</p>
+
+<p>O <strong>inquérito para apuração de falta grave</strong> (art. 853 da CLT) é uma ação especial cabível para a despedida de empregado estável (estabilidade decenal, dirigente sindical, membro da CIPA, gestante com estabilidade provisória). O empregador deve provar a falta grave em juízo, e a sentença tem natureza constitutiva negativa (autoriza ou nega a despedida). Para a Fazenda Pública, o instituto tem aplicação limitada, mas pode ser relevante nos casos de empregados públicos celetistas com estabilidade sindical ou outros.</p>
+
+<h3>Habeas corpus na Justiça do Trabalho</h3>
+
+<p>A competência da Justiça do Trabalho para julgar <em>habeas corpus</em> decorre do art. 114, IV, da CF (com redação da EC 45/2004), limitada às hipóteses em que o ato coator envolva matéria sujeita à jurisdição trabalhista. A aplicação prática reduziu-se drasticamente após a <strong>Súmula Vinculante 25 do STF</strong>, que declarou ilícita a prisão civil do depositário infiel — o que eliminou a principal hipótese de <em>habeas corpus</em> trabalhista (prisão do depositário que não restituía bens penhorados em execução trabalhista).</p>
+
+<p>Remanescem hipóteses residuais: <em>habeas corpus</em> contra ameaça de prisão por descumprimento de ordem judicial trabalhista (com base no art. 77, IV, do CPC — ato atentatório à dignidade da justiça), embora a jurisprudência seja restritiva. Na prática atual, o <em>habeas corpus</em> trabalhista é raro.</p>
+
+<h3>Tutela antecipada e medidas preventivas</h3>
+
+<p>A tutela provisória no processo do trabalho segue o regime geral do CPC (arts. 294-311), aplicável subsidiariamente. A CLT não possui disciplina própria sobre tutela antecipada, de modo que os arts. 300 e seguintes do CPC regulam a matéria: exigem-se probabilidade do direito e perigo de dano ou risco ao resultado útil do processo (tutela de urgência), ou evidência do direito (tutela de evidência).</p>
+
+<p>A concessão de tutela antecipada <strong>contra a Fazenda Pública</strong> sofre restrições específicas. A Lei 9.494/1997 (art. 1º) estende à tutela antecipada as restrições da Lei 8.437/1992 aplicáveis às liminares em mandado de segurança coletivo e em ACP: é vedada a concessão de tutela antecipada contra a Fazenda Pública que esgote o objeto da ação ou que implique reclassificação ou equiparação de servidores, concessão de aumento ou extensão de vantagens. A OJ 142 da SDI-II do TST reforça que não cabe mandado de segurança para atribuir efeito suspensivo a recurso.</p>
+
+<p>Medidas judiciais preventivas incluem a tutela cautelar (arresto, sequestro, arrolamento de bens) e a produção antecipada de provas. No processo do trabalho, essas medidas podem ser requeridas de forma antecedente ou incidental, seguindo o CPC.</p>
+
+<div class="destaque">
+<p><strong>Suspensão de segurança:</strong> quando concedida liminar ou tutela antecipada contra a Fazenda Pública em matéria trabalhista, o ente público pode requerer a suspensão da medida ao presidente do tribunal competente, com fundamento no art. 4º da Lei 8.437/1992 (ou art. 15 da Lei 12.016/2009 para MS), invocando grave lesão à ordem, à saúde, à segurança ou à economia públicas. Esse instrumento é amplamente utilizado pela PGE na prática.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação processual</h3>
+
+<p><strong>CLT, arts. 831 e 846-850:</strong> conciliação no processo do trabalho. O art. 831, parágrafo único, torna a decisão homologatória de acordo irrecorrível (salvo para a Previdência quanto a contribuições). Os arts. 846 e 850 impõem as duas tentativas obrigatórias de conciliação.</p>
+
+<p><strong>CLT, arts. 855-B a 855-E:</strong> acordo extrajudicial introduzido pela Reforma Trabalhista. Petição conjunta, advogados distintos, prazo de 15 dias para análise, suspensão da prescrição durante a tramitação.</p>
+
+<p><strong>CLT, art. 836:</strong> depósito prévio de 20% do valor da causa na ação rescisória trabalhista. Fazenda Pública isenta.</p>
+
+<p><strong>CLT, art. 853:</strong> inquérito para apuração de falta grave do empregado estável. Prazo de 30 dias da suspensão do empregado para ajuizar.</p>
+
+<p><strong>CPC, arts. 502-508 (coisa julgada):</strong> aplicáveis subsidiariamente ao processo do trabalho.</p>
+
+<p><strong>CPC, arts. 966-975 (ação rescisória):</strong> hipóteses de cabimento, prazo de dois anos, procedimento.</p>
+
+<p><strong>Lei 12.016/2009:</strong> Lei do Mandado de Segurança, plenamente aplicável na Justiça do Trabalho.</p>
+
+<p><strong>Lei 7.347/1985:</strong> Lei da Ação Civil Pública. Combinada com LC 75/1993 (art. 83, III — atribuição do MPT) e CDC (art. 103 — coisa julgada nas ações coletivas).</p>
+
+<p><strong>Lei 9.494/1997, art. 1º:</strong> restrições à tutela antecipada contra a Fazenda Pública, aplicáveis ao processo do trabalho.</p>
+
+<p><strong>Resolução 586/2024 do CNJ:</strong> regulamenta homologação de acordos extrajudiciais com quitação ampla, geral e irrevogável.</p>
+
+<h3>Jurisprudência sumulada relevante</h3>
+
+<p><strong>Súmula 298 do TST:</strong> ação rescisória por violação de norma exige pronunciamento explícito sobre a matéria na decisão rescindenda (não necessariamente sobre o dispositivo legal).</p>
+
+<p><strong>Súmula 100 do TST:</strong> prazo decadencial de dois anos da ação rescisória — conta-se do trânsito em julgado da última decisão proferida na causa (item I); em execução, contra decisão do juiz da execução, conta-se do trânsito em julgado dessa decisão (item III).</p>
+
+<p><strong>OJ 92 da SDI-II do TST:</strong> não cabe mandado de segurança contra decisão judicial transitada em julgado.</p>
+
+<p><strong>Súmula Vinculante 25 do STF:</strong> é ilícita a prisão civil do depositário infiel, qualquer que seja a modalidade do depósito — eliminou a principal hipótese de <em>habeas corpus</em> trabalhista.</p>
+
+<p><strong>Súmula 268 do STF:</strong> não cabe mandado de segurança contra decisão judicial com trânsito em julgado.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Pela extensão do ponto, a estratégia é hierarquizar: a banca não terá como cobrar todos os subtemas em uma única questão discursiva de 15 linhas. Os institutos mais prováveis de serem abordados são a ação rescisória (pela sua relevância prática para a PGE), a tutela antecipada contra a Fazenda Pública (pela tensão com o princípio da efetividade) e a ACP trabalhista (por envolver diretamente a atuação da Procuradoria).</p>
+
+<p>Comece pela coisa julgada (formal vs. material, limites objetivos e subjetivos) e passe à ação rescisória — domine as hipóteses do art. 966 CPC, o prazo de dois anos, o depósito de 20% do art. 836 CLT e a isenção da Fazenda. Em seguida, estude o mandado de segurança trabalhista (competência após EC 45, restrições, MS coletivo por sindicatos) e a ACP trabalhista (legitimidade do MPT, coisa julgada coletiva). O <em>habeas corpus</em> exige pouco aprofundamento — basta saber que foi esvaziado pela SV 25.</p>
+
+<p>Para a tutela antecipada, concentre-se nas restrições da Lei 9.494/1997 e na suspensão de segurança como instrumento da PGE. Os acordos extrajudiciais (arts. 855-B a 855-E da CLT) e a Resolução 586/2024 do CNJ são temas novos que merecem atenção — a banca pode querer saber se o candidato está atualizado.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Coisa julgada da sentença homologatória de acordo:</strong> a decisão que homologa acordo é irrecorrível (art. 831, parágrafo único, CLT), mas pode ser desconstituída por ação rescisória. O prazo de dois anos conta-se do trânsito em julgado da homologação — e não da ciência de eventual vício. Pela Súmula 259 do TST, a sentença que homologa acordo entre as partes não pode ser atacada pela via do mandado de segurança, mas apenas por ação rescisória.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Depósito prévio na ação rescisória:</strong> o art. 836 da CLT exige depósito de 20% do valor da causa. A Fazenda Pública, as autarquias e as fundações públicas são isentas, pois gozam das prerrogativas do DL 779/1969 (art. 1º). Já as empresas públicas e sociedades de economia mista não possuem essa isenção automaticamente — a questão depende de seu regime jurídico e finalidade (STF, RE 580.264).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Tutela antecipada contra a Fazenda: vedações e exceções.</strong> A Lei 9.494/1997 veda tutela antecipada que esgote o objeto da ação ou que implique equiparação/reclassificação de servidores. Porém, essas vedações não são absolutas: o STF já admitiu tutela antecipada contra a Fazenda para fornecimento de medicamentos e em situações de risco à vida ou à saúde. A análise é sempre casuística, e a Fazenda pode lançar mão do pedido de suspensão de segurança como remédio processual.</p>
+</div>
+
+<div class="atencao">
+<p><strong>ACP trabalhista — legitimidade ativa e o sindicato:</strong> o sindicato pode propor ACP trabalhista como substituto processual da categoria (art. 8º, III, CF), independentemente de autorização individual dos substituídos. O STF fixou, no RE 883.642/AL (Tema 823, 2015), que o sindicato possui ampla legitimidade extraordinária para defender em juízo os direitos individuais homogêneos da categoria. Não confunda com a legitimidade do sindicato para mandado de segurança coletivo (art. 5º, LXX, CF), que tem requisitos próprios.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><strong>Coisa julgada inconstitucional — art. 525, §15, CPC:</strong> o CPC/2015 prevê que a inexigibilidade do título executivo judicial pode ser arguida quando a decisão exequenda se fundar em norma declarada inconstitucional pelo STF (em controle concentrado ou difuso). Essa regra aplica-se ao processo do trabalho (art. 884, §5º, CLT) e tem impacto direto para a Fazenda Pública, que pode invocar a inexigibilidade do título quando a decisão trabalhista se basear em norma posteriormente declarada inconstitucional.</p>
+
+<p><strong>Legitimidade ampla do sindicato — RE 883.642/AL, Tema 823 (2015):</strong> o STF fixou a tese de que os sindicatos possuem ampla legitimidade extraordinária para a defesa dos direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidação e execução de sentença, independentemente de autorização dos substituídos. Essa decisão consolidou a possibilidade de sindicatos ajuizarem ações coletivas (inclusive ACP) em nome da categoria.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><strong>AR 2.876 QO/DF — STF, Plenário, abril de 2025:</strong> decisão de grande impacto sobre a relação entre coisa julgada e decisões supervenientes do STF que declaram a inconstitucionalidade de norma. O Plenário fixou três teses fundamentais: (i) o STF pode, em cada caso, definir os efeitos temporais de seus precedentes vinculantes sobre a coisa julgada, inclusive limitando a retroação ou afastando o cabimento de rescisória; (ii) na ausência de manifestação expressa, o prazo para a rescisória é de dois anos contados do trânsito em julgado da decisão do STF, e os efeitos retroativos da rescisão não excedem cinco anos do ajuizamento da rescisória; (iii) o interessado pode arguir a inexigibilidade do título executivo fundado em norma declarada inconstitucional, salvo preclusão. Para a PGE, essa decisão é estratégica: amplia as possibilidades de rescisão de decisões trabalhistas contrárias à Fazenda quando fundadas em normas posteriormente declaradas inconstitucionais.</p>
+
+<p><strong>Resolução 586/2024 do CNJ (setembro de 2024):</strong> instituiu o regime de quitação ampla, geral e irrevogável para acordos extrajudiciais homologados na Justiça do Trabalho. A resolução veda a homologação parcial e exige assistência por advogados distintos ou sindicato. A constitucionalidade da resolução foi questionada perante o TST, com argumentos de que o CNJ teria extrapolado sua competência regulamentar ao criar efeito de quitação mais amplo do que o previsto na CLT. O debate permanece aberto.</p>
+
+<p><strong>Tema 1.232 do STF (pendente):</strong> discute a possibilidade de execução provisória de obrigação de fazer contra a Fazenda Pública — tema que se conecta diretamente com as restrições à tutela antecipada e com a efetividade das decisões trabalhistas contra entes públicos.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Instituto</th>
+<th>Base legal</th>
+<th>Competência</th>
+<th>Observação para a Fazenda</th>
+</tr>
+<tr>
+<td>Ação rescisória</td>
+<td>CPC arts. 966-975; CLT art. 836</td>
+<td>TRT ou TST (originária)</td>
+<td>Fazenda isenta do depósito de 20%</td>
+</tr>
+<tr>
+<td>Mandado de segurança</td>
+<td>CF art. 5º, LXIX-LXX; Lei 12.016/2009</td>
+<td>TRT (contra ato de juiz) ou Vara (contra ato administrativo)</td>
+<td>Fazenda pode requerer suspensão de segurança</td>
+</tr>
+<tr>
+<td>Ação civil pública</td>
+<td>Lei 7.347/1985; LC 75/1993 art. 83, III</td>
+<td>Vara do Trabalho do local da lesão</td>
+<td>Estado pode ser réu (ex: terceirização ilícita)</td>
+</tr>
+<tr>
+<td><em>Habeas corpus</em></td>
+<td>CF art. 5º, LXVIII; art. 114, IV</td>
+<td>TRT (contra ato de juiz do trabalho)</td>
+<td>Esvaziado pela SV 25 (depositário infiel)</td>
+</tr>
+<tr>
+<td>Tutela antecipada</td>
+<td>CPC arts. 300-311; Lei 9.494/1997</td>
+<td>Vara do Trabalho (incidental)</td>
+<td>Vedações específicas da Lei 9.494/1997</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Hipótese de rescisória (art. 966 CPC)</th>
+<th>Descrição</th>
+<th>Requisito específico</th>
+</tr>
+<tr>
+<td>Inciso V — violação de norma jurídica</td>
+<td>Decisão que viola manifestamente norma</td>
+<td>Pronunciamento explícito sobre a matéria (Súmula 298 TST)</td>
+</tr>
+<tr>
+<td>Inciso VI — prova falsa</td>
+<td>Decisão fundada em prova cuja falsidade foi demonstrada</td>
+<td>Prova falsa deve ter sido determinante para o resultado</td>
+</tr>
+<tr>
+<td>Inciso VII — prova nova</td>
+<td>Prova que existia mas era ignorada ou inutilizável</td>
+<td>Prova deve ser suficiente para alterar o resultado</td>
+</tr>
+<tr>
+<td>Inciso VIII — erro de fato</td>
+<td>Erro verificável pelo exame dos autos</td>
+<td>Não pode ter havido controvérsia sobre o fato</td>
+</tr>
+<tr>
+<td>§5º — violação de precedente do STF</td>
+<td>Decisão contrária a precedente vinculante superveniente</td>
+<td>Prazo de 2 anos da decisão do STF (AR 2.876 QO)</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Tipo de acordo</th>
+<th>Requisitos</th>
+<th>Efeitos</th>
+</tr>
+<tr>
+<td>Acordo judicial (CLT arts. 846/850)</td>
+<td>Tentativa obrigatória em audiência; homologação pelo juiz</td>
+<td>Coisa julgada material; irrecorrível (art. 831, pú.)</td>
+</tr>
+<tr>
+<td>Acordo extrajudicial (CLT arts. 855-B a 855-E)</td>
+<td>Petição conjunta; advogados distintos; prazo 15 dias</td>
+<td>Coisa julgada se homologado; suspende prescrição</td>
+</tr>
+<tr>
+<td>Acordo com quitação ampla (Res. 586/2024 CNJ)</td>
+<td>Previsão expressa; advogados distintos; valor > 40 SM (fase inicial)</td>
+<td>Quitação ampla, geral e irrevogável; vedada homologação parcial</td>
+</tr>
+</table>
+
+</div>
