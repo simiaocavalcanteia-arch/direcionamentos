@@ -87,7 +87,7 @@
 <tr><th>Precedente</th><th>Conteúdo</th></tr>
 <tr><td>MS 24.073 (STF, 2002)</td><td>O parecerista jurídico (advogado público) não pode ser responsabilizado pelo TCU, salvo comprovação de dolo ou culpa grave — precedente que antecipou a regra do art. 28 da LINDB</td></tr>
 <tr><td>MS 24.631 (STF, 2007)</td><td>Distinção entre parecer obrigatório, facultativo e vinculante: o grau de responsabilidade do parecerista varia conforme a natureza da consulta</td></tr>
-<tr><td>ADI 6.022 (STF, 2020)</td><td>O STF reafirmou a unicidade da representação judicial: a representação judicial e consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF)</td></tr>
+<tr><td>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018)</td><td>O STF reafirmou a unicidade da representação judicial: a representação judicial e consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF)</td></tr>
 <tr><td>ADI 558 (STF)</td><td>A legitimidade do PGE para propor representação de inconstitucionalidade (ADI estadual) perante o TJ decorre da Constituição Estadual, conforme art. 125, §2º, CF, que exige pluralidade de legitimados ativos</td></tr>
 </table>
 

@@ -74,7 +74,7 @@
 
 <p><strong>ADI 7.218/PB (Informativo 1.127, março de 2024):</strong> o Plenário declarou inconstitucionais normas da Paraíba que previam cargos de advogado ou procurador em autarquias e fundações estaduais, por violação ao princípio da unicidade orgânica da advocacia pública (art. 132 CF). A decisão fixou que são inconstitucionais normas locais que criam cargos e carreiras de advogado ou procurador para viabilizar órgãos de assessoramento jurídico no âmbito de autarquias e fundações. Exceção: universidades estaduais podem manter procuradorias próprias, e órgãos existentes na data da promulgação da CF/1988 foram preservados (ADCT, art. 69). A decisão foi modulada para produzir efeitos em 24 meses.</p>
 
-<p><strong>ADI 6.022 (2022):</strong> reafirmou a autonomia funcional da PGE, reconhecendo que a advocacia pública estadual necessita de garantias institucionais para o exercício independente de suas funções. Decisão relevante para compreender o posicionamento da PGE como instituição autônoma dentro da estrutura do Estado.</p>
+<p><strong>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018):</strong> reafirmaram a unicidade orgânica da advocacia pública e a autonomia funcional da PGE, reconhecendo que a representação judicial e a consultoria jurídica competem exclusivamente aos Procuradores do Estado. Decisão relevante para compreender o posicionamento da PGE como instituição autônoma dentro da estrutura do Estado.</p>
 
 <h2>Estratégia de Estudo</h2>
 
@@ -110,7 +110,7 @@
 
 <p><strong>Princípio da unicidade da representação judicial:</strong> o STF possui jurisprudência consolidada no sentido de que o art. 132 da CF confere à PGE a exclusividade na representação judicial e consultoria jurídica da administração direta, autárquica e fundacional. Diversas ADIs foram julgadas ao longo dos anos declarando inconstitucionais leis estaduais que criavam cargos jurídicos em autarquias e fundações fora da estrutura da PGE. A exceção reconhecida é a do ADCT, art. 69 (órgãos preexistentes à CF/1988) e das universidades públicas estaduais.</p>
 
-<p><strong>Autonomia institucional da PGE:</strong> embora não possua a mesma extensão de garantias conferidas ao Ministério Público e à Defensoria Pública, o STF reconheceu em diversas decisões que a PGE goza de autonomia funcional e administrativa. A ADI 145/CE firmou que as garantias do MP não se estendem automaticamente à PGE, mas a ADI 6.022 reconheceu a necessidade de garantias institucionais mínimas para o exercício independente das funções.</p>
+<p><strong>Autonomia institucional da PGE:</strong> embora não possua a mesma extensão de garantias conferidas ao Ministério Público e à Defensoria Pública, o STF reconheceu em diversas decisões que a PGE goza de autonomia funcional e administrativa. A ADI 145/CE firmou que as garantias do MP não se estendem automaticamente à PGE, mas as ADIs 5.215/GO, 5.262/RR e 4.449/AL (2018) reconheceram a necessidade de garantias institucionais mínimas para o exercício independente das funções.</p>
 
 <h3>Decisões recentes (2024-2026)</h3>
 

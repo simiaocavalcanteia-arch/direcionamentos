@@ -106,7 +106,7 @@
 <tr><td>RE 612.975 (Tema 377, STF, 2017)</td><td>Na acumulação legítima de cargos, o teto remuneratório deve incidir <strong>isoladamente</strong> sobre cada cargo — e não sobre a soma. Modulação para produzir efeitos a partir da publicação da ata de julgamento</td></tr>
 <tr><td>ADI 3.105 (STF, 2004)</td><td>Constitucionalidade da contribuição previdenciária de servidores inativos e pensionistas (EC 41/2003)</td></tr>
 <tr><td>ADI 3.104 (STF, 2007)</td><td>Inexistência de direito adquirido a regime jurídico previdenciário: as normas constitucionais têm aplicação imediata</td></tr>
-<tr><td>Tema 1.300 (RE pendente)</td><td>Discussão sobre aposentadoria por incapacidade permanente e a base de cálculo dos proventos integrais (moléstia grave) sob a EC 103/2019</td></tr>
+<tr><td>Tema 1.300 (RE 1.469.150, STF, dez/2025)</td><td>Constitucional o cálculo proporcional da aposentadoria por incapacidade permanente (art. 26, §2º, III, EC 103/2019), mesmo para doença grave, quando incapacidade reconhecida após a EC 103</td></tr>
 <tr><td>ADIs 6.254 e 6.255 (pendentes)</td><td>Questionam a constitucionalidade do art. 24 da EC 103/2019 (redutor na cumulação aposentadoria + pensão): aplicação imediata a benefícios já concedidos</td></tr>
 </table>
 
@@ -148,7 +148,7 @@
 
 <h3>Decisões recentes e temas pendentes (2024-2026)</h3>
 
-<p><strong>Tema 1.300 (aposentadoria por incapacidade permanente):</strong> discute se a regra de proventos integrais para incapacidade decorrente de moléstia grave se aplica com base na fórmula da EC 103/2019 (média contributiva a 100%) ou com base no conceito de integralidade (última remuneração). A questão é saber se "proventos integrais" no contexto da EC 103 significa 100% da média ou o equivalente à última remuneração. O tema tem repercussão geral reconhecida, mas ainda aguarda julgamento.</p>
+<p><strong>Tema 1.300 (aposentadoria por incapacidade permanente):</strong> discute se a regra de proventos integrais para incapacidade decorrente de moléstia grave se aplica com base na fórmula da EC 103/2019 (média contributiva a 100%) ou com base no conceito de integralidade (última remuneração). A questão é saber se "proventos integrais" no contexto da EC 103 significa 100% da média ou o equivalente à última remuneração. O STF julgou o tema em dezembro de 2025 (RE 1.469.150), declarando constitucional o cálculo proporcional da aposentadoria por incapacidade permanente nos termos do art. 26, §2º, III, da EC 103/2019, mesmo nos casos de doença grave, quando a incapacidade for reconhecida após a Reforma.</p>
 
 <p><strong>ADIs 6.254 e 6.255 (cumulação com redutor):</strong> questionam a constitucionalidade da aplicação imediata do art. 24 da EC 103/2019 a benefícios já concedidos antes da reforma. A tese dos autores é que a redução de benefício já concedido violaria o direito adquirido e o ato jurídico perfeito. O julgamento está pendente e pode ter impacto significativo sobre as finanças estaduais.</p>
 

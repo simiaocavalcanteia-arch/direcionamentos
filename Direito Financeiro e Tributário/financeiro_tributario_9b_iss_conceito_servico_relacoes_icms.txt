@@ -121,7 +121,7 @@
 
 <h3>RE 547.245/STF — leasing financeiro</h3>
 
-<p>Julgado em 02/12/2009. O STF decidiu que o ISS incide sobre arrendamento mercantil financeiro, pois envolve prestação de serviço financeiro complexo, distinto da mera locação de bens. O leasing operacional permanece na zona de controvérsia entre a SV 31 (locação) e o conceito ampliado de serviço.</p>
+<p>Julgado em 04/02/2009. O STF decidiu que o ISS incide sobre arrendamento mercantil financeiro, pois envolve prestação de serviço financeiro complexo, distinto da mera locação de bens. O leasing operacional permanece na zona de controvérsia entre a SV 31 (locação) e o conceito ampliado de serviço.</p>
 
 <!-- ========== SEÇÃO 7 ========== -->
 <h2>Quadros Esquemáticos</h2>

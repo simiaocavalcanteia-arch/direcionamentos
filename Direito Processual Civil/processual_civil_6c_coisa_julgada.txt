@@ -42,7 +42,7 @@
 
 <p>O prazo para a rescisória é de <strong>2 anos</strong> contados do trânsito em julgado da última decisão proferida no processo (art. 975). Para a hipótese de prova nova (inciso VII), há regra especial: o prazo de 2 anos conta a partir da descoberta da prova, com limite máximo de 5 anos do trânsito em julgado (art. 975, §2º).</p>
 
-<p>O CPC/2015 inovou ao admitir rescisória de capítulo de decisão (art. 966, §3º) e ao permitir rescisória mesmo que a decisão transitada em julgado se baseie em ato normativo declarado inconstitucional pelo STF ou em interpretação incompatível com a Constituição (art. 966, §5º), neste caso sem prazo decadencial — a rescisória pode ser ajuizada enquanto não houver sido executada a decisão.</p>
+<p>O CPC/2015 inovou ao admitir rescisória de capítulo de decisão (art. 966, §3º) e ao prever rescisória contra decisão que aplicou precedente sem considerar a existência de distinção (art. 966, §5º). Para decisões fundadas em norma declarada inconstitucional pelo STF, os arts. 525, §15, e 535, §8º, do CPC preveem a reabertura do prazo da ação rescisória: o prazo de 2 anos conta-se do trânsito em julgado da decisão do STF que declarou a inconstitucionalidade.</p>
 
 <h3>Coisa julgada inconstitucional e Fazenda Pública</h3>
 
@@ -148,7 +148,7 @@
 <tr><th>Coisa julgada inconstitucional — mecanismos</th><th>Quando o trânsito é posterior à declaração do STF</th><th>Quando o trânsito é anterior à declaração do STF</th></tr>
 <tr><td><strong>Instrumento</strong></td><td>Impugnação ao cumprimento (art. 535, §5º)</td><td>Ação rescisória (art. 966)</td></tr>
 <tr><td><strong>Prazo</strong></td><td>No prazo da impugnação (30 dias para Fazenda)</td><td>2 anos do trânsito em julgado</td></tr>
-<tr><td><strong>Base legal</strong></td><td>Art. 535, §5º, CPC</td><td>Art. 966, V ou §5º, CPC</td></tr>
+<tr><td><strong>Base legal</strong></td><td>Art. 535, §5º, CPC</td><td>Arts. 525, §15, e 535, §8º, CPC + art. 966, V</td></tr>
 </table>
 
 <div class="destaque">

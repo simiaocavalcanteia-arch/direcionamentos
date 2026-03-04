@@ -87,7 +87,7 @@
 <tr><th>Precedente</th><th>Conteúdo</th></tr>
 <tr><td>MS 24.073 (STF, 2002)</td><td>O parecerista jurídico (advogado público) não pode ser responsabilizado pelo TCU, salvo comprovação de dolo ou culpa grave — precedente que antecipou a regra do art. 28 da LINDB</td></tr>
 <tr><td>MS 24.631 (STF, 2007)</td><td>Distinção entre parecer obrigatório, facultativo e vinculante: o grau de responsabilidade do parecerista varia conforme a natureza da consulta</td></tr>
-<tr><td>ADI 6.022 (STF, 2020)</td><td>O STF reafirmou a unicidade da representação judicial: a representação judicial e consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF)</td></tr>
+<tr><td>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018)</td><td>O STF reafirmou a unicidade da representação judicial: a representação judicial e consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF)</td></tr>
 <tr><td>ADI 558 (STF)</td><td>A legitimidade do PGE para propor representação de inconstitucionalidade (ADI estadual) perante o TJ decorre da Constituição Estadual, conforme art. 125, §2º, CF, que exige pluralidade de legitimados ativos</td></tr>
 </table>
 
@@ -123,7 +123,7 @@
 
 <p><strong>Responsabilidade do parecerista (MS 24.073 e MS 24.631, STF):</strong> o STF firmou que o advogado público que emite parecer jurídico não responde automaticamente pelos atos praticados com base em sua opinião. A responsabilização exige demonstração de dolo ou culpa grave (hoje substituída por "erro grosseiro", conforme art. 28 da LINDB). A distinção entre parecer obrigatório, facultativo e vinculante modula o grau de responsabilidade.</p>
 
-<p><strong>Unicidade da representação judicial (ADI 6.022, STF, 2020):</strong> o STF reafirmou que a representação judicial e a consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de carreiras paralelas. A PGE integra o Poder Executivo e sua organização interna é matéria de cada ente federado.</p>
+<p><strong>Unicidade da representação judicial (ADIs 5.215/GO, 5.262/RR e 4.449/AL, STF, 2018):</strong> o STF reafirmou que a representação judicial e a consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de carreiras paralelas. A PGE integra o Poder Executivo e sua organização interna é matéria de cada ente federado.</p>
 
 <h3>Impacto da LINDB na jurisprudência (2024-2025)</h3>
 

@@ -108,7 +108,7 @@
 <tr><td>Súmula 591/STJ</td><td>Prova emprestada no PAD é admissível</td></tr>
 <tr><td>Súmula 592/STJ</td><td>Excesso de prazo no PAD só gera nulidade com prejuízo</td></tr>
 <tr><td>Tema 1.177 (STF, RE 1.338.750)</td><td>Competência dos Estados para fixar alíquota de contribuição dos militares estaduais; inconstitucionalidade da Lei 13.954/2019 nesse ponto</td></tr>
-<tr><td>ADI 7.092 (STF, pendente)</td><td>Questiona constitucionalidade de outros dispositivos da Lei 13.954/2019 sobre militares estaduais</td></tr>
+<tr><td>ADI 7.092 (STF, ago/2023, improcedente por unanimidade)</td><td>Declarou constitucional a reforma por incapacidade de militares temporários das Forças Armadas — não se refere a militares estaduais</td></tr>
 </table>
 
 <h2>Estratégia de Estudo</h2>
@@ -149,7 +149,7 @@
 
 <p><strong>Tema 1.177 (STF) — contribuição de militares estaduais:</strong> o STF julgou em repercussão geral que a fixação de alíquotas previdenciárias para militares estaduais é competência do Estado-membro, não da União. A Lei Federal 13.954/2019 foi declarada inconstitucional no ponto em que fixava alíquota uniforme para militares de todos os Estados. A modulação preservou cobranças até 1º/1/2023. Os Estados que ainda não legislaram sobre o tema têm litígios pendentes com seus militares.</p>
 
-<p><strong>ADI 7.092 (pendente):</strong> questiona outros dispositivos da Lei 13.954/2019 relativos a militares estaduais, incluindo regras de transferência para a reserva e cálculo de proventos. O julgamento pode impactar diretamente o regime previdenciário dos policiais militares e bombeiros do Rio de Janeiro.</p>
+<p><strong>ADI 7.092 (julgada em agosto de 2023, improcedente por unanimidade):</strong> esta ação direta questionava dispositivos da Lei 13.954/2019 relativos a militares temporários das Forças Armadas (reforma por incapacidade definitiva). O STF declarou constitucionais as alterações promovidas no Estatuto dos Militares (Lei 6.880/1980). Atenção: a ADI 7.092 não trata de militares estaduais, mas é frequentemente citada em conjunto com o Tema 1.177, que este sim diz respeito a policiais militares e bombeiros.</p>
 
 <h2>Quadros Esquemáticos</h2>
 

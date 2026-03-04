@@ -86,7 +86,7 @@
 
 <h3>Jurisprudência</h3>
 
-<p><strong>ADI 6.022 (STF, 2022):</strong> reconheceu a autonomia funcional da PGE, afirmando a necessidade de garantias institucionais mínimas para o exercício independente da advocacia pública estadual.</p>
+<p><strong>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018):</strong> reconheceram a unicidade orgânica e a autonomia funcional da PGE, afirmando a necessidade de garantias institucionais mínimas para o exercício independente da advocacia pública estadual.</p>
 
 <p><strong>ADI 7.218/PB (STF, 2024):</strong> reafirmou o princípio da unicidade orgânica da advocacia pública (art. 132 CF), declarando inconstitucionais procuradorias paralelas em autarquias e fundações. Decisão que reforça a centralidade da PGE como órgão exclusivo de representação judicial.</p>
 
@@ -130,7 +130,7 @@
 
 <h3>Decisões recentes (2024-2026)</h3>
 
-<p><strong>ADI 6.022 (STF, 2022, com repercussões até 2024):</strong> reconheceu que a PGE necessita de garantias institucionais mínimas (autonomia funcional e administrativa) para exercer independentemente suas funções de advocacia pública. A decisão impacta a organização interna da PGE ao reforçar que a instituição não é mero apêndice do Poder Executivo, mas órgão dotado de funções constitucionalmente definidas.</p>
+<p><strong>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018, com repercussões até 2024):</strong> reconheceram que a PGE necessita de garantias institucionais mínimas (autonomia funcional e administrativa) para exercer independentemente suas funções de advocacia pública. A decisão impacta a organização interna da PGE ao reforçar que a instituição não é mero apêndice do Poder Executivo, mas órgão dotado de funções constitucionalmente definidas.</p>
 
 <p><strong>ADI 7.218/PB (Informativo 1.127, março de 2024):</strong> declarou inconstitucionais normas que criavam cargos de advogado ou procurador em autarquias e fundações estaduais fora da estrutura da PGE. Modulação de 24 meses. Reforça que a PGE, por meio de suas Procuradorias Especializadas (notadamente a Procuradoria de Autarquias e Fundações), é o órgão exclusivo de representação dessas entidades.</p>
 
