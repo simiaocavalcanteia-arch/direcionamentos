@@ -121,7 +121,7 @@
 <tr><th>Tema / Súmula</th><th>Conteúdo</th><th>Status</th></tr>
 <tr><td>Súmula 360/STJ</td><td>Denúncia espontânea inaplicável a tributo declarado e não pago</td><td>Consolidada</td></tr>
 <tr><td>ADI 1.075-MC/DF (STF)</td><td>Multa de 300% é confiscatória</td><td>Consolidada</td></tr>
-<tr><td>Tema 816/STF (RE 882.461)</td><td>Caráter confiscatório da multa moratória — teto de 20%</td><td>Em julgamento (maioria formada)</td></tr>
+<tr><td>Tema 816/STF (RE 882.461)</td><td>Caráter confiscatório da multa moratória — teto de 20%</td><td>Julgado (26/02/2025)</td></tr>
 <tr><td>Tema 487/STF (RE 640.452)</td><td>Caráter confiscatório de multa isolada por descumprimento de obrigação acessória</td><td>Pendente de julgamento</td></tr>
 <tr><td>STJ — denúncia espontânea e obrigações acessórias</td><td>Denúncia espontânea não exclui multa por descumprimento de obrigação acessória autônoma</td><td>Consolidada</td></tr>
 </table>
@@ -132,7 +132,7 @@
 <strong>Tema 863/STF (RE 736.090/SC, Plenário, 2024):</strong> fixou limites para multas tributárias. Tese: multa qualificada por sonegação, fraude ou conluio limita-se a 100% do débito, podendo chegar a 150% na reincidência. O Tribunal também reafirmou que multas moratórias superiores a 20% são confiscatórias. A decisão vale para todos os entes federativos até que lei complementar nacional discipline a matéria. Retroatividade à Lei 14.689/2023.
 </div>
 
-<p><strong>Tema 816/STF (RE 882.461, Plenário, Rel. Min. Luiz Fux):</strong> trata do caráter confiscatório de multas moratórias. O STF formou maioria para fixar o teto de 20% para multas moratórias. Quanto às multas isoladas (aplicadas independentemente do tributo), a discussão é objeto do Tema 487 (RE 640.452, Rel. Min. Roberto Barroso), ainda pendente de julgamento definitivo.</p>
+<p><strong>Tema 816/STF (RE 882.461, Plenário, Rel. Min. Dias Toffoli, j. 26/02/2025):</strong> o STF fixou o teto de 20% para multas moratórias, confirmando que percentuais superiores violam a vedação ao confisco. Quanto às multas isoladas (aplicadas independentemente do tributo), a discussão é objeto do Tema 487 (RE 640.452, Rel. Min. Roberto Barroso), ainda pendente de julgamento definitivo.</p>
 
 <p><strong>STJ — retroatividade benigna na redução de multas estaduais (2024-2025):</strong> a Corte tem aplicado o art. 106, II, "c", do CTN para beneficiar contribuintes quando leis estaduais mais recentes reduzem o percentual de multas de ICMS. Se a autuação fiscal ainda não transitou em julgado, aplica-se a legislação posterior mais benéfica. Essa regra tem aplicação direta no contencioso da PGE/RJ.</p>
 

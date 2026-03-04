@@ -109,7 +109,7 @@
 <table>
 <tr><th>Precedente</th><th>Conteúdo</th></tr>
 <tr><td>ADI 145/CE (STF)</td><td>As garantias institucionais do MP (vitaliciedade, inamovibilidade) <strong>não se estendem automaticamente</strong> aos Procuradores do Estado — são carreiras com regimes constitucionais distintos</td></tr>
-<tr><td>ADI 2.729/RN (STF, 2011)</td><td>Declarou <strong>inconstitucionais</strong> dispositivos de LC do RN que conferiam vitaliciedade e inamovibilidade a Procuradores do Estado, por reproduzirem garantias exclusivas do MP sem previsão constitucional para a advocacia pública</td></tr>
+<tr><td>ADI 2.729/RN (STF, 2013)</td><td>Declarou <strong>inconstitucionais</strong> dispositivos de LC do RN que conferiam vitaliciedade e inamovibilidade a Procuradores do Estado, por reproduzirem garantias exclusivas do MP sem previsão constitucional para a advocacia pública</td></tr>
 <tr><td>RE 558.258 (STF, 2010)</td><td>Discutiu o teto remuneratório aplicável a procuradores autárquicos, reafirmando que a fixação de teto por decreto estadual deve observar os parâmetros constitucionais</td></tr>
 <tr><td>Tema 1.002 (STF, 2023)</td><td>Decidiu que são devidos honorários de sucumbência à Defensoria Pública quando litiga contra o ente público ao qual é vinculada, superando a Súmula 421/STJ</td></tr>
 <tr><td>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018)</td><td>O STF reafirmou a <strong>unicidade da representação judicial</strong> nos Estados: a representação judicial e a consultoria jurídica da administração direta, autarquias e fundações estaduais compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de procuradorias paralelas</td></tr>
@@ -147,7 +147,7 @@
 
 <p><strong>Garantias do MP não se estendem a Procuradores (ADI 145/CE, STF):</strong> o STF deixou claro que as garantias institucionais previstas para o MP (vitaliciedade, inamovibilidade e irredutibilidade qualificada) não podem ser estendidas por analogia ou simetria aos Procuradores do Estado. As carreiras da advocacia pública possuem regime constitucional próprio (art. 132, CF), com prerrogativas definidas pela legislação infraconstitucional de cada ente federado.</p>
 
-<p><strong>Unicidade da representação judicial (ADI 6.022, STF, 2020):</strong> o STF reafirmou que a representação judicial e a consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado organizados em carreira (art. 132, CF), vedada a criação de procuradorias paralelas em autarquias e fundações. A PGE integra o Poder Executivo e não goza de autonomia funcional equiparável ao MP.</p>
+<p><strong>Unicidade da representação judicial (ADI 145/CE, STF, 2018):</strong> o STF reafirmou que a representação judicial e a consultoria jurídica dos Estados compete exclusivamente aos Procuradores do Estado organizados em carreira (art. 132, CF), vedada a criação de procuradorias paralelas em autarquias e fundações. A PGE integra o Poder Executivo e não goza de autonomia funcional equiparável ao MP.</p>
 
 <p><strong>Parecer jurídico e responsabilidade (MS 24.073, STF, 2002):</strong> o STF fixou que o advogado público que emite parecer jurídico não pode ser responsabilizado pelo TCU por eventuais prejuízos decorrentes da aprovação do ato administrativo fundamentado naquele parecer — salvo comprovação de culpa grave ou dolo. Esse precedente protege a autonomia técnica do Procurador e diferencia o ato de opinião jurídica do ato de gestão.</p>
 

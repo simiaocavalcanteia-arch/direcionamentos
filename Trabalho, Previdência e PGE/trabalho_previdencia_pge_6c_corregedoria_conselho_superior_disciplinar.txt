@@ -53,7 +53,7 @@
 
 <p>A carreira de Procurador do Estado é escalonada em <strong>3ª, 2ª e 1ª Categorias</strong>, com 330 cargos distribuídos igualmente entre elas (LC nº 226/2025 ampliou de 300 para 330). Os direitos e deveres são iguais em todas as categorias; a diferença de vencimento entre uma e outra é de 5%.</p>
 
-<p>A promoção se dá alternadamente por <strong>antiguidade</strong> e <strong>merecimento</strong>. Na promoção por antiguidade, observa-se a posição na lista organizada pelo Conselho Superior. Na promoção por merecimento, o Conselho elabora lista tríplice com base em critérios previamente aprovados e divulgados, cabendo ao Procurador-Geral a escolha final.</p>
+<p>A promoção se dá na proporção de <strong>2/3 por merecimento</strong> e <strong>1/3 por antiguidade</strong>. Na promoção por antiguidade, observa-se a posição na lista organizada pelo Conselho Superior. Na promoção por merecimento, o Conselho elabora lista tríplice com base em critérios previamente aprovados e divulgados, cabendo ao Procurador-Geral a escolha final.</p>
 
 <h3>Responsabilidade funcional e sanções disciplinares</h3>
 
@@ -196,7 +196,7 @@
 <tr><th>Critério</th><th>Antiguidade</th><th>Merecimento</th></tr>
 <tr><td>Base</td><td>Posição no quadro de antiguidade organizado pelo Conselho Superior</td><td>Lista tríplice elaborada pelo Conselho Superior com base em critérios previamente divulgados</td></tr>
 <tr><td>Decisão</td><td>Promovido o mais antigo na categoria imediatamente inferior</td><td>Procurador-Geral escolhe um dos três nomes da lista</td></tr>
-<tr><td>Alternância</td><td colspan="2" style="text-align:center">As promoções se dão alternadamente: uma por antiguidade, outra por merecimento</td></tr>
+<tr><td>Proporção</td><td colspan="2" style="text-align:center">2/3 por merecimento e 1/3 por antiguidade, imediatamente após a ocorrência da vaga (LC 15/1980)</td></tr>
 <tr><td>Categorias</td><td colspan="2" style="text-align:center">3ª Categoria → 2ª Categoria → 1ª Categoria (diferença de 5% no vencimento entre categorias)</td></tr>
 </table>
 

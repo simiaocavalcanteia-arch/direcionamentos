@@ -176,7 +176,7 @@ strong { font-weight: 700; }
 </div>
 
 <div class="atencao">
-<strong>ADI 2.135 — cuidado com afirmações desatualizadas:</strong> até novembro de 2024, vigorava liminar do STF suspendendo a nova redação do art. 39, caput, CF. Muitos materiais de estudo ainda trazem que o Regime Jurídico Único é obrigatório. Isso mudou: o STF julgou improcedente a ADI (6×3), com eficácia <em>ex nunc</em>, e agora é constitucional que entes federativos adotem regimes distintos (estatutário ou celetista) na mesma pessoa jurídica. A proibição de alterar o regime dos servidores já vinculados foi mantida.
+<strong>ADI 2.135 — cuidado com afirmações desatualizadas:</strong> até novembro de 2024, vigorava liminar do STF suspendendo a nova redação do art. 39, caput, CF. Muitos materiais de estudo ainda trazem que o Regime Jurídico Único é obrigatório. Isso mudou: o STF julgou improcedente a ADI (8×3), com eficácia <em>ex nunc</em>, e agora é constitucional que entes federativos adotem regimes distintos (estatutário ou celetista) na mesma pessoa jurídica. A proibição de alterar o regime dos servidores já vinculados foi mantida.
 </div>
 
 <div class="atencao">
@@ -205,7 +205,7 @@ strong { font-weight: 700; }
 
 <h3>Decisões recentes de alto impacto (2024-2026)</h3>
 
-<p><strong>ADI 2.135 (STF, Plenário, julgamento em 6/11/2024)</strong> — por 6×3 (prevaleceu o voto do Min. Gilmar Mendes), o STF julgou improcedente a ADI e declarou constitucional a alteração do art. 39, caput, da CF pela EC 19/1998. Consequências: (i) entes federativos podem adotar regime celetista mesmo na administração direta, autarquias e fundações; (ii) servidores e empregados atuais mantêm o regime em que foram admitidos (vedação de transposição unilateral); (iii) modulação <em>ex nunc</em>. Para a PGE/RJ, a decisão abre a possibilidade de o Estado do Rio de Janeiro adotar o regime celetista para novas contratações, embora isso dependa de legislação estadual específica.</p>
+<p><strong>ADI 2.135 (STF, Plenário, julgamento em 6/11/2024)</strong> — por 8×3 (prevaleceu o voto do Min. Gilmar Mendes), o STF julgou improcedente a ADI e declarou constitucional a alteração do art. 39, caput, da CF pela EC 19/1998. Consequências: (i) entes federativos podem adotar regime celetista mesmo na administração direta, autarquias e fundações; (ii) servidores e empregados atuais mantêm o regime em que foram admitidos (vedação de transposição unilateral); (iii) modulação <em>ex nunc</em>. Para a PGE/RJ, a decisão abre a possibilidade de o Estado do Rio de Janeiro adotar o regime celetista para novas contratações, embora isso dependa de legislação estadual específica.</p>
 
 <p><strong>Tema 1.022 do STF</strong> (RE 688.267, Plenário, julgamento em 28/2/2024) — tese: "as empresas públicas e as sociedades de economia mista, sejam elas prestadoras de serviço público ou exploradoras de atividade econômica, ainda que em regime concorrencial, têm o dever jurídico de motivar, em ato formal, a demissão de seus empregados concursados, não se exigindo processo administrativo. A motivação deve consistir em fundamento razoável." Modulação: eficácia a partir de 4/3/2024. Superou a OJ 247/SDI-1 do TST, que admitia dispensa imotivada (salvo Correios). A decisão tem impacto direto nas empresas estatais do Estado do RJ.</p>
 

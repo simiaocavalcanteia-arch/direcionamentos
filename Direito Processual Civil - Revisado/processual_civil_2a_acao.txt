@@ -32,7 +32,7 @@
 
 <p>A teoria da asserção (ou della prospettazione) propõe que as condições da ação sejam verificadas com base exclusivamente nas alegações do autor na petição inicial, tal como afirmadas — sem necessidade de produção de provas. Se, em abstrato, as afirmações do autor conduzem à legitimidade e ao interesse, a ação é admitida; a verificação da veracidade dessas afirmações pertence ao mérito.</p>
 
-<p>O STJ adota expressamente a teoria da asserção. No REsp 1.749.223/CE (3ª Turma, 2023), o Tribunal reafirmou que "a análise das condições da ação é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial." Se a verificação de legitimidade ou interesse demandar exame probatório aprofundado, a questão será de mérito, não de condição de ação.</p>
+<p>O STJ adota expressamente a teoria da asserção. No REsp 1.561.498/RJ (3ª Turma, 2016), o Tribunal reafirmou que "a análise das condições da ação é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial." Se a verificação de legitimidade ou interesse demandar exame probatório aprofundado, a questão será de mérito, não de condição de ação.</p>
 
 <h3>Condições da ação no CPC/2015</h3>
 
@@ -106,7 +106,7 @@
 
 <table>
 <tr><th>Julgado</th><th>Conteúdo</th></tr>
-<tr><td><span class="tag tag-stj">STJ</span> REsp 1.749.223/CE (3ª Turma, 2023)</td><td>Teoria da asserção: condições da ação são aferidas pelas alegações da petição inicial; se a verificação demandar prova, é mérito</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span> REsp 1.561.498/RJ (3ª Turma, 2016)</td><td>Teoria da asserção: condições da ação são aferidas pelas alegações da petição inicial; se a verificação demandar prova, é mérito</td></tr>
 <tr><td><span class="tag tag-stj">STJ</span> Jurisprudência consolidada</td><td>A possibilidade jurídica do pedido não é mais condição de ação no CPC/2015 — pedido impossível leva à improcedência (mérito)</td></tr>
 </table>
 
@@ -142,7 +142,7 @@
 
 <h3>Temas consolidados</h3>
 
-<p><span class="tag tag-stj">STJ</span> <strong>Teoria da asserção</strong> — Posição consolidada no STJ: as condições da ação são analisadas com base nas alegações do autor na petição inicial, independentemente de instrução probatória. Se a análise da legitimidade ou do interesse depender de prova, trata-se de questão de mérito (REsp 1.749.223/CE, 3ª Turma, 2023). A teoria é aplicada tanto para legitimidade quanto para interesse processual.</p>
+<p><span class="tag tag-stj">STJ</span> <strong>Teoria da asserção</strong> — Posição consolidada no STJ: as condições da ação são analisadas com base nas alegações do autor na petição inicial, independentemente de instrução probatória. Se a análise da legitimidade ou do interesse depender de prova, trata-se de questão de mérito (REsp 1.561.498/RJ, 3ª Turma, 2016). A teoria é aplicada tanto para legitimidade quanto para interesse processual.</p>
 
 <p><span class="tag tag-stj">STJ</span> <strong>Eliminação da possibilidade jurídica do pedido</strong> — O STJ reconhece que o CPC/2015 suprimiu a possibilidade jurídica do pedido como condição de ação, passando a tratar a matéria como questão de mérito. Demandas que antes seriam extintas por impossibilidade jurídica agora são julgadas improcedentes — com formação de coisa julgada material.</p>
 

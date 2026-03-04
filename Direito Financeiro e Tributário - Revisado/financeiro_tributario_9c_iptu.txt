@@ -101,9 +101,9 @@
 
 <p>"É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana." Distinção clara: progressividade fiscal (por valor) era inconstitucional antes da EC 29/2000; progressividade extrafiscal (função social) sempre foi válida.</p>
 
-<h3>Tema 523/STF (RE 423.768) — alíquotas diferenciadas por uso</h3>
+<h3>Tema 523/STF (RE 666.156) — alíquotas diferenciadas por uso</h3>
 
-<p>Julgado em 01/12/2010. Tese: "são constitucionais as leis municipais anteriores à EC 29/2000 que instituíram alíquotas diferenciadas de IPTU para imóveis edificados e não edificados, residenciais e não residenciais." O STF distinguiu a diferenciação de alíquotas (seletividade — sempre foi constitucional) da progressividade fiscal (escalonamento por valor — só constitucional após EC 29/2000).</p>
+<p>Julgado em 11/05/2020. Tese: "são constitucionais as leis municipais anteriores à EC 29/2000 que instituíram alíquotas diferenciadas de IPTU para imóveis edificados e não edificados, residenciais e não residenciais." O STF distinguiu a diferenciação de alíquotas (seletividade — sempre foi constitucional) da progressividade fiscal (escalonamento por valor — só constitucional após EC 29/2000).</p>
 
 <h3>Súmula 160/STJ — atualização da base de cálculo</h3>
 

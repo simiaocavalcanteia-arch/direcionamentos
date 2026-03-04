@@ -107,7 +107,7 @@
 </div>
 
 <div class="atencao">
-<strong>Ação popular não serve para matéria tributária.</strong> O STF fixou, no Tema 645 (RE 694.294/MG), que não cabe ação popular (nem ação civil pública) para questionar a constitucionalidade ou legalidade de tributo em defesa dos contribuintes. O STJ tem aplicado esse entendimento com rigor (v. REsp 2.167.861/SE, 2ª Turma, 2024). Questões de prova costumam testar esse limite apresentando situações em que um cidadão pretende usar a ação popular para anular cobrança tributária.
+<strong>Ação popular não serve para matéria tributária.</strong> O STF fixou, no Tema 645 (ARE 694.294/MG), que não cabe ação popular (nem ação civil pública) para questionar a constitucionalidade ou legalidade de tributo em defesa dos contribuintes. O STJ tem aplicado esse entendimento com rigor (v. REsp 2.167.861/SE, 2ª Turma, 2024). Questões de prova costumam testar esse limite apresentando situações em que um cidadão pretende usar a ação popular para anular cobrança tributária.
 </div>
 
 <div class="atencao">
@@ -130,7 +130,7 @@
 
 <p><span class="tag tag-stf">STF</span> <strong>ADI 4.296</strong> (Rel. Min. Marco Aurélio, Red. p/ acórdão Min. Alexandre de Moraes, Pleno, julgado em 9/6/2021) — além das inconstitucionalidades já mencionadas (art. 7º, §2º, e art. 22, §2º), o tribunal declarou constitucionais: (i) o art. 1º, §2º, que afasta MS contra atos de gestão comercial de empresas públicas, sociedades de economia mista e concessionárias; (ii) o art. 23, que fixa o prazo de 120 dias; (iii) o art. 25, que veda honorários. O julgamento é referência obrigatória para qualquer discussão sobre a lei do mandado de segurança.</p>
 
-<p><span class="tag tag-stf">STF</span> <strong>Tema 1.075</strong> (RE 1.101.937/SP, Rel. Min. Alexandre de Moraes, Pleno, julgado em 8/4/2021) — embora mais diretamente ligado à ação civil pública, este tema tem impacto no mandado de segurança coletivo e na ação popular: o STF declarou a inconstitucionalidade do art. 16 da Lei 7.347/1985, que restringia a eficácia das sentenças coletivas à competência territorial do órgão prolator. Na ação popular, cujo art. 18 já previa eficácia <em>erga omnes</em> sem ressalva territorial, o precedente reforça a amplitude da coisa julgada.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.075</strong> (RE 1.101.937/SP, Rel. Min. Alexandre de Moraes, Pleno, julgado em 7/4/2021) — embora mais diretamente ligado à ação civil pública, este tema tem impacto no mandado de segurança coletivo e na ação popular: o STF declarou a inconstitucionalidade do art. 16 da Lei 7.347/1985, que restringia a eficácia das sentenças coletivas à competência territorial do órgão prolator. Na ação popular, cujo art. 18 já previa eficácia <em>erga omnes</em> sem ressalva territorial, o precedente reforça a amplitude da coisa julgada.</p>
 
 <h3>Jurisprudência recente (2024-2026)</h3>
 
@@ -140,7 +140,7 @@
 
 <p><span class="tag tag-stf">STF</span> <strong>Mandado de segurança e alcance subjetivo de decisão impetrada por associação</strong> (Tema 499, RE 612.043/PR, Rel. Min. Marco Aurélio, Pleno, julgado em 10/5/2017) — embora o leading case envolva ação ordinária, o STF reafirmou que, em ação ordinária movida por associação em regime de representação processual, a eficácia da sentença se limita aos filiados que residam no âmbito da jurisdição do órgão julgador (salvo, agora, a declaração de inconstitucionalidade do art. 16 da LACP no Tema 1.075). A leitura combinada desses precedentes exige cuidado: em MS coletivo impetrado por associação, a tendência é que a eficácia alcance todos os substituídos vinculados à entidade, observada a pertinência temática, sem limitação territorial artificial.</p>
 
-<p><span class="tag tag-stf">STF</span> <strong>Tema 698</strong> (RE 684.612/RJ, Rel. Min. Luís Roberto Barroso, Pleno, julgado em 3/6/2023) — embora o caso trate de ação civil pública, a tese sobre controle judicial de políticas públicas tem aplicação potencial em ação popular quando o ato impugnado envolver omissão administrativa. A tese fixa requisitos para a intervenção judicial: (i) comprovação de ausência ou grave deficiência do serviço; (ii) irrazoabilidade da omissão estatal; (iii) determinação de finalidades, não de meios específicos. O precedente originou-se no Rio de Janeiro (Hospital Municipal Salgado Filho — atendimento hospitalar), o que reforça sua importância regional.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Tema 698</strong> (RE 684.612/RJ, Rel. Min. Ricardo Lewandowski, Red. p/ acórdão Min. Luís Roberto Barroso, Pleno, julgado em 3/7/2023) — embora o caso trate de ação civil pública, a tese sobre controle judicial de políticas públicas tem aplicação potencial em ação popular quando o ato impugnado envolver omissão administrativa. A tese fixa requisitos para a intervenção judicial: (i) comprovação de ausência ou grave deficiência do serviço; (ii) irrazoabilidade da omissão estatal; (iii) determinação de finalidades, não de meios específicos. O precedente originou-se no Rio de Janeiro (Hospital Municipal Salgado Filho — atendimento hospitalar), o que reforça sua importância regional.</p>
 
 <h2>Quadros Esquemáticos</h2>
 
