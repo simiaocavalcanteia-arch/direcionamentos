@@ -1,0 +1,280 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 2a — Caracterização do Direito Tributário</h1>
+<p class="subtitulo">Conceito, objeto, autonomia, fontes formais e materiais, relação com outros ramos do Direito e papel do CTN</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>O Direito Tributário é o ramo do Direito Público que disciplina a relação jurídica entre o Fisco (Estado) e o contribuinte, regulando a instituição, a arrecadação e a fiscalização de tributos. Enquanto o Direito Financeiro cuida de toda a atividade financeira do Estado (receita, despesa, orçamento, crédito público), o Direito Tributário concentra-se em uma parcela específica dessa atividade: a obtenção de receitas tributárias. A distinção não é meramente acadêmica — reflete-se na estrutura constitucional, na legislação e na organização do próprio programa de concursos.</p>
+
+<p>Para a PGE/RJ, a caracterização do Direito Tributário importa porque delimita o campo de atuação da Procuradoria na área fiscal. A PGE atua tanto na consultoria tributária (pareceres sobre incidência, isenções, regimes especiais) quanto no contencioso (defesa do Estado em ações anulatórias, mandados de segurança, execuções fiscais e ações de repetição de indébito). Compreender as fontes, os princípios e a autonomia do Direito Tributário é pressuposto para todas essas atividades.</p>
+
+<p>O ponto conecta-se com a Ciência das Finanças e o Direito Financeiro (Ponto 1a), com o Sistema Tributário Nacional (Ponto 2b), com os princípios constitucionais tributários (Ponto 2c), com a legislação tributária (Ponto 3) e com toda a parte especial da disciplina (obrigação, crédito, processo tributário, tributos em espécie).</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e objeto do Direito Tributário</h3>
+
+<p>Direito Tributário é o ramo do Direito Público que regula as relações jurídicas entre o Estado (Fisco) e os particulares (contribuintes e responsáveis) decorrentes da instituição, arrecadação e fiscalização de tributos. Seu objeto é a relação jurídico-tributária em todas as suas dimensões: a norma de incidência, o fato gerador, a obrigação tributária, o crédito tributário, o lançamento, a cobrança e as garantias do contribuinte.</p>
+
+<p>A denominação "Direito Tributário" consolidou-se no Brasil a partir da EC 18/1965 e do CTN (Lei 5.172/1966). Antes, utilizavam-se expressões como "Direito Fiscal" (influência francesa), "Direito Impositivo" (influência italiana) ou "Direito das Rendas Públicas". A Constituição de 1988 consagrou a expressão "Direito Tributário" ao mencioná-la expressamente no art. 24, I (competência concorrente), e ao dedicar-lhe capítulo próprio no Título VI (Da Tributação e do Orçamento — arts. 145-162).</p>
+
+<h3>Autonomia do Direito Tributário</h3>
+
+<p>A autonomia do Direito Tributário é reconhecida em três planos: (i) autonomia constitucional — a CF trata o Direito Tributário como disciplina legislativa distinta, com competência concorrente própria (art. 24, I) e capítulo constitucional específico (arts. 145-162); (ii) autonomia didática — é ensinado como disciplina autônoma nas faculdades de Direito e nos programas de concursos; (iii) autonomia científica — possui princípios, conceitos e institutos próprios (tributo, fato gerador, obrigação tributária, lançamento, crédito tributário) que o distinguem dos demais ramos.</p>
+
+<p>A autonomia, contudo, é relativa. O Direito é uno e seus ramos se inter-relacionam. O Direito Tributário dialoga constantemente com o Direito Constitucional (competências, limitações ao poder de tributar, imunidades), com o Direito Administrativo (lançamento é ato administrativo; fiscalização é exercício de poder de polícia), com o Direito Civil (fato gerador pode ser um negócio jurídico de direito privado — art. 110, CTN), com o Direito Processual (processo tributário judicial e administrativo) e com o Direito Financeiro (o tributo é a principal fonte de receita pública).</p>
+
+<div class="destaque">
+<p><strong>Art. 110, CTN — autonomia conceitual:</strong> a lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição, pelas Constituições dos Estados ou pelas Leis Orgânicas dos Municípios para definir ou limitar competências tributárias. Esse dispositivo é central: quando a CF usa a expressão "renda" para delimitar a competência da União (IR), o legislador tributário não pode ampliar ou restringir esse conceito de forma a desvirtuar a repartição constitucional de competências.</p>
+</div>
+
+<h3>Fontes do Direito Tributário</h3>
+
+<p>As fontes do Direito Tributário classificam-se em fontes materiais e fontes formais.</p>
+
+<p><strong>Fontes materiais:</strong> são os fatos da vida econômica que servem de substrato à incidência tributária — a renda auferida (IR), a circulação de mercadorias (ICMS), a propriedade imobiliária urbana (IPTU), a prestação de serviços (ISS). As fontes materiais são os eventos econômicos que o legislador elege como fatos geradores dos tributos.</p>
+
+<p><strong>Fontes formais:</strong> são os veículos normativos que introduzem normas tributárias no ordenamento. Classificam-se em:</p>
+
+<p><strong>Fontes formais primárias:</strong> (a) Constituição Federal (arts. 145-162 — Sistema Tributário Nacional); (b) emendas constitucionais; (c) leis complementares (art. 146 — normas gerais de Direito Tributário; art. 154, I — impostos residuais; art. 195, §4º — novas contribuições sociais); (d) leis ordinárias (veículo usual para instituição de tributos); (e) medidas provisórias (podem instituir e majorar tributos — art. 62, §2º, CF, com restrições); (f) leis delegadas (art. 68, CF); (g) decretos legislativos (ratificação de tratados — art. 49, I); (h) resoluções do Senado (alíquotas de ICMS, IPVA e ITCMD).</p>
+
+<p><strong>Fontes formais secundárias (normas complementares — art. 100, CTN):</strong> (a) atos normativos das autoridades administrativas (instruções normativas, portarias, pareceres normativos); (b) decisões administrativas com eficácia normativa; (c) práticas reiteradamente observadas pelas autoridades; (d) convênios entre os entes. As normas complementares não inovam a ordem jurídica — apenas interpretam, esclarecem ou operacionalizam a legislação tributária. Sua observância exclui a imposição de penalidades, a cobrança de juros de mora e a atualização monetária (art. 100, parágrafo único, CTN).</p>
+
+<h3>O CTN e seu status normativo</h3>
+
+<p>O Código Tributário Nacional (Lei 5.172/1966) é a principal lei infraconstitucional de Direito Tributário. Aprovado como lei ordinária (antes da CF/88), foi recepcionado com status de lei complementar na medida em que veicula normas gerais de Direito Tributário, matéria que o art. 146, III, da CF reserva à lei complementar. A recepção qualificada segue a mesma lógica da Lei 4.320/1964 no Direito Financeiro.</p>
+
+<p>O CTN está estruturado em dois livros: o Livro Primeiro (Sistema Tributário Nacional) trata das disposições gerais, da competência tributária e dos impostos em espécie; o Livro Segundo (Normas Gerais de Direito Tributário) disciplina a legislação tributária, a obrigação tributária, o crédito tributário e a administração tributária. É o Livro Segundo que concentra as normas gerais propriamente ditas e que ostenta status de lei complementar.</p>
+
+<h3>O papel da lei complementar tributária (art. 146, CF)</h3>
+
+<p>O art. 146 da Constituição atribui à lei complementar três funções no Direito Tributário: (I) dispor sobre conflitos de competência entre os entes; (II) regular as limitações constitucionais ao poder de tributar; (III) estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: (a) definição de tributos e de suas espécies, bem como fatos geradores, bases de cálculo e contribuintes dos impostos discriminados na Constituição; (b) obrigação, lançamento, crédito, prescrição e decadência tributários; (c) adequado tratamento tributário ao ato cooperativo; (d) definição de tratamento diferenciado e favorecido para microempresas e empresas de pequeno porte (incluída pela EC 42/2003, com redação atualizada pela EC 132/2023). A alínea "d" fundamenta o Simples Nacional (LC 123/2006), que institui regime unificado de arrecadação de tributos federais, estaduais e municipais.</p>
+
+<p>Existe debate doutrinário sobre a extensão dessas normas gerais — a chamada "teoria tricotômica vs. teoria dicotômica" do art. 146. A teoria tricotômica (predominante no STF) entende que os três incisos são funções autônomas da lei complementar. A teoria dicotômica sustenta que os incisos I e II são meros desdobramentos do inciso III (normas gerais). Na prática, a posição do STF é a que importa: a lei complementar tributária exerce as três funções de forma autônoma, e a ausência de lei complementar sobre uma matéria específica pode impedir o exercício da competência tributária pelo ente federativo.</p>
+
+<div class="destaque">
+<p><strong>Para a prova discursiva:</strong> quando a banca perguntar sobre a função da lei complementar tributária, organize a resposta em torno dos três incisos do art. 146: (I) conflitos de competência — ex.: LC 116/2003 define o local da prestação de serviços para fins de ISS; LC 87/1996 disciplina operações interestaduais de ICMS; (II) limitações ao poder de tributar — ex.: o CTN regulamenta imunidades (art. 14), isenções (arts. 176-179) e outras limitações; (III) normas gerais — o CTN cumpre essa função ao definir tributo (art. 3º), espécies (arts. 16-82), obrigação tributária (arts. 113-138), lançamento (arts. 142-150) e crédito tributário (arts. 139-193). A alínea "d" (EC 42/2003) acrescenta o tratamento favorecido a microempresas e EPPs, regulamentado pela LC 123/2006 (Simples Nacional).</p>
+</div>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 24, I:</strong> competência concorrente entre União, Estados e DF para legislar sobre Direito Tributário, Financeiro, penitenciário, econômico e urbanístico. Fundamento da autonomia constitucional do Direito Tributário.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 146:</strong> funções da lei complementar tributária — (I) conflitos de competência; (II) limitações ao poder de tributar; (III) normas gerais. Inciso III, alíneas "a" a "d", detalha o conteúdo das normas gerais: (a) definição de tributos e suas espécies, fatos geradores, bases de cálculo e contribuintes; (b) obrigação, lançamento, crédito, prescrição e decadência; (c) adequado tratamento tributário ao ato cooperativo; (d) tratamento diferenciado e favorecido para microempresas e empresas de pequeno porte (incluída pela EC 42/2003, com redação atual pela EC 132/2023).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 146-A (EC 42/2003):</strong> autoriza lei complementar a estabelecer critérios especiais de tributação para prevenir desequilíbrios da concorrência, sem prejuízo da competência de cada ente para dispor sobre a matéria.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Arts. 145-162:</strong> Sistema Tributário Nacional. Arts. 145-149-A: espécies tributárias e competências. Arts. 150-152: limitações ao poder de tributar. Arts. 153-156: discriminação de impostos por ente. Arts. 157-162: repartição de receitas.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>CTN (Lei 5.172/1966):</strong> recepcionado com status de lei complementar (Livro Segundo). Art. 3º: conceito de tributo. Art. 4º: natureza jurídica específica determinada pelo fato gerador. Art. 5º: espécies tributárias. Art. 6º: competência tributária. Art. 96-100: legislação tributária e fontes. Art. 110: vedação de alteração de conceitos de direito privado pela lei tributária.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 116/2003:</strong> lista de serviços sujeitos ao ISS e regras de competência para cobrança (local da prestação vs. local do estabelecimento). Exemplo de lei complementar exercendo a função do art. 146, I (conflitos de competência). Alterada pela LC 157/2016 (alíquota mínima de 2%) e pela LC 175/2020 (ISSQN sobre planos de saúde, fundos de investimento etc.).</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 214/2025:</strong> regulamenta a Reforma Tributária (EC 132/2023). Institui IBS e CBS, disciplinando fato gerador, base de cálculo, contribuintes, não cumulatividade e regimes especiais. Principal lei complementar tributária do novo sistema de consumo.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 227/2026:</strong> segunda lei complementar da Reforma Tributária, sancionada em 13/01/2026. Cria o Comitê Gestor do IBS (27 representantes de Estados/DF + 27 de Municípios), disciplina o processo administrativo tributário do IBS, a distribuição de receitas entre os entes e regulamenta o ITCMD sobre bens situados no exterior (complementando o art. 155, par. 1, III, CF, na redação da EC 132/2023).</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Art. 192:</strong> o sistema tributário estadual é regulado pelo disposto na Constituição da Republica, em leis complementares federais, na Constituição Estadual e em leis estaduais complementares e ordinárias. Trata-se da norma-base do sistema tributário fluminense, que reproduz a hierarquia das fontes no plano estadual.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Art. 193:</strong> consagra o princípio da justiça fiscal, determinando que Estado e Municípios balizem a tributação pelo fomento da atividade econômica e pela coibição de práticas especulativas e distorções de mercado.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Art. 194:</strong> reproduz as espécies tributárias que Estado e Municípios podem instituir (impostos, taxas e contribuição de melhoria), em simetria com o art. 145 da CF.</p>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Arts. 196-198:</strong> limitações ao poder de tributar estadual. O art. 196 reproduz, em âmbito estadual, os princípios da legalidade, isonomia, irretroatividade e anterioridade (correspondente ao art. 150 da CF). O art. 198 veda isenções de taxas decorrentes do exercício do poder de polícia.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 138.284/CE (Rel. Min. Carlos Velloso, Plenário, 1992):</strong> reconheceu que o CTN foi recepcionado pela CF/88 com status de lei complementar, na parte em que veicula normas gerais de Direito Tributário. Precedente fundacional sobre a natureza do CTN no sistema constitucional vigente.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 1.089/DF (Rel. Min. Francisco Rezek, Plenário, 1996):</strong> declarou que a incidência de ICMS sobre serviço de transporte aéreo de passageiros exigia lei complementar de normas gerais, não podendo ser instituída por convênio interestadual (art. 34, par. 8, ADCT). Reforçou a reserva de lei complementar para disciplinar aspectos estruturais do ICMS.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 556.664, RE 559.882, RE 559.943 e RE 560.626 (precedentes da SV 8, Rel. Min. Gilmar Mendes, Plenário, j. 12/06/2008):</strong> o STF declarou inconstitucional a ampliação dos prazos de prescrição e decadência de contribuições sociais operada por lei ordinária (Lei 8.212/1991, arts. 45-46), por violação à reserva de lei complementar do art. 146, III, "b". As normas sobre prescrição e decadência são normas gerais e exigem lei complementar — os arts. 173-174 do CTN prevalecem. Essa decisão originou a <strong>Sumula Vinculante 8</strong>: "são inconstitucionais o parágrafo único do artigo 5 do Decreto-Lei 1.569/1977 e os artigos 45 e 46 da Lei 8.212/1991, que tratam de prescrição e decadência de crédito tributário".</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo conceito de tributo (art. 3º, CTN) e pelas espécies tributárias (arts. 145-149-A, CF). Em seguida, leia o art. 146 da CF e compreenda as três funções da lei complementar tributária — essa é a moldura institucional de todo o Direito Tributário. Saber identificar quando uma matéria exige lei complementar (e quando lei ordinária basta) é competência que permeia todas as questões da disciplina.</p>
+
+<p>Estude as fontes do Direito Tributário: Constituição, lei complementar, lei ordinária, medida provisória, decretos, normas complementares (art. 100, CTN). A hierarquia das fontes é frequentemente testada, especialmente a relação entre lei complementar e lei ordinária em matéria tributária. Memorize o art. 110 do CTN (vedação de alteração de conceitos de direito privado) — é um dos dispositivos mais citados em provas discursivas.</p>
+
+<p>Para o CTN, leia ao menos os arts. 1-6 (disposições gerais), 96-100 (legislação tributária), 108-112 (interpretação e integração). Esses dispositivos formam a teoria geral do Direito Tributário e serão aprofundados nos pontos seguintes (legislação tributária — Ponto 3; obrigação — Ponto 4; crédito — Ponto 4a e 6).</p>
+
+<p>Conecte este ponto com o Ponto 1a (distinção Direito Financeiro vs. Direito Tributário) e com o Ponto 2b (Sistema Tributário Nacional). A caracterização do Direito Tributário funciona como porta de entrada para toda a disciplina específica.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>CTN = lei ordinária com status de lei complementar.</strong> Repita essa fórmula: o CTN foi aprovado como lei ordinária em 1966 (quando não existia lei complementar no sentido atual), mas foi recepcionado com status de lei complementar pela CF/88, na parte em que veicula normas gerais de Direito Tributário (art. 146, III). Consequência: os dispositivos do CTN sobre normas gerais somente podem ser alterados por lei complementar. Dispositivos que não sejam normas gerais podem ser alterados por lei ordinária.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Medida provisória pode instituir e majorar tributos — com ressalvas.</strong> O art. 62, §2º, da CF permite que medidas provisórias instituam ou majorem impostos, desde que (para impostos sujeitos a lei complementar, como IGF e impostos residuais) não se trate de matéria reservada à lei complementar. A MP que institui ou majora imposto só produz efeitos no exercício seguinte se convertida em lei até o último dia do exercício em que foi editada (anterioridade + conversão). Tributos que exijam lei complementar (IGF, empréstimos compulsórios, impostos residuais, contribuições sociais residuais) não podem ser criados por MP.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prescrição e decadência são normas gerais (RE 556.664).</strong> Essa decisão do STF é marco: os prazos de prescrição e decadência tributários são matéria de norma geral e exigem lei complementar (art. 146, III, "b"). A Lei 8.212/1991 (lei ordinária) fixava prazos diferentes para contribuições sociais (10 anos), mas o STF declarou esses dispositivos inconstitucionais. Os prazos do CTN (5 anos — arts. 173-174) prevalecem para todos os tributos, inclusive contribuições sociais.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 110, CTN ≠ proibição de "planejamento tributário".</strong> O art. 110 veda que a lei tributária altere conceitos de direito privado usados pela Constituição para repartir competências. Mas não impede que a lei tributária defina fatos geradores próprios ou que o legislador tributário qualifique situações econômicas como tributáveis. A vedação opera apenas quando a Constituição utiliza expressamente conceitos de direito privado para delimitar competências (ex.: "renda", "serviço", "propriedade").</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>RE 138.284/CE (Rel. Min. Carlos Velloso, Plenário, j. 01/07/1992):</strong> reconhecimento da recepção do CTN com status de lei complementar. Precedente fundacional para toda a disciplina de normas gerais tributárias.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 939/DF (Rel. Min. Sydney Sanches, Plenário, j. 15/12/1993):</strong> declarou parcialmente inconstitucional a EC 3/1993 (que criou o IPMF), por violar imunidades tributárias e o princípio da anterioridade. O STF reconheceu que as limitações constitucionais ao poder de tributar (art. 150, CF) constituem cláusulas pétreas (art. 60, par. 4, IV), protegidas como garantias individuais do contribuinte. Primeiro caso em que o STF declarou inconstitucional uma emenda constitucional.</p>
+
+<p><span class="tag-stf">STF</span> <strong>RE 556.664, RE 559.882, RE 559.943 e RE 560.626 (precedentes da SV 8, Rel. Min. Gilmar Mendes, Plenário, 2008):</strong> inconstitucionalidade dos arts. 45 e 46 da Lei 8.212/1991, que fixavam em 10 anos os prazos de prescrição e decadência de contribuições sociais. Tese: a definição de prazos prescricionais e decadenciais em matéria tributária é reservada à lei complementar (art. 146, III, "b", CF), prevalecendo os prazos quinquenais do CTN (arts. 173-174). A decisão tem efeito vinculante e pacificou controvérsia de décadas.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.028 e ADI 2.036 (Rel. Min. Joaquim Barbosa, Rel. p/ acórdão Min. Rosa Weber, Plenário, j. 02/03/2017):</strong> os requisitos para gozo da imunidade de contribuições sociais por entidades beneficentes de assistência social (art. 195, par. 7, CF) devem ser fixados por lei complementar (art. 146, II), não por lei ordinária. O STF declarou inconstitucionais dispositivos da Lei 9.732/1998 que restringiam a imunidade por meio de lei ordinária. A tese reforça que limitações ao poder de tributar exigem lei complementar.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 5.431 (Rel. Min. Gilmar Mendes, Plenário virtual, j. 22-29/11/2024):</strong> julgou improcedente a ação proposta pela CNT, declarando constitucional a responsabilidade solidária do representante, no Brasil, de transportador estrangeiro pelo recolhimento do Imposto de Importação (art. 32, parágrafo único, do DL 37/1966, com redação da MP 2.158-35/2001). O STF entendeu que a norma não invade a reserva de lei complementar do art. 146, III, pois o art. 128 do CTN já autoriza a lei ordinária a atribuir responsabilidade tributária a terceiro vinculado ao fato gerador.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 6.284/GO (Rel. Min. Roberto Barroso, Plenário virtual, j. 14/09/2021):</strong> embora de 2021, este precedente foi reafirmado em decisoes posteriores e permanece como referência central. Declarou inconstitucional a lei estadual de Goiás que atribuía responsabilidade tributária solidária a contadores por infrações fiscais de seus clientes. Tese: "é inconstitucional lei estadual que disciplina a responsabilidade de terceiros por infrações de modo diverso das regras gerais estabelecidas pelo CTN". A ADI 5.431 (2024) dialogou diretamente com esse precedente ao distinguir a hipotese federal.</p>
+
+<p><span class="tag-stf">STF</span> <strong>EC 132/2023, LC 214/2025 e LC 227/2026 — Reforma Tributária:</strong> a criação do IBS e da CBS pela Reforma Tributária representa a maior transformação legislativa do Direito Tributário brasileiro. A LC 214/2025 funciona como um "novo CTN" para os tributos sobre consumo, estabelecendo normas gerais sobre fato gerador, base de cálculo, contribuintes, não cumulatividade, regimes especiais e administração do IBS e da CBS. A LC 227/2026 (sancionada em 13/01/2026) complementa esse arcabouço, criando o Comitê Gestor do IBS, disciplinando o processo administrativo tributário do IBS, a distribuição de receitas e a regulamentação do ITCMD sobre bens no exterior. A convivência entre o CTN (vigente para os tributos não afetados pela reforma) e as LCs 214/227 será objeto de intensa jurisprudência nos próximos anos.</p>
+
+<p><span class="tag-stf">STF</span> <strong>Tema 1.275 (RE 1.362.061, em repercussão geral):</strong> discute a constitucionalidade do cálculo do FPM, com potencial impacto sobre a base de cálculo de tributos vinculados a transferências constitucionais e sobre a composição de fundos como o FUNDEB.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Fonte formal</th>
+<th>Categoria</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td><strong>Constituição Federal</strong></td>
+<td>Primária</td>
+<td>Arts. 145-162 (STN); arts. 150-152 (limitações)</td>
+</tr>
+<tr>
+<td><strong>Emendas constitucionais</strong></td>
+<td>Primária</td>
+<td>EC 132/2023 (Reforma Tributária); EC 42/2003</td>
+</tr>
+<tr>
+<td><strong>Lei complementar</strong></td>
+<td>Primária</td>
+<td>CTN; LC 87/1996 (ICMS); LC 116/2003 (ISS); LC 123/2006 (Simples); LC 214/2025; LC 227/2026</td>
+</tr>
+<tr>
+<td><strong>Lei ordinária</strong></td>
+<td>Primária</td>
+<td>Leis instituidoras de tributos estaduais e municipais</td>
+</tr>
+<tr>
+<td><strong>Medida provisória</strong></td>
+<td>Primária</td>
+<td>Pode instituir/majorar impostos (art. 62, §2º, CF)</td>
+</tr>
+<tr>
+<td><strong>Decretos legislativos</strong></td>
+<td>Primária</td>
+<td>Ratificação de tratados tributários (art. 49, I)</td>
+</tr>
+<tr>
+<td><strong>Resoluções do Senado</strong></td>
+<td>Primária</td>
+<td>Alíquotas de ICMS interestadual, IPVA mínimas, ITCMD máxima</td>
+</tr>
+<tr>
+<td><strong>Decretos regulamentares</strong></td>
+<td>Secundária</td>
+<td>Regulamentos de IPI, ICMS, IR (não podem inovar)</td>
+</tr>
+<tr>
+<td><strong>Normas complementares (art. 100, CTN)</strong></td>
+<td>Secundária</td>
+<td>Instruções normativas, portarias, pareceres normativos, convênios</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Função da LC (art. 146)</th>
+<th>Inciso</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td><strong>Conflitos de competência</strong></td>
+<td>I</td>
+<td>LC 116/2003 (ISS — local da prestação); LC 87/1996 (ICMS — operação interestadual)</td>
+</tr>
+<tr>
+<td><strong>Limitações ao poder de tributar</strong></td>
+<td>II</td>
+<td>CTN art. 14 (requisitos para imunidade de entidades — art. 150, VI, "c"); CTN arts. 176-179 (isenção); ADIs 2.028/2.036 (exigência de LC para imunidade)</td>
+</tr>
+<tr>
+<td><strong>Normas gerais (alíneas "a" a "c")</strong></td>
+<td>III, "a"-"c"</td>
+<td>CTN Livro II (obrigação, crédito, lançamento, prescrição, decadência); LC 214/2025 e LC 227/2026 (IBS/CBS)</td>
+</tr>
+<tr>
+<td><strong>Tratamento favorecido ME/EPP</strong></td>
+<td>III, "d" (EC 42/2003)</td>
+<td>LC 123/2006 (Simples Nacional); regime unificado de tributos federais, estaduais e municipais</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Direito Financeiro</th>
+<th>Direito Tributário</th>
+</tr>
+<tr>
+<td><strong>Objeto</strong></td>
+<td>Toda a atividade financeira do Estado</td>
+<td>Relação jurídico-tributária</td>
+</tr>
+<tr>
+<td><strong>Receitas abrangidas</strong></td>
+<td>Tributárias e não tributárias</td>
+<td>Apenas tributárias</td>
+</tr>
+<tr>
+<td><strong>Base constitucional</strong></td>
+<td>Arts. 24, I-II; 163-169; 70-75</td>
+<td>Arts. 24, I; 145-162; 146</td>
+</tr>
+<tr>
+<td><strong>Legislação-chave</strong></td>
+<td>Lei 4.320/1964; LC 101/2000 (LRF)</td>
+<td>CTN (Lei 5.172/1966); LCs específicas</td>
+</tr>
+<tr>
+<td><strong>Competência legislativa concorrente</strong></td>
+<td>Art. 24, I e II</td>
+<td>Art. 24, I</td>
+</tr>
+<tr>
+<td><strong>Normas gerais por LC</strong></td>
+<td>Art. 165, §9º</td>
+<td>Art. 146, III</td>
+</tr>
+</table>
+
+</div>

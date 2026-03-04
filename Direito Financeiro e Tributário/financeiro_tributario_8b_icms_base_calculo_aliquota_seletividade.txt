@@ -1,0 +1,234 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>ICMS: Base de Cálculo, Alíquota e Seletividade</h1>
+<p class="subtitulo">Ponto 8, item "b" — Base de cálculo do ICMS nas diversas hipóteses de incidência (LC 87/96, art. 13), alíquotas interestaduais e internas, seletividade, ICMS "por dentro" e discussões recentes no STF e STJ</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>Conhecer a base de cálculo e as alíquotas do ICMS é essencial para o Procurador do Estado que defende a arrecadação estadual. A base de cálculo define sobre o quê se aplica a alíquota — e erros nessa etapa contaminam todo o lançamento. As alíquotas, por sua vez, envolvem um complexo sistema de repartição federativa, com regras constitucionais sobre mínimos, máximos e alíquotas interestaduais fixadas pelo Senado Federal.</p>
+
+<p>Este ponto conecta-se diretamente com o fato gerador (Ponto 8a), com a não cumulatividade (Ponto 8c) e com a substituição tributária (Ponto 8d). A jurisprudência recente do STF sobre seletividade (Tema 745) e sobre a inclusão/exclusão de tributos na base de cálculo (Tema 69) trouxe impactos relevantes para a arrecadação dos estados e é temática de grande interesse da PGE/RJ.</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Base de cálculo: regra geral e hipóteses específicas</h3>
+
+<p>O art. 13 da LC 87/96 define a base de cálculo para cada hipótese de incidência. A regra geral é que a base de cálculo do ICMS-mercadorias é o <strong>valor da operação</strong> (art. 13, I) — ou seja, o preço efetivamente praticado na operação, incluindo frete, seguro e demais despesas debitadas ao adquirente. Não é uma base arbitrária ou ficta, mas o preço real da transação.</p>
+
+<p>Para as demais hipóteses de incidência, as regras são específicas:</p>
+
+<ul>
+<li><strong>Transporte interestadual/intermunicipal:</strong> o preço do serviço (art. 13, III).</li>
+<li><strong>Comunicação:</strong> o preço do serviço (art. 13, III).</li>
+<li><strong>Importação:</strong> o valor constante do documento de importação (normalmente o CIF — cost, insurance and freight), acrescido de II, IPI, IOF e quaisquer outros impostos, taxas, contribuições e despesas aduaneiras (art. 13, V). Trata-se de base de cálculo ampla, que inclui todos os encargos da importação.</li>
+<li><strong>Fornecimento de alimentação e bebidas:</strong> o valor total da operação, incluindo mercadoria e serviço (art. 13, I).</li>
+</ul>
+
+<h3>O ICMS "por dentro"</h3>
+
+<p>Uma das peculiaridades mais importantes do ICMS é que <strong>o próprio imposto integra sua base de cálculo</strong> (art. 13, §1º, I, da LC 87/96). Isso é chamado de "cálculo por dentro": o ICMS é computado sobre si mesmo. Se uma mercadoria custa R$ 100 e a alíquota é de 20%, o imposto não é simplesmente R$ 20 sobre R$ 100; o imposto está embutido no preço, de modo que o preço final (R$ 100) já inclui o ICMS.</p>
+
+<div class="destaque">
+<p><strong>Cálculo "por dentro" na prática:</strong> se a alíquota é de 20% e o valor da mercadoria sem ICMS é R$ 80, o cálculo é: BC = R$ 80 ÷ (1 – 0,20) = R$ 100. O ICMS será R$ 100 × 20% = R$ 20. A base de cálculo (R$ 100) inclui o próprio imposto (R$ 20). Esse mecanismo foi declarado constitucional pelo STF no julgamento do RE 212.209 (1999).</p>
+</div>
+
+<p>Importante: o fato de o ICMS integrar sua própria base de cálculo não significa que ele integre a base de cálculo de outros tributos. O STF decidiu, no Tema 69 (RE 574.706), que o ICMS <strong>não</strong> compõe a base de cálculo do PIS e da COFINS. Por outro lado, o STJ decidiu, no Tema 1.223 (REsp 2.091.202/SP, 1a Secao, julgado em 11/12/2024), que o PIS e a COFINS <strong>compõem</strong> a base de cálculo do ICMS quando esta é o valor da operação — uma lógica inversa que coexiste com a decisão do STF.</p>
+
+<h3>Alíquotas: o sistema constitucional</h3>
+
+<p>O regime de alíquotas do ICMS envolve quatro categorias, cada uma com seu fundamento constitucional:</p>
+
+<p><strong>Alíquotas internas:</strong> fixadas por lei estadual, observados os limites mínimos e máximos. O limite mínimo não pode ser inferior à alíquota interestadual (salvo deliberação em contrário dos estados, via convênio — art. 155, §2º, VI). O limite máximo pode ser fixado por resolução do Senado (art. 155, §2º, V), mas essa faculdade nunca foi exercida. No RJ, a alíquota geral interna é de <strong>20%</strong> (Lei 2.657/96, art. 14, I, com redação dada pela Lei 10.253/2023), acrescida de <strong>2%</strong> de adicional destinado ao Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais (FECP), instituído pela LC Estadual 210/2023, totalizando uma alíquota efetiva de <strong>22%</strong>.</p>
+
+<p><strong>Alíquotas interestaduais:</strong> fixadas por resolução do Senado Federal (art. 155, §2º, IV). A Resolução 22/1989 estabeleceu: <strong>12%</strong> como regra geral; <strong>7%</strong> para operações originadas nos estados do Sul e Sudeste (exceto ES) com destino aos estados do Norte, Nordeste, Centro-Oeste e Espírito Santo. Essa diferenciação visa promover o desenvolvimento regional, direcionando receita para os estados menos desenvolvidos. A Resolução 13/2012 fixou em <strong>4%</strong> a alíquota interestadual para bens e mercadorias importados.</p>
+
+<p><strong>Diferencial de alíquotas (DIFAL):</strong> quando a operação interestadual destina mercadoria a <strong>consumidor final</strong> (contribuinte ou não), é devida a diferença entre a alíquota interna do estado de destino e a alíquota interestadual. A EC 87/2015 estendeu o DIFAL às operações com consumidor final não contribuinte (antes, o DIFAL só se aplicava a contribuintes). O Tema 1.093/STF (RE 1.287.019/DF, Plenario, 24/02/2021) exigiu lei complementar para a cobrança, suprida pela LC 190/2022.</p>
+
+<h3>Seletividade: faculdade, não obrigação (com limites)</h3>
+
+<p>Diferentemente do IPI (cuja seletividade é obrigatória), o ICMS <strong>poderá</strong> ser seletivo em função da essencialidade das mercadorias e dos serviços (art. 155, §2º, III, CF). A seletividade é facultativa — o estado pode ou não adotá-la. Mas se o estado opta por ser seletivo, deve respeitar a lógica da essencialidade: bens essenciais devem ter alíquotas menores que bens supérfluos.</p>
+
+<p>Esse foi o cerne do <strong>Tema 745/STF (RE 714.139)</strong>: o STF declarou inconstitucional a fixação de alíquotas de ICMS sobre energia elétrica e telecomunicações em patamar superior à alíquota geral. A lógica é que, se o estado adota a seletividade, não pode classificar bens essenciais (como energia e telecomunicações) com alíquotas maiores que as aplicáveis a produtos supérfluos. É uma limitação ao poder discricionário do legislador estadual: a seletividade é facultativa, mas, se adotada, não pode ser invertida.</p>
+
+<div class="destaque">
+<p><strong>Impacto financeiro para o RJ:</strong> o Tema 745 obrigou os estados a reduzirem as alíquotas de energia elétrica e telecomunicações ao patamar da alíquota geral. Considerando que o ICMS sobre energia e comunicação respondia por fatia significativa da arrecadação estadual, a decisão representou perda de receita relevante para o Estado do Rio de Janeiro. A modulação dos efeitos fixou a produção a partir do exercício financeiro de 2024.</p>
+</div>
+
+<h3>Base de cálculo na substituição tributária</h3>
+
+<p>Quando o ICMS é cobrado por substituição tributária (Ponto 8d), a base de cálculo da operação subsequente pode ser definida por: (i) o preço final a consumidor, único ou máximo, estabelecido pelo órgão competente; (ii) na falta deste, a Margem de Valor Agregado (MVA) sobre o valor da operação própria do substituto, incluindo frete, seguro e demais encargos (art. 8º da LC 87/96). A MVA é fixada por protocolo ou convênio do CONFAZ e representa a margem de lucro presumida nas etapas seguintes da cadeia.</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 155, §2º, III</strong> — Seletividade facultativa do ICMS, em função da essencialidade. <strong>Art. 155, §2º, IV</strong> — Resolução do Senado fixará alíquotas interestaduais. <strong>Art. 155, §2º, V</strong> — Senado pode fixar alíquotas máximas (faculdade não exercida). <strong>Art. 155, §2º, VI</strong> — Alíquotas internas não podem ser inferiores às interestaduais, salvo convênio. <strong>Art. 155, §2º, VII e VIII</strong> — DIFAL (EC 87/2015). <strong>Art. 155, §2º, XII, "i"</strong> — Lei complementar fixará a forma como isenções, incentivos e benefícios são concedidos (CONFAZ).</p>
+
+<h3>LC 87/1996 (Lei Kandir)</h3>
+
+<p><strong>Art. 13</strong> — Base de cálculo para cada hipótese de incidência. <strong>Art. 13, §1º, I</strong> — ICMS integra sua própria base de cálculo (cálculo "por dentro"). <strong>Art. 13, V</strong> — Base de cálculo na importação (inclui II, IPI, IOF e outros encargos). <strong>Art. 8º</strong> — Base de cálculo na substituição tributária para frente (MVA ou preço tabelado).</p>
+
+<h3>Resoluções do Senado Federal</h3>
+
+<p><strong>Resolução 22/1989</strong> — Fixa alíquotas interestaduais: 12% (regra geral) e 7% (Sul/Sudeste para N/NE/CO/ES). <strong>Resolução 13/2012</strong> — Fixa alíquota de 4% para bens e mercadorias importados em operações interestaduais.</p>
+
+<h3>Legislação estadual (RJ)</h3>
+
+<p><strong>Lei 2.657/1996, art. 14, I</strong> (redação da Lei 10.253/2023) — alíquota geral interna de 20%, vigente desde 20/03/2024. <strong>LC Estadual 210/2023</strong> — adicional de 2% ao FECP sobre as alíquotas do art. 14, totalizando 22% na alíquota efetiva geral. <strong>Lei 2.657/1996, art. 4o, VI, e Decreto 27.427/2000 (RICMS/RJ)</strong> — disciplinam o DIFAL nas operações interestaduais com destino ao RJ, conforme EC 87/2015 e LC 190/2022.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela Constituição: leia todo o art. 155, §2º, incisos III a VIII, que formam o regime constitucional de alíquotas. Tenha clareza sobre a distinção entre alíquotas internas (fixadas pelo estado, com limites) e alíquotas interestaduais (fixadas pelo Senado). Memorize as alíquotas da Resolução 22/89 (7% e 12%) e da Resolução 13/2012 (4% para importados).</p>
+
+<p>Em seguida, estude o art. 13 da LC 87/96 com atenção ao §1º, I (ICMS "por dentro") e ao inciso V (base de cálculo na importação). Esses dois pontos são os mais cobrados em prova. A fórmula do cálculo "por dentro" é simples, mas a lógica subjacente precisa ser compreendida.</p>
+
+<p>Sobre seletividade, o Tema 745/STF é leitura obrigatória. A tese fixada é direta e de fácil memorização. O candidato deve articular: seletividade é faculdade, mas se adotada, deve respeitar a essencialidade — energia e telecomunicações não podem ter alíquota superior à geral.</p>
+
+<p>Por fim, entenda a relação entre o Tema 69/STF (ICMS fora do PIS/COFINS) e o Tema 1.223/STJ (PIS/COFINS dentro do ICMS). A aparente contradição entre as teses é explicada pela diferença de perspectiva: no Tema 69, discute-se se o ICMS é "receita" do contribuinte (não é); no Tema 1.223, discute-se se PIS/COFINS integram o "valor da operação" (integram, pois são repassados economicamente no preço).</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>ICMS "por dentro" × IPI "por fora":</strong> o ICMS integra sua própria base de cálculo; o IPI não integra a sua. Essa distinção gera confusão em prova. Além disso, o IPI não integra a base de cálculo do ICMS quando a operação é entre contribuintes e a mercadoria destina-se à industrialização ou comercialização (art. 155, §2º, XI, CF). Mas se o destinatário não for contribuinte ou a mercadoria for para uso/consumo, o IPI compõe a base do ICMS.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Seletividade é faculdade, mas não é carta branca:</strong> o Tema 745/STF não obrigou os estados a adotarem a seletividade. O que o STF disse é: se o estado adotou, não pode inverter a lógica da essencialidade. Estados que aplicam alíquota única para todos os produtos não violam a CF. O problema ocorre quando o estado diferencia alíquotas, mas coloca produtos essenciais em faixa superior.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Tema 69 vs. Tema 1.223 — não há contradição técnica:</strong> o STF (Tema 69) decidiu que o ICMS não é receita do contribuinte, logo não compõe o faturamento/receita bruta que serve de base ao PIS/COFINS. O STJ (Tema 1.223) decidiu que PIS e COFINS compõem o "valor da operação" (base do ICMS), pois estão embutidos no preço praticado e são repassados ao adquirente. As bases de cálculo são conceitos distintos, e as teses operam em campos diferentes.</p>
+</div>
+
+<div class="atencao">
+<p><strong>DIFAL e a LC 190/2022:</strong> a LC 190/2022 foi sancionada em 04/01/2022 e publicada no DOU em 05/01/2022. Os estados discutiram se a anterioridade nonagesimal se aplica. O STF, no julgamento das ADIs 7066, 7070 e 7078 (29/11/2023, 6x5, Rel. Min. Alexandre de Moraes), decidiu que a anterioridade nonagesimal deve ser observada, de modo que a cobrança do DIFAL com base na LC 190/2022 so foi possível a partir de 05/04/2022 (90 dias da publicação). A anterioridade anual nao se aplica porque a LC 190/2022 nao instituiu tributo novo.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Modulação do Tema 745:</strong> os efeitos da decisão sobre seletividade (energia/telecom) foram modulados para o exercício financeiro de 2024, exceto para ações judiciais já em curso. Isso significa que os estados puderam manter as alíquotas diferenciadas até 31/12/2023, mas a partir de 2024 tiveram que adequar suas legislações.</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Tema 745/STF (RE 714.139) — seletividade do ICMS sobre energia e telecomunicações</h3>
+
+<p>Merito julgado em 22/11/2021 (Plenario, Rel. Min. Dias Toffoli); modulacao decidida em 13/12/2021. Tese: "adotada pelo legislador estadual a técnica da seletividade em relação ao ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços." Modulação: efeitos a partir do exercício financeiro de 2024, ressalvadas ações ajuizadas até 05/02/2021 (data do início do julgamento de merito). Impacto direto na arrecadação do RJ, que aplicava alíquotas majoradas sobre energia e telecom, superiores à alíquota geral.</p>
+
+<h3>Tema 69/STF (RE 574.706) — exclusão do ICMS da base de PIS/COFINS</h3>
+
+<p>Julgado em 15/03/2017 (mérito) e 13/05/2021 (embargos). Tese: "o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS." Em embargos, o STF esclareceu que o ICMS a ser excluído é o destacado na nota fiscal (não o efetivamente recolhido). Modulação: efeitos a partir de 15/03/2017 (data do julgamento de mérito), ressalvadas ações ajuizadas até essa data. Conhecida como "tese do século" pelo impacto financeiro bilionário.</p>
+
+<h3>Tema 1.223/STJ (REsp 2.091.202 e REsp 2.091.205) — PIS/COFINS na base do ICMS</h3>
+
+<p>Julgado em janeiro/2025 pela Primeira Seção do STJ. Tese: "a inclusão do PIS e da COFINS na base de cálculo do ICMS atende à legalidade nas hipóteses em que a base de cálculo do ICMS é o valor da operação, por configurar repasse econômico." O STJ distinguiu essa questão do Tema 69/STF: enquanto lá se discutia se o ICMS é "receita" do contribuinte (conceito de faturamento para PIS/COFINS), aqui se discute se PIS/COFINS integram o "valor da operação" (conceito de base de cálculo do ICMS). A resposta é sim: são parcelas que compõem o preço praticado.</p>
+
+<h3>ADIs 7066, 7070 e 7078/STF — anterioridade da LC 190/2022 (DIFAL)</h3>
+
+<p>Julgadas em 29/11/2023. O STF decidiu que a LC 190/2022 deve observar a anterioridade nonagesimal prevista no art. 150, III, "c", da CF, mas não a anterioridade anual. Os efeitos da cobrança do DIFAL com fundamento na LC 190/2022 se iniciaram 90 dias após sua publicação (05/04/2022). A anterioridade anual não se aplica porque a LC 190/2022 não instituiu tributo novo — apenas regulamentou o que a EC 87/2015 já autorizava.</p>
+
+<h3>RE 212.209/STF — constitucionalidade do ICMS "por dentro"</h3>
+
+<p>Julgado em 23/06/1999 pelo Plenário. O STF declarou constitucional a técnica do cálculo "por dentro" do ICMS (art. 13, §1º, I, LC 87/96). A inclusão do próprio imposto em sua base de cálculo não viola o conceito de base de cálculo nem o princípio da capacidade contributiva.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Base de cálculo do ICMS por hipótese de incidência</h3>
+
+<table>
+<tr>
+<th>Hipótese</th>
+<th>Base de cálculo (LC 87/96)</th>
+<th>Observação</th>
+</tr>
+<tr>
+<td>Circulação de mercadorias</td>
+<td>Valor da operação (art. 13, I)</td>
+<td>Inclui frete, seguro, descontos condicionais e o próprio ICMS</td>
+</tr>
+<tr>
+<td>Transporte interestadual/intermunicipal</td>
+<td>Preço do serviço (art. 13, III)</td>
+<td>Inclui o ICMS "por dentro"</td>
+</tr>
+<tr>
+<td>Comunicação</td>
+<td>Preço do serviço (art. 13, III)</td>
+<td>Inclui o ICMS "por dentro"</td>
+</tr>
+<tr>
+<td>Importação</td>
+<td>Valor do documento de importação + II + IPI + IOF + despesas aduaneiras (art. 13, V)</td>
+<td>Base de cálculo ampla; inclui todos os encargos da importação</td>
+</tr>
+<tr>
+<td>Substituição tributária</td>
+<td>Preço final a consumidor ou MVA (art. 8º)</td>
+<td>MVA fixada por convênio/protocolo CONFAZ</td>
+</tr>
+</table>
+
+<h3>Sistema de alíquotas do ICMS</h3>
+
+<table>
+<tr>
+<th>Tipo de alíquota</th>
+<th>Quem fixa</th>
+<th>Valores</th>
+</tr>
+<tr>
+<td>Interna (geral)</td>
+<td>Lei estadual</td>
+<td>RJ: 20% (com FECP)</td>
+</tr>
+<tr>
+<td>Interestadual (regra geral)</td>
+<td>Resolução do Senado 22/89</td>
+<td>12%</td>
+</tr>
+<tr>
+<td>Interestadual (S/SE → N/NE/CO/ES)</td>
+<td>Resolução do Senado 22/89</td>
+<td>7%</td>
+</tr>
+<tr>
+<td>Interestadual (importados)</td>
+<td>Resolução do Senado 13/2012</td>
+<td>4%</td>
+</tr>
+<tr>
+<td>DIFAL</td>
+<td>Diferença entre interna (destino) e interestadual</td>
+<td>Ex.: 20% – 12% = 8% (destinatário RJ)</td>
+</tr>
+</table>
+
+<h3>Relação entre ICMS e PIS/COFINS nas bases de cálculo</h3>
+
+<table>
+<tr>
+<th>Questão</th>
+<th>Decisão</th>
+<th>Resultado</th>
+</tr>
+<tr>
+<td>ICMS na base do PIS/COFINS?</td>
+<td>Tema 69/STF (RE 574.706, 2017/2021)</td>
+<td>Não; ICMS destacado na NF deve ser excluído</td>
+</tr>
+<tr>
+<td>PIS/COFINS na base do ICMS?</td>
+<td>Tema 1.223/STJ (REsp 2.091.202, 2025)</td>
+<td>Sim; integram o "valor da operação"</td>
+</tr>
+</table>
+
+</div>

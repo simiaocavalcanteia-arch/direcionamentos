@@ -1,0 +1,268 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Processo Tributário Administrativo</h1>
+<p class="subtitulo">Ponto 7, item "b" — Processo administrativo fiscal federal (Decreto 70.235/72, CARF) e estadual (Decreto-Lei 5/1975 e Decreto 2.473/1979 — RJ), princípios, voto de qualidade e garantias do contribuinte</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>O processo administrativo tributário (PAT) é a via pela qual o contribuinte impugna, em sede administrativa, a exigência fiscal formalizada no auto de infração ou na notificação de lançamento. Para o Procurador do Estado, dominar esse tema é vital por dois motivos: primeiro, porque o contencioso administrativo estadual precede (e muitas vezes define) o desfecho do contencioso judicial; segundo, porque a PGE/RJ atua em estreita interface com a Secretaria de Fazenda nas questões que envolvem o Conselho de Contribuintes do Estado.</p>
+
+<p>O tema se conecta diretamente com o lançamento (Ponto 6a), a suspensão e extinção do crédito tributário (Ponto 6b) e o processo judicial tributário (Ponto 7a). A impugnação administrativa suspende a exigibilidade do crédito (art. 151, III, do CTN), e a decisão administrativa irrecorrível pode extingui-lo (art. 156, IX). Por isso, compreender a estrutura do PAT é compreender o momento em que o crédito tributário pode ser definitivamente constituído ou desconstituído sem necessidade de provocação judicial.</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Princípios do processo administrativo tributário</h3>
+
+<p>O PAT é regido por princípios que dialogam com o direito administrativo e com garantias constitucionais. O <strong>contraditório e a ampla defesa</strong> (art. 5º, LV, CF) asseguram que o contribuinte tem direito a ser ouvido, produzir provas e recorrer das decisões, em todas as fases do processo. A <strong>Súmula Vinculante 21</strong> do STF consolidou que é inconstitucional a exigência de depósito ou arrolamento prévio de dinheiro ou bens como condição de admissibilidade do recurso administrativo — regra que impede qualquer ente federativo de condicionar o direito de recorrer a garantia patrimonial prévia.</p>
+
+<p>O princípio da <strong>verdade material</strong> distingue o PAT do processo judicial: enquanto neste vigora o dispositivo (as partes delimitam a controvérsia), no processo administrativo a autoridade julgadora pode — e deve — buscar a verdade real dos fatos, podendo determinar diligências de ofício, requisitar documentos e solicitar esclarecimentos técnicos, mesmo que não requeridos pelo contribuinte.</p>
+
+<p>O <strong>informalismo moderado</strong> flexibiliza as exigências de forma, de modo que o contribuinte não seja prejudicado por deficiências meramente formais na sua peça impugnatória, desde que a substância esteja presente. Complementam o quadro os princípios da <strong>oficialidade</strong> (o processo avança independentemente de provocação das partes), da <strong>gratuidade</strong> (não há custas processuais) e da <strong>publicidade restrita</strong> (acesso às partes e interessados, mas não necessariamente ao público geral, dada a proteção do sigilo fiscal).</p>
+
+<h3>O PAT federal: Decreto 70.235/72 e o CARF</h3>
+
+<p>O Decreto 70.235/72 disciplina o processo administrativo de determinação e exigência dos créditos tributários da União. Embora seja norma federal, suas disposições inspiram a legislação estadual e o estudo dele é indispensável para entender a lógica do contencioso administrativo tributário brasileiro.</p>
+
+<p>O procedimento se inicia com a <strong>fase não contenciosa</strong>: a fiscalização lavra o auto de infração ou notifica o contribuinte do lançamento. A partir da ciência, abre-se o prazo para apresentação da <strong>impugnação</strong> (art. 15 do Decreto 70.235/72), que é a peça inaugural da fase litigiosa. Apresentada a impugnação, o crédito tributário tem sua exigibilidade suspensa (art. 151, III, CTN).</p>
+
+<div class="destaque">
+<p><strong>Mudança recente nos prazos:</strong> a LC 227/2026 alterou o Decreto 70.235/72 para converter os prazos de dias corridos em dias úteis. O prazo de impugnação passou a ser de <strong>20 dias úteis</strong> (antes eram 30 dias corridos), e o prazo para recurso voluntário também passou a ser de <strong>20 dias úteis</strong> (art. 33).</p>
+</div>
+
+<p>Em <strong>primeira instância</strong>, a impugnação é julgada pelas <strong>Delegacias da Receita Federal do Brasil de Julgamento (DRJ)</strong>, órgãos colegiados compostos exclusivamente por servidores da Receita Federal. Julgada a impugnação, o contribuinte pode interpor <strong>recurso voluntário</strong> ao CARF, e a Fazenda pode interpor <strong>recurso de ofício</strong> quando a decisão for contrária à Fazenda e superar determinado valor (art. 34).</p>
+
+<p>O <strong>Conselho Administrativo de Recursos Fiscais (CARF)</strong> é o órgão de <strong>segunda instância</strong> do contencioso administrativo federal. Compõe-se de forma paritária: metade dos conselheiros representam a Fazenda Nacional e metade representa os contribuintes (indicados por confederações representativas da atividade econômica). O CARF organiza-se em três Seções de Julgamento, cada uma subdividida em Câmaras, além da Câmara Superior de Recursos Fiscais (CSRF), que funciona como instância uniformizadora de jurisprudência.</p>
+
+<h3>O voto de qualidade no CARF: ida e volta</h3>
+
+<p>A questão do <strong>voto de qualidade</strong> (voto de desempate proferido pelo Presidente da turma, sempre representante da Fazenda) foi uma das mais debatidas no direito tributário nos últimos anos. A cronologia é fundamental:</p>
+
+<p>Até 2020, vigorava o art. 25, §9º, do Decreto 70.235/72: em caso de empate, prevalecia o voto de qualidade do presidente (favorável à Fazenda). Em abril de 2020, a <strong>Lei 13.988/2020</strong> (art. 28) extinguiu o voto de qualidade, determinando que o empate no julgamento se resolveria favoravelmente ao contribuinte. Três ADIs foram ajuizadas (ADIs 6.399, 6.403 e 6.415), e o STF formou maioria pela constitucionalidade da regra favorável ao contribuinte, mas o julgamento não foi concluído.</p>
+
+<p>Em janeiro de 2023, a <strong>MP 1.160/2023</strong> restabeleceu provisoriamente o voto de qualidade. Em setembro de 2023, a <strong>Lei 14.689/2023</strong> confirmou o retorno definitivo do voto de qualidade, mas com uma contrapartida relevante: quando o julgamento for definido pelo voto de qualidade em favor da Fazenda, <strong>exclui-se a multa</strong> aplicada ao contribuinte e <strong>cancela-se a representação fiscal para fins penais</strong>. Além disso, o contribuinte pode pagar o tributo remanescente em até 12 parcelas, sem incidência de multa, e com uso de prejuízo fiscal e base negativa de CSLL.</p>
+
+<div class="atencao">
+<p><strong>Regulamentação controversa:</strong> a IN RFB 2.205/2024 regulamentou a Lei 14.689/2023 e restringiu o alcance da exclusão de multas, prevendo que multas isoladas, aduaneiras e moratórias não seriam excluídas em caso de decisão por voto de qualidade. Essa restrição por via infralegal é questionada pela doutrina, pois a lei não fez distinções entre espécies de multa.</p>
+</div>
+
+<h3>O PAT no Estado do Rio de Janeiro</h3>
+
+<p>O contencioso administrativo tributário estadual é regido pelo <strong>Decreto-Lei 5/1975</strong> (Código Tributário do Estado do Rio de Janeiro) e pelo <strong>Decreto 2.473/1979</strong>, que aprova o regulamento do processo administrativo-tributário estadual. Para a PGE/RJ, o domínio dessa legislação local é particularmente relevante.</p>
+
+<p>O procedimento segue estrutura similar ao federal: lavrado o auto de infração pela fiscalização estadual (especialmente em matéria de ICMS), o contribuinte é notificado e tem <strong>30 dias</strong> para apresentar impugnação.</p>
+
+<p>Em <strong>primeira instância</strong>, o julgamento cabe à <strong>Junta de Revisão Fiscal</strong>, órgão vinculado à Secretaria de Estado de Fazenda. Em <strong>segunda instância</strong>, compete ao <strong>Conselho de Contribuintes do Estado do Rio de Janeiro</strong>, que é um órgão colegiado com autonomia administrativa e decisória, também integrado à SEFAZ-RJ. O Conselho julga os recursos contra decisões da Junta de Revisão Fiscal desfavoráveis ao contribuinte (recurso voluntário) ou à Fazenda (recurso de ofício), conforme art. 254 do Decreto-Lei 5/1975.</p>
+
+<p>A decisão administrativa irrecorrível favorável ao contribuinte extingue o crédito tributário (art. 156, IX, CTN). Se contrária ao contribuinte, resta a via judicial. Quanto à Fazenda, prevalece o entendimento de que o Fisco não pode buscar judicialmente a revisão de decisão administrativa definitiva que lhe foi desfavorável, porque se trata de exercício de autotutela — aceitar a decisão de seu próprio órgão julgador.</p>
+
+<h3>Aspectos procedimentais relevantes</h3>
+
+<p>A <strong>impugnação</strong> deve ser escrita e indicar os pontos de discordância, as razões de fato e de direito, e as provas que o impugnante pretende produzir. Uma vez apresentada, instaura-se a fase litigiosa e suspende-se a exigibilidade do crédito. Não cabe desistência parcial — a impugnação abrange todo o auto de infração, embora o contribuinte possa limitar a controvérsia a determinados itens.</p>
+
+<p>A <strong>prova pericial</strong> pode ser requerida na impugnação, cabendo ao julgador de primeira instância deferir ou não (art. 18, Decreto 70.235/72). No âmbito do CARF, não se admite produção de provas, apenas a apreciação das já constantes dos autos — razão pela qual a estratégia probatória deve ser toda conduzida na impugnação e na primeira instância.</p>
+
+<p>A <strong>consulta tributária</strong> é outro instrumento importante. O contribuinte formula consulta ao Fisco sobre a interpretação da legislação tributária e, enquanto pendente de solução, não pode ser autuado sobre a matéria consultada (art. 161, §2º, CTN, combinado com a legislação específica). No RJ, a consulta é disciplinada nos arts. 150 a 163 do Decreto 2.473/1979.</p>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação federal</h3>
+
+<p><strong>Decreto 70.235/1972</strong> — Regula o processo administrativo fiscal da União. Os artigos mais importantes são: art. 14 (início do procedimento), art. 15 (prazo de impugnação — agora 20 dias úteis pela LC 227/2026), art. 16 (requisitos da impugnação), art. 17 (efeitos da intempestividade), art. 25 (julgamento em segunda instância e composição do CARF), art. 33 (recurso voluntário — agora 20 dias úteis), art. 34 (recurso de ofício) e art. 25, §9º (voto de qualidade restabelecido pela Lei 14.689/2023).</p>
+
+<p><strong>Lei 14.689/2023</strong> — Restabeleceu o voto de qualidade no CARF, com exclusão de multa e cancelamento de representação fiscal para fins penais quando o empate for resolvido contra o contribuinte. Permite parcelamento do tributo em até 12 vezes e uso de créditos de prejuízo fiscal.</p>
+
+<p><strong>Lei 13.988/2020</strong> (art. 28) — Extinguiu temporariamente o voto de qualidade, determinando que o empate no CARF se resolveria em favor do contribuinte. Vigeu de abril/2020 a janeiro/2023.</p>
+
+<h3>Legislação estadual (Rio de Janeiro)</h3>
+
+<p><strong>Decreto-Lei 5/1975</strong> — Código Tributário do Estado do Rio de Janeiro. Dispõe sobre o sistema tributário estadual e contém, em seu Livro II, as normas do processo administrativo-tributário. O art. 254 disciplina o recurso ao Conselho de Contribuintes.</p>
+
+<p><strong>Decreto 2.473/1979</strong> — Regulamento do processo administrativo-tributário do ERJ. Disciplina a impugnação, os prazos, a instrução probatória, a competência da Junta de Revisão Fiscal (primeira instância) e do Conselho de Contribuintes (segunda instância), além da consulta tributária (arts. 150-163).</p>
+
+<h3>Constituição Federal</h3>
+
+<p><strong>Art. 5º, LV</strong> — Contraditório e ampla defesa com os meios e recursos a ela inerentes, aplicáveis ao processo administrativo. <strong>Art. 5º, XXXIV, "a"</strong> — Direito de petição aos poderes públicos, independentemente do pagamento de taxas. Esses dispositivos são o fundamento direto da SV 21.</p>
+
+<h3>Súmula Vinculante 21/STF</h3>
+
+<p>"É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo." Aprovada em 2009, com base nos precedentes das ADIs 1.976/DF e 1.922/DF. Aplica-se a qualquer esfera federativa e a qualquer matéria (não apenas tributária).</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela estrutura do PAT federal (Decreto 70.235/72), que é o modelo mais detalhado e estudado pela doutrina. Concentre-se no fluxo processual: auto de infração → impugnação → julgamento pela DRJ → recurso voluntário ao CARF → eventual recurso especial à CSRF. Entenda em que momento o crédito é definitivamente constituído (quando não há mais recurso administrativo) e quando a exigibilidade fica suspensa.</p>
+
+<p>Na sequência, estude a legislação estadual. O Decreto-Lei 5/1975 e o Decreto 2.473/1979 seguem a mesma lógica, mas com nomenclatura própria (Junta de Revisão Fiscal em vez de DRJ; Conselho de Contribuintes do ERJ em vez de CARF). A banca da PGE/RJ valoriza o conhecimento da legislação fluminense — saber nomear corretamente os órgãos julgadores e os diplomas normativos demonstra preparo específico.</p>
+
+<p>O voto de qualidade no CARF merece estudo cronológico cuidadoso. Faça uma linha do tempo (Decreto 70.235/72 → Lei 13.988/2020 → MP 1.160/2023 → Lei 14.689/2023) e domine as consequências de cada regime. A pergunta clássica de prova é: "quando o voto de qualidade é aplicado, quais são seus efeitos?". A resposta pós-Lei 14.689/2023 envolve exclusão de multa, cancelamento de representação fiscal e possibilidade de parcelamento.</p>
+
+<p>Por fim, domine os princípios. O candidato que consegue articular, em 15 linhas, a relação entre verdade material, informalismo e a proibição de depósito prévio (SV 21) demonstra compreensão sistêmica do tema.</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Impugnação intempestiva não instaura litígio:</strong> se o contribuinte perde o prazo de impugnação, não se instaura a fase litigiosa e o crédito tributário torna-se definitivo na esfera administrativa. A impugnação intempestiva é tratada como mera petição e não suspende a exigibilidade do crédito (art. 17 do Decreto 70.235/72).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Efeito devolutivo, não suspensivo, do recurso ao CARF?</strong> Cuidado: no PAT, a mera existência da impugnação ou do recurso voluntário é suficiente para suspender a exigibilidade do crédito (art. 151, III, CTN — "reclamações e recursos, nos termos das leis reguladoras do processo tributário administrativo"). Diferentemente do processo judicial, não se discute "efeito suspensivo" como condição excepcional — a suspensão decorre diretamente da lei.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fazenda não pode ir ao Judiciário contra decisão administrativa definitiva favorável ao contribuinte:</strong> esse é um ponto frequentemente cobrado. Se o Conselho de Contribuintes (ou o CARF) decide em favor do contribuinte de forma irrecorrível, a Fazenda não pode buscar a revisão judicial, pois o ato administrativo se consolidou como exercício da autotutela. Parte da doutrina discute exceções (nulidade, fraude), mas o entendimento amplamente majoritário é de impossibilidade.</p>
+</div>
+
+<div class="atencao">
+<p><strong>IN RFB 2.205/2024 e a restrição na exclusão de multas:</strong> a regulamentação da Lei 14.689/2023 tentou restringir, por instrução normativa, a exclusão de multas em caso de voto de qualidade, limitando-a às multas de ofício e excluindo multas isoladas, aduaneiras e moratórias. Essa restrição por ato infralegal é objeto de forte questionamento, pois a lei não distinguiu entre espécies de multa. É uma controvérsia que pode aparecer em prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Mudança nos prazos (LC 227/2026):</strong> a conversão de 30 dias corridos para 20 dias úteis (impugnação e recurso voluntário) é recentíssima e pode ser cobrada como "alteração legislativa". Na prática, 20 dias úteis costumam representar prazo ligeiramente maior que 30 corridos (cerca de 28-30 dias corridos, dependendo de feriados), mas a mudança para dias úteis evita a perda de prazo quando a ciência ocorre perto de finais de semana e feriados prolongados.</p>
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Súmula Vinculante 21/STF — depósito prévio</h3>
+
+<p>Aprovada em 29/10/2009, a SV 21 consolidou entendimento firmado a partir do julgamento das ADIs 1.976/DF e 1.922/DF, declarando inconstitucional a exigência de depósito ou arrolamento prévio como requisito de admissibilidade de recurso administrativo. O fundamento é duplo: viola o contraditório e a ampla defesa (art. 5º, LV) e o direito de petição independentemente de taxas (art. 5º, XXXIV, "a"). Aplicável a todas as esferas federativas e a toda matéria administrativa, não apenas tributária.</p>
+
+<h3>ADIs 6.399, 6.403 e 6.415 — voto de qualidade no CARF</h3>
+
+<p>Três ações diretas foram ajuizadas questionando a constitucionalidade do art. 28 da Lei 13.988/2020, que extinguiu o voto de qualidade. A PGR alegou vício formal (inserção de matéria estranha em projeto de lei de conversão). O PSB alegou desequilíbrio na paridade do órgão. A UNAFISCO alegou perda de arrecadação. O STF formou maioria pela constitucionalidade da norma (5 votos a 1, até a suspensão do julgamento). Contudo, a Lei 14.689/2023 superou legislativamente a questão ao restabelecer o voto de qualidade, e o julgamento das ADIs perdeu parcialmente seu objeto prático, embora permaneça relevante para os casos ocorridos durante a vigência do art. 28.</p>
+
+<h3>Súmula 473/STF — autotutela administrativa</h3>
+
+<p>"A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial." Embora não seja exclusiva do PAT, essa súmula fundamenta a impossibilidade de a Fazenda buscar judicialmente a revisão da decisão administrativa que lhe foi desfavorável: a decisão do Conselho de Contribuintes vincula a própria Administração.</p>
+
+<h3>Súmula CARF 162</h3>
+
+<p>"O direito ao contraditório e à ampla defesa somente se instaura com a apresentação de impugnação ao lançamento." Reforça que a fase litigiosa propriamente dita (com todos os direitos processuais que dela decorrem) somente se instala com a formalização da impugnação tempestiva.</p>
+
+<h3>Tema 668/STF (RE 796.939) — arrolamento de bens e direitos</h3>
+
+<p>O STF declarou a constitucionalidade do arrolamento de bens e direitos previsto no art. 64 da Lei 9.532/1997 (quando o crédito tributário exceder 30% do patrimônio do contribuinte). Tese fixada: "é constitucional o arrolamento de bens e direitos do sujeito passivo da obrigação tributária previsto no art. 64 da Lei 9.532/1997." O arrolamento não é requisito para recurso (isso seria inconstitucional pela SV 21), mas sim medida acautelatória do crédito tributário que não impede a livre disposição dos bens pelo contribuinte, apenas obriga a comunicação da alienação à Receita Federal.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparativo: PAT Federal × PAT do Estado do Rio de Janeiro</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>PAT Federal</th>
+<th>PAT Estadual (RJ)</th>
+</tr>
+<tr>
+<td>Legislação de base</td>
+<td>Decreto 70.235/1972</td>
+<td>Decreto-Lei 5/1975 e Decreto 2.473/1979</td>
+</tr>
+<tr>
+<td>Prazo de impugnação</td>
+<td>20 dias úteis (LC 227/2026)</td>
+<td>30 dias (corridos)</td>
+</tr>
+<tr>
+<td>1ª instância</td>
+<td>DRJ (Delegacias de Julgamento)</td>
+<td>Junta de Revisão Fiscal</td>
+</tr>
+<tr>
+<td>2ª instância</td>
+<td>CARF (composição paritária)</td>
+<td>Conselho de Contribuintes do ERJ</td>
+</tr>
+<tr>
+<td>Instância uniformizadora</td>
+<td>CSRF (Câmara Superior)</td>
+<td>Não há</td>
+</tr>
+<tr>
+<td>Voto de qualidade</td>
+<td>Sim (Lei 14.689/2023), com exclusão de multa</td>
+<td>Voto de desempate conforme regimento</td>
+</tr>
+<tr>
+<td>Recurso de ofício</td>
+<td>Sim (art. 34, Decreto 70.235/72)</td>
+<td>Sim (decisões contrárias à Fazenda)</td>
+</tr>
+<tr>
+<td>Tributos</td>
+<td>IR, IPI, CSLL, PIS/COFINS e outros federais</td>
+<td>ICMS, IPVA, ITCMD</td>
+</tr>
+</table>
+
+<h3>Linha do tempo: voto de qualidade no CARF</h3>
+
+<table>
+<tr>
+<th>Período</th>
+<th>Regra vigente</th>
+<th>Base legal</th>
+</tr>
+<tr>
+<td>Até abril/2020</td>
+<td>Voto de qualidade (pró-Fisco)</td>
+<td>Art. 25, §9º, Decreto 70.235/72</td>
+</tr>
+<tr>
+<td>Abril/2020 a janeiro/2023</td>
+<td>Empate favorável ao contribuinte</td>
+<td>Art. 28, Lei 13.988/2020</td>
+</tr>
+<tr>
+<td>Janeiro a setembro/2023</td>
+<td>Voto de qualidade restabelecido (provisório)</td>
+<td>MP 1.160/2023</td>
+</tr>
+<tr>
+<td>Setembro/2023 em diante</td>
+<td>Voto de qualidade com exclusão de multa e cancelamento de representação fiscal</td>
+<td>Lei 14.689/2023</td>
+</tr>
+</table>
+
+<h3>Princípios do PAT</h3>
+
+<table>
+<tr>
+<th>Princípio</th>
+<th>Conteúdo essencial</th>
+</tr>
+<tr>
+<td>Contraditório e ampla defesa</td>
+<td>Direito de ser ouvido, produzir provas e recorrer (art. 5º, LV, CF; SV 21)</td>
+</tr>
+<tr>
+<td>Verdade material</td>
+<td>Autoridade julgadora busca a realidade dos fatos, podendo determinar diligências de ofício</td>
+</tr>
+<tr>
+<td>Informalismo moderado</td>
+<td>Deficiências formais não prejudicam o contribuinte se a substância estiver presente</td>
+</tr>
+<tr>
+<td>Oficialidade</td>
+<td>Impulso de ofício — o processo avança independentemente de provocação</td>
+</tr>
+<tr>
+<td>Gratuidade</td>
+<td>Não há custas no processo administrativo tributário</td>
+</tr>
+<tr>
+<td>Publicidade restrita</td>
+<td>Acesso às partes, mas protegido pelo sigilo fiscal (art. 198, CTN)</td>
+</tr>
+</table>
+
+</div>

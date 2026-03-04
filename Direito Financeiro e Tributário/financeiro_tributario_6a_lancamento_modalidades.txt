@@ -1,0 +1,189 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Lançamento Tributário: Modalidades</h1>
+<p class="subtitulo">Ponto 6, item "a" — Conceito, natureza jurídica e modalidades de lançamento: de ofício, por declaração e por homologação</p>
+
+<!-- ========== SEÇÃO 1 ========== -->
+<h2>Panorama do Tema</h2>
+
+<p>O lançamento tributário é o ato que formaliza a exigência do tributo pelo Estado. Sem ele, o crédito tributário não se constitui definitivamente e não pode ser inscrito em dívida ativa nem cobrado em execução fiscal. Para o Procurador do Estado, compreender as modalidades de lançamento é condição para avaliar a regularidade da CDA, calcular prazos de decadência e prescrição e fundamentar a defesa do crédito tributário em juízo.</p>
+
+<p>O tema conecta-se diretamente com a decadência e prescrição (Ponto 6b), com a suspensão e extinção do crédito tributário (também 6b) e com as garantias do crédito (Ponto 6d). A modalidade de lançamento determina o dies a quo do prazo decadencial — razão pela qual a correta identificação da modalidade tem consequência processual direta.</p>
+
+<p>No contexto do Estado do Rio de Janeiro, o ICMS (principal tributo estadual) é sujeito a lançamento por homologação, o IPVA é lançado de ofício, e o ITCMD é lançado por declaração. Cada modalidade impõe dinâmicas distintas de fiscalização, constituição e cobrança que o Procurador deve dominar.</p>
+
+<!-- ========== SEÇÃO 2 ========== -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito de lançamento (art. 142 do CTN)</h3>
+
+<p>O lançamento é o procedimento administrativo tendente a: (i) verificar a ocorrência do fato gerador; (ii) determinar a matéria tributável; (iii) calcular o montante do tributo devido; (iv) identificar o sujeito passivo; e (v) propor, quando cabível, a aplicação da penalidade. É <strong>atividade vinculada e obrigatória</strong>, sob pena de responsabilidade funcional (art. 142, parágrafo único). Não há discricionariedade: constatada a ocorrência do fato gerador, a autoridade deve lançar.</p>
+
+<p>Quanto à natureza jurídica, o CTN adota a teoria mista: o lançamento é ato administrativo (e não ato legislativo), mas o crédito tributário nasce com o fato gerador — o lançamento apenas declara a obrigação preexistente e constitui formalmente o crédito. Por isso se diz que o lançamento tem natureza <strong>mista</strong>: declaratória da obrigação e constitutiva do crédito.</p>
+
+<h3>Legislação aplicável ao lançamento (art. 144 do CTN)</h3>
+
+<p>O lançamento reporta-se à data do fato gerador e rege-se pela lei vigente nesse momento, ainda que posteriormente modificada ou revogada (art. 144, caput). Exceção (§1º): aplicam-se ao lançamento as leis que instituam novos critérios de apuração ou fiscalização, ampliem poderes de investigação ou outorguem maiores garantias ao crédito tributário — estas têm aplicação imediata, mesmo para fatos geradores pretéritos, pois são normas procedimentais.</p>
+
+<h3>Alterabilidade do lançamento (arts. 145-146 do CTN)</h3>
+
+<p>Uma vez notificado ao sujeito passivo, o lançamento só pode ser alterado por: (i) impugnação do sujeito passivo; (ii) recurso de ofício; (iii) iniciativa de ofício da autoridade, nos casos do art. 149. A mudança de critério jurídico pela administração (art. 146) só pode ser aplicada prospectivamente — é vedada a cobrança retroativa com base em novo critério.</p>
+
+<h3>Lançamento de ofício (art. 149 do CTN)</h3>
+
+<p>Na modalidade de ofício (ou direto), a autoridade administrativa apura todos os elementos da obrigação tributária sem necessidade de colaboração do sujeito passivo. A autoridade identifica o fato gerador, calcula o tributo, identifica o devedor e notifica-o para pagamento. Exemplos típicos: IPTU, IPVA, taxas, contribuição de melhoria.</p>
+
+<p>O art. 149 também enumera as hipóteses em que o lançamento de ofício é obrigatório, mesmo para tributos originariamente sujeitos a outra modalidade: quando a declaração não é prestada, quando a lei assim determina, quando o sujeito passivo agiu com dolo, fraude ou simulação, quando deveria ser dado e não foi, entre outras. Isso significa que o lançamento de ofício funciona como <strong>modalidade residual</strong> — quando as outras falham, a autoridade pode (e deve) lançar de ofício.</p>
+
+<h3>Lançamento por declaração (art. 147 do CTN)</h3>
+
+<p>Na modalidade por declaração (ou misto), o sujeito passivo presta informações ao fisco sobre a matéria de fato, e a autoridade administrativa, com base nessas informações, constitui o crédito. Há colaboração entre ambos: o contribuinte declara os fatos e o fisco calcula e formaliza. Exemplo clássico: ITCMD (o contribuinte declara a ocorrência da transmissão e o valor dos bens, e o fisco calcula o imposto).</p>
+
+<p>Se a declaração contiver erros de fato, pode ser retificada pelo contribuinte, desde que antes da notificação do lançamento e mediante comprovação do erro (art. 147, §1º). A retificação que resulte em redução ou exclusão do tributo só é admissível com prova do erro.</p>
+
+<h3>Lançamento por homologação (art. 150 do CTN)</h3>
+
+<p>Na modalidade por homologação (chamada impropriamente de "autolançamento"), o sujeito passivo realiza praticamente todas as etapas: identifica o fato gerador, calcula o tributo, recolhe antecipadamente e presta declaração ao fisco. A atividade da autoridade se limita a <strong>homologar</strong> (expressa ou tacitamente) a atividade do contribuinte. Se o fisco não se pronunciar em cinco anos contados do fato gerador, opera-se a <strong>homologação tácita</strong> (art. 150, §4º).</p>
+
+<p>O ICMS, o IPI, o IR (pessoa jurídica), o PIS, a COFINS e a maioria dos tributos federais são sujeitos a lançamento por homologação. É a modalidade quantitativamente mais importante do sistema tributário brasileiro.</p>
+
+<div class="destaque">
+<strong>Constituição do crédito pela declaração do contribuinte (Súmula 436/STJ):</strong> "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco." Essa súmula é fundamental: nos tributos sujeitos a lançamento por homologação, quando o contribuinte entrega a DCTF, a GIA ou outra declaração equivalente, o crédito tributário está constituído — independentemente de homologação expressa pelo fisco. A consequência prática é que o fisco pode inscrever o débito declarado e não pago diretamente em dívida ativa, sem necessidade de novo lançamento.
+</div>
+
+<h3>Revisão do lançamento de ofício (art. 149, incisos I a IX)</h3>
+
+<p>O lançamento pode ser revisto de ofício quando: a lei determinar (I); a declaração não for prestada (II); quem era obrigado a prestar declaração o fez com erro (III); comprovada falsidade, erro ou omissão (IV); contestação por ação judicial, contestação administrativa ou embargos de terceiro (V); necessidade de complementação ou substituição por fatos apurados em impugnação ou recurso (VI); dolo, fraude ou simulação (VII); erro de fato no lançamento anterior (VIII); ou fraude ou falta funcional da autoridade (IX).</p>
+
+<div class="destaque">
+<strong>Erro de fato vs. erro de direito (arts. 146 e 149, VIII):</strong> o lançamento pode ser revisto por erro de fato (equívoco na apuração dos fatos — art. 149, VIII), mas não por mudança de critério jurídico (art. 146). Se a autoridade errou na interpretação da lei, essa mudança só pode produzir efeitos prospectivos. Se errou na constatação dos fatos (valor da operação, identificação do contribuinte, base de cálculo), pode corrigir retroativamente. O STJ consolidou em 2024 que a requantificação da base de cálculo é erro de fato, não erro de direito.
+</div>
+
+<!-- ========== SEÇÃO 3 ========== -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos centrais</h3>
+
+<table>
+<tr><th>Dispositivo</th><th>Conteúdo</th><th>Relevância</th></tr>
+<tr><td>Art. 142 do CTN</td><td>Conceito de lançamento: procedimento vinculado e obrigatório</td><td>Natureza mista: declaratória + constitutiva</td></tr>
+<tr><td>Art. 144 do CTN</td><td>Lei aplicável: vigente na data do FG; exceção para normas procedimentais</td><td>Irretroatividade material + retroatividade procedimental</td></tr>
+<tr><td>Art. 145 do CTN</td><td>Alterabilidade do lançamento: impugnação, recurso de ofício, revisão</td><td>Limites à modificação após notificação</td></tr>
+<tr><td>Art. 146 do CTN</td><td>Mudança de critério jurídico: efeitos apenas prospectivos</td><td>Proibição de revisão retroativa por reinterpretação</td></tr>
+<tr><td>Art. 147 do CTN</td><td>Lançamento por declaração: contribuinte informa, fisco constitui</td><td>ITCMD, ITBI (em muitos municípios)</td></tr>
+<tr><td>Art. 149 do CTN</td><td>Lançamento de ofício: hipóteses taxativas de revisão</td><td>IPTU, IPVA, taxas + modalidade residual</td></tr>
+<tr><td>Art. 150 do CTN</td><td>Lançamento por homologação: contribuinte apura e recolhe; fisco homologa</td><td>ICMS, IPI, IR, PIS, COFINS — modalidade mais relevante</td></tr>
+<tr><td>Art. 150, §4º, do CTN</td><td>Homologação tácita: 5 anos do FG sem manifestação do fisco</td><td>Prazo decadencial para o fisco contestar a apuração do contribuinte</td></tr>
+</table>
+
+<h3>Jurisprudência relevante</h3>
+
+<div class="destaque">
+<strong>Súmula 436/STJ:</strong> "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do Fisco." Consequência direta: débito declarado e não pago pode ser inscrito em dívida ativa sem necessidade de procedimento administrativo de lançamento. A constituição do crédito ocorre com a entrega da declaração (DCTF, GIA, GFIP).
+</div>
+
+<p><strong>Súmula Vinculante 24/STF:</strong> "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, I a IV, da Lei 8.137/90, antes do lançamento definitivo do tributo." Reforça que o lançamento é condição para a constituição definitiva do crédito — e, por extensão, para a configuração do crime tributário material.</p>
+
+<p><strong>Súmula 555/STJ:</strong> "Quando não houver declaração do débito, o prazo decadencial quinquenal para o Fisco constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN, nos casos em que a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa." Em tributos por homologação, se o contribuinte não declara, a decadência segue o art. 173, I (primeiro dia do exercício seguinte) — não o art. 150, §4º.</p>
+
+<p><strong>STJ — erro de fato na revisão do lançamento (2024):</strong> a Corte confirmou que a requantificação monetária da base de cálculo constitui erro de fato (art. 149, VIII), autorizando a revisão do lançamento. Não se confunde com erro de direito (mudança de critério jurídico — art. 146), que impediria a retroação.</p>
+
+<p><strong>STJ — IPTU e lançamento de ofício (Súmula 397):</strong> "O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu endereço." Nos tributos lançados de ofício, a notificação pessoal é dispensável quando há envio regular do documento de cobrança.</p>
+
+<!-- ========== SEÇÃO 4 ========== -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 142, que traz o conceito legal de lançamento. Memorize os cinco elementos que a autoridade deve apurar — constituem uma fórmula que pode ser reproduzida integralmente em prova discursiva. Em seguida, estude o art. 144 (lei aplicável) e os arts. 145-146 (limites de alteração), que formam o arcabouço teórico antes das modalidades.</p>
+
+<p>Para as três modalidades, utilize a seguinte lógica: em ordem crescente de participação do contribuinte, temos ofício (fisco faz tudo), declaração (contribuinte informa, fisco calcula) e homologação (contribuinte faz quase tudo, fisco apenas confere). Associe cada modalidade a tributos concretos — IPTU e IPVA (ofício), ITCMD (declaração), ICMS e IR (homologação) — para fixar a aplicação prática.</p>
+
+<p>Domine a Súmula 436/STJ, pois ela tem implicações enormes para a PGE/RJ: a declaração do contribuinte (GIA-ICMS, por exemplo) já constitui o crédito e permite a inscrição direta em dívida ativa. Essa compreensão é essencial para a prova discursiva.</p>
+
+<p>Por fim, conecte as modalidades de lançamento com os prazos decadenciais (Ponto 6b): tributos de ofício seguem o art. 173, I; tributos por homologação com pagamento seguem o art. 150, §4º; e tributos por homologação sem declaração seguem o art. 173, I (Súmula 555/STJ).</p>
+
+<!-- ========== SEÇÃO 5 ========== -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Lançamento por homologação ≠ autolançamento:</strong> a expressão "autolançamento" é imprecisa e deve ser evitada em prova. O lançamento é ato privativo da autoridade administrativa (art. 142). O que o contribuinte faz é antecipar o pagamento — a autoridade homologa (ou não) essa atividade. O contribuinte não "lança" o tributo; ele antecipa o pagamento e declara ao fisco, que verificará a correção.
+</div>
+
+<div class="atencao">
+<strong>Declaração do contribuinte constitui o crédito (Súmula 436):</strong> embora o nome da modalidade seja "por homologação", na prática, quando o contribuinte entrega a declaração (DCTF, GIA), o crédito já está constituído. A partir daí, se não houve pagamento, o fisco pode inscrever em dívida ativa sem novo ato de lançamento. É um dos pontos mais cobrados em provas de procuradoria.
+</div>
+
+<div class="atencao">
+<strong>Lançamento de ofício como modalidade residual:</strong> mesmo que o tributo seja originariamente sujeito a homologação ou declaração, se o contribuinte não cumprir seus deveres (não declarar, declarar com erro, agir com dolo/fraude), a autoridade pode lançar de ofício (art. 149). Isso significa que qualquer tributo pode ser lançado de ofício quando as circunstâncias o exigirem.
+</div>
+
+<div class="atencao">
+<strong>Erro de fato ≠ erro de direito na revisão:</strong> a autoridade pode revisar o lançamento por erro de fato (equívoco na base de cálculo, identificação incorreta do sujeito passivo) dentro do prazo decadencial. Mas não pode revisar por mudança de critério jurídico (reinterpretação da lei) retroativamente — art. 146 do CTN. A distinção é frequentemente explorada em provas e a banca pode apresentar situações limítrofes.
+</div>
+
+<!-- ========== SEÇÃO 6 ========== -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<table>
+<tr><th>Tema / Súmula</th><th>Conteúdo</th><th>Status</th></tr>
+<tr><td>Súmula 436/STJ</td><td>Declaração do contribuinte constitui o crédito tributário</td><td>Consolidada</td></tr>
+<tr><td>Súmula 397/STJ</td><td>Contribuinte do IPTU é notificado pelo envio do carnê</td><td>Consolidada</td></tr>
+<tr><td>SV 24/STF</td><td>Crime tributário material exige lançamento definitivo</td><td>Consolidada (com mitigações recentes)</td></tr>
+<tr><td>Súmula 555/STJ</td><td>Sem declaração em tributo por homologação: decadência pelo art. 173, I</td><td>Consolidada</td></tr>
+<tr><td>Súmula 360/STJ</td><td>Denúncia espontânea não se aplica a tributo declarado e não pago</td><td>Consolidada</td></tr>
+</table>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<div class="destaque">
+<strong>STJ — erro de fato na revisão de lançamento (2024):</strong> a Corte definiu que a requantificação da base de cálculo do imposto, adequando-a ao valor efetivamente devido, configura erro de fato (art. 149, VIII), autorizando revisão. Afastou-se a tese de erro de direito (art. 146), que impediria a retroação. A decisão tem impacto na fiscalização de ICMS e outros tributos estaduais.
+</div>
+
+<p><strong>STJ — mitigação da SV 24 (2024-2025):</strong> a jurisprudência mais recente do STJ tem admitido exceções à exigência de lançamento definitivo para início da ação penal tributária, sobretudo quando há fraudes estruturadas que impedem o próprio lançamento. A 6ª Turma reconheceu que, diante de embaraço à fiscalização, é possível iniciar a persecução penal antes da constituição do crédito — relativizando a interpretação literal da SV 24.</p>
+
+<p><strong>STJ — lançamento complementar e prazo decadencial:</strong> quando o fisco realiza lançamento complementar para exigir diferença apurada em auditoria fiscal (situação comum no ICMS fluminense), o prazo decadencial corre da mesma forma que o lançamento originário — o que importa é a data do fato gerador, não a data em que a diferença foi detectada.</p>
+
+<!-- ========== SEÇÃO 7 ========== -->
+<h2>Quadro Esquemático</h2>
+
+<h3>Modalidades de lançamento — comparação</h3>
+
+<table>
+<tr><th>Critério</th><th>De Ofício (art. 149)</th><th>Por Declaração (art. 147)</th><th>Por Homologação (art. 150)</th></tr>
+<tr><td>Participação do contribuinte</td><td>Nenhuma — fisco apura tudo</td><td>Parcial — contribuinte informa fatos</td><td>Integral — contribuinte apura, calcula e paga</td></tr>
+<tr><td>Papel do fisco</td><td>Apura, calcula, identifica sujeito passivo, notifica</td><td>Recebe informações e constitui o crédito</td><td>Homologa (expressa ou tacitamente)</td></tr>
+<tr><td>Tributos típicos</td><td>IPTU, IPVA, taxas, contribuição de melhoria</td><td>ITCMD, ITBI (em muitos municípios)</td><td>ICMS, IPI, IR, PIS, COFINS, CSLL</td></tr>
+<tr><td>Prazo decadencial</td><td>Art. 173, I: 1º dia do exercício seguinte</td><td>Art. 173, I: 1º dia do exercício seguinte</td><td>Art. 150, §4º: 5 anos do FG (com pagamento); art. 173, I (sem declaração — Súmula 555)</td></tr>
+<tr><td>Constituição do crédito</td><td>Com a notificação do lançamento</td><td>Com a notificação do lançamento</td><td>Com a entrega da declaração (Súmula 436) ou com a homologação</td></tr>
+</table>
+
+<h3>Elementos do lançamento (art. 142 do CTN)</h3>
+
+<table>
+<tr><th>Elemento</th><th>Descrição</th></tr>
+<tr><td>1. Verificação do fato gerador</td><td>Constatar que a hipótese de incidência se concretizou no mundo fático</td></tr>
+<tr><td>2. Determinação da matéria tributável</td><td>Identificar e quantificar a base de cálculo</td></tr>
+<tr><td>3. Cálculo do montante</td><td>Aplicar a alíquota sobre a base de cálculo</td></tr>
+<tr><td>4. Identificação do sujeito passivo</td><td>Determinar quem é o contribuinte ou responsável</td></tr>
+<tr><td>5. Aplicação da penalidade</td><td>Propor multa, se cabível (infrações constatadas)</td></tr>
+</table>
+
+<h3>Hipóteses de lançamento/revisão de ofício (art. 149, incisos)</h3>
+
+<table>
+<tr><th>Inciso</th><th>Hipótese</th></tr>
+<tr><td>I</td><td>Quando a lei expressamente determinar</td></tr>
+<tr><td>II</td><td>Declaração não prestada pelo obrigado</td></tr>
+<tr><td>III</td><td>Declaração prestada com erro de fato, revisável de ofício</td></tr>
+<tr><td>IV</td><td>Comprovação de falsidade, erro ou omissão de elemento da declaração obrigatória</td></tr>
+<tr><td>V</td><td>Contestação por ação judicial, administrativa ou embargos de terceiro</td></tr>
+<tr><td>VI</td><td>Complementação/substituição por fatos apurados em impugnação/recurso</td></tr>
+<tr><td>VII</td><td>Dolo, fraude ou simulação do sujeito passivo ou terceiro</td></tr>
+<tr><td>VIII</td><td>Erro de fato no lançamento anterior</td></tr>
+<tr><td>IX</td><td>Fraude ou falta funcional da autoridade certificadora</td></tr>
+</table>
+
+</div>

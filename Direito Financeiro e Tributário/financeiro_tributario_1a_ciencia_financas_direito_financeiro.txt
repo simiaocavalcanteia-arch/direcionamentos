@@ -1,0 +1,265 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 1a — Ciência das Finanças e Direito Financeiro</h1>
+<p class="subtitulo">Conceito, objeto, autonomia, relação com a Ciência das Finanças e fundamentos constitucionais da disciplina</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>A Ciência das Finanças e o Direito Financeiro são os dois ângulos a partir dos quais se estuda a atividade financeira do Estado. A primeira é disciplina pré-jurídica — investiga, sob perspectivas econômica, política e sociológica, como o Estado obtém, gere e despende recursos para satisfazer necessidades públicas. O segundo é o ramo do Direito Público que disciplina normativamente essa mesma atividade, regulando receita, despesa, orçamento e crédito público. Ambos compartilham o mesmo objeto material (a atividade financeira), mas se distinguem pelo método e pela finalidade: a Ciência das Finanças descreve e explica; o Direito Financeiro prescreve e limita.</p>
+
+<p>Para a PGE/RJ, o tema é o ponto de partida de toda a disciplina de Direito Financeiro e Tributário. A Procuradoria atua diretamente em questões orçamentárias, na defesa do Estado em ações que discutem limites de gasto, vinculação de receitas, abertura de créditos adicionais e responsabilidade fiscal. Compreender a moldura conceitual do Direito Financeiro — sua autonomia, seus princípios e sua relação com o Direito Tributário — é indispensável para fundamentar pareceres e defesas judiciais nessas matérias.</p>
+
+<p>O tema conecta-se com praticamente todos os demais pontos do edital: a atividade financeira do Estado desdobra-se em receitas públicas (Ponto 1d), despesas (Ponto 1d), orçamento (Ponto 1d), crédito público (Ponto 1e) e fundos públicos (Ponto 1f). Também dialoga com o Direito Constitucional (arts. 24, I e II; 145-169 da CF; e arts. 207-213 da CERJ) e com o Direito Administrativo (controle da Administração Pública e responsabilidade fiscal).</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>A atividade financeira do Estado</h3>
+
+<p>O conceito de atividade financeira abrange o conjunto de ações estatais voltadas a obter receitas, realizar despesas, gerir o orçamento público e administrar o crédito público. São quatro fenômenos interdependentes: o Estado arrecada (receita pública), gasta (despesa pública), planeja a aplicação dos recursos (orçamento público) e se endivida ou empresta (crédito público). Essa atividade é instrumental — não é um fim em si mesma, mas o meio pelo qual o Estado financia suas políticas públicas e realiza direitos fundamentais.</p>
+
+<p>A atividade financeira tem natureza complexa: é simultaneamente econômica (lida com recursos escassos), política (resulta de decisões sobre alocação de poder) e jurídica (submete-se a normas constitucionais e legais). A compreensão dessa tripla dimensão ajuda a explicar por que o estudo das finanças públicas não se esgota no Direito Financeiro — ele precisa dialogar com a Economia, a Ciência Política e a Administração Pública.</p>
+
+<div class="destaque">
+<p><strong>Para a prova discursiva:</strong> quando a banca perguntar sobre a atividade financeira do Estado, organize a resposta em torno dos quatro fenômenos (receita, despesa, orçamento e crédito público), destacando que essa atividade é instrumental e regida por normas de Direito Público, especialmente os arts. 163 a 169 da Constituição Federal.</p>
+</div>
+
+<h3>Ciência das Finanças: conceito e objeto</h3>
+
+<p>A Ciência das Finanças é uma disciplina autônoma, de caráter enciclopédico, que estuda os fenômenos financeiros do Estado sob múltiplas perspectivas — econômica, política, sociológica e técnica. Seu objeto é a atividade financeira em sentido amplo: como o Estado identifica necessidades públicas, decide quais serão atendidas, obtém os recursos necessários e aplica esses recursos.</p>
+
+<p>A disciplina tem origens nas escolas europeias do século XIX. A escola italiana (com autores como Griziotti e Pugliese) enfatizava os aspectos políticos e sociológicos das finanças públicas. A escola alemã (Wagner, Stein) privilegiava a análise econômica sistemática. No Brasil, a influência predominante foi a italiana, através de autores como Aliomar Baleeiro, cuja obra <em>Uma Introdução à Ciência das Finanças</em> ainda é referência obrigatória. Baleeiro definia a atividade financeira como "a procura de meios para obter recursos destinados a satisfazer necessidades públicas".</p>
+
+<p>É importante distinguir necessidades públicas de necessidades coletivas. Necessidades públicas são aquelas que o Estado decide atender, por meio de decisão política, através da alocação de recursos no orçamento — saúde, educação, segurança, infraestrutura. Nem toda necessidade coletiva se transforma em necessidade pública: essa transformação depende de escolhas políticas que se materializam, juridicamente, no orçamento.</p>
+
+<h3>Direito Financeiro: conceito e autonomia</h3>
+
+<p>Direito Financeiro é o ramo do Direito Público que disciplina a atividade financeira do Estado em seus aspectos jurídicos. Enquanto a Ciência das Finanças oferece os dados econômicos e políticos, o Direito Financeiro normatiza a arrecadação, a gestão e o dispêndio de recursos públicos, submetendo essas operações a princípios, regras e controles.</p>
+
+<p>A autonomia do Direito Financeiro é reconhecida pela doutrina e pela própria Constituição, que lhe dedica competência legislativa específica (art. 24, I) e capítulo próprio (Título VI, Capítulo II — Das Finanças Públicas, arts. 163-169). Essa autonomia é: (i) constitucional, pois a CF trata o Direito Financeiro como disciplina legislativa distinta; (ii) didática, pois é ensinado como matéria autônoma nas faculdades de Direito; (iii) científica, pois possui objeto, princípios e métodos próprios.</p>
+
+<div class="destaque">
+<p><strong>Direito Financeiro vs. Direito Tributário:</strong> embora ambos integrem o Direito Fiscal em sentido amplo, o Direito Tributário cuida especificamente da relação jurídica tributária (instituição, arrecadação e fiscalização de tributos). O Direito Financeiro é mais abrangente: engloba toda a atividade financeira — receitas tributárias e não tributárias, despesas, orçamento e crédito público. Dito de outro modo, o Direito Tributário é uma parte do Direito Financeiro em sentido amplo, embora tenha conquistado autonomia didática e científica própria.</p>
+</div>
+
+<h3>Fontes do Direito Financeiro</h3>
+
+<p>As fontes do Direito Financeiro organizam-se hierarquicamente: (a) Constituição Federal (arts. 24, I e II; 145-169; ADCT, especialmente arts. 60, 71 e 106-110); (b) lei complementar (CF, art. 163 e art. 165, §9º); (c) lei ordinária (PPA, LDO e LOA são leis ordinárias de iniciativa privativa do Poder Executivo); (d) atos normativos infralegais (decretos, resoluções do Senado, portarias ministeriais).</p>
+
+<p>As leis complementares ocupam posição central no Direito Financeiro. O art. 163 da CF reserva à lei complementar dispor sobre finanças públicas, dívida pública, concessão de garantias, fiscalização financeira e operações de câmbio. O art. 165, §9º, prevê lei complementar para tratar de exercício financeiro, vigência, prazos, elaboração e organização do PPA, LDO e LOA, além de normas de gestão financeira e patrimonial. Essa lei complementar jamais foi editada de forma integral — a lacuna é parcialmente suprida pela Lei 4.320/1964 e pela LC 101/2000 (LRF).</p>
+
+<h3>A Lei 4.320/1964 e sua recepção constitucional</h3>
+
+<p>A Lei 4.320, de 17 de março de 1964, estatui normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal. Embora formalmente uma lei ordinária (aprovada antes da CF/88), o STF reconheceu que ela foi recepcionada com status de lei complementar, na medida em que veicula normas gerais de Direito Financeiro exigidas pelo art. 165, §9º, da CF (ADI-MC 1.726/DF e ADI-MC 4.048/DF).</p>
+
+<p>Essa recepção com status elevado significa que os dispositivos da Lei 4.320/1964 que tratam de normas gerais somente podem ser alterados por lei complementar — é o chamado fenômeno da recepção qualificada ou recepção material. Na prática, a Lei 4.320 e a LRF (LC 101/2000) convivem e se complementam: a primeira regula a estrutura orçamentária e a contabilidade pública; a segunda disciplina a gestão fiscal responsável.</p>
+
+<h3>Competência legislativa concorrente</h3>
+
+<p>O art. 24, I e II, da Constituição estabelece competência legislativa concorrente entre União, Estados e Distrito Federal para legislar sobre Direito Tributário e Direito Financeiro, bem como sobre orçamento. À União cabe editar normas gerais (art. 24, §1º); aos Estados e ao DF, suplementar a legislação federal (art. 24, §2º). Na ausência de lei federal de normas gerais, os Estados exercem competência legislativa plena para atender suas peculiaridades (art. 24, §3º), mas a superveniência de lei federal suspende a eficácia da lei estadual no que lhe for contrário (art. 24, §4º).</p>
+
+<p>Os Municípios, embora não mencionados no art. 24, possuem competência para legislar sobre matéria financeira de interesse local (art. 30, I e II), suplementando a legislação federal e estadual no que couber.</p>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 24, I e II:</strong> competência legislativa concorrente entre União, Estados e DF para legislar sobre Direito Tributário, Direito Financeiro, penitenciário, econômico e urbanístico (inciso I), além de orçamento (inciso II). É o dispositivo que confere autonomia constitucional ao Direito Financeiro como ramo legislativo próprio.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 163:</strong> lei complementar dispora sobre finanças públicas (I), dívida pública externa e interna, incluída a de autarquias, fundações e entidades controladas pelo Poder Público (II), concessão de garantias pelas entidades públicas (III), emissão e resgate de títulos da dívida pública (IV), fiscalização financeira da administração pública direta e indireta (V, redação da EC 40/2003), operações de câmbio (VI), compatibilização das funções de instituições oficiais de crédito da União (VII), sustentabilidade da dívida -- com indicadores de apuração, níveis de compatibilidade dos resultados fiscais, trajetória de convergência, medidas de ajuste e planejamento de alienação de ativos (VIII, incluído pela EC 109/2021) -- e condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária (IX, incluído pela EC 135/2024). O parágrafo único autoriza a lei complementar do inciso VIII a aplicar as vedações do art. 167-A da CF.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 165, §9º:</strong> prevê lei complementar para tratar do exercício financeiro, da vigência, dos prazos, da elaboração e organização do PPA, da LDO e da LOA, e das normas de gestão financeira e patrimonial. Essa lei complementar nunca foi editada de forma integral. O papel é suprido pela Lei 4.320/1964 (recepcionada com status de LC) e pela LRF.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Arts. 70-75:</strong> sistema de controle externo, exercido pelo Congresso Nacional com auxílio do Tribunal de Contas. O art. 75 determina que as normas sobre TCU aplicam-se aos Tribunais de Contas dos Estados e do DF. Relevante para compreender a fiscalização financeira e orçamentária.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 4.320/1964:</strong> normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços de todos os entes federativos. Recepcionada com status de lei complementar. Estruturada em onze títulos: (I) lei de orçamento, (II) receita, (III) despesa, (IV) proposta orçamentária, (V) orçamento, (VI) execução, (VII) fundos especiais, (VIII) controle, (IX) contabilidade, (X) autarquias, (XI) disposições finais.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 101/2000 (LRF):</strong> Lei de Responsabilidade Fiscal. Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, com amparo no Capítulo II do Título VI da CF. Aplica-se a todos os entes federativos e a todos os Poderes, incluindo Ministério Público e Tribunais de Contas. Trouxe conceitos como metas fiscais, limites de despesa com pessoal (arts. 19-20), limites de endividamento e mecanismos de transparência.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Arts. 207-213:</strong> disciplinam as finanças públicas estaduais. O art. 207 reproduz a estrutura federal (PPA, LDO, LOA). O art. 209 trata da lei orçamentária anual, que compreende o orçamento fiscal, o de investimento das empresas estatais e o da seguridade social. O art. 212 dispõe sobre vedações orçamentárias. O art. 213 trata de créditos adicionais. A CERJ segue, em linhas gerais, a disciplina federal, acrescentando peculiaridades como a exigência de que o Poder Executivo encaminhe à Assembleia Legislativa relatório trimestral da execução orçamentária.</p>
+
+<p><span class="tag-cerj">CERJ</span> O Estado do Rio de Janeiro editou a Lei Complementar Estadual 105/2002, que dispõe sobre normas de finanças públicas estaduais voltadas para a responsabilidade fiscal, complementando a LRF no âmbito do Estado.</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI-MC 4.048/DF (2008):</strong> o STF reconheceu que a Lei 4.320/1964 foi recepcionada com status de lei complementar e, nesse julgamento, também firmou que medidas provisórias que abram créditos extraordinários podem ser submetidas a controle concentrado de constitucionalidade. A decisão é relevante porque afirmou que leis orçamentárias, apesar de concretas, são passíveis de controle abstrato.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (2020):</strong> após mais de 20 anos de tramitação, o STF julgou parcialmente procedente a ADI contra diversos dispositivos da LRF. Declarou inconstitucionais: o art. 9, par. 3 (que autorizava o Executivo a limitar unilateralmente repasses aos demais Poderes e ao MP), o art. 23, par. 2 (que permitia redução de jornada com adequação de vencimentos dos servidores para reenquadrar limites de pessoal) e os arts. 56, caput, e 57, caput (que distorciam o modelo constitucional de prestação de contas). Conferiu interpretação conforme ao art. 23, par. 1 (vedando interpretação que permitisse reduzir vencimentos de cargos providos), e ao art. 12, par. 2 (operações de crédito suplementares). O art. 20, incluídos seus parágrafos, foi declarado constitucional -- os limites de despesa com pessoal repartidos entre os Poderes não violam a autonomia federativa. Manteve hígidos os mecanismos centrais de responsabilidade fiscal.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADPF 850, 851, 854 e 1.014 (2022) — orçamento secreto:</strong> em 19/12/2022, por 6 votos a 5, o Plenario (Rel. Min. Rosa Weber) declarou a inconstitucionalidade das emendas de relator-geral (RP-9), por violação aos princípios da publicidade, da transparência e da impessoalidade. Determinou a identificação de parlamentares autores e beneficiários, e a publicação de dados sobre serviços, obras e compras financiados com tais verbas nos exercícios 2020-2022. Paralelamente, a EC 105/2019 havia acrescentado o art. 166-A a CF, criando as chamadas "transferências especiais" (emendas Pix), pelas quais os recursos transferidos passam ao patrimônio do ente beneficiário no momento da efetivação financeira, com proibição de uso para pessoal e serviço da dívida.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenario virtual, j. 11/04/2025):</strong> por unanimidade, conferiu interpretação conforme aos arts. 3, caput, e par. 2, da LC 200/2023, para excepcionar do teto de despesas do arcabouço fiscal as receitas proprias dos tribunais e orgãos do Judiciário Federal destinadas a atividades específicas da Justiça, preservando a autonomia financeira dos arts. 99 e 168 da CF.</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela Constituição Federal: leia os arts. 24, I e II (competência concorrente), 163 (reserva de lei complementar), 165 a 169 (orçamento e finanças públicas) e 70 a 75 (controle externo). Esses dispositivos formam a base constitucional de todo o Direito Financeiro e serão mencionados, direta ou indiretamente, em praticamente todas as questões da disciplina.</p>
+
+<p>Em seguida, estude a Lei 4.320/1964 (ao menos os Títulos I a IV e o Título VIII, que tratam da estrutura orçamentária, da classificação de receitas e despesas e do controle interno e externo). Não é necessário decorar cada artigo, mas é preciso compreender a lógica da lei: como o orçamento se organiza, como receitas e despesas se classificam e como funciona o controle da execução orçamentária.</p>
+
+<p>A LRF (LC 101/2000) é leitura obrigatória. Concentre-se nos seguintes blocos: planejamento (arts. 1º-10), receita pública (arts. 11-14), despesa pública (arts. 15-24, com destaque para os limites de pessoal dos arts. 19-20), transferências voluntárias (art. 25), dívida e endividamento (arts. 29-42) e transparência (arts. 48-59).</p>
+
+<p>Neste ponto introdutório, o mais importante é dominar três aspectos: (1) a distinção entre Ciência das Finanças e Direito Financeiro (disciplina pré-jurídica vs. disciplina normativa); (2) a autonomia do Direito Financeiro e sua relação com o Direito Tributário; (3) o quadro normativo do Direito Financeiro (CF + Lei 4.320 + LRF como bases do sistema). Esses conceitos aparecem com frequência na abertura de provas discursivas como premissa para questões mais específicas.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Lei 4.320/1964 é lei ordinária, mas tem status de lei complementar.</strong> Esse é um dos pontos mais cobrados em provas: a Lei 4.320 foi aprovada como lei ordinária (não existia a categoria de lei complementar em 1964), mas, como veicula normas gerais de Direito Financeiro — matéria que a CF/88 reserva à lei complementar —, foi recepcionada com esse status superior. Consequência prática: seus dispositivos de normas gerais só podem ser alterados por lei complementar.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Direito Financeiro ≠ Direito Tributário:</strong> embora o edital reúna ambos em uma única disciplina, são ramos distintos com autonomia própria. O Direito Financeiro cuida de toda a atividade financeira do Estado (receita, despesa, orçamento, crédito público); o Direito Tributário cuida especificamente da relação jurídica tributária. Em prova discursiva, evite tratar os dois como sinônimos — a banca valoriza a distinção técnica.</p>
+</div>
+
+<div class="atencao">
+<p><strong>A LC do art. 165, §9º, ainda não foi editada.</strong> A Constituição prevê uma lei complementar ampla para tratar de exercício financeiro, vigência, prazos e organização de PPA, LDO e LOA. Passados mais de 35 anos, essa lei complementar nunca foi editada integralmente. A lacuna é suprida pela Lei 4.320/1964 e pela LRF, mas permanece uma omissão legislativa relevante que pode ser explorada em prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Competência concorrente não inclui Municípios expressamente.</strong> O art. 24, I e II, menciona apenas União, Estados e DF. Municípios legislam sobre matéria financeira com base no art. 30, I e II (interesse local e suplementação da legislação federal e estadual). Bancas costumam explorar essa sutileza.</p>
+</div>
+
+<div class="atencao">
+<p><strong>ADI 2.238 (LRF) — cuidado com os dispositivos efetivamente declarados inconstitucionais.</strong> Muitos materiais de estudo afirmam erroneamente que o art. 20, par. 2, da LRF foi declarado inconstitucional. Na verdade, o art. 20 inteiro (incluidos seus paragrafos) foi declarado constitucional -- a repartição dos limites de pessoal entre Poderes nao viola autonomia federativa. Os dispositivos declarados inconstitucionais foram: art. 9, par. 3 (limitação unilateral do Executivo sobre repasses), art. 23, par. 2 (redução de jornada com adequação de vencimentos) e arts. 56 e 57, caput (modelo de prestação de contas). A LRF permanece válida e vigente em seus mecanismos centrais.</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI-MC 4.048/DF (Rel. Min. Gilmar Mendes, Plenário, 2008):</strong> abriu a possibilidade de controle abstrato de constitucionalidade de leis orçamentárias e reconheceu a recepção da Lei 4.320/1964 com status de lei complementar. Superou a jurisprudência anterior (ADI 1.640), que não admitia controle concentrado de leis de efeito concreto. Tese central: atos normativos do poder público, mesmo quando de efeito concreto, podem ser submetidos a controle concentrado, desde que veiculem conteúdo normativo. Esse entendimento foi reafirmado em múltiplos julgados posteriores.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Rel. Min. Alexandre de Moraes, Plenario, j. 24/06/2020):</strong> julgamento da constitucionalidade de diversos dispositivos da LRF. Dispositivos declarados inconstitucionais: art. 9, par. 3 (limitação unilateral pelo Executivo sobre repasses aos demais Poderes e MP); art. 23, par. 2 (redução temporária de jornada com adequação de vencimentos); arts. 56, caput, e 57, caput (modelo de prestação de contas). Interpretação conforme: art. 23, par. 1 (veda interpretação que permita reduzir vencimentos de cargos providos); art. 12, par. 2 (operações de crédito). Dispositivos mantidos como constitucionais: art. 20 e seus parágrafos (limites de pessoal repartidos entre Poderes), arts. 19-20 (limites globais), mecanismos de transparência, regras de endividamento. A decisão reforçou a autonomia financeira dos Poderes e do MP, mas sem invalidar a repartição interna dos limites de pessoal.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 6.357/DF (Rel. Min. Alexandre de Moraes, 2020):</strong> em medida cautelar, o STF afastou exigências da LRF (demonstração de adequação orçamentária e compensação) e da LDO para a criação de programas de enfrentamento à pandemia de Covid-19, estendendo o benefício a todos os entes que decretaram calamidade pública. O Plenario referendou a cautelar, mas declarou a ação extinta por perda de objeto, ante a superveniência da EC 106/2020 (o chamado "orçamento de guerra"), que constitucionalizou medidas análogas. A decisão é relevante porque reconheceu que situações excepcionais justificam flexibilização temporária das regras fiscais.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADPFs 850, 851, 854 e 1.014 (Rel. Min. Rosa Weber, Plenario, j. 19/12/2022) — orçamento secreto:</strong> por 6 votos a 5, o STF declarou a inconstitucionalidade das emendas de relator-geral (RP-9) por violação aos princípios da publicidade, transparência e impessoalidade na execução orçamentária. A decisão impôs identificação dos parlamentares autores e beneficiários de cada emenda e a publicação dos dados sobre serviços, obras e compras realizados com tais verbas nos exercícios 2020-2022. O tema permanece em evolução, com desdobramentos nas decisões do Min. Flavio Dino sobre transparência das emendas de 2025 e 2026.</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenario virtual, j. 11/04/2025) — receitas proprias do Judiciario e arcabouço fiscal:</strong> por unanimidade, o STF conferiu interpretação conforme a Constituição aos arts. 3, caput, e par. 2, da LC 200/2023 (novo arcabouço fiscal), para excepcionar do teto de despesas as receitas proprias dos tribunais e orgãos do Judiciário Federal destinadas a custear serviços vinculados a atividades específicas da Justiça. A decisão preserva a autonomia financeira prevista nos arts. 99 e 168 da CF, sem comprometer o esforço de recuperação fiscal, pois a limitação permanece sobre as transferências orçamentárias da União.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 4.124/BA (Rel. Min. Nunes Marques, Plenario virtual, j. 15/12/2025):</strong> o STF declarou inconstitucionais normas da Constituição baiana e de lei complementar estadual que previam prestação de contas do TCM-BA diretamente a Assembleia Legislativa, firmando que o TCM-BA deve prestar contas ao TCE-BA. Manteve, porém, a obrigação de envio de relatórios trimestrais e anuais a ALBA. A decisão reafirma que os Tribunais de Contas vinculados ao controle municipal devem observar a modelagem institucional dos arts. 70-75 da CF e repercute sobre a organização do controle externo em todos os Estados.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADIs 7.064 e 7.047 (2023) — precatorios e teto de gastos:</strong> o Plenario declarou inconstitucionais dispositivos das ECs 113 e 114/2021 que impunham limite (teto) ao pagamento de precatorios entre 2022 e 2026, determinando a retomada integral dos pagamentos. A decisão autorizou a regularização dos valores retidos e estabeleceu que os precatorios excedentes ao limite da EC 114 nao se computam para efeito da meta de resultado primario. O julgamento e relevante para o Direito Financeiro por definir que a satisfação de obrigações judiciais nao pode ser subordinada indefinidamente a metas fiscais.</p>
+
+<p><span class="tag-stf">STF</span> <strong>Emendas parlamentares — decisões do Min. Flavio Dino (dez/2024 a mar/2025):</strong> em desdobramento das ADPFs 850 e correlatas, o Min. Flavio Dino suspendeu o pagamento de R$ 4,2 bilhoes em emendas de comissão por falta de atas de aprovação e condicionou a execução de emendas de 2025 ao cumprimento de requisitos de transparência no Portal da Transparência e no Transferegov.br. Em dezembro de 2025, suspendeu trecho de PL que reativava emendas RP-9 ja canceladas. Em marco de 2025, o Plenario homologou por unanimidade a liberação das emendas, desde que atendidos os critérios de identificação de autoria e destinação. O tema permanece em evolução e tem potencial de cobrança pela banca.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadro Esquemático</h2>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Ciência das Finanças</th>
+<th>Direito Financeiro</th>
+</tr>
+<tr>
+<td><strong>Natureza</strong></td>
+<td>Disciplina pré-jurídica (econômica, política, sociológica)</td>
+<td>Ramo do Direito Público</td>
+</tr>
+<tr>
+<td><strong>Objeto</strong></td>
+<td>Atividade financeira do Estado (dimensão fática)</td>
+<td>Atividade financeira do Estado (dimensão normativa)</td>
+</tr>
+<tr>
+<td><strong>Método</strong></td>
+<td>Descritivo e explicativo</td>
+<td>Prescritivo e normativo</td>
+</tr>
+<tr>
+<td><strong>Finalidade</strong></td>
+<td>Compreender como o Estado obtém e aplica recursos</td>
+<td>Regular juridicamente a obtenção e aplicação de recursos</td>
+</tr>
+<tr>
+<td><strong>Referências</strong></td>
+<td>Baleeiro, Griziotti, Wagner, Musgrave</td>
+<td>CF arts. 24/163-169; Lei 4.320/1964; LRF</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Diploma normativo</th>
+<th>Status</th>
+<th>Conteúdo principal</th>
+</tr>
+<tr>
+<td><strong>CF/88, arts. 163-169</strong></td>
+<td>Norma constitucional</td>
+<td>Finanças públicas: PPA, LDO, LOA, princípios, vedações, reservas de LC</td>
+</tr>
+<tr>
+<td><strong>Lei 4.320/1964</strong></td>
+<td>Recepcionada como LC</td>
+<td>Normas gerais: estrutura orçamentária, classificação receitas/despesas, controle, contabilidade pública</td>
+</tr>
+<tr>
+<td><strong>LC 101/2000 (LRF)</strong></td>
+<td>Lei complementar</td>
+<td>Responsabilidade fiscal: metas, limites de pessoal, endividamento, transparência</td>
+</tr>
+<tr>
+<td><strong>LC 200/2023</strong></td>
+<td>Lei complementar</td>
+<td>Novo arcabouço fiscal: substitui o teto de gastos da EC 95/2016, fixa limites de despesa primária com banda de crescimento real</td>
+</tr>
+<tr>
+<td><strong>CERJ, arts. 207-213</strong></td>
+<td>Norma constitucional estadual</td>
+<td>Finanças públicas do RJ: PPA, LDO, LOA estaduais, créditos adicionais, controle</td>
+</tr>
+<tr>
+<td><strong>LCE 105/2002 (RJ)</strong></td>
+<td>Lei complementar estadual</td>
+<td>Normas de responsabilidade fiscal no âmbito do Estado do Rio de Janeiro</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Direito Financeiro</th>
+<th>Direito Tributário</th>
+</tr>
+<tr>
+<td><strong>Objeto</strong></td>
+<td>Toda a atividade financeira do Estado</td>
+<td>Relação jurídica tributária (instituição, arrecadação, fiscalização de tributos)</td>
+</tr>
+<tr>
+<td><strong>Abrangência</strong></td>
+<td>Receita (tributária e não tributária), despesa, orçamento, crédito público</td>
+<td>Apenas receitas tributárias</td>
+</tr>
+<tr>
+<td><strong>Base constitucional</strong></td>
+<td>Arts. 24, I-II; 163-169; 70-75</td>
+<td>Arts. 24, I; 145-162</td>
+</tr>
+<tr>
+<td><strong>Legislação-chave</strong></td>
+<td>Lei 4.320/1964; LC 101/2000</td>
+<td>CTN (Lei 5.172/1966)</td>
+</tr>
+<tr>
+<td><strong>Autonomia</strong></td>
+<td>Reconhecida (constitucional, didática e científica)</td>
+<td>Reconhecida (constitucional, didática e científica)</td>
+</tr>
+</table>
+
+</div>

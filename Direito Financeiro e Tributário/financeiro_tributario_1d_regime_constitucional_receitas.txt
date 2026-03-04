@@ -1,0 +1,333 @@
+
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 1d — Regime Constitucional das Finanças Públicas, Receitas Públicas, Lei 4.320/1964 e LRF</h1>
+<p class="subtitulo">Orçamento público (PPA, LDO, LOA), princípios orçamentários, classificação de receitas e despesas, e responsabilidade fiscal</p>
+
+<!-- SEÇÃO 1 -->
+<h2>Panorama do Tema</h2>
+
+<p>Este ponto é, materialmente, o mais denso do programa de Direito Financeiro. Reúne três grandes blocos: (i) o regime constitucional do orçamento público (arts. 165-169 da CF), com os instrumentos de planejamento (PPA, LDO, LOA), os princípios orçamentários e as vedações constitucionais; (ii) as receitas e despesas públicas, conforme a classificação da Lei 4.320/1964; e (iii) a responsabilidade fiscal introduzida pela LC 101/2000, com seus limites, metas e mecanismos de transparência.</p>
+
+<p>Para a PGE/RJ, esse conteúdo é de aplicação cotidiana. A Procuradoria emite pareceres sobre a elaboração das leis orçamentárias estaduais, sobre a abertura de créditos adicionais, sobre a conformidade de despesas com os limites da LRF, e defende o Estado em ações que questionam a execução orçamentária. O Rio de Janeiro, que aderiu ao Regime de Recuperação Fiscal (LC 159/2017, alterada pela LC 178/2021) e agora negocia a transição para o Propag (LC 212/2025), convive com restrições fiscais severas que tornam o domínio da LRF ainda mais premente.</p>
+
+<p>O tema conecta-se com a atividade financeira do Estado (Ponto 1b), com o federalismo fiscal (Ponto 1c), com a dívida pública (Ponto 1e) e com o controle financeiro (arts. 70-75 da CF, estudados no Ponto 1b). É o ponto que integra os fundamentos teóricos (Pontos 1a e 1b) com a disciplina normativa concreta da gestão financeira do Estado.</p>
+
+<!-- SEÇÃO 2 -->
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Regime constitucional do orçamento (arts. 165-169)</h3>
+
+<p>A Constituição de 1988 instituiu um sistema integrado de planejamento e orçamento composto por três instrumentos, todos de iniciativa privativa do Chefe do Poder Executivo (art. 165): o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA). Cada um cumpre função específica no ciclo orçamentário.</p>
+
+<p><strong>PPA (art. 165, §1º):</strong> estabelece, de forma regionalizada, as diretrizes, objetivos e metas da administração pública para as despesas de capital e outras delas decorrentes, e para os programas de duração continuada. Vigência de 4 anos (do segundo ano de um mandato ao primeiro ano do mandato seguinte). Nenhum investimento cuja execução ultrapasse um exercício financeiro pode ser iniciado sem prévia inclusão no PPA (art. 167, §1º).</p>
+
+<p><strong>LDO (art. 165, §2º):</strong> compreende as metas e prioridades da administração pública, orienta a elaboração da LOA, dispõe sobre as alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento. Após a LRF, a LDO passou a incluir também o Anexo de Metas Fiscais (resultados nominal e primário, montante da dívida) e o Anexo de Riscos Fiscais.</p>
+
+<p><strong>LOA (art. 165, §5º):</strong> compreende o orçamento fiscal, o orçamento de investimento das empresas estatais e o orçamento da seguridade social. É a lei que estima a receita e fixa a despesa para cada exercício financeiro. A LOA não pode conter matéria estranha à previsão de receita e fixação de despesa (princípio da exclusividade — art. 165, §8º), ressalvadas as autorizações para abertura de créditos suplementares e contratação de operações de crédito.</p>
+
+<div class="destaque">
+<p><strong>Hierarquia PPA → LDO → LOA:</strong> o PPA define o planejamento de médio prazo; a LDO conecta o PPA ao orçamento anual, estabelecendo prioridades e metas fiscais; a LOA materializa o orçamento do exercício, devendo ser compatível com PPA e LDO. Qualquer despesa que contrarie o PPA ou a LDO é vedada (art. 167, I e §1º). Em prova discursiva, demonstrar compreensão dessa integração é valorizado.</p>
+</div>
+
+<h3>Princípios orçamentários</h3>
+
+<p>Os princípios orçamentários disciplinam a elaboração, a execução e o controle do orçamento público. Alguns decorrem diretamente da Constituição e da Lei 4.320/1964; outros foram desenvolvidos pela doutrina e pela jurisprudência.</p>
+
+<p><strong>Unidade (ou totalidade):</strong> o orçamento deve ser uno — cada ente federativo deve ter um único orçamento (art. 2º da Lei 4.320). A LOA, embora compreenda três peças (orçamento fiscal, de investimento e da seguridade social), integra uma única lei.</p>
+
+<p><strong>Universalidade:</strong> a LOA deve conter todas as receitas e todas as despesas do ente (art. 2º da Lei 4.320; art. 165, §5º, CF). Nenhuma receita ou despesa pode ficar fora do orçamento.</p>
+
+<p><strong>Anualidade (periodicidade):</strong> o orçamento é autorizado para um exercício financeiro, que coincide com o ano civil (art. 34 da Lei 4.320).</p>
+
+<p><strong>Exclusividade:</strong> a LOA não conterá dispositivo estranho à previsão de receita e à fixação de despesa (art. 165, §8º, CF), exceto autorização para créditos suplementares e operações de crédito.</p>
+
+<p><strong>Não vinculação (não afetação):</strong> é vedada a vinculação de receita de impostos a órgão, fundo ou despesa (art. 167, IV), salvo as exceções constitucionais: repartição de receitas (arts. 158-159), destinação a saúde e educação (arts. 198 e 212), administração tributária (art. 37, XXII), garantia a operações de crédito por antecipação de receita e prestação de garantia ou contragarantia à União.</p>
+
+<p><strong>Legalidade:</strong> nenhuma despesa pode ser realizada sem prévia autorização legislativa (art. 167, I e II). O orçamento é uma lei formal aprovada pelo Legislativo.</p>
+
+<p><strong>Equilíbrio:</strong> o montante de despesas autorizadas não deve ultrapassar a previsão de receitas. Esse princípio, reforçado pela LRF, é fundamental para a sustentabilidade fiscal.</p>
+
+<h3>Vedações constitucionais (art. 167)</h3>
+
+<p>O art. 167 contém um rol extenso de vedações orçamentárias que o candidato deve conhecer: (I) início de programas ou projetos não incluídos na LOA; (II) realização de despesas ou assunção de obrigações que excedam os créditos orçamentários ou adicionais; (III) realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas por créditos suplementares ou especiais com finalidade precisa, aprovados pelo Legislativo por maioria absoluta -- a chamada "regra de ouro"; (IV) vinculação de receita de impostos (com exceções); (V) abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação de recursos correspondentes; (VI) transposição, remanejamento ou transferência de recursos sem autorização legislativa; (VII) concessão ou utilização de créditos ilimitados; (VIII) utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos; (X) transferência voluntária de recursos e concessão de empréstimos para pagamento de pessoal dos Estados, DF e Municípios (exceção: ações de educação, saúde e assistência social); (XI) utilização de recursos de contribuições sociais da seguridade para despesas diversas das previstas no art. 195.</p>
+
+<h3>Créditos adicionais</h3>
+
+<p>Créditos adicionais são autorizações de despesa não previstas ou insuficientemente previstas na LOA. A Lei 4.320/1964 (arts. 40-46) classifica-os em três espécies:</p>
+
+<p><strong>Suplementares:</strong> reforçam dotação orçamentária existente. Dependem de autorização legislativa prévia (pode ser genérica na LOA) e indicação de recursos. Abertos por decreto do Executivo.</p>
+
+<p><strong>Especiais:</strong> atendem a despesas sem dotação específica na LOA. Dependem de autorização legislativa específica e indicação de recursos. Abertos por decreto. Se autorizados nos últimos 4 meses do exercício, podem ser reabertos no exercício seguinte (art. 167, §2º, CF).</p>
+
+<p><strong>Extraordinários:</strong> destinam-se a despesas urgentes e imprevistas (guerra, comoção interna, calamidade pública). Abertos por decreto do Executivo e independem de autorização legislativa prévia. Na União, são abertos por medida provisória (art. 167, §3º). Nos Estados que não admitem MP, por decreto do Governador com comunicação imediata ao Legislativo.</p>
+
+<h3>Receitas públicas: classificação</h3>
+
+<p>As receitas públicas podem ser classificadas sob diferentes critérios. Para o Direito Financeiro, as mais relevantes são:</p>
+
+<p><strong>Quanto à origem (classificação doutrinária):</strong> receitas originárias (decorrentes da exploração do patrimônio estatal — aluguéis, dividendos de empresas estatais, tarifas) e receitas derivadas (decorrentes do poder coercitivo do Estado — tributos, multas). Há ainda as receitas transferidas (recebidas de outro ente — FPE, FPM, quotas do ICMS).</p>
+
+<p><strong>Quanto à categoria econômica (Lei 4.320, art. 11):</strong> receitas correntes (tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços, transferências correntes, outras receitas correntes) e receitas de capital (operações de crédito, alienação de bens, amortização de empréstimos, transferências de capital, outras receitas de capital).</p>
+
+<p>A receita tributária é espécie de receita corrente e a principal fonte de arrecadação dos entes federativos. Abrange impostos, taxas e contribuições de melhoria.</p>
+
+<h3>Despesas públicas: classificação e estágios</h3>
+
+<p>As despesas públicas classificam-se, quanto à categoria econômica (Lei 4.320, art. 12), em despesas correntes (pessoal e encargos sociais, juros e encargos da dívida, outras despesas correntes) e despesas de capital (investimentos, inversões financeiras, amortização da dívida).</p>
+
+<p>A execução da despesa pública percorre três estágios obrigatórios, previstos na Lei 4.320:</p>
+
+<p><strong>Empenho (art. 58):</strong> ato emanado de autoridade competente que cria para o Estado obrigação de pagamento. É o primeiro estágio e condiciona a realização de qualquer despesa. É vedada a realização de despesa sem prévio empenho (art. 60). Modalidades: ordinário (valor exato), estimativo (valor estimado) e global (contratos com valores determinados).</p>
+
+<p><strong>Liquidação (art. 63):</strong> verificação do direito adquirido pelo credor, com base em títulos e documentos comprobatórios. Apura a origem, o objeto, o valor exato a pagar e o credor.</p>
+
+<p><strong>Pagamento (art. 64):</strong> entrega de numerário ao credor, mediante ordem de pagamento. Somente pode ser efetuado após regular liquidação.</p>
+
+<h3>LRF: mecanismos centrais</h3>
+
+<p>A LC 101/2000 introduziu o conceito de responsabilidade fiscal, definida como a gestão planejada e transparente, que previne riscos e corrige desvios capazes de afetar o equilíbrio das contas públicas (art. 1º, §1º). Seus mecanismos centrais:</p>
+
+<p><strong>Metas fiscais (art. 4º, §1º):</strong> a LDO deve incluir Anexo de Metas Fiscais com metas anuais de resultado primário, resultado nominal e montante da dívida para o exercício e os dois subsequentes.</p>
+
+<p><strong>Limites de despesa com pessoal (arts. 19-20):</strong> 50% da receita corrente líquida (RCL) para a União; 60% para Estados e Municípios. O art. 20 distribui esses limites entre os Poderes: no âmbito estadual, 49% ao Executivo, 6% ao Judiciário, 3% ao Legislativo (incluindo o TC) e 2% ao MP.</p>
+
+<p><strong>Limites de endividamento (arts. 29-42):</strong> a dívida consolidada líquida dos Estados não pode exceder 2 vezes a RCL (Resolução do Senado 40/2001). Operações de crédito dependem de autorização específica e estão sujeitas a vedações (art. 35 — vedação de operações entre entes; art. 36 — vedação de operação de crédito com instituição financeira controlada).</p>
+
+<p><strong>Renúncia de receita (art. 14):</strong> qualquer renúncia de receita (isenção, anistia, remissão, subsídio, crédito presumido, redução de alíquota ou base de cálculo) deve ser acompanhada de estimativa do impacto e de medida de compensação. Exceções: alterações de II, IE, IPI e IOF (tributos regulatórios) e cancelamento de débito inferior ao custo de cobrança.</p>
+
+<p><strong>Geração de despesa (arts. 15-17):</strong> despesas não autorizadas, irregulares ou lesivas ao patrimônio público são consideradas não autorizadas (art. 15). Despesas obrigatórias de caráter continuado (DOCC) dependem de estimativa trienal de impacto e de medida compensatória (art. 17).</p>
+
+<p><strong>Transparência (arts. 48-49):</strong> instrumentos de transparência da gestão fiscal: planos, orçamentos, LDO, relatórios de execução e de gestão fiscal, pareceres dos TCs. A LC 131/2009 acrescentou a exigência de divulgação em tempo real da execução orçamentária e financeira.</p>
+
+<!-- SEÇÃO 3 -->
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos constitucionais centrais</h3>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 165:</strong> institui o sistema orçamentário tríplice (PPA, LDO, LOA). §1º: PPA; §2º: LDO; §5º: LOA (orçamento fiscal, de investimento e da seguridade social); §8º: princípio da exclusividade; §9º: reserva de lei complementar para dispor sobre exercício financeiro, vigência, prazos, elaboração e organização do PPA, LDO e LOA, e para estabelecer normas de gestão financeira e patrimonial (essa LC nunca foi editada integralmente; a Lei 4.320/1964 e a LRF cumprem parcialmente esse papel).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 166:</strong> processo legislativo orçamentário. Os projetos de PPA, LDO e LOA são apreciados pelas duas Casas do Congresso na forma do regimento comum. As emendas parlamentares devem indicar recursos necessários e ser compatíveis com o PPA e a LDO.</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 167:</strong> vedações orçamentárias. Destaque para: "regra de ouro" (III -- operações de crédito não podem exceder despesas de capital), não vinculação de receita de impostos (IV), vedação de abertura de crédito suplementar ou especial sem autorização legislativa e indicação de recursos (V), vedação de transposição sem autorização (VI) e créditos extraordinários por MP (§3º).</p>
+
+<p><span class="tag-lei">CF</span> <strong>Art. 169:</strong> limites de despesa com pessoal. Remete à lei complementar (LRF, arts. 19-20). A EC 109/2021 incluiu mecanismos de ajuste fiscal automático quando ultrapassados os limites.</p>
+
+<h3>Legislação infraconstitucional</h3>
+
+<p><span class="tag-lei">LEI</span> <strong>Lei 4.320/1964:</strong> Títulos I a III (lei de orçamento, receita, despesa) disciplinam a estrutura orçamentária e a classificação de receitas e despesas. Arts. 58-70 detalham os estágios da despesa (empenho, liquidação, pagamento). Arts. 40-46 tratam dos créditos adicionais. Recepcionada com status de lei complementar.</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 101/2000 (LRF):</strong> principal legislação infraconstitucional de Direito Financeiro. Aplica-se a todos os entes federativos e a todos os Poderes. Limites de pessoal (arts. 19-20), endividamento (arts. 29-42), renúncia de receita (art. 14), geração de despesa (arts. 15-17), transparência (arts. 48-59), responsabilização (arts. 73-A a 73-C — LC 131/2009).</p>
+
+<p><span class="tag-lei">LEI</span> <strong>LC 200/2023 (novo arcabouço fiscal):</strong> substituiu o teto de gastos da EC 95/2016. Fixa limites de despesa primária com banda de crescimento real (70% do crescimento da receita, com piso de 0,6% e teto de 2,5% ao ano). Aplica-se à União. Estados e Municípios continuam regidos pela LRF e pelas Resoluções do Senado.</p>
+
+<h3>Constituição do Estado do Rio de Janeiro</h3>
+
+<p><span class="tag-cerj">CERJ</span> <strong>Arts. 209-213 (Seção II -- Dos Orçamentos):</strong> reproduzem, com adaptações, o regime orçamentário federal. Art. 209: composição da LOA estadual (orçamento fiscal, orçamento de investimento das empresas estatais e orçamento da seguridade social) e regras sobre emendas parlamentares impositivas (§9º, com base nas ECs federais). Art. 210: processo legislativo orçamentário na ALERJ. Art. 211: vedações orçamentárias estaduais (simétricas ao art. 167 da CF). Art. 212: entrega de recursos aos Poderes Legislativo e Judiciário, MP e Defensoria até o dia 20 de cada mês, em duodécimos. Art. 213: créditos adicionais no âmbito estadual. O candidato deve atentar também para os arts. 207-208 (Seção I -- Normas Gerais), que tratam do PPA, da LDO e do Plano Estratégico de Desenvolvimento Econômico e Social do Estado (PEDES).</p>
+
+<h3>Jurisprudência do STF</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI-MC 4.048/DF (Rel. Min. Gilmar Mendes, Plenário, 2008):</strong> admitiu controle concentrado de constitucionalidade de leis orçamentárias, mesmo de efeito concreto, superando o entendimento anterior (ADI 1.640). Reconheceu que créditos extraordinários abertos por MP podem ter seus requisitos de urgência e imprevisibilidade (art. 167, §3º) verificados pelo STF em sede de ADI.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (2020):</strong> julgamento da constitucionalidade da LRF. Principais resultados: (i) art. 9º, §3º, declarado inconstitucional (limitação de empenho imposta unilateralmente pelo Executivo aos demais Poderes -- viola separação de Poderes); (ii) art. 12, §2º, recebeu interpretação conforme, para explicitar que a proibição não alcança operações de crédito autorizadas por créditos suplementares ou especiais com finalidade precisa, aprovados por maioria absoluta; (iii) art. 23, §1º, declarado parcialmente inconstitucional sem redução de texto (não permite interpretação que autorize redução de remuneração de servidores); (iv) art. 23, §2º, declarado inconstitucional (autorizava redução temporária da jornada com adequação dos vencimentos para cumprimento dos limites de pessoal -- viola irredutibilidade de vencimentos); (v) arts. 56, caput, e 57, caput, declarados inconstitucionais. Manteve: limites globais de pessoal (arts. 19-20), regras de endividamento, renúncia de receita e geração de despesa.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADPFs 850, 851, 854 e 1.014 (Rel. Min. Rosa Weber, Plenário, 2022; desdobramentos Min. Flávio Dino, 2024-2025):</strong> inconstitucionalidade das emendas de relator (RP-9 -- "orçamento secreto"), por violação à publicidade, transparência e impessoalidade na execução orçamentária. Decisões monocráticas do Min. Flávio Dino em 2024-2025 impuseram requisitos adicionais de transparência e rastreabilidade a todas as modalidades de emendas parlamentares.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenário virtual, abril/2025):</strong> receitas próprias do Judiciário Federal (custas, emolumentos) excetuadas do limite de despesas da LC 200/2023. Reforça a autonomia financeira do Judiciário (arts. 99 e 168 da CF).</p>
+
+<!-- SEÇÃO 4 -->
+<h2>Estratégia de Estudo</h2>
+
+<p>Dada a extensão do ponto, organize o estudo em três blocos. No primeiro bloco, leia os arts. 165-169 da CF (com as alterações das ECs 86/2015, 95/2016, 100/2019, 102/2019, 105/2019, 109/2021, 126/2022, 132/2023) e concentre-se no sistema PPA-LDO-LOA, nos princípios orçamentários e nas vedações do art. 167. Faça um quadro com as exceções ao princípio da não vinculação (art. 167, IV) — elas são cobradas literalmente em provas.</p>
+
+<p>No segundo bloco, estude a Lei 4.320/1964 com foco em: classificação de receitas (art. 11 — receitas correntes vs. receitas de capital), classificação de despesas (art. 12), estágios da despesa (arts. 58-70 — empenho, liquidação, pagamento) e créditos adicionais (arts. 40-46). Não é necessário decorar cada artigo, mas saiba a lógica da classificação e a sequência dos estágios.</p>
+
+<p>No terceiro bloco, mergulhe na LRF. Priorize: limites de pessoal (arts. 19-20 — os percentuais são cobrados literalmente), renúncia de receita (art. 14), geração de despesa (arts. 15-17), metas fiscais (art. 4º), endividamento (arts. 29-42), transparência (arts. 48-59) e as sanções por descumprimento. A ADI 2.238 é leitura obrigatória para saber quais dispositivos da LRF foram declarados inconstitucionais.</p>
+
+<p>Para a PGE/RJ, dê atenção especial ao Regime de Recuperação Fiscal (LC 159/2017, alterada pela LC 178/2021), que impôs ao Estado do Rio condições rigorosas de ajuste fiscal em troca de suspensão de pagamentos da dívida e acesso a operações de crédito. Em janeiro de 2025, foi instituído o Propag (Programa de Pleno Pagamento de Dívidas dos Estados) pela LC 212/2025, que permite aos Estados renegociar suas dívidas com a União em condições mais favoráveis (IPCA + 0% a 2%, contra IPCA + 4% do regime anterior). O RJ está em processo de adesão ao Propag, o que representa a substituição do RRF por um novo modelo. Esse tema conecta Direito Financeiro com a realidade concreta da Procuradoria.</p>
+
+<!-- SEÇÃO 5 -->
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>PPA, LDO e LOA são leis ordinárias, não complementares.</strong> Embora o art. 165, §9º, preveja lei complementar para tratar de normas gerais sobre esses instrumentos, as leis orçamentárias em si (PPA, LDO e LOA) são leis ordinárias de iniciativa privativa do Chefe do Executivo. A diferença importa: a lei complementar que deveria regulamentar o sistema orçamentário nunca foi editada integralmente; mas as leis orçamentárias são aprovadas anualmente (LOA e LDO) e quadrienalmente (PPA) como leis ordinárias.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Crédito extraordinário ≠ suplementar ≠ especial.</strong> Essa distinção é cobrada com frequência. Créditos extraordinários destinam-se a despesas urgentes e imprevisíveis (guerra, comoção interna, calamidade), são abertos por decreto (ou MP na União) e independem de autorização legislativa prévia. Créditos suplementares e especiais dependem de autorização legislativa e indicação de recursos. O STF, na ADI-MC 4.048, admitiu o controle de constitucionalidade de créditos extraordinários abertos por MP, exatamente para verificar se os requisitos de urgência e imprevisibilidade estão presentes.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Limites de pessoal por Poder -- memorize os percentuais estaduais.</strong> No âmbito estadual (art. 20, II, LRF): Executivo -- 49%; Judiciário -- 6%; Legislativo (incluindo TC) -- 3%; Ministério Público -- 2%. Total: 60% da RCL. Na União (art. 20, I): Legislativo (incluindo TC) -- 2,5%; Judiciário -- 6%; Executivo -- 40,9%; MP da União -- 0,6%. Total: 50% da RCL. A ADI 2.238 julgou constitucional a repartição de limites do art. 20 (inclusive o §2º), mas declarou inconstitucional o art. 9º, §3º (que permitia ao Executivo limitar empenho dos demais Poderes unilateralmente -- viola separação de Poderes e autonomia financeira do Judiciário).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Orçamento é autorizativo ou impositivo?</strong> A regra geral no Brasil é o orçamento autorizativo -- o Executivo pode contingenciar dotações. Porém, as ECs 86/2015 e 100/2019 tornaram impositivas as emendas parlamentares individuais (1,2% da RCL) e as emendas de bancada estadual (1% da RCL). A EC 105/2019 criou as transferências especiais ("emendas Pix"). As ADPFs 850/851/854/1.014 declararam inconstitucional apenas o "orçamento secreto" (emendas de relator, RP-9); o caráter impositivo das emendas individuais e de bancada, previsto na própria CF, permanece intacto. A LC 210/2025 trouxe novas regras de transparência e rastreabilidade para todas as modalidades de emendas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>DRU -- Desvinculação de Receitas da União.</strong> O art. 76 do ADCT (prorrogado sucessivamente -- EC 93/2016 estendeu até 2023; EC 126/2022 estendeu até 2024; EC 132/2023, a Reforma Tributária, estendeu até 31/12/2032) permite à União desvincular 30% das receitas federais de contribuições sociais, CIDE e taxas, exceto as destinadas ao Sistema S. No âmbito estadual, o art. 76-A desvincula 30% das receitas estaduais de taxas. No municipal, o art. 76-B desvincula 30% das receitas municipais de taxas. A DRU é exceção expressa ao princípio da não vinculação e deve ser conhecida pelo candidato.</p>
+</div>
+
+<!-- SEÇÃO 6 -->
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas já consolidados</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADI-MC 4.048/DF (Rel. Min. Gilmar Mendes, Plenário, 2008):</strong> leis orçamentárias, ainda que de efeito concreto, são passíveis de controle abstrato de constitucionalidade. Créditos extraordinários abertos por medida provisória podem ter seus requisitos de urgência e imprevisibilidade (art. 167, §3º) verificados pelo STF. Superou o entendimento anterior (ADI 1.640) que não admitia controle concentrado de leis de efeito concreto.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 2.238/DF (Rel. Min. Alexandre de Moraes, Plenário, 2020):</strong> principal julgamento sobre a constitucionalidade da LRF, decidido ao longo de várias sessões entre 2019 e 2020. Resultados mais relevantes para prova: (a) art. 9º, §3º -- declarado inconstitucional (Executivo não pode limitar empenho dos demais Poderes unilateralmente -- viola separação de Poderes); (b) art. 12, §2º -- interpretação conforme para explicitar que a vedação não alcança operações autorizadas por créditos suplementares/especiais com finalidade precisa, aprovados por maioria absoluta (alinha a LRF à "regra de ouro" do art. 167, III, CF); (c) art. 23, §1º -- parcialmente inconstitucional sem redução de texto (não autoriza redução de vencimentos para adequação de pessoal); (d) art. 23, §2º -- inconstitucional (redução temporária de jornada com adequação de vencimentos viola irredutibilidade); (e) arts. 56 e 57 -- inconstitucionais (depósitos judiciais como fonte de receita vinculada). Manteve o arcabouço central da LRF: limites globais de pessoal (arts. 19-20), regras de endividamento, renúncia de receita, geração de despesa e transparência.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 6.357-MC/DF (Rel. Min. Alexandre de Moraes, 2020):</strong> flexibilização de condicionantes fiscais da LRF e da LDO durante a pandemia de Covid-19 para todos os entes federativos. A cautelar suspendeu a exigência de demonstração de adequação e compensação orçamentárias (arts. 14, 16, 17 e 24 da LRF) enquanto durasse o estado de calamidade pública. A ação acabou perdendo o objeto com a edição da EC 106/2020 ("orçamento de guerra").</p>
+
+<h3>Decisões recentes (2024-2026)</h3>
+
+<p><span class="tag-stf">STF</span> <strong>ADPFs 850, 851, 854 e 1.014 (Rel. Min. Rosa Weber, Plenário, 19/12/2022; desdobramentos até 2025) -- orçamento secreto:</strong> o STF declarou, por 6x5, a inconstitucionalidade das emendas de relator (RP-9), por violação à publicidade, transparência e impessoalidade na execução orçamentária. Em 2024-2025, o Min. Flávio Dino (sucessor da relatoria) proferiu decisões monocráticas suspendendo a execução de emendas de comissão e impondo exigências de transparência e rastreabilidade. O caso levou à edição da LC 210/2025, que estabelece novas regras de transparência, identificação de autoria e rastreabilidade para todas as modalidades de emendas parlamentares.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.641/DF (Rel. Min. Alexandre de Moraes, Plenário virtual, abril/2025) -- arcabouço fiscal e Judiciário:</strong> receitas próprias do Judiciário Federal (custas, emolumentos, convênios) não se submetem ao teto de despesas da LC 200/2023. Interpretação conforme aos arts. 3º, caput e §2º, da LC 200. Preserva a autonomia financeira do Judiciário (arts. 99 e 168, CF). A mesma lógica foi depois estendida ao MPU em decisão cautelar do mesmo relator.</p>
+
+<p><span class="tag-stf">STF</span> <strong>ADI 7.633/DF (Rel. Min. Cristiano Zanin, 2024):</strong> em cautelar (abril/2024), o relator suspendeu os arts. 1º, 2º, 4º e 5º da Lei 14.784/2023, que prorrogavam a desoneração da folha de pagamento de municípios e 17 setores econômicos até 2027, por ausência de estimativa adequada de impacto orçamentário-financeiro (art. 113 do ADCT e art. 14 da LRF). O Plenário referendou a cautelar. A negociação entre Executivo e Congresso levou à edição da Lei 14.973/2024, que instituiu reoneração gradual da folha entre 2025 e 2027. O caso ilustra a importância prática da exigência de compensação fiscal para renúncias de receita.</p>
+
+<!-- SEÇÃO 7 -->
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr>
+<th>Instrumento</th>
+<th>Vigência</th>
+<th>Conteúdo principal</th>
+<th>Base constitucional</th>
+</tr>
+<tr>
+<td><strong>PPA</strong></td>
+<td>4 anos (2º ano mandato → 1º ano seguinte)</td>
+<td>Diretrizes, objetivos e metas — despesas de capital e programas de duração continuada</td>
+<td>Art. 165, §1º</td>
+</tr>
+<tr>
+<td><strong>LDO</strong></td>
+<td>Anual (orienta LOA do exercício seguinte)</td>
+<td>Metas e prioridades; alterações tributárias; Anexo de Metas Fiscais e Riscos Fiscais</td>
+<td>Art. 165, §2º; art. 4º LRF</td>
+</tr>
+<tr>
+<td><strong>LOA</strong></td>
+<td>Anual (exercício financeiro = ano civil)</td>
+<td>Orçamento fiscal + investimento estatais + seguridade social</td>
+<td>Art. 165, §5º</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Princípio</th>
+<th>Conteúdo</th>
+<th>Base normativa</th>
+</tr>
+<tr>
+<td><strong>Unidade</strong></td>
+<td>Um único orçamento por ente</td>
+<td>Art. 2º, Lei 4.320</td>
+</tr>
+<tr>
+<td><strong>Universalidade</strong></td>
+<td>Todas as receitas e despesas na LOA</td>
+<td>Art. 2º, Lei 4.320; art. 165, §5º, CF</td>
+</tr>
+<tr>
+<td><strong>Anualidade</strong></td>
+<td>Orçamento autorizado para um exercício</td>
+<td>Art. 34, Lei 4.320</td>
+</tr>
+<tr>
+<td><strong>Exclusividade</strong></td>
+<td>LOA só contém receita e despesa (com exceções)</td>
+<td>Art. 165, §8º, CF</td>
+</tr>
+<tr>
+<td><strong>Não vinculação</strong></td>
+<td>Vedada a vinculação de impostos (com exceções)</td>
+<td>Art. 167, IV, CF</td>
+</tr>
+<tr>
+<td><strong>Legalidade</strong></td>
+<td>Despesa depende de autorização legislativa</td>
+<td>Art. 167, I e II, CF</td>
+</tr>
+<tr>
+<td><strong>Equilíbrio</strong></td>
+<td>Despesas ≤ receitas</td>
+<td>LRF, art. 1º, §1º</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Crédito adicional</th>
+<th>Finalidade</th>
+<th>Autorização legislativa</th>
+<th>Indicação de recursos</th>
+<th>Vigência</th>
+</tr>
+<tr>
+<td><strong>Suplementar</strong></td>
+<td>Reforçar dotação existente</td>
+<td>Sim (pode ser genérica na LOA)</td>
+<td>Sim</td>
+<td>Exercício em que foi aberto</td>
+</tr>
+<tr>
+<td><strong>Especial</strong></td>
+<td>Nova despesa sem dotação</td>
+<td>Sim (lei específica)</td>
+<td>Sim</td>
+<td>Exercício em que foi aberto (reaberto se autorizado nos últimos 4 meses)</td>
+</tr>
+<tr>
+<td><strong>Extraordinário</strong></td>
+<td>Guerra, comoção, calamidade</td>
+<td>Não (MP na União; decreto nos Estados)</td>
+<td>Não</td>
+<td>Exercício em que foi aberto (reaberto se autorizado nos últimos 4 meses)</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Limite de pessoal (LRF)</th>
+<th>União (50% RCL)</th>
+<th>Estados (60% RCL)</th>
+<th>Municípios (60% RCL)</th>
+</tr>
+<tr>
+<td><strong>Legislativo + TC</strong></td>
+<td>2,5%</td>
+<td>3%</td>
+<td>6%</td>
+</tr>
+<tr>
+<td><strong>Judiciário</strong></td>
+<td>6%</td>
+<td>6%</td>
+<td>—</td>
+</tr>
+<tr>
+<td><strong>Executivo</strong></td>
+<td>40,9%</td>
+<td>49%</td>
+<td>54%</td>
+</tr>
+<tr>
+<td><strong>Ministério Público</strong></td>
+<td>0,6%</td>
+<td>2%</td>
+<td>—</td>
+</tr>
+</table>
+
+<div class="destaque">
+<p><strong>Nota sobre o TCM-RJ:</strong> nos Estados que possuem Tribunal de Contas dos Municípios (caso do RJ, que mantém o TCM-RJ em pleno funcionamento), o art. 20, §4º, da LRF determina que os percentuais do inciso II (Estados) sejam acrescidos em 0,4% para o Legislativo (de 3% para 3,4%) e reduzidos em 0,4% para o Executivo (de 49% para 48,6%). Essa peculiaridade é relevante para a PGE/RJ.</p>
+</div>
+
+</div>
