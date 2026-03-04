@@ -51,7 +51,7 @@
 
 <h3>Principais fundos constitucionais</h3>
 
-<p><strong>FPE e FPM (art. 159, I):</strong> fundos de participação que distribuem receitas do IR e do IPI entre Estados e Municípios, respectivamente. O FPE recebe 21,5% (art. 159, I, "a"). O FPM recebe 22,5% (alínea "b") + 1% em julho (alínea "d", EC 55/2007) + 1% em dezembro (alínea "e", EC 84/2014) + 1% adicional (alínea "f", EC 112/2021), totalizando 25,5%. Estudados em detalhe no Ponto 1c (federalismo fiscal). Os critérios de distribuição do FPE foram declarados inconstitucionais pelo STF na ADI 5.069 (Plenário, Rel. Min. Rosa Weber, jun/2023), com modulação de efeitos para manter as regras vigentes até que nova lei seja editada (prazo prorrogado até 01/03/2026 pelo Min. Edson Fachin).</p>
+<p><strong>FPE e FPM (art. 159, I):</strong> fundos de participação que distribuem receitas do IR e do IPI entre Estados e Municípios, respectivamente. O FPE recebe 21,5% (art. 159, I, "a"). O FPM recebe 22,5% (alínea "b") + 1% em dezembro (alínea "d", EC 55/2007) + 1% em julho (alínea "e", EC 84/2014) + 1% adicional (alínea "f", EC 112/2021), totalizando 25,5%. Estudados em detalhe no Ponto 1c (federalismo fiscal). Os critérios de distribuição do FPE foram declarados inconstitucionais pelo STF na ADI 5.069 (Plenário, Rel. Min. Cármen Lúcia, jun/2023), com modulação de efeitos para manter as regras vigentes até que nova lei seja editada (prazo prorrogado até 01/03/2026 pelo Min. Edson Fachin).</p>
 
 <p><strong>FNO, FNE e FCO (art. 159, I, "c"):</strong> fundos constitucionais de financiamento das Regiões Norte, Nordeste e Centro-Oeste. Recebem 3% do IR + IPI. Geridos por bancos oficiais (BASA, BNB e BB, respectivamente). Destinam-se a financiar o setor produtivo dessas regiões, promovendo o desenvolvimento regional.</p>
 
@@ -165,7 +165,7 @@
 
 <p><span class="tag-stf">STF</span> <strong>RE 1.362.061 (Tema 1.275, pendente de julgamento):</strong> discute a constitucionalidade da forma como a Uniao calcula o FPM, com deducoes de incentivos fiscais (PIN, PROTERRA), uso de portarias da STN em vez do BGU, e restituicoes de IR. O julgamento pode impactar o volume de recursos repassados aos Municipios e, indiretamente, a composicao do FUNDEB e de outros fundos alimentados por receitas do FPM.</p>
 
-<p><span class="tag-stf">STF</span> <strong>ADI 5.069 (Plenario, Rel. Min. Rosa Weber, jun/2023, efeitos prorrogados ate 01/03/2026):</strong> declarou inconstitucionais os criterios de distribuicao do FPE da LC 62/1989 (alterada pela LC 143/2013), com modulacao de efeitos. O prazo para o Congresso editar nova lei foi prorrogado pelo Min. Edson Fachin ate 01/03/2026. A decisao repercute sobre fundos alimentados por receitas do FPE, como o FUNDEB.</p>
+<p><span class="tag-stf">STF</span> <strong>ADI 5.069 (Plenario, Rel. Min. Cármen Lúcia, jun/2023, efeitos prorrogados ate 01/03/2026):</strong> declarou inconstitucionais os criterios de distribuicao do FPE da LC 62/1989 (alterada pela LC 143/2013), com modulacao de efeitos. O prazo para o Congresso editar nova lei foi prorrogado pelo Min. Edson Fachin ate 01/03/2026. A decisao repercute sobre fundos alimentados por receitas do FPE, como o FUNDEB.</p>
 
 <!-- SEÇÃO 7 -->
 <h2>Quadros Esquemáticos</h2>

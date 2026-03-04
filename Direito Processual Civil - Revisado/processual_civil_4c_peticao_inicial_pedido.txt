@@ -1,0 +1,280 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 4c — Petição Inicial. Pedido. Indeferimento. Improcedência Liminar</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A petição inicial é o ato que dá início ao processo e delimita o objeto da prestação jurisdicional. É nela que o autor formula seus pedidos, expõe os fatos e o direito, e fixa os limites da atuação do juiz. Para o Procurador do Estado, o tema tem dupla relevância: quando o Estado é autor (ações de cobrança, execuções fiscais, ações regressivas), a petição inicial deve ser tecnicamente impecável; quando é réu, a primeira tarefa é verificar se a petição inicial adversária é apta — se contém pedido certo, causa de pedir clara e documentos indispensáveis.</p>
+
+<p>O edital cobra: petição inicial, pedido, indeferimento da petição inicial e julgamento liminar de improcedência do pedido. O tema conecta-se com a ação (Ponto 2a — elementos da demanda), com a resposta do réu (Ponto 4b — a contestação é a contraface da inicial), com a sentença (Ponto 6a — o juiz deve decidir nos limites do pedido — congruência), com a coisa julgada (Ponto 6c — os limites objetivos são definidos pelo pedido) e com os recursos (Ponto 7 — apelação contra indeferimento e improcedência liminar).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Requisitos da petição inicial (art. 319)</h3>
+
+<p>A petição inicial deve conter: (I) o juízo a que é dirigida; (II) os nomes, prenomes, estado civil, existência de união estável, profissão, número de CPF/CNPJ, endereço eletrônico, domicílio e residência do autor e do réu; (III) o fato e os fundamentos jurídicos do pedido (causa de pedir); (IV) o pedido com suas especificações; (V) o valor da causa; (VI) as provas com que o autor pretende demonstrar a verdade dos fatos alegados; (VII) a opção do autor pela realização ou não de audiência de conciliação ou mediação.</p>
+
+<p>A exigência do inciso VII é novidade do CPC/2015 — o autor deve manifestar expressamente se deseja a audiência do art. 334. Se o autor não se manifestar, presume-se que deseja a audiência.</p>
+
+<p>O art. 320 exige que a petição inicial seja instruída com os documentos indispensáveis à propositura da ação. São documentos essenciais para a comprovação dos fatos constitutivos: a procuração (salvo quando a lei dispensa), o instrumento do contrato na ação de cobrança, a certidão de óbito na ação de inventário, entre outros.</p>
+
+<h3>Emenda da petição inicial (art. 321)</h3>
+
+<p>Se a petição inicial não preencher os requisitos do art. 319 ou apresentar defeitos ou irregularidades que possam dificultar o julgamento de mérito, o juiz determinará que o autor a emende ou complete no prazo de 15 dias. O juiz deve indicar com precisão o que deve ser corrigido — uma decisão genérica que ordena "emende-se" viola o dever de fundamentação e o princípio da cooperação (art. 6º).</p>
+
+<p>Se o autor não cumprir a determinação de emenda no prazo de 15 dias, a petição será indeferida e o processo extinto sem resolução do mérito (art. 321, parágrafo único). Esse procedimento reflete o princípio da primazia do mérito (art. 4º): antes de indeferir, o juiz deve dar oportunidade de correção.</p>
+
+<h3>O pedido (arts. 322-329)</h3>
+
+<p>O pedido é o núcleo da petição inicial — é o que o autor efetivamente pede ao juiz. Delimita o objeto do processo e vincula o juiz (princípio da congruência — art. 492). O juiz não pode conceder mais do que foi pedido (ultra petita), algo diverso do que foi pedido (extra petita) ou menos do que foi pedido sem justificativa (citra petita).</p>
+
+<p><strong>Pedido certo (art. 322):</strong> o pedido deve ser determinado — o autor deve indicar expressamente o que pretende. O §2º permite ao juiz interpretar o pedido conforme o conjunto da postulação e o princípio da boa-fé — o pedido não se limita à literalidade da formulação.</p>
+
+<p><strong>Pedido determinado (art. 324):</strong> o pedido deve indicar a quantidade ou extensão do que se pretende. Exceções (art. 324, §1º): admite-se pedido genérico quando: (i) nas ações universais (herança, partilha), se o autor não puder individualizar os bens; (ii) quando não for possível determinar as consequências do ato ou fato (dano moral cujo valor depende de arbitramento); (iii) quando a determinação depender de ato a ser praticado pelo réu.</p>
+
+<p><strong>Pedidos implícitos (art. 322, §1º):</strong> compreendem-se no pedido principal os juros legais, a correção monetária e as verbas de sucumbência (honorários e custas), inclusive as vencidas após a propositura da ação. Isso significa que o autor não precisa pedir expressamente juros e correção — eles decorrem da lei. As prestações periódicas vincendas também se consideram incluídas no pedido (art. 323).</p>
+
+<p><strong>Cumulação de pedidos (art. 327):</strong> o autor pode formular mais de um pedido numa mesma ação, desde que: sejam compatíveis entre si, o juízo seja competente para todos e o procedimento seja adequado (ou o autor opte pelo procedimento comum para compatibilizar). A cumulação pode ser:</p>
+
+<p><em>Cumulação simples:</em> todos os pedidos são formulados conjuntamente, sem relação de dependência (peço A + B + C).</p>
+
+<p><em>Cumulação sucessiva:</em> o pedido posterior depende do acolhimento do anterior (peço A; se procedente A, peço B). Exemplo: peço a declaração de nulidade do contrato (A) e, se nulo, a restituição do valor pago (B).</p>
+
+<p><em>Cumulação eventual (subsidiária):</em> o pedido posterior é formulado para a hipótese de improcedência do anterior (peço A; se improcedente A, peço B). Exemplo: peço a anulação do contrato; subsidiariamente, peço a revisão de cláusulas.</p>
+
+<p><em>Cumulação alternativa:</em> o autor formula mais de um pedido e qualquer deles pode ser acolhido (peço A ou B). O juiz escolhe qual pedido acolher, ou pode acolher qualquer deles.</p>
+
+<p><strong>Aditamento e modificação do pedido (art. 329):</strong> até a citação, o autor pode aditar ou alterar o pedido e a causa de pedir, independentemente de consentimento do réu. Após a citação e até o saneamento, pode fazê-lo com consentimento do réu. Após o saneamento, não é possível alterar pedido ou causa de pedir — estabilização da demanda.</p>
+
+<h3>Indeferimento da petição inicial (art. 330)</h3>
+
+<p>O indeferimento da petição inicial é a rejeição liminar da ação, antes da citação do réu. O juiz indefere a petição inicial quando: (I) for inepta; (II) a parte for manifestamente ilegítima; (III) o autor carecer de interesse processual; (IV) não for atendida a prescrição dos arts. 106 (endereço do advogado) e 321 (emenda da inicial).</p>
+
+<p>A petição inicial é inepta quando (art. 330, §1º): (i) lhe faltar pedido ou causa de pedir; (ii) o pedido for indeterminado (fora das hipóteses legais de pedido genérico); (iii) da narração dos fatos não decorrer logicamente a conclusão; (iv) contiver pedidos incompatíveis entre si.</p>
+
+<p>O indeferimento gera extinção sem resolução de mérito (art. 485, I). É recorrível por apelação (art. 331). Se o juiz reformar a decisão em juízo de retratação (art. 331, §1º), o réu será citado para responder. Se não reformar, remeterá a apelação ao tribunal sem contrarrazões (o réu ainda não foi citado).</p>
+
+<div class="destaque">
+<p><strong>Indeferimento versus improcedência liminar — distinção essencial:</strong> o indeferimento (art. 330) gera extinção sem resolução de mérito — não há análise do mérito da pretensão. A improcedência liminar (art. 332) é julgamento de mérito desfavorável ao autor, antes da citação do réu. A distinção é fundamental porque a improcedência liminar produz coisa julgada material (o autor não pode repropor a ação com o mesmo pedido e causa de pedir), enquanto o indeferimento permite a repropositura da ação (art. 486).</p>
+</div>
+
+<h3>Improcedência liminar do pedido (art. 332)</h3>
+
+<p>O art. 332 permite ao juiz julgar liminarmente improcedente o pedido, antes mesmo da citação do réu, quando o pedido contrariar: (I) enunciado de súmula do STF ou do STJ; (II) acórdão proferido pelo STF ou pelo STJ em julgamento de recursos repetitivos; (III) entendimento firmado em IRDR ou assunção de competência; (IV) enunciado de súmula de tribunal de justiça sobre direito local.</p>
+
+<p>Além dessas hipóteses baseadas em precedentes, o juiz também pode julgar liminarmente improcedente o pedido quando verificar, desde logo, a ocorrência de decadência ou prescrição (art. 332, §1º).</p>
+
+<p>A improcedência liminar é julgamento de mérito (art. 487, I ou II). Produz coisa julgada material se não for interposta apelação. A sentença de improcedência liminar é apelável, e o juiz pode se retratar no prazo de 5 dias (art. 332, §3º). Se não se retratar, mandará citar o réu para apresentar contrarrazões em 15 dias (art. 332, §4º).</p>
+
+<div class="destaque">
+<p><strong>Improcedência liminar e Fazenda Pública:</strong> a improcedência liminar é especialmente relevante para a Fazenda Pública porque pode evitar a citação e o curso desnecessário de processos cujo resultado já está determinado por precedente vinculante. Se um particular ajuíza ação contra o Estado pedindo benefício fiscal que o STJ já declarou inexistente em recurso repetitivo, o juiz pode julgar improcedente liminarmente, sem sequer citar a Fazenda Pública. Do ponto de vista do Procurador, é mecanismo de economia processual e desafogamento.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos legais centrais</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 319:</strong> requisitos da petição inicial — 7 incisos. Memorize especialmente o inciso VII (opção pela audiência de conciliação/mediação), que é novidade do CPC/2015.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 321:</strong> emenda da petição inicial — prazo de 15 dias, com indicação precisa do que deve ser corrigido. Reflete o princípio da primazia do mérito.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 322, §2º:</strong> interpretação do pedido conforme o conjunto da postulação e a boa-fé. Supera a interpretação literal restritiva do CPC/1973.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 324, §1º:</strong> hipóteses de pedido genérico — ações universais, dano indeterminável, determinação dependente do réu.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 327:</strong> cumulação de pedidos — requisitos (compatibilidade, competência, adequação do procedimento). §§1º-3º: cumulação subsidiária, alternativa e compatibilização de procedimentos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 329:</strong> aditamento e modificação do pedido. Até a citação: livre. Da citação ao saneamento: com consentimento do réu. Após o saneamento: vedado (estabilização).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 330:</strong> indeferimento da petição inicial — inépcia, ilegitimidade manifesta, falta de interesse, descumprimento de emenda. §1º: hipóteses de inépcia (falta de pedido/causa de pedir, pedido indeterminado, incongruência lógica, pedidos incompatíveis).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 331:</strong> apelação contra indeferimento — retratação em 5 dias; se mantido, remessa ao tribunal sem contrarrazões.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 332:</strong> improcedência liminar do pedido — 4 hipóteses baseadas em precedentes + prescrição/decadência (§1º). Retratação em 5 dias (§3º). Citação para contrarrazões se não retratar (§4º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 492:</strong> princípio da congruência — o juiz resolve o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte. Vinculação direta ao pedido formulado na inicial.</p>
+
+<h3>Jurisprudência relevante</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>REsp 2024 — Improcedência liminar e ação rescisória (3ª Turma, 2024):</strong> o STJ decidiu que a improcedência liminar da ação rescisória só é possível nas hipóteses do art. 332 do CPC. Fora dessas hipóteses, não se admite julgamento liminar de mérito — nem mesmo quando o juiz entende que a pretensão é manifestamente infundada. O precedente delimita o alcance do art. 332: é norma taxativa, não permite ampliação judicial.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre emenda da inicial:</strong> o STJ tem entendimento firme de que o juiz não pode indeferir a petição inicial sem antes determinar a emenda, quando o defeito for sanável. O indeferimento de plano, sem oportunidade de correção, viola o princípio da primazia do mérito (art. 4º) e o dever de cooperação (art. 6º). A exceção é quando a petição é manifestamente inepta (falta total de pedido ou causa de pedir).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 318:</strong> "Formulado pedido certo e determinado, somente o autor tem interesse recursal em arguir o vício da sentença ilíquida." Tema conectado ao pedido: se o autor formula pedido determinado e o juiz profere sentença ilíquida, apenas o autor pode recorrer desse vício — o réu não tem interesse porque a sentença ilíquida lhe é mais favorável (o valor ainda será apurado).</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 319 (requisitos da petição inicial), pois fornece a moldura formal que organiza todo o restante. Na sequência, estude o pedido (arts. 322-329) com foco na distinção entre pedido certo/determinado e nas exceções de pedido genérico (art. 324, §1º), na cumulação de pedidos (simples, sucessiva, eventual, alternativa — art. 327) e no regime de modificação do pedido (art. 329 — antes da citação, entre a citação e o saneamento, após o saneamento).</p>
+
+<p>O indeferimento (art. 330) e a improcedência liminar (art. 332) devem ser estudados em paralelo, com ênfase na distinção: indeferimento é extinção sem mérito (permite repropositura); improcedência liminar é decisão de mérito (faz coisa julgada material). As hipóteses do art. 332 devem ser memorizadas — são quatro baseadas em precedentes, mais prescrição/decadência.</p>
+
+<p>Para a PGE/RJ, uma questão plausível seria: "o juiz pode indeferir liminarmente a petição inicial quando a ação é ajuizada contra a Fazenda Pública?" A resposta deve distinguir indeferimento (arts. 330-331) e improcedência liminar (art. 332), indicando que ambos são possíveis antes da citação e que, na improcedência liminar, a Fazenda sequer é citada — tudo se resolve com base nos precedentes vinculantes.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Indeferimento (sem mérito) versus improcedência liminar (com mérito):</strong> confundir esses institutos é erro grave. O indeferimento (art. 330) é decisão sem resolução de mérito — não impede a repropositura da ação. A improcedência liminar (art. 332) é decisão de mérito — produz coisa julgada material se transitar em julgado. O candidato que disser que "o indeferimento da petição inicial faz coisa julgada material" ou que "a improcedência liminar permite repropositura" compromete a resposta inteira.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Emenda obrigatória antes do indeferimento:</strong> o juiz não pode indeferir a petição inicial sem antes determinar a emenda, quando o defeito for sanável (art. 321). O indeferimento "surpresa" — sem oportunidade de correção — é nulo. Exceção: se a petição é manifestamente inepta (ex.: ausência total de pedido ou de causa de pedir), o indeferimento pode ser imediato, pois não há como emendar o que sequer foi formulado.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Improcedência liminar — rol taxativo:</strong> as hipóteses do art. 332 são taxativas. O juiz não pode julgar liminarmente improcedente o pedido com base em "manifesta improcedência" genérica ou em precedente que não se enquadre nas quatro hipóteses do caput. Essa orientação foi confirmada pelo STJ em 2024 ao tratar de ação rescisória.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Modificação do pedido — limites temporais:</strong> até a citação, o autor pode alterar livremente pedido e causa de pedir. Após a citação até o saneamento, depende de consentimento do réu. Após o saneamento, a demanda se estabiliza e não admite modificação. Essas balizas são cobradas com frequência, especialmente a vedação de alteração após o saneamento.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<p><span class="tag tag-stj">STJ</span> <strong>3ª Turma (2024) — Improcedência liminar de ação rescisória:</strong> decidiu que a improcedência liminar da ação rescisória só pode ocorrer nas hipóteses taxativas do art. 332 do CPC. O juiz não pode indeferir a rescisória com base em "manifesta improcedência" não enquadrada naquelas hipóteses, pois isso configuraria supressão indevida do contraditório e da ampla defesa. Precedente que delimita com precisão o alcance da improcedência liminar.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre interpretação do pedido (art. 322, §2º):</strong> o STJ tem adotado interpretação ampliativa do pedido, conforme o conjunto da postulação e o princípio da boa-fé. Se o autor narra fatos que fundamentam determinada pretensão mas formula o pedido de forma incompleta, o juiz pode acolher a pretensão com base na interpretação sistemática da petição. Essa orientação favorece a primazia do mérito e se opõe ao formalismo excessivo.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre pedidos implícitos:</strong> o STJ consolidou que juros de mora, correção monetária, honorários advocatícios e custas são pedidos implícitos (art. 322, §1º) — o juiz deve fixá-los na sentença mesmo que o autor não os tenha pedido expressamente. A omissão do autor quanto a essas parcelas não impede a condenação.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula Vinculante 10 e improcedência liminar:</strong> embora a SV 10 verse sobre reserva de plenário, há conexão com o art. 332: o juiz de primeiro grau pode aplicar a improcedência liminar com base em súmula vinculante do STF (art. 332, I). Se a súmula vinculante diz que determinada conduta é constitucional/inconstitucional, o juiz pode julgar liminarmente improcedente o pedido que a contrarie — sem necessidade de submeter a questão ao plenário, pois a orientação já está fixada.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Indeferimento versus improcedência liminar</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Indeferimento (art. 330)</th>
+<th>Improcedência liminar (art. 332)</th>
+</tr>
+<tr>
+<td><strong>Natureza</strong></td>
+<td>Decisão sem resolução de mérito</td>
+<td>Decisão de mérito</td>
+</tr>
+<tr>
+<td><strong>Coisa julgada</strong></td>
+<td>Não faz coisa julgada material</td>
+<td>Faz coisa julgada material</td>
+</tr>
+<tr>
+<td><strong>Repropositura</strong></td>
+<td>Admitida (art. 486)</td>
+<td>Vedada (identidade de partes, pedido e causa de pedir)</td>
+</tr>
+<tr>
+<td><strong>Hipóteses</strong></td>
+<td>Inépcia, ilegitimidade, falta de interesse, descumprimento de emenda</td>
+<td>Contrariedade a súmula/precedente, prescrição/decadência</td>
+</tr>
+<tr>
+<td><strong>Recurso</strong></td>
+<td>Apelação (art. 331)</td>
+<td>Apelação (art. 332, §3º)</td>
+</tr>
+<tr>
+<td><strong>Retratação</strong></td>
+<td>Sim — 5 dias (art. 331)</td>
+<td>Sim — 5 dias (art. 332, §3º)</td>
+</tr>
+<tr>
+<td><strong>Citação do réu</strong></td>
+<td>Não houve (apenas se reformar)</td>
+<td>Não houve (cita para contrarrazões se mantiver)</td>
+</tr>
+</table>
+
+<h3>Cumulação de pedidos — espécies</h3>
+
+<table>
+<tr>
+<th>Espécie</th>
+<th>Estrutura</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td><strong>Simples</strong></td>
+<td>Peço A + B + C (todos independentes)</td>
+<td>Danos materiais + danos morais + lucros cessantes</td>
+</tr>
+<tr>
+<td><strong>Sucessiva</strong></td>
+<td>Peço A; se procedente A, peço B</td>
+<td>Declaração de nulidade + restituição do valor pago</td>
+</tr>
+<tr>
+<td><strong>Eventual (subsidiária)</strong></td>
+<td>Peço A; se improcedente A, peço B</td>
+<td>Anulação do contrato; subsidiariamente, revisão de cláusulas</td>
+</tr>
+<tr>
+<td><strong>Alternativa</strong></td>
+<td>Peço A ou B (qualquer deles)</td>
+<td>Entrega da coisa ou equivalente em dinheiro</td>
+</tr>
+</table>
+
+<h3>Modificação do pedido e da causa de pedir — limites temporais</h3>
+
+<table>
+<tr>
+<th>Momento</th>
+<th>Possibilidade</th>
+<th>Condição</th>
+<th>Dispositivo</th>
+</tr>
+<tr>
+<td>Até a citação</td>
+<td>Aditamento/alteração livre</td>
+<td>Nenhuma — independe de consentimento do réu</td>
+<td>Art. 329, I</td>
+</tr>
+<tr>
+<td>Da citação ao saneamento</td>
+<td>Aditamento/alteração possível</td>
+<td>Com consentimento do réu</td>
+<td>Art. 329, II</td>
+</tr>
+<tr>
+<td>Após o saneamento</td>
+<td>Vedada</td>
+<td>Estabilização da demanda</td>
+<td>Vedação implícita do art. 329</td>
+</tr>
+</table>
+
+<h3>Hipóteses de improcedência liminar (art. 332)</h3>
+
+<table>
+<tr>
+<th>Inciso</th>
+<th>Hipótese</th>
+<th>Exemplo</th>
+</tr>
+<tr>
+<td>I</td>
+<td>Enunciado de súmula do STF ou do STJ</td>
+<td>Pedido que contraria Súmula Vinculante do STF</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Acórdão do STF ou STJ em recurso repetitivo</td>
+<td>Pedido que contraria tese fixada em Tema do STJ</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Entendimento firmado em IRDR ou assunção de competência</td>
+<td>Pedido que contraria IRDR do tribunal local</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Súmula do tribunal de justiça sobre direito local</td>
+<td>Pedido que contraria súmula do TJRJ sobre direito estadual</td>
+</tr>
+<tr>
+<td>§1º</td>
+<td>Prescrição ou decadência</td>
+<td>Pedido prescrito verificável de plano</td>
+</tr>
+</table>

@@ -76,7 +76,7 @@
 <h3>Jurisprudência relevante</h3>
 
 <div class="destaque">
-<strong>Tema 1.390/STJ (repetitivo, 1ª Seção, 2024):</strong> a base de cálculo das contribuições parafiscais (INCRA, salário-educação, DPC, FAER, SENAR, SEST, SENAT, SESCOOP, SEBRAE, Apex-Brasil e ABDI) não é limitada a 20 salários mínimos. A Corte afastou a aplicação do teto do art. 4º da Lei 6.950/81 (revogado pelo DL 2.318/86 para contribuições previdenciárias) e estendeu o raciocínio a todas as entidades parafiscais. Trata-se de decisão com enorme impacto fiscal — amplia significativamente a base de arrecadação dessas entidades.
+<strong>Tema 1.390/STJ (repetitivo, 1ª Seção, fevereiro de 2026):</strong> a base de cálculo das contribuições parafiscais (INCRA, salário-educação, DPC, FAER, SENAR, SEST, SENAT, SESCOOP, SEBRAE, Apex-Brasil e ABDI) não é limitada a 20 salários mínimos. A Corte afastou a aplicação do teto do art. 4º da Lei 6.950/81 (revogado pelo DL 2.318/86 para contribuições previdenciárias) e estendeu o raciocínio a todas as entidades parafiscais. Trata-se de decisão com enorme impacto fiscal — amplia significativamente a base de arrecadação dessas entidades.
 </div>
 
 <p><strong>STF — natureza tributária das anuidades de conselhos profissionais:</strong> o Tribunal reconhece que as anuidades cobradas por conselhos de fiscalização profissional (CRM, CREA, CRC etc.) têm natureza de contribuição parafiscal, submetendo-se ao regime jurídico tributário. Consequência: devem ser cobradas por lançamento de ofício, sujeitam-se a prescrição quinquenal (CTN), e os conselhos gozam de imunidade tributária recíproca na qualidade de autarquias federais (exceto a OAB, que tem regime <em>sui generis</em>).</p>

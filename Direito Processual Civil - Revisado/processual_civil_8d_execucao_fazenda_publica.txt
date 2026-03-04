@@ -1,0 +1,181 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8d — Execução contra a Fazenda Pública</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A execução contra a Fazenda Pública é um dos temas mais relevantes para o candidato a Procurador do Estado. O Procurador atua diretamente na defesa do ente público executado, manejando impugnações, controlando cálculos de liquidação e acompanhando a expedição de precatórios e RPVs. O tema tem sede constitucional no art. 100 da CF e regulamentação processual nos arts. 534-535 (cumprimento de sentença) e 910 (execução de título extrajudicial) do CPC. A matéria é intensamente dinâmica — as Emendas Constitucionais 62/2009, 94/2016, 99/2017, 113/2021, 114/2021 e, mais recentemente, a 136/2025, alteraram repetidamente o regime de precatórios, gerando controvérsias constitucionais que chegaram ao STF.</p>
+
+<p>O edital exige domínio não apenas do procedimento processual, mas de todo o regime constitucional de pagamento pela Fazenda. O candidato deve conectar este ponto com o cumprimento de sentença (Ponto 8b), a teoria geral da execução (Ponto 8a) e o direito financeiro (regime orçamentário dos precatórios). Para a prova discursiva, espera-se a capacidade de articular as prerrogativas da Fazenda com os fundamentos constitucionais que as justificam.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Fundamento constitucional: impenhorabilidade dos bens públicos</h3>
+
+<p>A execução contra a Fazenda Pública segue regime diferenciado porque seus bens são impenhoráveis. Bens públicos — de uso comum, de uso especial e dominicais — não se sujeitam a penhora, arresto ou sequestro (salvo a hipótese excepcional do sequestro por preterição da ordem cronológica de precatórios). Essa impenhorabilidade decorre do princípio da continuidade dos serviços públicos e da indisponibilidade do interesse público: não se pode privar a administração de bens necessários ao funcionamento da máquina estatal para satisfazer créditos individuais.</p>
+
+<p>Em consequência, a execução contra a Fazenda não segue o modelo expropriatório (penhora → avaliação → alienação). O pagamento se dá por requisição judicial ao ente devedor, que inclui o crédito no orçamento: é o sistema de <strong>precatórios</strong> (para valores acima do limite de pequeno valor) ou de <strong>Requisição de Pequeno Valor — RPV</strong> (para valores abaixo desse limite). Toda a lógica execucional contra a Fazenda gravita em torno do art. 100 da CF.</p>
+
+<h3>Regime de precatórios (art. 100, CF)</h3>
+
+<p>Os pagamentos devidos pela Fazenda Pública em virtude de sentença judiciária são feitos exclusivamente na ordem cronológica de apresentação dos precatórios, sem designação de casos ou pessoas. Os precatórios apresentados até 1º de abril (regra geral — a EC 114/2021 alterou para 2 de abril) devem ser incluídos no orçamento do exercício seguinte, pagos até o final desse exercício. Os créditos de natureza alimentícia têm preferência sobre os de natureza comum, e, entre os alimentares, há superpreferência para credores com 60 anos ou mais, portadores de doença grave ou com deficiência, até o triplo do limite de RPV.</p>
+
+<div class="destaque">
+<strong>Natureza alimentar:</strong> são considerados de natureza alimentar os créditos decorrentes de salários, vencimentos, proventos, pensões, benefícios previdenciários, indenizações por morte ou invalidez fundadas em responsabilidade civil, e honorários advocatícios (art. 100, §1º, CF). Essa classificação importa para a ordem de pagamento: primeiro os alimentares com superpreferência, depois os demais alimentares, por último os de natureza comum.
+</div>
+
+<h3>Requisição de Pequeno Valor — RPV</h3>
+
+<p>A RPV é o mecanismo para pagamento de créditos de menor expressão, dispensando o regime de precatórios. O §3º do art. 100 da CF autoriza cada ente federativo a definir, por lei própria, o valor limite para RPV. Na ausência de lei, aplica-se o limite constitucional transitório: 40 SM para Estados e DF, e 30 SM para Municípios (art. 87 do ADCT). Para a União, a Lei 10.259/2001 fixou o limite em 60 SM.</p>
+
+<div class="destaque">
+<strong>RPV no Estado do Rio de Janeiro:</strong> a Lei Estadual nº 7.507/2016, posteriormente alterada pela Lei 7.781/2017, fixou o teto da RPV estadual em <strong>20 salários-mínimos</strong>, tanto para obrigações de natureza comum quanto alimentar. Esse valor é inferior ao limite constitucional transitório de 40 SM, mas o STF admite que os entes fixem limites menores, desde que por lei. O prazo para pagamento da RPV é de 60 dias contados da intimação do ente devedor.
+</div>
+
+<p>O credor pode renunciar ao valor excedente ao teto da RPV para receber por essa via mais célere, evitando o precatório. Essa renúncia é irretratável e abrange apenas o processo em questão.</p>
+
+<h3>Cumprimento de sentença contra a Fazenda (arts. 534-535, CPC)</h3>
+
+<p>Quando a Fazenda é executada em cumprimento de título judicial, o procedimento segue os arts. 534-535 do CPC. O exequente apresenta demonstrativo discriminado e atualizado do crédito, com nome e CPF/CNPJ do beneficiário e valor individualizado em caso de litisconsórcio. A Fazenda é intimada na pessoa de seu representante judicial para, em <strong>30 dias</strong>, impugnar a execução (art. 535, caput).</p>
+
+<p>As matérias arguíveis na impugnação da Fazenda são similares às do art. 525, §1º: falta ou nulidade de citação se houve revelia, ilegitimidade de parte, inexequibilidade do título ou inexigibilidade da obrigação, excesso de execução, incompetência, e qualquer causa modificativa ou extintiva superveniente ao trânsito em julgado. A impugnação não tem efeito suspensivo automático — cabe ao juiz concedê-lo, preenchidos os requisitos. A Fazenda também pode arguir inexigibilidade por inconstitucionalidade (art. 535, §§5º a 8º), nos mesmos moldes do art. 525, §§12-15.</p>
+
+<h3>Execução de título extrajudicial contra a Fazenda (art. 910, CPC)</h3>
+
+<p>Quando a execução contra a Fazenda se funda em título extrajudicial, aplica-se o art. 910. A Fazenda é citada para opor embargos no prazo de <strong>30 dias</strong>. Não opostos embargos ou sendo estes rejeitados, expede-se precatório ou RPV. O procedimento é mais simples que a execução extrajudicial contra particulares, pois não há penhora, avaliação ou expropriação — tudo se resolve pela requisição judicial de pagamento.</p>
+
+<h3>Prerrogativas processuais da Fazenda na execução</h3>
+
+<p>A Fazenda Pública goza de diversas prerrogativas no processo executivo, todas com fundamento na proteção do erário e na continuidade dos serviços públicos:</p>
+
+<table>
+<tr><th>Prerrogativa</th><th>Fundamento</th></tr>
+<tr><td>Impenhorabilidade de bens públicos</td><td>Art. 100 da CF; arts. 98-103 do CC (bens públicos)</td></tr>
+<tr><td>Pagamento por precatório/RPV (sem expropriação)</td><td>Art. 100 da CF</td></tr>
+<tr><td>Inaplicabilidade da multa de 10% do art. 523</td><td>Regime constitucional de pagamento impede sanção por inadimplência voluntária</td></tr>
+<tr><td>Prazo de 30 dias para impugnar/embargar (arts. 535, 910)</td><td>Prazo dobro do devedor comum</td></tr>
+<tr><td>Dispensa de preparo recursal</td><td>Art. 1.007, §1º, CPC</td></tr>
+<tr><td>Intimação pessoal</td><td>Art. 183, CPC</td></tr>
+<tr><td>Remessa necessária</td><td>Art. 496, CPC (com dispensas por valor)</td></tr>
+<tr><td>Dispensa de honorários sem impugnação em precatório</td><td>Art. 85, §7º, CPC + Tema 1.190/STJ</td></tr>
+</table>
+
+<h3>Atualização monetária e juros</h3>
+
+<p>A EC 113/2021 unificou o índice de atualização de precatórios e RPVs: a partir de dezembro de 2021, aplica-se exclusivamente a <strong>taxa SELIC</strong>, que engloba tanto a correção monetária quanto os juros de mora. Antes da EC 113, o STF havia fixado no Tema 810 que o índice de correção para a Fazenda Pública em geral seria o IPCA-E (para débitos em geral) e os juros seguiriam o art. 1º-F da Lei 9.494/97 (com a redação da Lei 11.960/2009) apenas para juros remuneratórios, mantendo-se os juros de mora conforme o título judicial. Com a EC 113, essa complexidade foi simplificada pela incidência da SELIC como índice único.</p>
+
+<h3>Sequestro de verbas e preterição da ordem</h3>
+
+<p>O art. 100, §6º, da CF prevê o sequestro de verba pública como medida excepcional, cabível exclusivamente nos casos de preterição do direito de precedência na ordem cronológica ou de não alocação orçamentária do valor necessário à satisfação do débito. O sequestro não é medida executória ordinária — é sanção constitucional para o descumprimento das regras do regime de precatórios. O STF já assentou, por unanimidade, que o atraso no pagamento de parcelas de precatório autoriza a determinação de sequestro de verbas públicas.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 100:</strong> regra-mãe do regime de precatórios. Leitura obrigatória integral — todos os parágrafos são relevantes. Atenção ao §1º (natureza alimentar), §3º (RPV), §5º (vedação de fracionamento — EC 136/2025 trouxe alterações), §6º (sequestro), §§8º-12 (cessão de precatórios, compensação tributária).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 534-535:</strong> cumprimento de sentença contra Fazenda — demonstrativo, prazo de 30 dias, matérias de impugnação, inexigibilidade por inconstitucionalidade (§§5º-8º do art. 535).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 910:</strong> execução de título extrajudicial contra a Fazenda — citação para embargos em 30 dias.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 85, §7º:</strong> dispensa de honorários em cumprimento contra Fazenda que enseje precatório sem impugnação.</p>
+
+<p><span class="tag tag-lei">EC 113/2021</span> <strong>Art. 3º:</strong> nas discussões e condenações que envolvam a Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, de remuneração do capital e de compensação da mora, haverá incidência uma única vez, até o efetivo pagamento, do índice da <strong>taxa referencial do SELIC</strong>, acumulado mensalmente.</p>
+
+<p><span class="tag tag-lei">EC 136/2025:</strong> alterou novamente o regime de precatórios. Pontos centrais: retirou precatórios do limite de despesas primárias da União a partir de 2026; criou limites anuais de pagamento atrelados à proporção entre estoque de precatórios e receita corrente líquida (1% a 5% da RCL); permitiu que Estados e Municípios posterguem pagamentos. Já é alvo de ADI no STF (ADI 7.873/OAB).</p>
+
+<p><span class="tag tag-lei">Lei Estadual RJ 7.781/2017:</span> fixou o teto de RPV do Estado do Rio de Janeiro em 20 salários-mínimos.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 4.425 (2013):</strong> declarou inconstitucional o regime especial de precatórios da EC 62/2009 (art. 97 do ADCT). Modulou efeitos: manteve parcialmente o regime até cinco exercícios a partir de janeiro de 2016.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 810 (RE 870.947):</strong> definiu os índices de correção e juros aplicáveis à Fazenda Pública: IPCA-E para correção monetária. Parcialmente superado pela EC 113/2021 (SELIC única).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.190 (2024):</strong> não são devidos honorários em cumprimento de sentença contra a Fazenda sem impugnação, mesmo em RPV. Modulação temporal.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela Constituição Federal: leia o art. 100 integralmente, parágrafo por parágrafo. Esse é o dispositivo central de todo o tema. Compreenda a lógica do sistema: créditos alimentares antes dos comuns, superpreferência para idosos e doentes graves, RPV como via rápida para valores menores, vedação de fracionamento, e sequestro como sanção excepcional. Anote os limites de RPV para cada ente (60 SM União, 40 SM Estados/DF pelo ADCT — mas o RJ fixou 20 SM por lei própria, 30 SM Municípios).</p>
+
+<p>Depois, estude os arts. 534-535 do CPC e compare com o art. 525 (impugnação do devedor comum). As diferenças são pontuais mas decisivas: prazo de 30 dias (e não 15), inaplicabilidade da multa do art. 523, regime especial de honorários (art. 85, §7º). Em seguida, leia o art. 910 (execução extrajudicial contra a Fazenda) — é curto e direto.</p>
+
+<p>A parte mais complexa do estudo é a evolução constitucional do regime de precatórios. Memorize a sequência de emendas: EC 62/2009 (regime especial, declarado inconstitucional na ADI 4.425), EC 94/2016 e 99/2017 (novo regime transitório), EC 113/2021 (SELIC como índice único), EC 114/2021 (limites orçamentários para precatórios até 2026) e EC 136/2025 (novo regime com limites proporcionais à RCL, já impugnada por ADI). Para a prova, não é preciso decorar cada emenda em detalhe, mas sim entender a tensão entre a efetividade das decisões judiciais e as limitações orçamentárias — essa é a questão de fundo que a banca pode explorar.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>RPV no Rio de Janeiro — 20 SM:</strong> não confunda com o limite constitucional transitório de 40 SM para Estados. O RJ fixou, por lei própria, o teto de 20 SM. Esse dado é relevantíssimo para a prova da PGE/RJ, pois demonstra conhecimento da legislação estadual específica.
+</div>
+
+<div class="atencao">
+<strong>Vedação de fracionamento (art. 100, §8º, CF):</strong> é proibido fracionar o crédito de um mesmo beneficiário para que parte seja paga por RPV e parte por precatório. A renúncia ao excedente, porém, é permitida: o credor pode abrir mão do valor que ultrapassa o limite de RPV para receber tudo por essa via. São situações distintas — o fracionamento é vedado, a renúncia é autorizada.
+</div>
+
+<div class="atencao">
+<strong>Índice de correção — SELIC a partir da EC 113/2021:</strong> a partir de dezembro de 2021, aplica-se exclusivamente a SELIC para atualização de débitos da Fazenda Pública, englobando correção monetária e juros de mora. Antes da EC 113, o índice era o IPCA-E (Tema 810/STF). A banca pode explorar a transição: qual índice se aplica para o período anterior a dezembro de 2021? Resposta: IPCA-E para correção e juros conforme o título judicial (ou Lei 11.960/09 para juros de mora).
+</div>
+
+<div class="atencao">
+<strong>Sequestro ≠ penhora:</strong> bens públicos são impenhoráveis, mas o sequestro de verbas é admitido como sanção constitucional em caso de preterição da ordem cronológica de precatórios ou de não alocação orçamentária. Não confunda as figuras: penhora é medida executória ordinária (vedada contra a Fazenda); sequestro é medida constitucional excepcional (autorizada pelo art. 100, §6º).
+</div>
+
+<div class="atencao">
+<strong>EC 136/2025 e ADI 7.873:</strong> a emenda mais recente já é alvo de ação direta de inconstitucionalidade proposta pela OAB. Os argumentos centrais são: violação da coisa julgada, do direito de propriedade e da separação de poderes. Para a prova, demonstre que conhece a existência da controvérsia e seus fundamentos, sem necessariamente prever o resultado — a posição do STF ainda está em aberto.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>ADI 4.425 — Inconstitucionalidade do regime especial da EC 62/2009</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário declarou a inconstitucionalidade do art. 97 do ADCT (introduzido pela EC 62/2009), que havia criado um regime especial de pagamento de precatórios permitindo o parcelamento em até 15 anos. O fundamento central foi a violação ao princípio da separação dos poderes e à garantia do acesso à jurisdição efetiva: o regime autorizava o Poder Executivo a postergar indefinidamente o pagamento de decisões judiciais transitadas em julgado. O STF modulou os efeitos, mantendo a validade dos pagamentos já realizados e concedendo prazo de cinco exercícios (a partir de 2016) para adequação. Essa decisão é o precedente fundante para todas as ADIs subsequentes contra emendas que limitam precatórios.</p>
+
+<h3>Tema 810 (RE 870.947) — Índices de correção e juros contra a Fazenda</h3>
+
+<p><span class="tag tag-stf">STF</span> O STF, em repercussão geral, fixou que o IPCA-E é o índice de correção monetária aplicável às condenações da Fazenda Pública, afastando a TR (Taxa Referencial) anteriormente prevista na Lei 11.960/09. Para juros de mora, manteve-se a aplicação do índice de remuneração da caderneta de poupança previsto naquela lei. Esse entendimento foi parcialmente superado pela EC 113/2021, que instituiu a SELIC como índice único a partir de dezembro de 2021. Contudo, o Tema 810 permanece relevante para a definição dos índices aplicáveis ao período anterior à EC 113.</p>
+
+<h3>Tema 519 (RE 659.172) — Regime especial e precatórios anteriores a 2009</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário decidiu que o regime especial de precatórios previsto na EC 62/2009 alcançava os precatórios expedidos antes de sua promulgação. A tese tem relevância prática limitada após a declaração de inconstitucionalidade do regime na ADI 4.425, mas demonstra a complexidade da matéria e a sobreposição de regimes temporais — fator que pode ser explorado em prova discursiva.</p>
+
+<h3>EC 136/2025 e ADI 7.873</h3>
+
+<p><span class="tag tag-stf">STF</span> A OAB ajuizou ADI 7.873 impugnando múltiplos dispositivos da EC 136/2025, que instituiu novo regime de limites para pagamento de precatórios. Os questionamentos centrais incluem: a criação de limites anuais de pagamento proporcionais à receita corrente líquida (1% a 5% da RCL), a autorização para que Estados e Municípios posterguem pagamentos, e a possibilidade de retenção de transferências constitucionais como sanção. Para o candidato a Procurador do Estado, a questão é sensível: o Estado do Rio de Janeiro tem estoque significativo de precatórios, e as regras de transição impactam diretamente o planejamento orçamentário e a atuação da PGE.</p>
+
+<h3>Tema 1.190 — Honorários em cumprimento sem impugnação</h3>
+
+<p><span class="tag tag-stj">STJ</span> Reafirmando a regra do art. 85, §7º, do CPC, o STJ fixou no Tema 1.190 que não são devidos honorários em cumprimento de sentença contra a Fazenda que não tenha sido impugnado, mesmo em RPV. Esse entendimento favorece os entes públicos, reduzindo o custo das execuções. Porém, quando há impugnação rejeitada, os honorários são cabíveis sobre a parcela controvertida — e o STJ afetou novo repetitivo em 2025 para definir se essa incidência alcança impugnações parcialmente rejeitadas.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Ente</th><th>Limite RPV</th><th>Fonte normativa</th></tr>
+<tr><td>União</td><td>60 salários-mínimos</td><td>Lei 10.259/2001, art. 17, §1º</td></tr>
+<tr><td>Estados/DF (regra transitória ADCT)</td><td>40 salários-mínimos</td><td>Art. 87 do ADCT</td></tr>
+<tr><td><strong>Estado do Rio de Janeiro</strong></td><td><strong>20 salários-mínimos</strong></td><td>Lei Estadual 7.781/2017</td></tr>
+<tr><td>Municípios (regra transitória ADCT)</td><td>30 salários-mínimos</td><td>Art. 87 do ADCT</td></tr>
+</table>
+
+<table>
+<tr><th>Ordem de pagamento (art. 100, CF + EC 114/2021)</th><th>Descrição</th></tr>
+<tr><td>1º</td><td>RPVs (obrigações de pequeno valor)</td></tr>
+<tr><td>2º</td><td>Precatórios alimentares com superpreferência (≥60 anos, doença grave, deficiência) — até 3× o limite de RPV</td></tr>
+<tr><td>3º</td><td>Demais precatórios alimentares até 3× o limite de RPV</td></tr>
+<tr><td>4º</td><td>Demais precatórios alimentares (excedente)</td></tr>
+<tr><td>5º</td><td>Precatórios de natureza comum</td></tr>
+</table>
+
+<table>
+<tr><th>Emenda</th><th>Ano</th><th>Principal alteração</th><th>Status no STF</th></tr>
+<tr><td>EC 62</td><td>2009</td><td>Regime especial de parcelamento (art. 97 ADCT)</td><td>Declarada inconstitucional (ADI 4.425)</td></tr>
+<tr><td>EC 94</td><td>2016</td><td>Novo regime transitório de parcelamento</td><td>Vigente (parcialmente superada)</td></tr>
+<tr><td>EC 99</td><td>2017</td><td>Prorrogação do regime transitório até 2024</td><td>Vigente (parcialmente superada)</td></tr>
+<tr><td>EC 113</td><td>2021</td><td>SELIC como índice único de atualização</td><td>Vigente (art. 3º parcialmente questionado na ADI 7.873)</td></tr>
+<tr><td>EC 114</td><td>2021</td><td>Limite orçamentário para precatórios; nova ordem de pagamento</td><td>Vigente (parcialmente questionada)</td></tr>
+<tr><td>EC 136</td><td>2025</td><td>Novos limites por RCL (1-5%); postergação para Estados/Municípios</td><td>ADI 7.873 (OAB) pendente de julgamento</td></tr>
+</table>
+
+<table>
+<tr><th>Aspecto</th><th>Cumprimento de sentença (art. 535)</th><th>Execução extrajudicial (art. 910)</th></tr>
+<tr><td>Título</td><td>Judicial (art. 515)</td><td>Extrajudicial (art. 784)</td></tr>
+<tr><td>Defesa</td><td>Impugnação</td><td>Embargos</td></tr>
+<tr><td>Prazo para defesa</td><td>30 dias</td><td>30 dias</td></tr>
+<tr><td>Efeito suspensivo</td><td>Não automático</td><td>Não automático</td></tr>
+<tr><td>Resultado final</td><td>Precatório ou RPV</td><td>Precatório ou RPV</td></tr>
+</table>

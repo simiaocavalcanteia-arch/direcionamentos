@@ -88,7 +88,7 @@
 </div>
 
 <div class="atencao">
-<p><strong>Leasing financeiro: ISS incide:</strong> o STF decidiu (RE 547.245, Plenario, 04/02/2009, Rel. Min. Eros Grau) que o ISS incide sobre o arrendamento mercantil financeiro (<em>leasing</em>), pois o nucleo da operacao e o financiamento, que configura servico. O <em>leasing</em> operacional, por outro lado, e mais proximo da locacao e sua tributacao e debatida. Quanto ao local de incidencia, aplica-se a regra geral do estabelecimento prestador (a LC 175/2020, que pretendia deslocar para o domicilio do tomador, teve seus dispositivos centrais declarados inconstitucionais pelo STF na ADI 5.835, em junho de 2023).</p>
+<p><strong>Leasing financeiro: ISS incide:</strong> o STF decidiu (RE 547.245, Plenario, 02/12/2009, Rel. Min. Eros Grau) que o ISS incide sobre o arrendamento mercantil financeiro (<em>leasing</em>), pois o nucleo da operacao e o financiamento, que configura servico. O <em>leasing</em> operacional, por outro lado, e mais proximo da locacao e sua tributacao e debatida. Quanto ao local de incidencia, aplica-se a regra geral do estabelecimento prestador (a LC 175/2020, que pretendia deslocar para o domicilio do tomador, teve seus dispositivos centrais declarados inconstitucionais pelo STF na ADI 5.835, em junho de 2023).</p>
 </div>
 
 <div class="atencao">

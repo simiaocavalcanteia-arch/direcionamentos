@@ -1,0 +1,156 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 6c — Coisa Julgada</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A coisa julgada é uma das garantias fundamentais do Estado de Direito, assegurada pelo art. 5º, XXXVI, da Constituição Federal. No processo civil, ela confere estabilidade às decisões judiciais, impedindo que a mesma questão seja rediscutida indefinidamente. Para a Fazenda Pública, o tema é estratégico em pelo menos duas frentes: de um lado, a coisa julgada protege decisões favoráveis ao Estado contra tentativas de rediscussão; de outro, condenações transitadas em julgado contra o erário devem ser cumpridas, a menos que se identifiquem vícios que permitam a rescisão ou a arguição de inexigibilidade.</p>
+
+<p>O CPC/2015 trouxe inovação relevante ao ampliar os limites objetivos da coisa julgada, estendendo-a à resolução de questões prejudiciais incidentais (art. 503, §1º), independentemente de ação declaratória incidental — que foi suprimida do novo código. Também consolidou regras sobre a eficácia preclusiva (art. 508) e aperfeiçoou o regime da ação rescisória (art. 966 e seguintes). Para o candidato à PGE/RJ, a coisa julgada é tema de altíssima incidência em provas discursivas, pois envolve conceitos densos e aplicações práticas constantes na advocacia pública.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e distinções fundamentais</h3>
+
+<p>O art. 502 define coisa julgada material como "a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso". Dois atributos compõem o conceito: <strong>imutabilidade</strong> (não pode ser modificada) e <strong>indiscutibilidade</strong> (não pode ser rediscutida, nem mesmo em outro processo). A coisa julgada material recai apenas sobre decisões de mérito (art. 487) — decisões terminativas (art. 485) fazem apenas coisa julgada formal.</p>
+
+<p>A <strong>coisa julgada formal</strong> é a imutabilidade da decisão dentro do próprio processo em que foi proferida: esgotados os recursos ou decorrido o prazo, a decisão se torna irrecorrível naquele processo. Toda decisão pode transitar em julgado formalmente. A <strong>coisa julgada material</strong>, por sua vez, projeta seus efeitos para fora do processo, impedindo a rediscussão da matéria em qualquer outro processo entre as mesmas partes.</p>
+
+<h3>Limites objetivos da coisa julgada (arts. 503-504)</h3>
+
+<p>O art. 503 estabelece que a decisão que julga total ou parcialmente o mérito tem força de lei nos limites da <strong>questão principal expressamente decidida</strong>. A coisa julgada recai sobre o dispositivo da sentença — é ali que o juiz resolve o pedido do autor. Os <strong>motivos</strong> da decisão e a <strong>verdade dos fatos</strong> estabelecida como fundamento da sentença não fazem coisa julgada (art. 504, I e II). Essa é a regra geral: a fundamentação serve apenas como razão de decidir, mas não se torna imutável.</p>
+
+<div class="destaque">
+<p><strong>Coisa julgada sobre questão prejudicial (art. 503, §1º):</strong> o CPC/2015 inovou ao estender a coisa julgada material à resolução de questão prejudicial decidida expressa e incidentemente no processo, desde que preenchidos cumulativamente três requisitos: (I) a resolução da prejudicial depende do julgamento do mérito; (II) houve contraditório prévio e efetivo a seu respeito (não se aplica em caso de revelia); e (III) o juízo tem competência em razão da matéria e da pessoa para resolvê-la como questão principal. Além disso, o §2º acrescenta uma condição negativa: não se aplica se houver restrições probatórias ou limitações à cognição que impeçam o aprofundamento da análise.</p>
+</div>
+
+<p>Essa ampliação é importante para a Fazenda Pública. Imagine uma ação de cobrança contra o Estado em que o juiz, incidentalmente, reconhece a existência de relação jurídica tributária entre as partes. Antes do CPC/2015, esse reconhecimento não faria coisa julgada (seria necessária ação declaratória incidental). Agora, preenchidos os requisitos do §1º, a definição da relação jurídica torna-se imutável, o que pode vincular a Fazenda em processos futuros.</p>
+
+<h3>Limites subjetivos (art. 506)</h3>
+
+<p>O art. 506 determina que "a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros". A coisa julgada opera, portanto, <em>inter partes</em> — terceiros que não participaram do processo não podem ser prejudicados pela decisão. Houve mudança sutil em relação ao CPC/1973: o antigo art. 472 dizia que a coisa julgada não beneficiava nem prejudicava terceiros. O CPC/2015 suprimiu a referência a "não beneficiar", permitindo que terceiros se beneficiem da coisa julgada quando lhes for favorável, sem ficar vinculados quando desfavorável.</p>
+
+<p>Exceções relevantes ao regime <em>inter partes</em>: ações coletivas (coisa julgada <em>erga omnes</em> ou <em>ultra partes</em>, conforme o CDC e a LACP), ações de estado (efeitos <em>erga omnes</em>) e ação popular (coisa julgada <em>erga omnes</em>, exceto se improcedente por falta de provas — <em>secundum eventum probationis</em>).</p>
+
+<h3>Eficácia preclusiva da coisa julgada (art. 508)</h3>
+
+<p>O art. 508 consagra a eficácia preclusiva: transitada em julgado a decisão de mérito, consideram-se deduzidas e repelidas todas as alegações e defesas que a parte poderia opor ao acolhimento ou à rejeição do pedido. Essa regra impede que a parte, em processo posterior, invoque fundamentos que poderia ter alegado no processo original mas não o fez. É uma extensão lógica da coisa julgada: protege não apenas o que foi decidido, mas também o que poderia ter sido deduzido.</p>
+
+<h3>Ação rescisória (arts. 966-975)</h3>
+
+<p>A coisa julgada não é absolutamente intangível: pode ser desconstituída por ação rescisória, nas hipóteses taxativas do art. 966. As mais relevantes são: (I) prevaricação, concussão ou corrupção do juiz; (II) impedimento do juiz ou incompetência absoluta do juízo; (III) dolo ou coação da parte vencedora; (IV) simulação ou colusão entre as partes; (V) violação manifesta de norma jurídica; (VI) falsidade de prova; (VII) prova nova cuja existência era ignorada ou de utilização impossível; (VIII) erro de fato verificável do exame dos autos.</p>
+
+<p>O prazo para a rescisória é de <strong>2 anos</strong> contados do trânsito em julgado da última decisão proferida no processo (art. 975). Para a hipótese de prova nova (inciso VII), há regra especial: o prazo de 2 anos conta a partir da descoberta da prova, com limite máximo de 5 anos do trânsito em julgado (art. 975, §2º).</p>
+
+<p>O CPC/2015 inovou ao admitir rescisória de capítulo de decisão (art. 966, §3º) e ao permitir rescisória mesmo que a decisão transitada em julgado se baseie em ato normativo declarado inconstitucional pelo STF ou em interpretação incompatível com a Constituição (art. 966, §5º), neste caso sem prazo decadencial — a rescisória pode ser ajuizada enquanto não houver sido executada a decisão.</p>
+
+<h3>Coisa julgada inconstitucional e Fazenda Pública</h3>
+
+<p>O tema da coisa julgada inconstitucional é de enorme relevância para a advocacia pública. O art. 535, §5º, do CPC permite que a Fazenda Pública, na impugnação ao cumprimento de sentença, alegue que o título executivo judicial se funda em lei ou ato normativo considerado inconstitucional pelo STF, ou em aplicação/interpretação tida por incompatível com a Constituição, em controle concentrado ou difuso.</p>
+
+<p>O STF, no RE 730.462/SP (Tema 733), fixou balizas importantes: a declaração de inconstitucionalidade pelo STF não produz reforma automática das decisões transitadas em julgado anteriormente. Se o trânsito em julgado é posterior à declaração de inconstitucionalidade, a inexigibilidade pode ser arguida diretamente na impugnação ao cumprimento (art. 535, §5º). Se o trânsito em julgado é anterior, o único instrumento é a ação rescisória, respeitado o prazo.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 5º, XXXVI</strong> — "a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada". Fundamento constitucional da proteção à coisa julgada.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 502</strong> — conceito de coisa julgada material: autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 503, §1º</strong> — extensão da coisa julgada à questão prejudicial. Três requisitos cumulativos + condição negativa (§2º). Inovação central do CPC/2015.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 504</strong> — não fazem coisa julgada: os motivos (I) e a verdade dos fatos (II).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 506</strong> — limites subjetivos: coisa julgada <em>inter partes</em>. Terceiros não são prejudicados (podem ser beneficiados).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 508</strong> — eficácia preclusiva: consideram-se deduzidas e repelidas todas as alegações que a parte poderia ter oposto.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 535, §5º</strong> — inexigibilidade do título fundado em norma inconstitucional. Instrumento de defesa da Fazenda na impugnação ao cumprimento.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 966-975</strong> — ação rescisória. Hipóteses taxativas (art. 966). Prazo: 2 anos do trânsito em julgado (art. 975). Prova nova: 2 anos da descoberta, limite de 5 anos (§2º).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 730.462/SP — Tema 733</strong> — a declaração de inconstitucionalidade não opera reforma automática de decisões transitadas em julgado. Se o trânsito ocorreu após a declaração: impugnação ao cumprimento. Se antes: ação rescisória.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 502, que define o conceito, e siga até o art. 508, que encerra a seção sobre coisa julgada. São apenas sete artigos, mas densos. O ponto mais importante e inovador é o art. 503, §§1º e 2º (coisa julgada sobre prejudicial): memorize os três requisitos cumulativos e a condição negativa, e pense em exemplos concretos.</p>
+
+<p>Em seguida, estude o art. 504 (motivos e verdade dos fatos não fazem coisa julgada) em contraposição ao art. 503, §1º (questão prejudicial pode fazer coisa julgada). A tensão entre esses dois dispositivos é exatamente o tipo de questão que uma banca pode explorar na prova discursiva: onde termina a fundamentação (art. 504) e onde começa a prejudicial com força de coisa julgada (art. 503, §1º)?</p>
+
+<p>Para a ação rescisória, concentre-se nas hipóteses mais cobradas do art. 966: violação de norma jurídica (V), prova nova (VII) e erro de fato (VIII). Grave o prazo de 2 anos e a exceção para prova nova (2+5 anos). Conecte com a coisa julgada inconstitucional (art. 535, §5º e RE 730.462/STF), que é tema de altíssima relevância para a advocacia pública.</p>
+
+<p>Faça pontes mentais: a coisa julgada é consequência da sentença de mérito (Ponto 6a), que pode precisar de liquidação (Ponto 6b). A rescisória é ação originária nos tribunais, conectando-se com competência (Ponto 1b). E a inexigibilidade do título inconstitucional é matéria de impugnação ao cumprimento de sentença contra a Fazenda (Ponto 8d).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Motivos da sentença × questão prejudicial:</strong> o art. 504 diz que os motivos não fazem coisa julgada. O art. 503, §1º, diz que a questão prejudicial pode fazer. Não há contradição: a prejudicial é uma questão específica (relação jurídica, estado de pessoa, etc.) que o juiz decide expressamente e que preenche os requisitos do §1º. Os motivos genéricos da fundamentação continuam excluídos da coisa julgada. A banca pode exigir que o candidato distinga essas hipóteses.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Revelia exclui a coisa julgada sobre prejudicial:</strong> o art. 503, §1º, II, exige "contraditório prévio e efetivo" e expressamente ressalva que o dispositivo não se aplica no caso de revelia. Se o réu é revel, a questão prejudicial decidida incidentalmente não fará coisa julgada material. Essa ressalva é frequentemente esquecida.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 506: terceiros podem ser beneficiados pela coisa julgada:</strong> o CPC/2015 suprimiu a expressão "não beneficia" que constava no CPC/1973. A interpretação dominante é que terceiros não podem ser prejudicados pela coisa julgada, mas podem invocar a decisão em seu benefício. Essa mudança sutil tem consequências práticas — por exemplo, em litisconsórcio facultativo, o terceiro pode se valer da decisão favorável proferida em processo alheio.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prazo da rescisória e "última decisão proferida no processo":</strong> o art. 975 conta o prazo de 2 anos a partir do trânsito em julgado da "última decisão proferida no processo", e não da sentença. Se houve recurso julgado pelo tribunal, o prazo corre do trânsito dessa decisão. Se houve recurso extraordinário, corre do trânsito do acórdão do STF ou STJ. Candidatos frequentemente erram ao contar o prazo a partir da sentença de primeiro grau.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Coisa julgada inconstitucional — momento do trânsito é decisivo:</strong> o STF (Tema 733) distingue duas situações: (i) se o trânsito em julgado foi posterior à declaração de inconstitucionalidade pelo STF → cabe impugnação ao cumprimento (art. 535, §5º); (ii) se foi anterior → apenas ação rescisória, no prazo de 2 anos. Essa distinção temporal é crucial para a Fazenda e frequentemente cobrada em provas.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 730.462/SP — Tema 733 (2015)</strong> — o STF fixou que a eficácia executiva da declaração de inconstitucionalidade tem como marco a data de publicação da decisão do Tribunal. Não há reforma automática de julgados anteriores. A coisa julgada formada antes da declaração de inconstitucionalidade só pode ser desconstituída por ação rescisória, dentro do prazo legal. A impugnação ao cumprimento com base na inconstitucionalidade (art. 535, §5º) só é cabível quando o trânsito em julgado for posterior à decisão do STF.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Coisa julgada em relações tributárias continuativas — Temas 881 e 885 (2023)</strong> — o STF decidiu que a coisa julgada em matéria tributária com efeitos continuados (<em>pro futuro</em>) cessa automaticamente quando o STF decide em sentido contrário, em controle concentrado, sem necessidade de ação rescisória ou revisional. A tese afeta diretamente a Fazenda Pública: contribuintes que obtiveram decisão favorável transitada em julgado reconhecendo imunidade ou isenção podem perder essa proteção se o STF posteriormente declarar a constitucionalidade do tributo.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Eficácia preclusiva e limites</strong> — o STJ consolidou que a eficácia preclusiva do art. 508 não impede a propositura de nova ação com causa de pedir diferente. O que se reputa "deduzido e repelido" são as alegações e defesas relativas à mesma causa de pedir, não causas de pedir autônomas que poderiam ter sido cumuladas mas não foram.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885 — modulação e repercussões (2024-2025)</strong> — após a fixação da tese em 2023, o STF vem enfrentando a modulação dos efeitos da cessação da coisa julgada tributária. A Corte fixou que a cobrança retroativa do tributo pelo fisco é possível a partir da publicação da ata de julgamento do precedente que alterou a orientação, respeitada a anterioridade nonagesimal e anual para tributos que a exijam. Essa definição é diretamente relevante para as procuradorias estaduais.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Rescisória por violação de norma jurídica — alcance ampliado (2024)</strong> — o STJ tem interpretado de forma ampla a hipótese do art. 966, V ("violação manifesta de norma jurídica"), reconhecendo que o CPC/2015 ampliou o espectro em relação ao CPC/1973 (que exigia "literal disposição de lei"). A expressão "norma jurídica" abrange princípios, normas constitucionais e infraconstitucionais, permitindo rescisória em casos de violação de princípios como o contraditório, a ampla defesa e a motivação das decisões.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Rescisória e Tema 69/STF (2025)</strong> — o STJ admitiu o ajuizamento de ação rescisória para adequar julgados anteriores à modulação de efeitos estabelecida pelo STF no Tema 69 (exclusão do ICMS da base de cálculo do PIS/COFINS). A decisão tem impacto enorme para a Fazenda, pois permite que o fisco busque a rescisão de decisões que aplicaram a tese do STF de forma incompatível com a modulação posterior.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Coisa julgada formal</th><th>Coisa julgada material</th></tr>
+<tr><td><strong>Conceito</strong></td><td>Irrecorribilidade da decisão no próprio processo</td><td>Imutabilidade e indiscutibilidade da decisão em qualquer processo</td></tr>
+<tr><td><strong>Abrangência</strong></td><td>Endoprocessual (dentro do processo)</td><td>Extraprocessual (para além do processo)</td></tr>
+<tr><td><strong>Decisões que a produzem</strong></td><td>Qualquer decisão (terminativa ou de mérito)</td><td>Apenas decisões de mérito (art. 487)</td></tr>
+<tr><td><strong>Desconstituição</strong></td><td>Não cabe rescisória (já transitou)</td><td>Ação rescisória (art. 966)</td></tr>
+</table>
+
+<table>
+<tr><th>Limite</th><th>O que faz coisa julgada</th><th>O que NÃO faz coisa julgada</th></tr>
+<tr><td><strong>Objetivo</strong></td><td>Questão principal (dispositivo) + questão prejudicial se preenchidos os requisitos do §1º do art. 503</td><td>Motivos da decisão (art. 504, I) e verdade dos fatos (art. 504, II)</td></tr>
+<tr><td><strong>Subjetivo</strong></td><td>Partes do processo (art. 506)</td><td>Terceiros não podem ser prejudicados (mas podem ser beneficiados)</td></tr>
+</table>
+
+<table>
+<tr><th>Requisitos da coisa julgada sobre prejudicial (art. 503, §1º)</th></tr>
+<tr><td><strong>I</strong> — A resolução da prejudicial depende do julgamento do mérito</td></tr>
+<tr><td><strong>II</strong> — Houve contraditório prévio e efetivo (NÃO se aplica se houver revelia)</td></tr>
+<tr><td><strong>III</strong> — O juízo tem competência em razão da matéria e da pessoa para resolver como questão principal</td></tr>
+<tr><td><strong>§2º</strong> — Não se aplica se houver restrições probatórias ou limitações à cognição</td></tr>
+</table>
+
+<table>
+<tr><th>Coisa julgada inconstitucional — mecanismos</th><th>Quando o trânsito é posterior à declaração do STF</th><th>Quando o trânsito é anterior à declaração do STF</th></tr>
+<tr><td><strong>Instrumento</strong></td><td>Impugnação ao cumprimento (art. 535, §5º)</td><td>Ação rescisória (art. 966)</td></tr>
+<tr><td><strong>Prazo</strong></td><td>No prazo da impugnação (30 dias para Fazenda)</td><td>2 anos do trânsito em julgado</td></tr>
+<tr><td><strong>Base legal</strong></td><td>Art. 535, §5º, CPC</td><td>Art. 966, V ou §5º, CPC</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre coisa julgada, comece pelo conceito (art. 502 — autoridade que torna imutável e indiscutível), diferencie formal e material, apresente os limites objetivos (arts. 503-504, com destaque para a inovação da prejudicial no §1º) e subjetivos (art. 506 — <em>inter partes</em>), mencione a eficácia preclusiva (art. 508) e, se o enunciado envolver Fazenda Pública, explore a coisa julgada inconstitucional (art. 535, §5º e RE 730.462/Tema 733) e a recente jurisprudência dos Temas 881/885 sobre relações tributárias continuativas.</p>
+</div>

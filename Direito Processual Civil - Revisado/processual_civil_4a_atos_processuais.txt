@@ -1,0 +1,283 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 4a — Atos Processuais</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Atos processuais são as manifestações de vontade dos sujeitos do processo que produzem efeitos na relação processual. Forma, tempo, lugar, prazos, comunicação e nulidades compõem a mecânica do processo — sem dominá-los, o Procurador do Estado não consegue sequer operar no dia a dia: perde prazos, desconhece vícios de citação, ignora possibilidades de flexibilização procedimental. É um tema eminentemente prático, mas que exige conhecimento preciso de dispositivos e exceções.</p>
+
+<p>O edital cobra: atos processuais (forma, tempo, lugar), prazos, comunicação dos atos processuais e nulidades. O tema conecta-se com os pressupostos processuais (Ponto 2b — citação válida como pressuposto de existência), com o juiz e seus poderes (Ponto 3a — poder de dilatar prazos, art. 139, VI), com a Fazenda Pública (Ponto 3b — prazo em dobro, intimação pessoal), com a petição inicial e a resposta do réu (Pontos 4b e 4c — prazos de contestação e defesa), com a sentença (Ponto 6a — publicação, intimação), com os recursos (Ponto 7 — contagem de prazo recursal) e com os negócios jurídicos processuais (art. 190 — convenções sobre ônus e procedimento).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Forma dos atos processuais</h3>
+
+<p>O CPC/2015 adota o princípio da liberdade das formas (art. 188): os atos processuais independem de forma determinada, salvo quando a lei expressamente a exigir, considerando-se válidos os que, realizados de outro modo, preencham a finalidade essencial. É a regra da instrumentalidade das formas — o que importa é a finalidade, não o invólucro formal.</p>
+
+<p>Os atos processuais são públicos, mas o CPC prevê tramitação em segredo de justiça quando exigido pelo interesse público ou social, em casos que envolvam casamento, separação, divórcio, filiação, alimentos e guarda de crianças/adolescentes, ou em que constem dados protegidos pelo direito à intimidade (art. 189). A Fazenda Pública, quando envolvida em processos que tramitam em segredo de justiça, deve observar as restrições de publicidade.</p>
+
+<p>O art. 192 estabelece que todos os atos e termos do processo devem ser em língua portuguesa. Documentos em idioma estrangeiro exigem tradução juramentada (art. 192, parágrafo único). O art. 193 determina que os atos processuais podem ser total ou parcialmente digitais, na forma da lei, permitindo a utilização de processo eletrônico.</p>
+
+<h3>Tempo e lugar dos atos processuais</h3>
+
+<p>Os atos processuais são realizados em dias úteis, das 6 às 20 horas (art. 212). Atos iniciados antes das 20 horas podem ser concluídos após esse horário (art. 212, §1º). A citação, a intimação e a penhora podem ser realizadas no período de férias forenses e nos feriados (art. 212, §2º), desde que autorizadas pelo juiz. Os atos processuais por meio eletrônico podem ser praticados em qualquer horário até as 24 horas do último dia do prazo (art. 213).</p>
+
+<p>O lugar dos atos processuais é a sede do juízo (art. 217). O juiz pode, excepcionalmente, praticar atos fora da sede quando necessário — inspeção judicial (art. 483), por exemplo. As audiências e sessões de julgamento podem ser realizadas por videoconferência (art. 236, §3º), possibilidade amplamente expandida após a pandemia e regulamentada pelo CNJ.</p>
+
+<h3>Prazos processuais</h3>
+
+<p>Os prazos processuais são regulados pelos arts. 218-232 do CPC. A grande inovação do CPC/2015 foi a contagem em dias úteis:</p>
+
+<p><strong>Art. 219:</strong> na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis. Essa regra se aplica exclusivamente a prazos processuais — prazos de direito material (prescrição, decadência) continuam sendo contados em dias corridos.</p>
+
+<p><strong>Regras de contagem (art. 224):</strong> os prazos são contados excluindo-se o dia do começo e incluindo-se o dia do vencimento. Se o vencimento cair em dia sem expediente forense, será prorrogado para o primeiro dia útil seguinte (art. 224, §1º). Os prazos fixados em meses ou anos são contados em dias corridos (aplicando-se a regra do art. 132 do Código Civil), excluído o dia do começo e incluído o do vencimento.</p>
+
+<p><strong>Termo inicial (art. 231):</strong> salvo disposição em sentido diverso, considera-se dia do começo do prazo: a data de juntada aos autos do aviso de recebimento, quando a citação ou intimação for por correio; a data de juntada aos autos do mandado cumprido, quando a citação ou intimação for por oficial de justiça; a data de ocorrência da citação ou intimação por meio eletrônico; o dia útil seguinte ao fim da dilação assinada pelo juiz, quando citação ou intimação for por edital; o dia da carga, quando a intimação for pessoal.</p>
+
+<p><strong>Prazos legais relevantes:</strong> contestação — 15 dias (art. 335); apelação — 15 dias (art. 1.003, §5º); agravo de instrumento — 15 dias (art. 1.003, §5º); embargos de declaração — 5 dias (art. 1.023); recurso especial e extraordinário — 15 dias (art. 1.003, §5º); impugnação ao cumprimento de sentença — 15 dias (art. 525, caput). Atenção: para a Fazenda Pública, todos esses prazos são em dobro (art. 183), salvo quando a lei fixar prazo específico.</p>
+
+<div class="destaque">
+<p><strong>Suspensão e interrupção de prazos:</strong> o art. 220 suspende o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive (recesso forense). O art. 221 prevê a suspensão dos prazos por obstáculo criado pela parte, por motivo de força maior e nas demais hipóteses legais. A oposição de embargos de declaração interrompe o prazo para interposição de outros recursos (art. 1.026) — todos os demais recursos são interrompidos, começando a correr integralmente após a intimação da decisão dos embargos.</p>
+</div>
+
+<h3>Comunicação dos atos processuais</h3>
+
+<p>A comunicação processual se dá por dois institutos fundamentais: citação e intimação.</p>
+
+<p><strong>Citação (arts. 238-259):</strong> é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual (art. 238). A citação válida é pressuposto processual de existência — sem ela, a relação processual não se completa. Produz efeitos importantes (art. 240): torna prevento o juízo, induz litispendência, constitui em mora o devedor e interrompe a prescrição (retroagindo à data de distribuição, se promovida no prazo legal).</p>
+
+<p>Modalidades de citação, por ordem de preferência após a Lei 14.195/2021: (i) por meio eletrônico (art. 246, §1º — preferencialmente); (ii) por correio (art. 247); (iii) por oficial de justiça (art. 249); (iv) pelo escrivão ou chefe de secretaria, se o citando comparecer ao cartório (art. 246, V); (v) por edital (art. 256 — quando desconhecido ou incerto o citando, quando ignorado ou inacessível o lugar em que se encontrar, ou nos casos expressos em lei). A citação com hora certa (art. 252) é espécie de citação por oficial de justiça: quando o oficial, por 2 vezes, procurar o citando sem encontrá-lo e suspeitar de ocultação, intimará qualquer pessoa da família ou vizinho e retornará no dia e hora designados.</p>
+
+<p>A Fazenda Pública é citada pessoalmente, por oficial de justiça ou por meio eletrônico (art. 246, §§1º e 2º). A citação por correio não é admitida quando a ré for pessoa de direito público (art. 247, III).</p>
+
+<p><strong>Intimação (arts. 269-275):</strong> é o ato pelo qual se dá ciência a alguém dos atos e dos termos do processo (art. 269). Todas as comunicações posteriores à citação são feitas por intimação. A regra geral é a intimação pelo Diário de Justiça Eletrônico (art. 272). A Fazenda Pública e o Ministério Público são intimados pessoalmente (art. 183, §1º, e art. 180, respectivamente).</p>
+
+<p><strong>Cartas (arts. 260-268):</strong> quando o ato processual deve ser praticado fora dos limites territoriais do juízo, utilizam-se cartas: precatória (entre juízos da mesma justiça em localidades diversas), rogatória (entre juízo brasileiro e autoridade estrangeira) e de ordem (do tribunal para juízo a ele vinculado).</p>
+
+<h3>Negócios jurídicos processuais</h3>
+
+<p>O CPC/2015 introduziu a cláusula geral de negociação processual (art. 190): as partes plenamente capazes podem, versando o processo sobre direitos que admitam autocomposição, estipular mudanças no procedimento para ajustá-lo às especificidades da causa, e convencionar sobre ônus, poderes, faculdades e deveres processuais. O juiz só recusa aplicação se houver nulidade, inserção abusiva em contrato de adesão ou manifesta vulnerabilidade de uma das partes.</p>
+
+<p>O art. 191 prevê o calendário processual: de comum acordo, juiz e partes fixam cronograma para a prática dos atos processuais. O calendário vincula todos e dispensa intimações — a data de cada ato já está predeterminada.</p>
+
+<p>Exemplos de negócios processuais atípicos admitidos pela doutrina e pela jurisprudência: acordo de impenhorabilidade, acordo de instância única, pacto de não recorrer, acordo de ampliação ou redução de prazos, eleição consensual de perito, acordo de rateio de despesas processuais. Quanto à Fazenda Pública, a possibilidade de celebrar negócios processuais existe, mas é limitada pela indisponibilidade do interesse público — a PGE deve ter autorização normativa interna para convencionar sobre procedimento.</p>
+
+<h3>Nulidades processuais</h3>
+
+<p>O sistema de nulidades do CPC/2015 (arts. 276-283) é governado por princípios que privilegiam a preservação dos atos processuais:</p>
+
+<p><strong>Princípio da instrumentalidade das formas (art. 277):</strong> quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, atingir a finalidade essencial. É o corolário do art. 188 — a forma serve ao ato, não o ato à forma. Se a citação teve vício de forma mas o réu compareceu e se defendeu, a finalidade foi atingida e a nulidade não será declarada.</p>
+
+<p><strong>Princípio do prejuízo — <em>pas de nullité sans grief</em> (art. 282, §1º):</strong> o ato não será repetido nem sua falta será suprida quando não prejudicar a parte. Nenhuma nulidade será pronunciada sem demonstração concreta de prejuízo. É a regra mais importante do sistema: não basta a irregularidade formal; é necessário que ela tenha causado dano efetivo à parte que a invoca.</p>
+
+<p><strong>Princípio da causalidade (art. 281):</strong> a nulidade de um ato só prejudica os posteriores que dele dependam. O juiz deve declarar quais atos são atingidos e ordenar as providências de repetição ou retificação, conservando os atos que não dependem do ato nulo.</p>
+
+<p><strong>Princípio da convalidação (art. 278):</strong> a nulidade relativa deve ser arguida pela parte interessada na primeira oportunidade em que lhe couber falar nos autos, sob pena de preclusão. A parte que deu causa à nulidade não pode invocá-la (art. 276). A nulidade cominada (absoluta) pode ser alegada a qualquer tempo e deve ser decretada de ofício pelo juiz.</p>
+
+<div class="destaque">
+<p><strong>Nulidade absoluta versus nulidade relativa:</strong> a nulidade absoluta decorre da violação de norma de ordem pública (incompetência absoluta, falta de citação, ausência de intervenção obrigatória do MP). É insanável, pode ser conhecida de ofício e não preclui. A nulidade relativa decorre de vício de interesse particular (incompetência relativa, falta de intimação para ato não essencial). É sanável, sujeita à preclusão e depende de provocação da parte interessada. A distinção é fundamental porque determina se o vício pode ser ignorado ou deve ser corrigido.</p>
+</div>
+
+<p>O art. 279 traz uma nulidade específica de grande importância prática: é nulo o processo quando o membro do Ministério Público não for intimado a acompanhar o feito em que deva intervir. Se o processo atingiu seu objetivo sem prejuízo, o juiz anulará apenas os atos do processo a que o MP deveria ter sido intimado.</p>
+
+<p>O art. 282 complementa o sistema: o juiz, ao pronunciar a nulidade, declarará que atos são atingidos e ordenará as providências necessárias para a repetição ou a retificação do ato. Pode o juiz aproveitar os atos praticados desde que não resulte prejuízo à defesa de qualquer parte (§2º).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos legais centrais</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 188:</strong> princípio da liberdade das formas — os atos independem de forma determinada, salvo exigência legal, sendo válidos quando atingirem a finalidade essencial.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 219:</strong> contagem em dias úteis — inovação do CPC/2015 que alterou toda a dinâmica de prazos processuais. Aplica-se apenas a prazos processuais (não a prazos de direito material).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 224:</strong> regras de contagem — exclui o dia do começo e inclui o do vencimento. Prorrogação para o primeiro dia útil seguinte se o vencimento cair em dia sem expediente.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 231:</strong> termo inicial dos prazos conforme a modalidade de comunicação (juntada do AR, mandado cumprido, meio eletrônico, fim da dilação editalícia, carga).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 238-240:</strong> citação — conceito, efeitos (litispendência, prevenção, mora, interrupção da prescrição).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 246:</strong> modalidades de citação — eletrônica (preferencial após Lei 14.195/2021), correio, oficial de justiça, escrivão, edital. §§1º-2º: citação da Fazenda Pública por meio eletrônico ou pessoal.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 247, III:</strong> vedação de citação por correio quando a ré for pessoa de direito público.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 183:</strong> prazo em dobro e intimação pessoal da Fazenda Pública — dispositivo central já estudado no Ponto 3b, mas essencial aqui por integrar o regime de prazos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 190-191:</strong> negócios jurídicos processuais. O art. 190 é a cláusula geral de negociação. O art. 191 institui o calendário processual.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 276-283:</strong> sistema de nulidades. Os dispositivos mais cobrados são: art. 276 (quem deu causa à nulidade não pode invocá-la), art. 277 (instrumentalidade das formas), art. 278 (preclusão da nulidade relativa), art. 279 (nulidade por falta de intimação do MP), art. 281 (causalidade — nulidade só atinge atos dependentes) e art. 282, §1º (não se pronuncia nulidade sem prejuízo).</p>
+
+<p><span class="tag tag-lei">Lei 14.195/2021:</span> alterou o art. 246 do CPC para priorizar a citação por meio eletrônico, antes mesmo da citação por correio. Mudança relevante na ordem de preferência das modalidades de citação.</p>
+
+<p><span class="tag tag-lei">Lei 11.419/2006:</span> Lei do Processo Eletrônico. O art. 5º equipara a intimação pelo portal eletrônico à intimação pessoal. Fundamental para a Fazenda Pública, que é intimada pessoalmente (art. 183, §1º, CPC) e, no processo eletrônico, essa intimação se dá pelo sistema.</p>
+
+<h3>Jurisprudência relevante</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre contagem em dias úteis:</strong> o STJ consolidou que o art. 219 se aplica a todos os prazos processuais, inclusive os de cumprimento de obrigação de fazer fixados pelo juiz. A 2ª Turma do STJ (2021) decidiu que o prazo para cumprimento de obrigação de fazer tem natureza processual e deve ser contado em dias úteis, ampliando o alcance do art. 219.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 106:</strong> "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência." A súmula protege o autor contra a ineficiência do Judiciário — se a citação não ocorrer por culpa da máquina judiciária (e não do autor), a interrupção da prescrição retroage normalmente à data da distribuição. Fundamental para a Fazenda Pública, tanto como autora (protegendo a cobrança de créditos) quanto como ré (verificando se o autor foi diligente).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 429:</strong> "A citação postal, quando autorizada por lei, exige o aviso de recebimento." Complementa o regime de citação por correio — sem AR, a citação é nula.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre nulidade e prejuízo:</strong> o STJ aplica consistentemente o princípio do prejuízo (<em>pas de nullité sans grief</em>), exigindo demonstração concreta de dano para decretar nulidade. A falta de citação, contudo, é nulidade absoluta que prescinde de demonstração específica de prejuízo — a violação ao contraditório é, em si mesma, o prejuízo.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela contagem de prazos em dias úteis (art. 219) — é a inovação mais cobrada do CPC/2015 sobre atos processuais. Saiba que a regra se aplica apenas a prazos processuais (não a prescrição, decadência, prazos contratuais) e que foi objeto de consolidação jurisprudencial pelo STJ. Na sequência, estude as regras de contagem (art. 224 — exclusão do dia do começo, inclusão do vencimento, prorrogação) e os termos iniciais (art. 231 — cada modalidade de comunicação tem um marco diferente).</p>
+
+<p>Para a comunicação dos atos processuais, concentre-se na citação: saiba as modalidades, a ordem de preferência (eletrônica como regra após a Lei 14.195/2021), as vedações (não se cita a Fazenda Pública por correio — art. 247, III), os efeitos (art. 240) e a citação por edital (requisitos e nomeação de curador especial). Sobre intimação, memorize que a Fazenda Pública é intimada pessoalmente (art. 183, §1º) e que, no processo eletrônico, a intimação pelo portal equivale à pessoal.</p>
+
+<p>As nulidades devem ser estudadas com foco nos princípios: instrumentalidade das formas, prejuízo, causalidade e convalidação. A distinção entre nulidade absoluta e relativa (cognoscibilidade de ofício versus necessidade de provocação, preclusão versus imprescritibilidade) é a mais cobrada. Memorize o art. 279 (nulidade por falta de intimação do MP) como exemplo de nulidade cominada absoluta.</p>
+
+<p>Os negócios jurídicos processuais (arts. 190-191) merecem atenção especial como inovação do CPC/2015. Saiba os requisitos (partes capazes, direitos que admitam autocomposição), os limites (controle judicial de nulidade, abusividade e vulnerabilidade) e exemplos práticos. Para o concurso da PGE/RJ, uma pergunta sobre se a Fazenda Pública pode celebrar negócios processuais é plausível — a resposta é positiva, com limites decorrentes da indisponibilidade do interesse público e da necessidade de autorização normativa interna.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Dias úteis versus dias corridos — a pegadinha mais frequente:</strong> prazos processuais em dias são contados em dias úteis (art. 219). Prazos em meses ou anos são contados em dias corridos (art. 132 do CC). Prazos de direito material (prescrição, decadência) são sempre em dias corridos. O prazo de 15 dias para contestar, por exemplo, são 15 dias úteis. Mas o prazo de 2 anos para ajuizar ação rescisória é contado em dias corridos. Confundir essas regras pode custar a questão inteira.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Citação da Fazenda Pública — vedação expressa ao correio:</strong> o art. 247, III, proíbe a citação por correio quando a ré for pessoa de direito público. A citação da Fazenda Pública deve ser feita por meio eletrônico (preferencial) ou por oficial de justiça. Candidatos que ignorem essa vedação e afirmem que "a citação pode ser feita por qualquer meio" demonstram desconhecimento de um dos dispositivos mais objetivos do CPC.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Nulidade sem prejuízo — exceção da falta de citação:</strong> o princípio do prejuízo (<em>pas de nullité sans grief</em>) exige demonstração de dano concreto para a decretação de nulidade. A grande exceção é a falta de citação: como a citação é pressuposto de existência da relação processual, sua ausência gera nulidade absoluta sem necessidade de demonstração específica de prejuízo — a violação ao contraditório é, por si, o dano. Essa exceção é cobrada com frequência.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prazo em dobro da Fazenda Pública — quando não se aplica:</strong> o art. 183, §2º, ressalva que o prazo em dobro não se aplica quando a lei fixar de forma expressa prazo próprio para a Fazenda Pública. Exemplos: prazo de 30 dias para embargos à execução fiscal (art. 16, Lei 6.830/1980) não é duplicado; prazo para oferecer embargos de declaração (5 dias) não é duplicado se a lei o fizer expressamente (porém, na ausência de prazo específico, aplica-se o dobro — 10 dias). Atenção ao texto exato do §2º: só se afasta o dobro quando a lei expressamente fixar prazo próprio.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Interrupção do prazo por embargos de declaração:</strong> a oposição de embargos de declaração interrompe (não suspende) o prazo para interposição de outros recursos (art. 1.026, CPC). Interromper significa que o prazo começa do zero após a intimação da decisão dos embargos. Se o Procurador do Estado interpõe embargos de declaração no 3º dia do prazo de apelação, após a decisão dos embargos os 15 dias de apelação recomeçam integralmente. A distinção entre interrupção e suspensão é clássica e recorrente em provas.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Contagem em dias úteis para obrigação de fazer (2ª Turma, 2021):</strong> o STJ decidiu que o prazo para cumprimento de obrigação de fazer fixado pelo juiz tem natureza processual e deve ser contado em dias úteis, nos termos do art. 219 do CPC. A decisão ampliou o alcance da regra, abrangendo não apenas prazos de manifestação, mas também prazos de cumprimento de ordem judicial. Para a Fazenda Pública, essa interpretação é favorável: um prazo de 30 dias para cumprimento de decisão são 30 dias úteis, ou seja, cerca de 6 semanas no calendário.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 106 e retroação da interrupção da prescrição:</strong> embora antiga, a Súmula 106 permanece plenamente aplicável sob o CPC/2015. A interrupção da prescrição retroage à data do protocolo da petição inicial (art. 240, §1º), desde que o autor não tenha dado causa à demora na citação. O STJ aplica a súmula extensivamente, exigindo diligência do autor na promoção da citação.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre citação eletrônica e Lei 14.195/2021:</strong> após a alteração legislativa que priorizou a citação eletrônica, o STJ tem admitido a validade da citação por meio eletrônico desde que a empresa ou pessoa jurídica esteja cadastrada nos sistemas de intimação eletrônica. Para as pessoas jurídicas de direito público (Fazenda Pública), a citação eletrônica é a regra, uma vez que a adesão ao sistema de processo eletrônico é obrigatória.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 988 e negócios processuais:</strong> embora o Tema 988 verse sobre agravo de instrumento, há conexão relevante: se as partes celebram negócio processual (art. 190) renunciando ao direito de recorrer de determinadas decisões, essa convenção é válida e limita a recorribilidade. O STJ tem admitido a eficácia dos negócios processuais, desde que não violem direitos indisponíveis nem a ordem pública processual.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2022):</strong> o STF examinou diversos dispositivos do CPC/2015, confirmando a constitucionalidade dos negócios jurídicos processuais (art. 190) e da contagem em dias úteis (art. 219). Decidiu que a contagem em dias úteis não viola o princípio da razoável duração do processo, pois visa assegurar tempo adequado para a prática dos atos processuais.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Modalidades de citação — ordem de preferência</h3>
+
+<table>
+<tr>
+<th>Ordem</th>
+<th>Modalidade</th>
+<th>Dispositivo</th>
+<th>Observação</th>
+</tr>
+<tr>
+<td>1ª</td>
+<td>Meio eletrônico</td>
+<td>Art. 246, §1º</td>
+<td>Preferencial (Lei 14.195/2021). Prazo de 2 dias úteis para expedição</td>
+</tr>
+<tr>
+<td>2ª</td>
+<td>Correio (AR)</td>
+<td>Art. 247</td>
+<td>Vedada para Fazenda Pública (art. 247, III) e incapazes</td>
+</tr>
+<tr>
+<td>3ª</td>
+<td>Oficial de justiça</td>
+<td>Art. 249</td>
+<td>Inclui citação com hora certa (art. 252)</td>
+</tr>
+<tr>
+<td>4ª</td>
+<td>Escrivão/chefe de secretaria</td>
+<td>Art. 246, V</td>
+<td>Quando o citando comparecer ao cartório</td>
+</tr>
+<tr>
+<td>5ª</td>
+<td>Edital</td>
+<td>Art. 256</td>
+<td>Citando desconhecido, incerto ou inacessível. Prazo de 20-60 dias</td>
+</tr>
+</table>
+
+<h3>Nulidades — princípios estruturantes</h3>
+
+<table>
+<tr>
+<th>Princípio</th>
+<th>Regra</th>
+<th>Dispositivo</th>
+</tr>
+<tr>
+<td><strong>Instrumentalidade das formas</strong></td>
+<td>O ato é válido se atingir sua finalidade, mesmo com vício de forma</td>
+<td>Arts. 188 e 277</td>
+</tr>
+<tr>
+<td><strong>Prejuízo (<em>pas de nullité</em>)</strong></td>
+<td>Não se pronuncia nulidade sem demonstração de prejuízo concreto</td>
+<td>Art. 282, §1º</td>
+</tr>
+<tr>
+<td><strong>Causalidade</strong></td>
+<td>A nulidade só atinge atos posteriores que dependam do ato viciado</td>
+<td>Art. 281</td>
+</tr>
+<tr>
+<td><strong>Convalidação/preclusão</strong></td>
+<td>A nulidade relativa deve ser arguida na primeira oportunidade, sob pena de preclusão</td>
+<td>Art. 278</td>
+</tr>
+<tr>
+<td><strong>Proteção à boa-fé</strong></td>
+<td>Quem deu causa à nulidade não pode invocá-la</td>
+<td>Art. 276</td>
+</tr>
+<tr>
+<td><strong>Interesse (legitimidade)</strong></td>
+<td>Só pode arguir a nulidade a parte que não lhe deu causa</td>
+<td>Art. 276</td>
+</tr>
+</table>
+
+<h3>Nulidade absoluta versus relativa — comparativo</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Nulidade Absoluta</th>
+<th>Nulidade Relativa</th>
+</tr>
+<tr>
+<td><strong>Fundamento</strong></td>
+<td>Norma de ordem pública</td>
+<td>Norma de interesse particular</td>
+</tr>
+<tr>
+<td><strong>Cognoscibilidade</strong></td>
+<td>De ofício pelo juiz</td>
+<td>Depende de provocação da parte</td>
+</tr>
+<tr>
+<td><strong>Preclusão</strong></td>
+<td>Não preclui</td>
+<td>Preclui se não arguida na primeira oportunidade</td>
+</tr>
+<tr>
+<td><strong>Sanabilidade</strong></td>
+<td>Insanável (em regra)</td>
+<td>Sanável</td>
+</tr>
+<tr>
+<td><strong>Exemplos</strong></td>
+<td>Falta de citação, incompetência absoluta, falta de intimação do MP (art. 279)</td>
+<td>Incompetência relativa, falta de intimação para ato não essencial</td>
+</tr>
+</table>
