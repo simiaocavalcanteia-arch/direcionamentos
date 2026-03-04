@@ -1,0 +1,153 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8a — Execução: Teoria Geral</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A execução é a fase processual destinada à satisfação efetiva do direito do credor. Enquanto o processo de conhecimento define <em>se</em> existe o direito, a execução realiza concretamente o direito já reconhecido ou documentado em título executivo. Para a Fazenda Pública, a execução se desdobra em duas perspectivas opostas: como credora (execução fiscal, cobrança de créditos tributários e não tributários), a Fazenda busca satisfação de seus créditos; como devedora (cumprimento de sentença contra o Estado), enfrenta regime especial de precatórios e RPV.</p>
+
+<p>O CPC/2015 consolidou o modelo sincrético, em que conhecimento e execução integram o mesmo processo (cumprimento de sentença — arts. 513-538), mantendo também o processo autônomo de execução para títulos extrajudiciais (arts. 771-925). Os princípios fundamentais — nulla executio sine titulo, patrimonialidade, menor onerosidade, resultado — regem ambas as modalidades e são frequentemente cobrados em provas discursivas.</p>
+
+<p>Este ponto introduz os fundamentos que serão aplicados nos pontos seguintes: cumprimento de sentença (8b), execução de título extrajudicial (8c), execução contra Fazenda (8d) e execução fiscal (8e).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Princípios fundamentais da execução</h3>
+
+<p><strong>Nulla executio sine titulo:</strong> toda execução pressupõe título executivo — judicial ou extrajudicial — que corporifique obrigação certa, líquida e exigível (art. 783). Sem título, não há execução. O título é o documento que permite a instauração da atividade executiva, dispensando novo processo de conhecimento.</p>
+
+<p><strong>Patrimonialidade (art. 789):</strong> a execução recai sobre o patrimônio do devedor, e não sobre sua pessoa. O devedor responde com todos os seus bens presentes e futuros, salvo as restrições legais (impenhorabilidades). No direito brasileiro contemporâneo, a prisão civil por dívida é exceção constitucional restrita ao devedor de alimentos (art. 5º, LXVII, CF).</p>
+
+<p><strong>Menor onerosidade (art. 805):</strong> quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado. O §único do art. 805 acrescenta que o executado deve indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados. Essa regra equilibra o direito do credor à satisfação com a proteção do devedor contra excessos.</p>
+
+<p><strong>Resultado (satisfatividade):</strong> a execução deve ser conduzida no interesse do exequente, que tem direito a obter exatamente aquilo a que faz jus. Não há utilidade em execução que não produza resultado — se a atividade executiva não alcançar bens suficientes para satisfazer o crédito, a execução será suspensa (art. 921, III).</p>
+
+<p><strong>Boa-fé e cooperação:</strong> os princípios dos arts. 5º e 6º do CPC aplicam-se igualmente à execução. Atos atentatórios à dignidade da justiça por parte do executado (art. 774) sujeitam-no a multa de até 20% do valor do débito.</p>
+
+<h3>Títulos executivos judiciais (art. 515)</h3>
+
+<p>São títulos executivos judiciais: (I) decisões que reconheçam a exigibilidade de obrigação de pagar, fazer, não fazer ou entregar coisa; (II) decisão homologatória de autocomposição judicial; (III) decisão homologatória de autocomposição extrajudicial de qualquer natureza; (IV) formal e certidão de partilha; (V) crédito de auxiliar da justiça; (VI) sentença penal condenatória transitada em julgado; (VII) sentença arbitral; (VIII) sentença estrangeira homologada pelo STJ; (IX) decisão interlocutória estrangeira após concessão de exequatur.</p>
+
+<p>Os títulos judiciais são executados por <strong>cumprimento de sentença</strong> (arts. 513-538), dentro do mesmo processo em que foram formados (modelo sincrético). A exceção são os títulos dos incisos VI a IX, que exigem processo autônomo de execução.</p>
+
+<h3>Títulos executivos extrajudiciais (art. 784)</h3>
+
+<p>São títulos executivos extrajudiciais: (I) letra de câmbio, nota promissória, duplicata, debênture e cheque; (II) escritura pública ou documento público assinado pelo devedor; (III) documento particular assinado pelo devedor e duas testemunhas; (IV) instrumento de transação referendado pelo MP, Defensoria ou advogados; (V) contrato garantido por hipoteca, penhor, anticrese ou outro direito real de garantia; (VI) contrato de seguro de vida em caso de morte; (VII) crédito decorrente de foro e laudêmio; (VIII) crédito de serventias notariais e de registro; (IX) CDA — Certidão de Dívida Ativa da Fazenda Pública; (X) crédito referente a custas do NCPC; (XI) todos os demais títulos previstos em lei.</p>
+
+<p>Os títulos extrajudiciais são executados por <strong>processo de execução autônomo</strong> (arts. 771 e seguintes). Destaque especial para o inciso IX: a CDA é o título que fundamenta a execução fiscal (Lei 6.830/1980), instrumento central da advocacia pública na recuperação de créditos do Estado.</p>
+
+<h3>Requisitos do título: certeza, liquidez e exigibilidade</h3>
+
+<p>Todo título executivo deve reunir três atributos (art. 783): <strong>certeza</strong> (a obrigação existe e é definida quanto ao objeto e aos sujeitos); <strong>liquidez</strong> (o valor é determinado ou determinável por simples cálculo aritmético); e <strong>exigibilidade</strong> (o prazo para cumprimento venceu, ou a condição se implementou). A ausência de qualquer desses atributos impede a instauração da execução — ou, se esta já foi iniciada, fundamenta a impugnação ou embargos do executado.</p>
+
+<h3>Responsabilidade patrimonial (arts. 789-796)</h3>
+
+<p>A responsabilidade patrimonial primária recai sobre o devedor, que responde com todos os seus bens (art. 789). O art. 790 amplia a responsabilidade para incluir: (I) sucessor a título singular; (II) sócio nos termos da lei; (III) devedor de garantia real; (IV) cônjuge ou companheiro nos casos de dívida comum; (V) fiador (limitações da Lei 8.009/90); (VI) responsável tributário; (VII) responsável por despesa processual.</p>
+
+<p>A <strong>fraude à execução</strong> (art. 792) ocorre quando o devedor aliena ou onera bens durante a pendência de ação capaz de reduzi-lo à insolvência, tornando o ato ineficaz perante o exequente. As hipóteses incluem: pendência de ação fundada em direito real, averbação da pendência de execução (art. 828), existência de constrição judicial sobre o bem, e demais casos previstos em lei. A fraude à execução dispensa ação pauliana — o ato é declarado ineficaz nos próprios autos da execução.</p>
+
+<h3>Impenhorabilidades (arts. 832-834)</h3>
+
+<p>O CPC e leis especiais preveem bens absolutamente impenhoráveis (art. 833): (I) vestuário e pertences de uso pessoal; (II) móveis e utensílios domésticos (salvo de valor elevado); (III) vestuário e pertences necessários ao exercício de profissão; (IV) vencimentos, subsídios, soldos e salários (com exceções para dívida alimentícia e valores superiores a 50 SM — §2º); (V) livros, máquinas e instrumentos de trabalho; (VI) seguro de vida; (VII) materiais de construção incorporados ao solo; (VIII) pequena propriedade rural; (IX) recursos públicos do Tesouro. A Lei 8.009/1990 protege o bem de família.</p>
+
+<div class="destaque">
+<p><strong>Execução e Fazenda Pública — dupla posição:</strong> como credora, a Fazenda executa seus créditos por execução fiscal (Lei 6.830/80), com prerrogativas próprias (art. 784, IX — CDA como título). Como devedora, a Fazenda está sujeita a regime especial: não há penhora de bens públicos (impenhorabilidade — art. 100, CF), e o pagamento se faz por precatório ou RPV (art. 535, §3º, CPC). Essa dualidade é frequente em provas e exige do candidato domínio de ambas as perspectivas.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 515</strong> — títulos executivos judiciais. Nove incisos. Cumprimento de sentença (modelo sincrético).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 784</strong> — títulos executivos extrajudiciais. Onze incisos. Inciso IX: CDA (execução fiscal).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 783</strong> — requisitos do título: certeza, liquidez, exigibilidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 789</strong> — responsabilidade patrimonial primária: devedor responde com todos os bens.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 792</strong> — fraude à execução. Hipóteses e consequência (ineficácia).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 805</strong> — menor onerosidade. §único: dever do executado de indicar alternativa.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 833</strong> — impenhorabilidades absolutas. Dez incisos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 774</strong> — atos atentatórios à dignidade da justiça na execução. Multa de até 20%.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 100</strong> — regime de precatórios. Impenhorabilidade de bens públicos. Fundamento constitucional da execução contra Fazenda.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 444 — fraude à execução</strong> — o STJ fixou que a alienação de bem após averbação da pendência de execução (art. 828) caracteriza fraude à execução, independentemente de prova da má-fé do terceiro adquirente. Sem a averbação, incumbe ao credor provar a ciência do terceiro.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Leia os arts. 771-796 (parte geral da execução) e os arts. 515 e 784 (títulos executivos). Faça uma tabela comparativa entre títulos judiciais e extrajudiciais — o exercício ajuda a fixar as diferenças. Memorize os princípios fundamentais (título, patrimonialidade, menor onerosidade, resultado) e saiba explicar cada um com exemplo prático.</p>
+
+<p>Para as impenhorabilidades (art. 833), monte uma lista dos bens protegidos e, ao lado de cada um, a exceção (quando houver). A exceção mais relevante para a prova é a do inciso IV (salários): a impenhorabilidade não se aplica para dívida alimentícia e, conforme o §2º, para valores que excedam 50 salários mínimos mensais.</p>
+
+<p>Sobre fraude à execução (art. 792), conecte com a averbação do art. 828 e com o Tema 444 do STJ. A distinção entre fraude à execução (ineficácia reconhecida na própria execução) e fraude contra credores (anulabilidade que exige ação pauliana) é conceito que cai com frequência.</p>
+
+<p>Conecte este ponto com os seguintes: a teoria geral fundamenta o cumprimento de sentença (8b), a execução de título extrajudicial (8c), a execução contra Fazenda (8d) e a execução fiscal (8e). A visão sistêmica do candidato demonstra maturidade para a banca.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Menor onerosidade não é escudo absoluto:</strong> o art. 805 protege o executado contra meios desnecessariamente gravosos, mas o §único acrescenta que o executado deve indicar alternativa concreta. Se não apontar outro meio igualmente eficaz e menos oneroso, prevalece o ato executivo determinado pelo juiz. Candidatos frequentemente invocam o princípio como se fosse proibição de qualquer ato gravoso — não é.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fraude à execução × fraude contra credores:</strong> a fraude à execução (art. 792) gera ineficácia do ato, reconhecível incidentalmente na execução, sem necessidade de ação autônoma. A fraude contra credores (CC, arts. 158-165) gera anulabilidade, que só pode ser declarada em ação pauliana. A distinção é conceitual e processual — e constantemente cobrada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Bens públicos são absolutamente impenhoráveis:</strong> quando a Fazenda é devedora, não se aplica a penhora. Os bens públicos são impenhoráveis por força constitucional (art. 100, CF), e o pagamento se faz exclusivamente por precatório ou RPV. Tentar penhorar receita pública ou bloquear conta do Tesouro é medida que viola o regime constitucional — a banca pode explorar esse ponto.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Título executivo extrajudicial permite cumprimento de sentença?</strong> Não. O detentor de título extrajudicial tem duas opções: (i) ajuizar ação de execução autônoma (arts. 771 ss.); ou (ii) ajuizar ação de conhecimento e, obtida sentença, promover o cumprimento (art. 785). A segunda opção é rara, mas é prevista no CPC e pode confundir o candidato.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 444 — fraude à execução e boa-fé do terceiro</strong> — o STJ fixou que, sem a averbação da pendência de execução no registro do imóvel (art. 828), incumbe ao exequente provar que o adquirente tinha ciência da demanda. Com a averbação, a fraude é presumida e o ato é ineficaz independentemente de prova de má-fé. Essa tese é fundamental para a execução fiscal e a proteção do crédito público.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Impenhorabilidade de salário — exceções</strong> — o STJ consolidou que a impenhorabilidade de salários (art. 833, IV) não é absoluta: admite-se penhora para dívida alimentícia, para valores que excedam 50 SM mensais, e, em jurisprudência mais recente, para parcelas de natureza não salarial depositadas em conta bancária (como restituição de IR, FGTS acumulado, etc.).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Medidas executivas atípicas — ADI 5.941 e Tema 1.137/STJ</strong> — o STF e o STJ definiram os limites das medidas executivas atípicas (art. 139, IV), aplicáveis também na execução: suspensão de CNH e passaporte, por exemplo, só são admissíveis quando as medidas típicas se mostrarem insuficientes e houver indícios de ocultação patrimonial pelo devedor.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Art. 805, §único — ônus do executado (2024)</strong> — o STJ reafirmou que o princípio da menor onerosidade exige que o próprio executado indique alternativa concreta. A mera alegação genérica de onerosidade não basta para afastar atos constritivos, como penhora on-line ou bloqueio de valores em conta.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Fraude à execução e crédito tributário (2024-2025)</strong> — o STJ vem decidindo que, no caso de crédito tributário regularmente inscrito em dívida ativa, a alienação de bens pelo devedor presume-se fraudulenta (art. 185 do CTN), independentemente de averbação no registro. Essa presunção é mais forte do que a regra geral do art. 792 do CPC e beneficia diretamente a Fazenda Pública em execuções fiscais.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Título executivo judicial</th><th>Título executivo extrajudicial</th></tr>
+<tr><td><strong>Base legal</strong></td><td>Art. 515</td><td>Art. 784</td></tr>
+<tr><td><strong>Via executiva</strong></td><td>Cumprimento de sentença (sincrético)</td><td>Processo de execução autônomo</td></tr>
+<tr><td><strong>Defesa do executado</strong></td><td>Impugnação ao cumprimento (art. 525/535)</td><td>Embargos à execução (art. 914)</td></tr>
+<tr><td><strong>Exemplos</strong></td><td>Sentença condenatória, decisão homologatória, sentença arbitral</td><td>Cheque, nota promissória, CDA, escritura pública</td></tr>
+<tr><td><strong>Formação</strong></td><td>No processo judicial ou arbitral</td><td>Fora do processo judicial</td></tr>
+</table>
+
+<table>
+<tr><th>Princípio</th><th>Conteúdo</th><th>Base legal</th></tr>
+<tr><td><strong>Título</strong></td><td>Não há execução sem título executivo</td><td>Art. 783</td></tr>
+<tr><td><strong>Patrimonialidade</strong></td><td>Execução recai sobre bens, não sobre pessoa</td><td>Art. 789</td></tr>
+<tr><td><strong>Menor onerosidade</strong></td><td>Execução pelo meio menos gravoso ao executado</td><td>Art. 805</td></tr>
+<tr><td><strong>Resultado</strong></td><td>Execução no interesse do exequente</td><td>Art. 797</td></tr>
+<tr><td><strong>Boa-fé</strong></td><td>Lealdade processual na execução</td><td>Arts. 5º e 774</td></tr>
+</table>
+
+<table>
+<tr><th>Fraude à execução (art. 792)</th><th>Fraude contra credores (CC 158-165)</th></tr>
+<tr><td>Ineficácia do ato</td><td>Anulabilidade do ato</td></tr>
+<tr><td>Reconhecida na própria execução</td><td>Exige ação pauliana autônoma</td></tr>
+<tr><td>Dispensa prova de prejuízo (com averbação)</td><td>Exige prova do <em>eventus damni</em> e <em>consilium fraudis</em></td></tr>
+<tr><td>Ocorre após litispendência ou averbação</td><td>Ocorre antes da litispendência</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre teoria geral da execução, demonstre domínio dos princípios fundamentais (título, patrimonialidade, menor onerosidade, resultado), distinga títulos judiciais (art. 515) de extrajudiciais (art. 784), mencione os requisitos de certeza, liquidez e exigibilidade (art. 783), e aborde a responsabilidade patrimonial (art. 789) e a fraude à execução (art. 792). Se Fazenda for mencionada, conecte com a dupla posição (credora via CDA/execução fiscal × devedora via precatório) e com a impenhorabilidade de bens públicos (art. 100, CF).</p>
+</div>

@@ -1,0 +1,182 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 7a — Recursos: Teoria Geral</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O sistema recursal é uma das áreas mais extensas e densas do processo civil, e a teoria geral dos recursos fornece os conceitos e princípios que estruturam todos os recursos em espécie. Para o futuro procurador do Estado, o domínio dessa matéria é imprescindível: a Fazenda Pública é uma das maiores litigantes do país e recorre — ou é recorrida — em volume massivo. Conhecer os pressupostos de admissibilidade, os efeitos e as prerrogativas recursais da Fazenda é condição para a atuação cotidiana.</p>
+
+<p>O CPC/2015 manteve a estrutura recursal brasileira com ajustes relevantes: unificou os prazos recursais em 15 dias úteis (exceto embargos de declaração, que permanecem em 5 dias), suprimiu os embargos infringentes e o agravo retido, criou o agravo em recurso especial e extraordinário (art. 1.042), introduziu a primazia do julgamento de mérito nos recursos (art. 932, parágrafo único) e aprofundou o sistema de precedentes vinculantes por meio dos recursos repetitivos (arts. 1.036-1.041).</p>
+
+<p>A teoria geral deve ser estudada antes dos recursos em espécie (Pontos 7b e 7c), pois estabelece os fundamentos comuns — princípios, pressupostos, efeitos — que se aplicam a cada recurso específico.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e natureza jurídica</h3>
+
+<p>Recurso é o meio processual voluntário de impugnação de decisões judiciais, exercido dentro do mesmo processo em que a decisão foi proferida, com o objetivo de reformá-la, invalidá-la, integrá-la ou esclarecê-la. Distingue-se das ações autônomas de impugnação (ação rescisória, mandado de segurança contra ato judicial, reclamação) porque o recurso é endoprocessual — não inaugura nova relação processual.</p>
+
+<p>O art. 994 do CPC enumera taxativamente os recursos cabíveis: (I) apelação; (II) agravo de instrumento; (III) agravo interno; (IV) embargos de declaração; (V) recurso ordinário; (VI) recurso especial; (VII) recurso extraordinário; (VIII) agravo em recurso especial ou extraordinário; (IX) embargos de divergência.</p>
+
+<h3>Princípios recursais</h3>
+
+<p><strong>Taxatividade:</strong> somente são admissíveis os recursos expressamente previstos em lei. O rol do art. 994 é numerus clausus. As partes não podem criar recursos por convenção, nem o juiz admitir recurso não previsto. Decorrência desse princípio: a reclamação e a correição parcial não são recursos.</p>
+
+<p><strong>Singularidade (unirrecorribilidade):</strong> para cada decisão judicial, cabe apenas um recurso. A exceção clássica é a interposição simultânea de recurso especial e recurso extraordinário contra o mesmo acórdão, quando este apresenta questões federais e constitucionais distintas.</p>
+
+<p><strong>Fungibilidade:</strong> embora não expressamente previsto no CPC/2015, o princípio da fungibilidade permite que o recurso incorretamente interposto seja recebido como o adequado, desde que não haja erro grosseiro e o recurso tenha sido interposto no prazo do recurso correto. A jurisprudência aplica fungibilidade entre apelação e agravo de instrumento em situações de dúvida objetiva sobre a natureza do pronunciamento impugnado.</p>
+
+<p><strong>Dialeticidade:</strong> o recorrente deve impugnar especificamente os fundamentos da decisão recorrida. Razões genéricas, desconectadas do julgado, não atendem ao requisito e conduzem ao não conhecimento do recurso. O STJ é rigoroso na aplicação desse princípio.</p>
+
+<p><strong>Vedação da <em>reformatio in pejus</em>:</strong> o tribunal não pode, ao julgar recurso de uma parte, piorar a situação do recorrente. Se apenas o réu recorre, o tribunal não pode agravar a condenação. Se ambas as partes recorrem, cada qual pode ter seu recurso provido, mas nos limites da impugnação de cada um.</p>
+
+<p><strong>Voluntariedade:</strong> o recurso depende da vontade da parte. A exceção é a remessa necessária (art. 496), que não é tecnicamente recurso, mas condição de eficácia da sentença proferida contra a Fazenda Pública.</p>
+
+<h3>Pressupostos de admissibilidade</h3>
+
+<p>Os pressupostos dividem-se em intrínsecos (relativos à existência do direito de recorrer) e extrínsecos (relativos ao exercício desse direito).</p>
+
+<p><strong>Intrínsecos:</strong> (i) <strong>cabimento</strong> — o recurso deve ser o previsto em lei para impugnar aquela decisão; (ii) <strong>legitimidade</strong> — podem recorrer a parte vencida, o terceiro prejudicado e o Ministério Público como parte ou fiscal da lei (art. 996); (iii) <strong>interesse recursal</strong> — sucumbência total ou parcial (necessidade) e adequação do recurso; (iv) <strong>inexistência de fato impeditivo ou extintivo</strong> — renúncia, desistência, aquiescência, preclusão lógica.</p>
+
+<p><strong>Extrínsecos:</strong> (i) <strong>tempestividade</strong> — prazo de 15 dias úteis para a maioria dos recursos; 5 dias para embargos de declaração (arts. 1.003, §5º, e 1.023); (ii) <strong>preparo</strong> — recolhimento das custas recursais, salvo os dispensados (Fazenda Pública, MP, beneficiários de gratuidade — art. 1.007, §1º); (iii) <strong>regularidade formal</strong> — petição escrita, fundamentada (dialeticidade), com as peças obrigatórias quando exigidas (como no agravo de instrumento — art. 1.017).</p>
+
+<div class="destaque">
+<p><strong>Primazia do mérito recursal (art. 932, parágrafo único):</strong> o CPC/2015 impôs ao relator o dever de conceder prazo de 5 dias ao recorrente para sanar vício ou complementar a documentação antes de negar conhecimento ao recurso. Essa regra visa evitar decisões de inadmissibilidade por defeitos sanáveis e reforça a primazia do julgamento de mérito (art. 4º). Não se aplica, porém, à intempestividade, que é vício insanável.</p>
+</div>
+
+<h3>Efeitos dos recursos</h3>
+
+<p><strong>Efeito devolutivo:</strong> presente em todos os recursos, transfere ao órgão <em>ad quem</em> a matéria impugnada. A extensão do efeito devolutivo é definida pelo recorrente (<em>tantum devolutum quantum appellatum</em> — art. 1.013, caput). A profundidade, porém, é ampla: o tribunal pode conhecer de todas as questões suscitadas e discutidas no processo, mesmo que a sentença não as tenha enfrentado (art. 1.013, §1º).</p>
+
+<p><strong>Efeito suspensivo:</strong> impede que a decisão produza efeitos enquanto pendente o recurso. A apelação, em regra, tem efeito suspensivo (art. 1.012). O agravo de instrumento, em regra, não tem (art. 1.019, I — pode ser atribuído pelo relator). O recurso especial e o extraordinário não têm efeito suspensivo (art. 995, parágrafo único — a parte pode requerê-lo).</p>
+
+<p><strong>Efeito translativo:</strong> permite que o tribunal conheça de matérias de ordem pública (prescrição, decadência, condições da ação, pressupostos processuais) mesmo que não impugnadas pelo recorrente, em qualquer grau de jurisdição (art. 485, §3º).</p>
+
+<p><strong>Efeito substitutivo:</strong> o julgamento do recurso substitui a decisão recorrida no que tiver sido objeto de impugnação (art. 1.008). Esse efeito é relevante para definir o órgão prolator da decisão final — para fins de ação rescisória, por exemplo, a competência é do tribunal que proferiu a última decisão.</p>
+
+<h3>Remessa necessária (art. 496)</h3>
+
+<p>Embora não seja recurso em sentido técnico, a remessa necessária é instituto central para a advocacia pública. Está sujeita ao duplo grau obrigatório a sentença proferida: (I) contra a União, Estados, DF, Municípios, autarquias e fundações de direito público; e (II) que julgar procedentes embargos à execução fiscal. A sentença não transita em julgado enquanto não confirmada pelo tribunal.</p>
+
+<p>As dispensas são igualmente importantes (art. 496, §§3º e 4º): (i) dispensa por valor — quando a condenação ou o proveito econômico for de valor certo não excedente a 500 salários mínimos (União), 200 SM (Estados e DF) ou 100 SM (Municípios); (ii) dispensa qualitativa — quando a sentença estiver fundada em súmula de tribunal superior, acórdão do STF ou STJ em recurso repetitivo, entendimento firmado em IRDR ou assunção de competência, ou orientação vinculante firmada no âmbito administrativo.</p>
+
+<h3>Prerrogativas recursais da Fazenda Pública</h3>
+
+<p>A Fazenda Pública goza de <strong>prazo em dobro</strong> para recorrer (art. 183), o que significa 30 dias úteis para apelação, recurso especial, recurso extraordinário e agravo de instrumento, e 10 dias úteis para embargos de declaração. É <strong>dispensada do preparo</strong> (art. 1.007, §1º) — não precisa recolher custas recursais. É intimada <strong>pessoalmente</strong> do acórdão (art. 183, §1º), o que afeta a contagem do prazo recursal. Essas prerrogativas se justificam pela estrutura da advocacia pública (volume de processos, necessidade de comunicação interna, interesse público).</p>
+
+<h3>Juízo de admissibilidade e mérito</h3>
+
+<p>O CPC/2015 simplificou o juízo de admissibilidade na apelação: o juiz de primeiro grau não faz mais juízo de admissibilidade da apelação (art. 1.010, §3º), remetendo os autos diretamente ao tribunal. No agravo de instrumento, o relator realiza o juízo de admissibilidade. Nos recursos especial e extraordinário, o presidente ou vice-presidente do tribunal de origem faz o juízo de admissibilidade, cabendo agravo (art. 1.042) em caso de inadmissão.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 994</strong> — rol taxativo dos recursos. Nove espécies.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 996</strong> — legitimidade recursal: parte vencida, terceiro prejudicado, Ministério Público.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.003, §5º</strong> — prazo de 15 dias úteis para interposição de recursos (exceção: embargos de declaração — 5 dias).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.007, §1º</strong> — dispensa de preparo para Fazenda Pública, Ministério Público, Defensoria e beneficiários de gratuidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 932, parágrafo único</strong> — dever do relator de conceder prazo de 5 dias para sanar vícios antes de inadmitir o recurso.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.008</strong> — efeito substitutivo: o julgamento do recurso substitui a decisão recorrida no que tiver sido objeto de impugnação.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.013</strong> — efeito devolutivo da apelação. §1º: profundidade ampla (questões suscitadas e discutidas). §§3º e 4º: julgamento direto do mérito pelo tribunal (teoria da causa madura).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 496</strong> — remessa necessária. Hipóteses (caput), dispensas por valor (§3º) e dispensas qualitativas (§4º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 183</strong> — prazo em dobro e intimação pessoal da Fazenda Pública.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelos princípios recursais — taxatividade, singularidade, dialeticidade, fungibilidade, vedação da <em>reformatio in pejus</em>. São conceitos que aparecem tanto em provas objetivas quanto discursivas. Em seguida, domine os pressupostos de admissibilidade, distinguindo intrínsecos de extrínsecos. Para cada pressuposto, pense em uma situação concreta de não conhecimento de recurso — isso facilita a fixação.</p>
+
+<p>Os efeitos dos recursos (devolutivo, suspensivo, translativo, substitutivo) devem ser memorizados com exemplos práticos. O efeito devolutivo merece atenção especial: domine a diferença entre extensão (art. 1.013, caput — definida pelo recorrente) e profundidade (§1º — ampla, podendo o tribunal examinar questões não enfrentadas pela sentença).</p>
+
+<p>Para a prova PGE/RJ, grave as prerrogativas recursais da Fazenda: prazo em dobro (art. 183), dispensa de preparo (art. 1.007, §1º), intimação pessoal (art. 183, §1º) e remessa necessária (art. 496). Monte uma tabela com as dispensas da remessa necessária — os valores e hipóteses qualitativas são informação objetiva e cobrada com frequência.</p>
+
+<p>Conecte este ponto com os anteriores: a sentença (Ponto 6a) é impugnada por apelação; a decisão interlocutória de mérito (art. 356) é impugnada por agravo de instrumento; a decisão de liquidação (Ponto 6b) também por agravo. E conecte com os pontos seguintes: a teoria geral fundamenta os recursos em espécie (Ponto 7b) e os recursos extraordinário e especial (Ponto 7c).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Remessa necessária NÃO é recurso:</strong> embora produza efeito análogo (impede o trânsito em julgado até a confirmação pelo tribunal), a remessa necessária não é recurso. Não depende de provocação da parte, não se sujeita a prazo e não admite desistência. É condição de eficácia da sentença contra a Fazenda. Confundir remessa necessária com recurso é erro conceitual frequente.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prazo em dobro da Fazenda e prazos próprios:</strong> o art. 183, §2º, ressalva que o prazo em dobro não se aplica quando a lei fixar prazo próprio para o ente público. O prazo de 30 dias para impugnação ao cumprimento de sentença (art. 535) é prazo próprio, e não resultado da duplicação do prazo de 15 dias. Essa distinção é frequentemente cobrada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Juízo de admissibilidade da apelação — mudança do CPC/2015:</strong> no CPC/2015, o juiz de primeiro grau não realiza juízo de admissibilidade da apelação. Recebida a apelação, o juiz intima o apelado para contrarrazões e remete os autos ao tribunal (art. 1.010, §3º). Essa mudança eliminou o antigo despacho de "recebo a apelação nos efeitos devolutivo e suspensivo", comum no CPC/1973.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Dispensa da remessa necessária — atenção aos valores por ente:</strong> os limites de dispensa variam conforme o ente público: 500 SM (União e autarquias federais), 200 SM (Estados e DF) ou 100 SM (Municípios). O valor de referência para Estados é 200 salários mínimos. Trocar os valores entre entes é erro comum.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 932, parágrafo único — sanar vício não inclui intempestividade:</strong> o dever do relator de abrir prazo para correção de vícios (5 dias) aplica-se a defeitos de regularidade formal e preparo (insuficiência ou deserção), mas não à intempestividade, que é vício insanável. Recurso interposto fora do prazo não pode ser corrigido.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Taxatividade mitigada do agravo de instrumento — Tema 988 (2018)</strong> — o STJ, em recurso repetitivo, fixou que o rol do art. 1.015 do CPC (hipóteses de cabimento do agravo de instrumento) é de taxatividade mitigada: admite-se agravo de instrumento contra decisões interlocutórias não previstas no <em>caput</em>, desde que haja urgência decorrente da inutilidade do julgamento da questão apenas na apelação. Esse entendimento ampliou significativamente o cabimento do agravo.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Dialeticidade e conhecimento do recurso</strong> — o STJ não conhece recursos cujas razões não impugnam especificamente os fundamentos da decisão recorrida. A aplicação é rigorosa: razões genéricas, "copiar e colar" de petições anteriores, ou impugnação de fundamento diverso do adotado levam ao não conhecimento por falta de dialeticidade.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Complementação de preparo (art. 1.007, §2º)</strong> — o STJ fixou que, em caso de preparo insuficiente (não de ausência total), o recorrente deve ser intimado para complementar no prazo de 5 dias, sob pena de deserção. A intimação é obrigatória — o tribunal não pode declarar deserção diretamente sem intimar.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 988 — aplicação expandida (2024-2025)</strong> — após a fixação da tese da taxatividade mitigada, o STJ vem delimitando caso a caso as situações em que a urgência justifica o cabimento do agravo de instrumento fora do rol do art. 1.015. Em 2024-2025, admitiu agravo contra decisões sobre competência, valor da causa em fase de cumprimento, e distribuição do ônus da prova, quando a inutilidade da discussão em sede de apelação ficou demonstrada.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Repercussão geral e filtro de relevância (EC 125/2022)</strong> — a Emenda Constitucional 125/2022 introduziu o filtro de relevância para o recurso especial ao STJ, nos moldes da repercussão geral do STF. O STJ está em processo de implementação, e a exigência de demonstração de relevância passará a ser requisito adicional de admissibilidade do recurso especial. A mudança terá impacto direto na estratégia recursal da Fazenda Pública.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Fazenda Pública e remessa necessária — dispensas (2024)</strong> — o STJ reafirmou que as dispensas por valor do art. 496, §3º, devem ser analisadas com base no valor da condenação efetiva, e não no valor da causa. Quando a condenação é ilíquida, aplica-se a remessa necessária por cautela, até que a liquidação defina o montante e permita verificar se o valor se enquadra na dispensa.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Princípio</th><th>Conteúdo</th><th>Exceção relevante</th></tr>
+<tr><td><strong>Taxatividade</strong></td><td>Só existem os recursos previstos em lei</td><td>Taxatividade mitigada do agravo (Tema 988/STJ)</td></tr>
+<tr><td><strong>Singularidade</strong></td><td>Para cada decisão, um recurso</td><td>RE + REsp simultâneos contra mesmo acórdão</td></tr>
+<tr><td><strong>Fungibilidade</strong></td><td>Recurso errado recebido como correto</td><td>Exige: dúvida objetiva + prazo do recurso adequado</td></tr>
+<tr><td><strong>Dialeticidade</strong></td><td>Razões devem impugnar especificamente a decisão</td><td>Não admite exceção</td></tr>
+<tr><td><strong>Vedação <em>reformatio in pejus</em></strong></td><td>Tribunal não pode piorar situação do recorrente</td><td>Recurso de ambas as partes (cada um nos seus limites)</td></tr>
+<tr><td><strong>Voluntariedade</strong></td><td>Recurso depende de iniciativa da parte</td><td>Remessa necessária (não é recurso)</td></tr>
+</table>
+
+<table>
+<tr><th>Recurso</th><th>Prazo (dias úteis)</th><th>Efeito suspensivo</th><th>Preparo</th></tr>
+<tr><td>Apelação</td><td>15</td><td>Sim (regra — art. 1.012)</td><td>Sim (Fazenda: dispensada)</td></tr>
+<tr><td>Agravo de instrumento</td><td>15</td><td>Não (regra — pode ser atribuído)</td><td>Sim (Fazenda: dispensada)</td></tr>
+<tr><td>Agravo interno</td><td>15</td><td>Não</td><td>Não</td></tr>
+<tr><td>Embargos de declaração</td><td>5</td><td>Interrompe prazo de outros recursos</td><td>Não</td></tr>
+<tr><td>Recurso especial</td><td>15</td><td>Não (pode ser requerido)</td><td>Sim (Fazenda: dispensada)</td></tr>
+<tr><td>Recurso extraordinário</td><td>15</td><td>Não (pode ser requerido)</td><td>Sim (Fazenda: dispensada)</td></tr>
+<tr><td>Agravo em RE/REsp</td><td>15</td><td>Não</td><td>Sim (Fazenda: dispensada)</td></tr>
+<tr><td>Embargos de divergência</td><td>15</td><td>Não</td><td>Sim (Fazenda: dispensada)</td></tr>
+</table>
+
+<table>
+<tr><th>Remessa necessária (art. 496)</th><th>Dispensa por valor (§3º)</th></tr>
+<tr><td><strong>União e autarquias/fundações federais</strong></td><td>Até 1.000 salários mínimos</td></tr>
+<tr><td><strong>Estados, DF e autarquias/fundações estaduais</strong></td><td>Até 500 salários mínimos</td></tr>
+<tr><td><strong>Municípios e autarquias/fundações municipais</strong></td><td>Até 100 salários mínimos</td></tr>
+</table>
+
+<table>
+<tr><th>Efeito</th><th>Descrição</th><th>Observação</th></tr>
+<tr><td><strong>Devolutivo</strong></td><td>Transfere ao tribunal a matéria impugnada</td><td>Extensão: recorrente define. Profundidade: ampla (art. 1.013, §1º)</td></tr>
+<tr><td><strong>Suspensivo</strong></td><td>Impede eficácia da decisão até o julgamento</td><td>Apelação: regra. Agravo/REsp/RE: exceção</td></tr>
+<tr><td><strong>Translativo</strong></td><td>Permite cognição de matérias de ordem pública</td><td>Independe de impugnação pelo recorrente</td></tr>
+<tr><td><strong>Substitutivo</strong></td><td>Acórdão substitui decisão recorrida</td><td>Define competência para rescisória</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre teoria geral dos recursos, demonstre domínio dos princípios fundamentais (taxatividade, singularidade, dialeticidade), dos pressupostos de admissibilidade (cabimento, legitimidade, interesse, tempestividade, preparo, regularidade formal), dos efeitos (devolutivo, suspensivo, translativo, substitutivo) e da primazia do mérito recursal (art. 932, parágrafo único). Se o enunciado envolver Fazenda Pública, mencione as prerrogativas (prazo dobro, dispensa de preparo, intimação pessoal) e a remessa necessária (art. 496) com suas dispensas.</p>
+</div>

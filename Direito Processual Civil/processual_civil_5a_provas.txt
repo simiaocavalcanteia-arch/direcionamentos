@@ -1,0 +1,181 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 5a — Provas: Teoria Geral, Ônus da Prova, Espécies e Produção Antecipada</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O direito probatório é um dos campos mais relevantes do processo civil para a advocacia pública. A Fazenda Pública litiga em volumes imensos e a dinâmica da prova — quem deve provar o quê, quais meios são admissíveis, como a distribuição do ônus pode ser alterada pelo juiz — afeta diretamente a estratégia processual de defesa do Estado.</p>
+
+<p>O CPC/2015 trouxe mudanças substanciais nessa matéria. Positivou a distribuição dinâmica do ônus da prova (art. 373, §1º), disciplinou a prova emprestada (art. 372), introduziu a ata notarial como meio típico de prova (art. 384), criou a perícia consensual (art. 471) e reformulou a produção antecipada de prova como instrumento autônomo, desvinculado do requisito de urgência (art. 381). São alterações que ainda rendem discussões nos tribunais superiores e que têm grande potencial de cobrança na prova discursiva.</p>
+
+<p>Para o candidato à PGE/RJ, dominar as nuances do regime probatório é particularmente importante porque a Fazenda Pública ocupa posição processual diferenciada: não se aplica a presunção de veracidade da revelia (art. 345, II), os atos do poder público gozam de presunção de legitimidade (que repercute no ônus da prova), e a inversão ou redistribuição do ônus possui impacto direto nas ações contra o Estado.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Teoria geral e princípios regentes</h3>
+
+<p>O art. 369 do CPC consagra o princípio da liberdade dos meios de prova: as partes podem empregar "todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código". Não há rol taxativo. Qualquer meio idôneo, desde que obtido licitamente, pode ser utilizado para formar o convencimento do juiz.</p>
+
+<p>O sistema brasileiro adota o modelo do <strong>livre convencimento motivado</strong> (ou persuasão racional). O juiz aprecia livremente as provas, mas deve fundamentar sua decisão indicando os elementos que formaram sua convicção (art. 371). Existe, porém, uma tensão importante: o art. 489, §1º, VI, do CPC exige que a sentença enfrente expressamente as provas que poderiam conduzir a conclusão diversa. A combinação dos dois dispositivos impõe ao magistrado um dever reforçado de transparência na valoração probatória.</p>
+
+<p>Outros princípios fundamentais: o <strong>contraditório sobre a prova</strong> (art. 7º e art. 10), que garante às partes o direito de se manifestar antes da valoração de qualquer elemento; a <strong>comunhão da prova</strong> (ou aquisição processual), segundo a qual, uma vez produzida, a prova pertence ao processo e não à parte que a requereu; e a <strong>cooperação</strong> (art. 6º), que impõe a todos os sujeitos processuais — inclusive ao juiz — o dever de colaborar para a adequada instrução.</p>
+
+<h3>Ônus da prova: distribuição estática, dinâmica e inversão</h3>
+
+<p>O art. 373 estabelece a regra de distribuição estática: ao autor cabe provar os fatos constitutivos do seu direito (inciso I); ao réu, os fatos impeditivos, modificativos ou extintivos do direito do autor (inciso II). Essa estrutura segue a tradição brasileira e se aplica como regra de julgamento — o juiz só recorre ao ônus da prova quando, ao final da instrução, a matéria fática permanece incerta.</p>
+
+<div class="destaque">
+<p><strong>Distribuição dinâmica (art. 373, §1º):</strong> o CPC/2015 positivou a teoria da carga dinâmica da prova. O juiz pode atribuir o ônus de forma diversa da regra geral, desde que: (i) haja impossibilidade ou excessiva dificuldade de cumprir o encargo probatório pela regra estática; ou (ii) haja maior facilidade de obtenção da prova pela parte contrária. A decisão deve ser fundamentada e proferida antes da sentença, concedendo à parte onerada oportunidade de se desincumbir do novo encargo (§1º, parte final).</p>
+</div>
+
+<p>Essa inovação tem impacto direto na advocacia pública. Nas ações em que a Fazenda é ré — responsabilidade civil, por exemplo — o juiz pode redistribuir o ônus atribuindo ao Estado a prova de fatos que normalmente caberiam ao autor, quando o ente público detém os documentos ou informações relevantes. Por outro lado, a inversão também pode beneficiar a Fazenda: em ações de improbidade ou execuções fiscais, a redistribuição pode recair sobre o particular que dispõe de melhores condições probatórias.</p>
+
+<p>Atenção: a distribuição dinâmica não se confunde com a <strong>inversão legal do ônus</strong>, prevista no §1º do art. 373 e em leis especiais (CDC, art. 6º, VIII; Lei 12.846/2013, etc.). Na inversão legal, o legislador define previamente quem suporta o ônus. Na dinâmica, o juiz redistribui caso a caso, por decisão fundamentada. Também não se confunde com convenção sobre o ônus (art. 373, §3º), pela qual as próprias partes pactuam a redistribuição, salvo quando recair sobre direito indisponível ou tornar excessivamente difícil o exercício do direito para uma delas (§4º).</p>
+
+<h3>Prova emprestada (art. 372)</h3>
+
+<p>O CPC/2015 positivou a prova emprestada, que antes era admitida apenas pela jurisprudência. O art. 372 estabelece que "o juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o contraditório". Os requisitos são: (i) a prova deve ter sido obtida licitamente no processo de origem; (ii) deve ser pertinente ao objeto do novo processo; (iii) deve ser garantido o contraditório, permitindo-se à parte contrária manifestar-se sobre o empréstimo.</p>
+
+<p>O STJ consolidou entendimento no EREsp 617.428/SP de que a prova emprestada pode ser admitida mesmo entre partes diferentes, desde que observado o contraditório no processo receptor. O valor probatório, contudo, será ponderado livremente pelo juiz.</p>
+
+<h3>Espécies de prova</h3>
+
+<p>O CPC/2015 disciplina as seguintes espécies: ata notarial (art. 384), depoimento pessoal (arts. 385-388), confissão (arts. 389-395), exibição de documento ou coisa (arts. 396-404), prova documental (arts. 405-441), prova testemunhal (arts. 442-463), prova pericial (arts. 464-480) e inspeção judicial (arts. 481-484). Vejamos as que mais importam para a prova.</p>
+
+<p><strong>Ata notarial (art. 384)</strong> — novidade do CPC/2015. A requerimento do interessado, o tabelião pode atestar a existência ou o modo de existir de algum fato, inclusive com dados de páginas eletrônicas. É especialmente útil para a Fazenda Pública na preservação de provas digitais (publicações em redes sociais, sites, mensagens), conferindo fé pública ao conteúdo documentado.</p>
+
+<p><strong>Depoimento pessoal e confissão</strong> — o depoimento pessoal (art. 385) é requerido pela parte contrária para obter a confissão ou esclarecer fatos. A parte que, intimada pessoalmente, não comparecer ou se recusar a depor, sofre a pena de confesso (art. 385, §1º). A confissão pode ser judicial ou extrajudicial, espontânea ou provocada. Tratando-se de direitos indisponíveis — situação frequente na advocacia pública —, a confissão não produz o efeito de tornar incontroverso o fato (art. 392, §2º, do CPC c/c Súmula 391 do STJ: "a confissão extrajudicial, quando feita a terceiro, ou contida em testamento, é prova que pode ser invalidada").</p>
+
+<p><strong>Prova documental</strong> — deve ser apresentada com a petição inicial ou contestação (arts. 434-435), salvo documentos novos (fatos supervenientes, para contrapor documentos da outra parte, ou cuja existência era desconhecida). A impugnação de documentos segue procedimento próprio: arguição de falsidade (arts. 430-433). Os documentos públicos fazem prova de sua formação e dos fatos atestados pelo servidor (art. 405), gerando presunção de veracidade que favorece diretamente a Fazenda.</p>
+
+<p><strong>Prova testemunhal</strong> — admissível mesmo para provar contratos, excetuadas as hipóteses do art. 443 (exigência de prova documental por lei). Cada parte pode arrolar até 10 testemunhas, limitadas a 3 por fato (art. 357, §6º). A testemunha que mente ou cala a verdade pode responder por falso testemunho (art. 458).</p>
+
+<p><strong>Prova pericial</strong> — consiste em exame, vistoria ou avaliação (art. 464). O perito é nomeado pelo juiz e os assistentes técnicos são indicados pelas partes (art. 465). Os assistentes são de confiança da parte e não estão sujeitos a impedimento ou suspeição (art. 466, §1º). A <strong>perícia consensual</strong> (art. 471) permite que as partes, de comum acordo, escolham o perito, desde que sejam plenamente capazes e a causa admita autocomposição — o que exclui, em regra, a Fazenda Pública, salvo hipóteses de direitos patrimoniais disponíveis com autorização legal para transação. O juiz pode dispensar a perícia quando desnecessária ou quando as partes apresentarem pareceres técnicos suficientes (art. 472).</p>
+
+<p><strong>Inspeção judicial (arts. 481-484)</strong> — o juiz pode inspecionar pessoas ou coisas para esclarecer fato relevante. É prova de iniciativa judicial por excelência. O CPC/2015 permite que o juiz se desloque ao local e seja assistido por perito (art. 483).</p>
+
+<h3>Produção antecipada de prova (arts. 381-383)</h3>
+
+<p>O CPC/2015 reformulou a produção antecipada de prova, desvinculando-a do requisito de urgência. O art. 381 prevê três hipóteses: (I) fundado receio de que a verificação dos fatos se torne impossível ou muito difícil na pendência da ação (aqui se mantém o caráter cautelar); (II) a prova é suscetível de viabilizar a autocomposição ou outro meio adequado de solução de conflito; e (III) o prévio conhecimento dos fatos pode justificar ou evitar o ajuizamento de ação.</p>
+
+<p>A grande novidade está nos incisos II e III, que conferem à produção antecipada uma função de <strong>instrumento de pacificação</strong>: permite que as partes conheçam previamente a realidade fática e, com essa informação, decidam se vale a pena litigar. No procedimento, não se admite defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova (art. 382, §4º). A decisão que aprecia a prova antecipada não faz coisa julgada sobre o mérito (art. 382, §2º).</p>
+
+<h3>Provas ilícitas e provas ilícitas por derivação</h3>
+
+<p>A Constituição Federal (art. 5º, LVI) estabelece que "são inadmissíveis, no processo, as provas obtidas por meios ilícitos". Esse princípio se aplica ao processo civil com a mesma força que no processo penal, embora a jurisprudência admita certa flexibilização em situações excepcionais (proporcionalidade <em>pro reo</em> no processo penal; no civil, a questão é mais controversa).</p>
+
+<p>A <strong>teoria dos frutos da árvore envenenada</strong> (<em>fruit of the poisonous tree</em>) determina que as provas derivadas de uma prova ilícita também são contaminadas. O STJ consolidou esse entendimento no HC 921.136/PE. As exceções reconhecidas pela jurisprudência são: (i) <strong>fonte independente</strong> — a prova derivada foi obtida por meio autônomo, sem relação causal com a prova ilícita originária; e (ii) <strong>descoberta inevitável</strong> — demonstra-se que a prova seria encontrada por meios lícitos no curso normal da investigação.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 369</strong> — princípio da liberdade dos meios de prova. Admitem-se todos os meios legais e moralmente legítimos para provar a verdade dos fatos. Dispositivo central que fundamenta a atipicidade dos meios probatórios.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 371</strong> — livre convencimento motivado. O juiz aprecia a prova de forma livre, mas deve indicar as razões de seu convencimento. A motivação é garantia constitucional (CF, art. 93, IX) e processual (CPC, art. 489, §1º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 372</strong> — prova emprestada. Positivação inédita no CPC/2015. Exige contraditório no processo receptor. O juiz define o valor probatório livremente.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 373 e §§1º-4º</strong> — ônus da prova. Regra estática (incisos I e II), distribuição dinâmica (§1º), inaplicabilidade quando impossibilitar ou dificultar excessivamente o exercício do direito (§2º), convenção das partes (§§3º e 4º). Leitura obrigatória na íntegra.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 381</strong> — produção antecipada de prova. Três hipóteses: urgência (I), viabilização de autocomposição (II), evitar ou justificar demanda (III). Incisos II e III são novidade do CPC/2015.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 384</strong> — ata notarial. Meio de prova típico introduzido pelo CPC/2015. Possibilidade de documentar fatos existentes em meios eletrônicos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 464-480</strong> — prova pericial. Art. 471 (perícia consensual), art. 472 (dispensa de perícia), art. 473 (requisitos do laudo). A Fazenda tem interesse direto na escolha do perito e na possibilidade de nomeação de assistente técnico.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 345, II</strong> — inaplicabilidade dos efeitos materiais da revelia quando o litígio versar sobre direitos indisponíveis (inclui Fazenda Pública). Mesmo revel, a Fazenda não sofre presunção de veracidade dos fatos alegados pelo autor.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 5º, LVI</strong> — inadmissibilidade de provas obtidas por meios ilícitos. Fundamento constitucional que se aplica tanto ao processo penal quanto ao civil.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>EREsp 617.428/SP</strong> — admissibilidade da prova emprestada entre processos com partes diferentes, desde que observado o contraditório no processo receptor. Precedente que orientou a redação do art. 372.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.029 (REsp 1.785.383/SP)</strong> — distribuição dinâmica do ônus da prova: o §1º do art. 373 exige decisão judicial fundamentada, proferida antes do julgamento, com abertura de prazo para a parte se desincumbir do novo encargo.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 369 e leia na íntegra até o art. 484 — são cerca de 115 artigos, mas a maioria é curta e de leitura rápida. Concentre esforço nos dispositivos que trouxeram inovações (arts. 372, 373 §§1º-4º, 381-383, 384 e 471), pois são exatamente os pontos que a banca tende a explorar em provas discursivas.</p>
+
+<p>Domine a distinção entre distribuição estática, dinâmica e inversão legal do ônus da prova. Essa tripartição costuma gerar confusão e aparece com frequência em provas de procuradorias. Faça um esquema com as diferenças: na estática, a lei define de antemão quem prova; na dinâmica, o juiz redistribui no caso concreto por decisão fundamentada; na inversão, a lei transfere o ônus em hipóteses específicas (como no CDC).</p>
+
+<p>Para a prova pericial, foque nos pontos que distinguem o CPC/2015 do anterior: a perícia consensual (art. 471), a simplificação da perícia (art. 464, §§2º a 4º — prova técnica simplificada) e a possibilidade de dispensa (art. 472). Na produção antecipada de prova, grave os três incisos do art. 381 e a regra de que não cabe recurso contra a decisão que defere a produção (art. 382, §4º — só cabe recurso contra indeferimento total).</p>
+
+<p>Conecte a matéria com o que já estudou nos pontos anteriores: o ônus da prova se articula com a contestação (Ponto 4b), pois a impugnação específica dos fatos (art. 341) define o que precisa ser provado. A produção antecipada se conecta com os meios adequados de solução de conflitos (Ponto 1c), pois serve justamente para viabilizar a autocomposição informada.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Momento da redistribuição do ônus:</strong> o §1º do art. 373 exige que a redistribuição dinâmica ocorra por decisão fundamentada antes da sentença, dando à parte oportunidade de se desincumbir. O juiz não pode, na própria sentença, redistribuir o ônus e julgar contra a parte que não provou. Essa regra é frequentemente cobrada e constitui erro comum dos candidatos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Convenção sobre ônus e direitos indisponíveis:</strong> o art. 373, §4º, veda a convenção sobre ônus da prova quando recair sobre direito indisponível da parte. Nas causas que envolvem a Fazenda Pública e interesse público, a margem para negócio processual sobre ônus probatório é restrita. É um ponto que merece reflexão para a prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prova emprestada × contraditório:</strong> a simples juntada de documentos de outro processo não basta. O art. 372 exige que a parte contrária tenha oportunidade efetiva de se manifestar sobre a prova emprestada no processo receptor. Não é necessário que tenha participado do processo de origem, mas o contraditório no processo atual é indispensável.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Perícia consensual e Fazenda Pública:</strong> o art. 471 exige que as partes sejam plenamente capazes e que a causa admita autocomposição. A Fazenda Pública pode, em tese, participar de perícia consensual quando houver autorização legal para transigir sobre o direito em discussão, mas essa possibilidade é restrita e deve ser analisada caso a caso.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Produção antecipada de prova — não cabe defesa nem recurso:</strong> o art. 382, §4º, estabelece que não se admite defesa ou recurso no procedimento de produção antecipada, salvo contra decisão que indeferir totalmente a produção da prova pleiteada. A banca pode explorar essa peculiaridade procedimental, que diferencia a produção antecipada dos demais procedimentos probatórios.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Presunção de legitimidade dos atos administrativos e ônus da prova:</strong> os atos da administração pública gozam de presunção de legitimidade e veracidade. Na prática, isso transfere ao particular o ônus de desconstituir o ato, embora essa presunção seja relativa (<em>juris tantum</em>). Quando o juiz redistribui dinamicamente o ônus (art. 373, §1º), pode relativizar essa presunção se a Fazenda detiver os documentos ou informações necessários.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>EREsp 617.428/SP</strong> — a Corte Especial do STJ fixou que a prova emprestada é admissível mesmo entre processos com partes distintas, desde que respeitado o contraditório no processo receptor. O valor probatório, no entanto, será apreciado livremente pelo juiz, que pode atribuir-lhe menor peso conforme as circunstâncias.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 591</strong> — "é permitida a 'prova emprestada' no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa." Embora formulada no contexto administrativo-disciplinar, a súmula reforça o requisito universal do contraditório para qualquer empréstimo probatório.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 466.343/SP</strong> — embora voltado à prisão civil, este julgado é relevante pelo raciocínio probatório envolvido: o STF reafirmou a vedação de meios coercitivos para obtenção de provas quando violarem garantias constitucionais. A prova obtida por meios ilícitos é inadmissível (art. 5º, LVI).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>HC 921.136/PE</strong> — reafirmou a teoria dos frutos da árvore envenenada: provas derivadas de prova ilícita são igualmente inadmissíveis. Reconheceu as exceções da fonte independente e da descoberta inevitável como limites à contaminação.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.029 — REsp 1.785.383/SP (2024)</strong> — o STJ, em recurso repetitivo, fixou parâmetros para a distribuição dinâmica do ônus da prova prevista no art. 373, §1º. Reafirmou que a redistribuição deve ocorrer por decisão fundamentada, em momento anterior ao julgamento, com abertura de oportunidade para a parte se desincumbir do encargo. A decisão que redistribui o ônus é impugnável por agravo de instrumento.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência consolidada sobre prova digital (2024-2025)</strong> — o STJ vem reconhecendo a validade de prints de conversas de WhatsApp e capturas de tela como prova documental, desde que: (i) não haja impugnação específica sobre a autenticidade; ou (ii) a autenticidade seja confirmada por outros meios (como ata notarial — art. 384). Essa orientação é relevante para a Fazenda Pública, que cada vez mais lida com provas em meios eletrônicos.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 6.188 (2024)</strong> — o STF analisou a constitucionalidade de dispositivos sobre perícia em processos envolvendo o poder público, reafirmando que a garantia de produção de prova pericial é desdobramento do contraditório e da ampla defesa. O perito nomeado pelo juiz deve ser imparcial, e as partes — inclusive a Fazenda — têm direito de indicar assistente técnico e formular quesitos.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Distribuição estática</th><th>Distribuição dinâmica</th><th>Inversão legal</th></tr>
+<tr><td><strong>Base normativa</strong></td><td>Art. 373, I e II</td><td>Art. 373, §1º</td><td>Leis especiais (CDC art. 6º, VIII etc.)</td></tr>
+<tr><td><strong>Quem define</strong></td><td>A lei, previamente</td><td>O juiz, no caso concreto</td><td>A lei, em hipóteses específicas</td></tr>
+<tr><td><strong>Momento</strong></td><td>Desde a propositura</td><td>Antes da sentença</td><td>Desde a propositura</td></tr>
+<tr><td><strong>Requisitos</strong></td><td>Nenhum (regra geral)</td><td>Impossibilidade/dificuldade + facilidade da outra parte</td><td>Previsão legal + requisitos de cada lei</td></tr>
+<tr><td><strong>Fundamentação</strong></td><td>Não exige decisão específica</td><td>Decisão fundamentada + prazo para desincumbência</td><td>Não exige decisão específica</td></tr>
+</table>
+
+<table>
+<tr><th>Espécie de prova</th><th>Artigos</th><th>Destaque para PGE/RJ</th></tr>
+<tr><td>Ata notarial</td><td>Art. 384</td><td>Preservação de provas digitais (sites, redes sociais)</td></tr>
+<tr><td>Depoimento pessoal</td><td>Arts. 385-388</td><td>Fazenda não sofre pena de confesso por direitos indisponíveis</td></tr>
+<tr><td>Confissão</td><td>Arts. 389-395</td><td>Ineficaz quanto a direitos indisponíveis (art. 392)</td></tr>
+<tr><td>Exibição de documento</td><td>Arts. 396-404</td><td>Fazenda pode ser compelida a exibir documentos (transparência)</td></tr>
+<tr><td>Prova documental</td><td>Arts. 405-441</td><td>Documentos públicos com presunção de veracidade (art. 405)</td></tr>
+<tr><td>Prova testemunhal</td><td>Arts. 442-463</td><td>Até 10 testemunhas, 3 por fato (art. 357, §6º)</td></tr>
+<tr><td>Prova pericial</td><td>Arts. 464-480</td><td>Perícia consensual (art. 471) — restrições para Fazenda</td></tr>
+<tr><td>Inspeção judicial</td><td>Arts. 481-484</td><td>Iniciativa judicial, inclusive com deslocamento ao local</td></tr>
+</table>
+
+<table>
+<tr><th>Produção antecipada de prova</th><th>Hipótese</th><th>Natureza</th></tr>
+<tr><td><strong>Art. 381, I</strong></td><td>Fundado receio de impossibilidade ou dificuldade posterior</td><td>Cautelar (urgência)</td></tr>
+<tr><td><strong>Art. 381, II</strong></td><td>Viabilizar autocomposição ou meio adequado</td><td>Satisfativa (informação)</td></tr>
+<tr><td><strong>Art. 381, III</strong></td><td>Justificar ou evitar ajuizamento de ação</td><td>Satisfativa (informação)</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta de 15 linhas sobre provas, o candidato deve demonstrar domínio da tripartição do ônus (estática/dinâmica/inversão legal), conhecer a exigência de decisão fundamentada antes da sentença para a redistribuição dinâmica (art. 373, §1º), citar a positivação da prova emprestada (art. 372) com requisito do contraditório, e mencionar inovações como a ata notarial (art. 384) e a produção antecipada desvinculada de urgência (art. 381, II e III). Se o enunciado envolver Fazenda Pública, conectar com a presunção de legitimidade dos atos administrativos e a inaplicabilidade da revelia (art. 345, II).</p>
+</div>

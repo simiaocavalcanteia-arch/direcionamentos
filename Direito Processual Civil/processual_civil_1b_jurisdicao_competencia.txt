@@ -1,0 +1,207 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 1b — Jurisdição e Competência</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Jurisdição e competência são os conceitos que definem quem julga e onde se julga. Para o Procurador do Estado, a análise de competência é uma das primeiras tarefas em qualquer processo: verificar se a ação foi ajuizada perante o juízo correto, arguir incompetência quando cabível e formular pedido de suspensão de segurança ao tribunal competente são atividades rotineiras da advocacia pública. Errar a competência pode significar a nulidade de atos processuais inteiros ou a perda de prazos em razão de redistribuição.</p>
+
+<p>O edital exige domínio completo: conceito e natureza da jurisdição, seus princípios, distinção das demais funções estatais, estrutura judiciária nacional, organização da Justiça Estadual e Federal, e todo o sistema de competência — conceito, espécies, critérios determinadores, competência internacional e interna, originária e recursal, absoluta e relativa, modificações, declaração de incompetência, conflitos de competência e atribuições, e perpetuação da jurisdição.</p>
+
+<p>O tema conecta-se com as normas fundamentais do processo (Ponto 1a — inafastabilidade, juiz natural), com meios adequados de solução de conflitos (Ponto 1c — arbitragem como exceção à jurisdição estatal), com ação e pressupostos processuais (Ponto 2), com os recursos (Ponto 7 — competência recursal dos tribunais) e com a Fazenda Pública em juízo (Pontos 3b e 8d — prerrogativas e execução contra entes públicos).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Jurisdição: conceito e natureza</h3>
+
+<p>Jurisdição é a função estatal de resolver conflitos de interesses com definitividade, mediante a aplicação do direito ao caso concreto. É uma das três funções do Estado (ao lado da legislativa e da administrativa), exercida tipicamente pelo Poder Judiciário. Distingue-se da função legislativa (que cria normas gerais e abstratas) e da função administrativa (que aplica a lei de ofício, sem caráter de definitividade — seus atos podem ser revistos pelo Judiciário).</p>
+
+<p>A jurisdição tem três características fundamentais: (i) <strong>substitutividade</strong> — o Estado substitui a vontade das partes pela decisão do juiz; (ii) <strong>definitividade</strong> — a decisão judicial, uma vez transitada em julgado, torna-se imutável (coisa julgada material — diferencial em relação à decisão administrativa); (iii) <strong>imperatividade</strong> — a decisão é de cumprimento obrigatório, podendo ser imposta coercitivamente.</p>
+
+<h3>Princípios da jurisdição</h3>
+
+<p><strong>Investidura:</strong> a jurisdição só pode ser exercida por quem foi regularmente investido na função jurisdicional (aprovação em concurso, nomeação, posse). Juiz não investido é juiz de fato, cujos atos são nulos.</p>
+
+<p><strong>Indelegabilidade:</strong> o juiz não pode delegar sua função jurisdicional a outro órgão ou pessoa. Exceções constitucionais: cartas de ordem, precatórias e rogatórias (arts. 236-237 do CPC), em que o juiz deprecante delega atos processuais (não a decisão) ao juiz deprecado.</p>
+
+<p><strong>Inevitabilidade:</strong> as partes submetem-se à jurisdição independentemente de sua vontade. Uma vez provocado, o poder jurisdicional impõe-se sobre ambas as partes — o réu não pode recusar a jurisdição.</p>
+
+<p><strong>Inafastabilidade (art. 5º, XXXV, CF):</strong> nenhuma lesão ou ameaça a direito pode ser excluída da apreciação judicial. Garante o acesso à justiça como direito fundamental.</p>
+
+<p><strong>Juiz natural (art. 5º, XXXVII e LIII, CF):</strong> ninguém será processado senão pela autoridade competente, vedada a criação de juízo ou tribunal de exceção. As regras de competência devem ser predeterminadas — não se admite designação de juiz para caso específico.</p>
+
+<h3>Estrutura judiciária nacional</h3>
+
+<p>A Constituição organiza o Poder Judiciário em dois eixos: a <strong>Justiça Comum</strong> (Justiça Estadual e Justiça Federal) e as <strong>Justiças Especializadas</strong> (Justiça do Trabalho, Justiça Eleitoral e Justiça Militar). No topo, o STF (guardião da Constituição) e o STJ (uniformizador da legislação federal) exercem jurisdição sobre todo o território nacional.</p>
+
+<p>A <strong>Justiça Estadual</strong> tem competência residual: julga tudo o que não for atribuído à Justiça Federal ou às Justiças Especializadas. No Estado do Rio de Janeiro, o Tribunal de Justiça (TJ/RJ) exerce competência recursal e originária (ações rescisórias, mandados de segurança contra atos de determinadas autoridades, representação de inconstitucionalidade de leis estaduais e municipais).</p>
+
+<p>A <strong>Justiça Federal</strong> (art. 109, CF) julga causas em que a União, suas autarquias e empresas públicas federais forem partes, causas envolvendo tratados internacionais, disputas sobre direitos indígenas, e outras hipóteses taxativamente previstas na Constituição. As sociedades de economia mista federais (como Petrobras e Banco do Brasil) não atraem competência federal — julgadas pela Justiça Estadual (Súmula 556/STF).</p>
+
+<div class="destaque">
+<p><strong>Atenção para a PGE/RJ:</strong> o Estado do Rio de Janeiro é julgado perante a Justiça Estadual quando for parte. A competência da Justiça Federal exige a presença de ente federal. Quando o Estado e a União figurarem como litisconsortes, a competência desloca-se para a Justiça Federal (Súmula 150/STJ). A PGE atua exclusivamente nos processos em que o Estado for parte, mas precisa saber identificar quando a competência é estadual ou federal para eventual arguição de incompetência.</p>
+</div>
+
+<h3>Competência: conceito e espécies</h3>
+
+<p>Competência é a medida da jurisdição — a parcela de poder jurisdicional atribuída a cada órgão judiciário. Todo juiz tem jurisdição, mas nem todo juiz é competente para determinada causa. A competência é fixada por lei (e pela Constituição) segundo critérios objetivos.</p>
+
+<p>Os <strong>critérios determinadores</strong> da competência são:</p>
+
+<p><strong>Material (ratione materiae):</strong> define-se pela natureza da causa — cível, criminal, fazendária, empresarial, de família. É competência absoluta, não admite modificação pela vontade das partes.</p>
+
+<p><strong>Territorial (ratione loci):</strong> define-se pelo local — domicílio do réu (regra geral — art. 46 do CPC), local do imóvel (ações reais imobiliárias — art. 47), local do dano (ação de reparação — art. 53, IV). Em regra, é competência relativa (modificável por convenção das partes ou por conexão/continência). Exceção: o foro do local do imóvel para ações fundadas em direito real sobre imóveis (art. 47, §§1º e 2º) é absoluto.</p>
+
+<p><strong>Funcional (ratione officii):</strong> distribui funções entre diferentes órgãos em um mesmo processo — juiz da causa vs. tribunal recursal; relator vs. turma/câmara; juiz da execução. É competência absoluta.</p>
+
+<p><strong>Pelo valor da causa:</strong> distribui competência conforme o valor atribuído à causa (ex: Juizados Especiais — até 40 ou 60 salários mínimos, conforme a lei específica). Tende a ser absoluta nos Juizados Especiais da Fazenda Pública (Lei 12.153/2009).</p>
+
+<p><strong>Pela pessoa (ratione personae):</strong> define-se pela qualidade da parte — Fazenda Pública perante varas de fazenda pública; União perante Justiça Federal. É competência absoluta.</p>
+
+<h3>Competência absoluta vs. relativa</h3>
+
+<p>Essa distinção é uma das mais importantes do processo civil e tem consequências práticas diretas:</p>
+
+<table>
+<tr><th>Aspecto</th><th>Competência absoluta</th><th>Competência relativa</th></tr>
+<tr><td>Critérios</td><td>Material, funcional, pessoa</td><td>Territorial (regra geral), valor (regra geral)</td></tr>
+<tr><td>Interesse protegido</td><td>Público</td><td>Particular (da parte)</td></tr>
+<tr><td>Arguição</td><td>A qualquer tempo e grau de jurisdição; conhecível de ofício pelo juiz</td><td>Deve ser arguida pelo réu na contestação (art. 64, CPC); não pode ser conhecida de ofício (art. 65)</td></tr>
+<tr><td>Preclusão</td><td>Não preclui</td><td>Preclui se não arguida na contestação → prorroga-se a competência</td></tr>
+<tr><td>Modificação</td><td>Não admite modificação por vontade das partes</td><td>Admite: cláusula de eleição de foro, conexão, continência</td></tr>
+<tr><td>Consequência da inobservância</td><td>Nulidade dos atos decisórios; redistribuição ao juízo competente (art. 64, §4º)</td><td>Prorrogação da competência (se não arguida a tempo)</td></tr>
+</table>
+
+<h3>Competência internacional (arts. 21-25 do CPC)</h3>
+
+<p>O CPC disciplina os limites da jurisdição brasileira em três categorias. A <strong>competência concorrente</strong> (arts. 21-22) permite que tanto o Judiciário brasileiro quanto o estrangeiro conheçam da causa — ex: réu domiciliado no Brasil (art. 21, I), obrigação a ser cumprida no Brasil (art. 21, II), ato ou fato praticado no Brasil (art. 21, III). A <strong>competência exclusiva</strong> (art. 23) reserva ao Judiciário brasileiro certas matérias — ações relativas a imóveis situados no Brasil, inventário de bens no Brasil (em caso de último domicílio aqui), partilha de bens no Brasil. A <strong>litispendência internacional</strong> é regulada pelo art. 24: ação proposta no exterior não induz litispendência no Brasil, podendo a sentença estrangeira ser homologada se atendidos os requisitos do art. 963.</p>
+
+<p>O art. 25 admite eleição de foro exclusivo estrangeiro em contratos internacionais: as partes podem afastar a jurisdição brasileira em favor de jurisdição estrangeira, desde que a hipótese não seja de competência exclusiva da autoridade judiciária brasileira (art. 23).</p>
+
+<h3>Modificação de competência</h3>
+
+<p>A competência relativa pode ser modificada por <strong>conexão</strong> (art. 55 — duas ou mais ações com pedido ou causa de pedir comuns), <strong>continência</strong> (art. 56 — identidade de partes e causa de pedir, com pedido de uma abrangendo o da outra) e <strong>cláusula de eleição de foro</strong> (art. 63 — as partes podem, por convenção, escolher o foro competente). A prevenção determina qual juízo atrairá as ações conexas: será prevento o juízo que primeiro registrou ou distribuiu a petição inicial (art. 59).</p>
+
+<h3>Perpetuação da jurisdição (art. 43 do CPC)</h3>
+
+<p>Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente — salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta. Essa regra (perpetuatio jurisdictionis) garante estabilidade processual: a mudança de domicílio do réu após a distribuição, por exemplo, não altera a competência.</p>
+
+<h3>Declaração de incompetência e conflito de competência</h3>
+
+<p>A incompetência relativa é arguida pelo réu em preliminar de contestação (art. 64). Se acolhida, os autos são remetidos ao juízo competente. A incompetência absoluta pode ser alegada a qualquer tempo e conhecida de ofício (art. 64, §1º). Os atos decisórios praticados por juiz absolutamente incompetente são nulos — mas os atos não decisórios podem ser aproveitados pelo juízo competente (art. 64, §4º).</p>
+
+<p>O conflito de competência (art. 66) ocorre quando dois ou mais juízes se declaram competentes (conflito positivo), se declaram incompetentes (conflito negativo) ou divergem sobre reunião/separação de processos. O conflito é decidido pelo tribunal ao qual ambos os juízes estejam vinculados; se vinculados a tribunais diferentes, decide o STJ (art. 105, I, "d", CF).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação fundamental</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo relevante</th></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Arts. 16-41</td><td>Função jurisdicional (arts. 16-20); competência internacional — concorrente (arts. 21-22), exclusiva (art. 23), litispendência (art. 24), eleição de foro (art. 25); cooperação jurídica internacional (arts. 26-41)</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Arts. 42-66</td><td>Competência interna: disposições gerais (arts. 42-44), perpetuação (art. 43), regras de foro (arts. 46-53), modificação por conexão/continência (arts. 54-58), prevenção (art. 59), eleição de foro (art. 63), incompetência (art. 64-65), conflito (art. 66)</td></tr>
+<tr><td><span class="tag tag-lei">CF/88</span> Arts. 92-126</td><td>Organização do Poder Judiciário: STF (arts. 101-103-B), STJ (arts. 104-105), TRFs e Juízes Federais (arts. 106-110), Justiça do Trabalho, Eleitoral, Militar, Justiça Estadual (arts. 125-126)</td></tr>
+<tr><td><span class="tag tag-lei">CF/88</span> Art. 109</td><td>Competência da Justiça Federal — rol taxativo de causas</td></tr>
+<tr><td><span class="tag tag-lei">Lei 12.153/2009</span></td><td>Juizados Especiais da Fazenda Pública: competência até 60 salários mínimos</td></tr>
+</table>
+
+<h3>Súmulas relevantes</h3>
+
+<table>
+<tr><th>Enunciado</th><th>Conteúdo</th></tr>
+<tr><td><span class="tag tag-stf">Súmula 556 STF</span></td><td>É competente a Justiça Comum para julgar causas em que é parte sociedade de economia mista (federal)</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 150 STJ</span></td><td>Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença da União no processo</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 206 STJ</span></td><td>A existência de vara privativa não altera a competência territorial</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 33 STJ</span></td><td>A incompetência relativa não pode ser declarada de ofício</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 235 STJ</span></td><td>A conexão não determina a reunião dos processos se um deles já foi julgado</td></tr>
+<tr><td><span class="tag tag-stf">Súmula 689 STF</span></td><td>O segurado pode ajuizar ação contra a Previdência Social no foro de seu domicílio ou na vara federal da capital</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Organize o estudo em três blocos. Primeiro, a jurisdição: conceito, natureza, características (substitutividade, definitividade, imperatividade) e princípios (investidura, indelegabilidade, inevitabilidade, inafastabilidade, juiz natural). É a base teórica — concisa, mas imprescindível para contextualizar qualquer resposta.</p>
+
+<p>Segundo, a competência interna (arts. 42-66 do CPC): concentre-se nos critérios determinadores (material, territorial, funcional, pessoal, valor), na distinção absoluta vs. relativa, na perpetuação da jurisdição (art. 43), nas regras de modificação (conexão, continência, cláusula de eleição) e na declaração de incompetência (art. 64). Esse bloco é o mais denso e o mais cobrado em provas de procuradoria — a banca pode apresentar uma situação fática e pedir a identificação do foro competente.</p>
+
+<p>Terceiro, a competência internacional (arts. 21-25): domine a distinção entre concorrente e exclusiva, a regra sobre litispendência internacional (art. 24 — não induz litispendência) e a eleição de foro estrangeiro (art. 25). É um bloco mais enxuto, mas que pode gerar questão autônoma pela sua especificidade.</p>
+
+<p>Para a organização da Justiça, leia o art. 109 da CF (competência da Justiça Federal) com atenção — especialmente os incisos I (causas com União, autarquias e EPs federais) e IV (crimes políticos e infrações penais em detrimento de bens da União). A competência da Justiça Estadual é residual: tudo o que não for federal ou especializado.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Competência territorial de ações reais imobiliárias — exceção à relatividade:</strong> o foro do local do imóvel para ações fundadas em direito de propriedade, vizinhança, servidão, divisão e demarcação de terras e nunciação de obra nova é de competência absoluta (art. 47, §1º, CPC). Para as demais ações reais imobiliárias, o autor pode optar pelo foro de domicílio do réu ou de eleição (art. 47, §2º). A banca pode explorar essa distinção — nem toda ação sobre imóvel exige propositura no foro da situação do bem.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Incompetência relativa não pode ser declarada de ofício (Súmula 33/STJ):</strong> apenas o réu pode arguir a incompetência relativa, na contestação. Se não o fizer, prorroga-se a competência. O CPC/2015 manteve essa regra no art. 65: "prorrogar-se-á a competência relativa se o réu não alegar a incompetência em preliminar de contestação." Mas atenção: o juiz pode conhecer de ofício a abusividade de cláusula de eleição de foro em contrato de adesão (art. 63, §3º) — nesse caso excepcional, a incompetência relativa pode ser afastada de ofício.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Perpetuação da jurisdição — exceções (art. 43):</strong> a regra é que a competência se fixa no momento da distribuição e permanece inalterada. As exceções são: (i) supressão do órgão judiciário (ex: extinção de vara); (ii) alteração superveniente da competência absoluta (ex: emenda constitucional que transfere matéria da Justiça Estadual para a Federal). Modificações de fato (mudança de domicílio do réu, alteração do valor da causa) não alteram a competência já fixada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Conflito de competência entre juiz estadual e federal:</strong> é decidido pelo STJ (art. 105, I, "d", CF), pois os juízes estão vinculados a tribunais diferentes (TJ e TRF). Quando o conflito for entre juízes vinculados ao mesmo tribunal (dois juízes estaduais da mesma comarca, por exemplo), compete ao próprio tribunal resolvê-lo.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Conexão não obriga reunião automática:</strong> a conexão autoriza, mas não necessariamente impõe, a reunião dos processos. O juiz deve avaliar se a reunião é conveniente para evitar decisões contraditórias. E atenção: se um dos processos conexos já foi julgado, não cabe mais reunião (Súmula 235/STJ).</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Exceção implícita à perpetuação da jurisdição (art. 43)</strong> — O STJ reconheceu que a regra do art. 43 pode ceder excepcionalmente quando a manutenção da competência se revelar inadequada ou inconveniente. O caso típico envolve desmembramento de comarcas: se a comarca do processo original é dividida, e a causa tem vínculo mais forte com a nova comarca, pode haver deslocamento.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 556</strong> — Sociedade de economia mista federal é julgada na Justiça Comum (estadual), não na Justiça Federal. A competência federal do art. 109, I, CF abrange apenas União, autarquias e empresas públicas federais. Petrobras, Banco do Brasil e Eletrobras, por exemplo, litigam na Justiça Estadual.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 33 — incompetência relativa e ofício</strong> — O juiz não pode declarar de ofício a incompetência relativa — deve aguardar provocação do réu na contestação. O CPC/2015 manteve essa orientação (art. 65), com a única exceção para cláusula abusiva de eleição de foro em contrato de adesão (art. 63, §3º).</p>
+
+<h3>Temas recentes (2024-2026)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Competência para execução fiscal em face de entes estaduais e municipais</strong> — O STJ tem reafirmado que a execução fiscal do Estado é de competência da Justiça Estadual, processada perante varas de fazenda pública (onde existirem). A discussão se acirra quando há inscrição em dívida ativa e o devedor reside em comarca diversa — a competência territorial segue o domicílio do executado (art. 46, §5º, CPC), mas a Fazenda Pública tem prerrogativa de foro na maioria das leis de organização judiciária estaduais.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Competência para ações contra concessionárias de serviço público</strong> — O STF tem mantido que ações contra concessionárias de serviço público federal (quando não envolverem diretamente a União) são de competência da Justiça Estadual, salvo se a União tiver interesse jurídico que justifique sua participação no feito.</p>
+
+<table>
+<tr><th>Tema</th><th>Objeto</th><th>Status</th></tr>
+<tr><td><span class="tag tag-stj">STJ</span> Art. 43 CPC</td><td>Exceção implícita à perpetuação da jurisdição</td><td>Reconhecida em casos excepcionais (desmembramento de comarca)</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 33</span></td><td>Juiz não declara incompetência relativa de ofício</td><td>Consolidada — exceção: cláusula abusiva (art. 63, §3º)</td></tr>
+<tr><td><span class="tag tag-stj">Súmula 235</span></td><td>Conexão não reúne processos se um já foi julgado</td><td>Consolidada</td></tr>
+<tr><td><span class="tag tag-stf">Súmula 556</span></td><td>Sociedade de economia mista → Justiça Comum</td><td>Consolidada</td></tr>
+</table>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Critérios determinadores da competência</h3>
+
+<table>
+<tr><th>Critério</th><th>Determina-se por</th><th>Natureza</th><th>Exemplos</th></tr>
+<tr><td><strong>Material</strong></td><td>Natureza da causa</td><td>Absoluta</td><td>Vara cível, vara de família, vara de fazenda pública, vara empresarial</td></tr>
+<tr><td><strong>Territorial</strong></td><td>Localização geográfica</td><td>Relativa (regra) / Absoluta (ações reais imobiliárias do art. 47, §1º)</td><td>Domicílio do réu (art. 46), local do imóvel (art. 47), local do dano (art. 53, IV-A)</td></tr>
+<tr><td><strong>Funcional</strong></td><td>Função no processo</td><td>Absoluta</td><td>Primeiro grau vs. tribunal; relator vs. turma; juízo de execução</td></tr>
+<tr><td><strong>Pessoal</strong></td><td>Qualidade da parte</td><td>Absoluta</td><td>Justiça Federal (União, autarquias, EPs federais); varas de fazenda pública</td></tr>
+<tr><td><strong>Valor da causa</strong></td><td>Valor atribuído</td><td>Variável</td><td>Juizados Especiais (até 60 SM); Juizados da Fazenda (até 60 SM)</td></tr>
+</table>
+
+<h3>Competência internacional — CPC/2015</h3>
+
+<table>
+<tr><th>Tipo</th><th>Dispositivo</th><th>Regra</th></tr>
+<tr><td><strong>Concorrente</strong></td><td>Arts. 21-22</td><td>Brasil e estrangeiro podem julgar: réu domiciliado no Brasil, obrigação aqui cumprida, ato/fato aqui ocorrido, relação de consumo com consumidor domiciliado no Brasil</td></tr>
+<tr><td><strong>Exclusiva</strong></td><td>Art. 23</td><td>Só o Brasil julga: imóveis no Brasil, inventário/partilha de bens no Brasil</td></tr>
+<tr><td><strong>Litispendência</strong></td><td>Art. 24</td><td>Ação no exterior não gera litispendência no Brasil</td></tr>
+<tr><td><strong>Eleição de foro estrangeiro</strong></td><td>Art. 25</td><td>Admitida em contrato internacional, salvo competência exclusiva brasileira</td></tr>
+</table>
+
+<h3>Modificações de competência relativa</h3>
+
+<table>
+<tr><th>Causa</th><th>Conceito</th><th>Efeito</th></tr>
+<tr><td><strong>Conexão</strong> (art. 55)</td><td>Ações com pedido ou causa de pedir comuns</td><td>Reunião dos processos perante o juízo prevento (art. 59)</td></tr>
+<tr><td><strong>Continência</strong> (art. 56)</td><td>Identidade de partes e causa de pedir; pedido de uma abrange o da outra</td><td>Reunião no juízo prevento; se houver pedido mais amplo, neste</td></tr>
+<tr><td><strong>Eleição de foro</strong> (art. 63)</td><td>Convenção das partes fixando foro competente</td><td>Afasta o foro legal; nulidade possível se abusiva em contrato de adesão (§3º)</td></tr>
+<tr><td><strong>Prorrogação tácita</strong> (art. 65)</td><td>Réu não arguiu incompetência relativa na contestação</td><td>Competência se consolida no juízo originalmente provocado</td></tr>
+</table>

@@ -1,0 +1,177 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 1c — Meios Adequados de Solução de Conflitos</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O CPC/2015 consagrou, já em suas normas fundamentais (art. 3º, §§2º e 3º), o dever de o Estado promover a solução consensual dos conflitos e de juízes, advogados, defensores e membros do Ministério Público estimularem a conciliação, a mediação e outros métodos de resolução. O legislador abandonou a expressão "meios alternativos" em favor de "meios adequados" — sinalizando que a via judicial contenciosa não é necessariamente o caminho mais apropriado para todos os litígios. Para o Procurador do Estado, esse tema tem relevância crescente: a PGE/RJ atua em câmaras de conciliação, celebra acordos judiciais e extrajudiciais, e lida diretamente com arbitragens em contratos administrativos de grande porte.</p>
+
+<p>O edital cobra: negociação, mediação, conciliação e arbitragem, além da Fazenda Pública e a autocomposição. A menção expressa à Fazenda Pública revela a preocupação da banca com a dimensão prática: pode o Estado transacionar? Em que condições a PGE pode firmar acordo? Quais os limites da arbitragem em contratos administrativos?</p>
+
+<p>O tema conecta-se com as normas fundamentais do CPC (Ponto 1a — art. 3º), com jurisdição e competência (Ponto 1b — a arbitragem afasta a jurisdição estatal), com o procedimento comum (Ponto 4c — audiência de conciliação ou mediação como ato obrigatório), com execução contra a Fazenda (Ponto 8d) e com os contratos administrativos estudados em Direito Administrativo.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>O sistema multiportas de resolução de conflitos</h3>
+
+<p>O CPC/2015 adotou o modelo do tribunal multiportas (<em>multi-door courthouse</em>): o Judiciário oferece ao jurisdicionado não apenas a via contenciosa tradicional, mas também portas de acesso à conciliação, à mediação e a outros métodos consensuais. A ideia é que cada conflito seja direcionado ao método mais adequado para sua resolução — nem sempre a sentença judicial é a resposta mais eficiente ou satisfatória.</p>
+
+<p>O art. 3º do CPC estrutura esse sistema em três parágrafos: o §1º permite a arbitragem ("na forma da lei"); o §2º impõe ao Estado o dever de promover a solução consensual "sempre que possível"; o §3º determina que a conciliação, a mediação e outros métodos deverão ser estimulados por todos os operadores do direito, "inclusive no curso do processo judicial." Esses dispositivos transformam a autocomposição em política pública, não em mera faculdade.</p>
+
+<h3>Negociação</h3>
+
+<p>A negociação é o método mais simples de resolução de conflitos: as próprias partes dialogam diretamente, sem a intervenção de terceiro, buscando um acordo mutuamente aceitável. Não há formalidade legal específica — a negociação pode ocorrer antes, durante ou após o ajuizamento de ação. No CPC, a negociação manifesta-se de diversas formas: os negócios jurídicos processuais (art. 190 — as partes podem convencionar sobre procedimento e ônus processuais), a desistência conjunta (art. 775, II), e a transação judicial (art. 487, III, "b").</p>
+
+<h3>Conciliação</h3>
+
+<p>A conciliação é conduzida por um terceiro imparcial — o conciliador —, que participa ativamente da negociação, sugere soluções e formula propostas de acordo. Diferentemente do mediador, o conciliador pode propor alternativas concretas. A conciliação é indicada preferencialmente para conflitos em que não haja vínculo anterior entre as partes (art. 165, §2º, CPC) — tipicamente, relações pontuais como acidentes de trânsito, cobranças e disputas contratuais simples.</p>
+
+<p>O CPC tornou a audiência de conciliação ou mediação etapa obrigatória do procedimento comum (art. 334): designada antes da contestação, ela somente não ocorrerá se ambas as partes manifestarem expressamente desinteresse (§4º, I) ou se a causa não admitir autocomposição (§4º, II). Os tribunais devem criar Centros Judiciários de Solução Consensual de Conflitos (CEJUSCs), responsáveis pelas sessões (art. 165).</p>
+
+<h3>Mediação</h3>
+
+<p>A mediação é conduzida por um terceiro imparcial — o mediador —, que facilita o diálogo e auxilia as partes a identificar, por si mesmas, soluções para o conflito. O mediador não propõe soluções nem emite juízo de valor — seu papel é restaurar a comunicação e permitir que as partes construam o acordo. A mediação é indicada preferencialmente para conflitos em que exista vínculo anterior entre as partes (art. 165, §3º, CPC) — relações familiares, societárias, condominiais, trabalhistas.</p>
+
+<p>A Lei 13.140/2015 (Lei de Mediação) regulamenta tanto a mediação judicial quanto a extrajudicial. A mediação judicial ocorre dentro do processo, conduzida por mediadores cadastrados nos tribunais. A mediação extrajudicial é contratada pelas partes em câmaras privadas. O acordo obtido por mediação tem eficácia de título executivo extrajudicial; se homologado judicialmente, torna-se título executivo judicial (art. 515, II e III, CPC).</p>
+
+<div class="destaque">
+<p><strong>Conciliador vs. mediador — distinção prática:</strong> o conciliador pode sugerir soluções (postura ativa); o mediador apenas facilita o diálogo (postura catalítica). O conciliador atua preferencialmente em conflitos sem vínculo prévio; o mediador, em conflitos com vínculo. Na prática, muitas audiências combinam técnicas de ambos — mas para a prova, a distinção conceitual dos arts. 165, §§2º e 3º, é cobrada com frequência.</p>
+</div>
+
+<h3>Arbitragem</h3>
+
+<p>A arbitragem é método heterocompositivo: um terceiro (árbitro ou tribunal arbitral) decide o conflito com autoridade equivalente à do juiz. A sentença arbitral não está sujeita a recurso no mérito e produz os mesmos efeitos da sentença judicial, constituindo título executivo judicial (art. 515, VII, CPC). A base legal é a Lei 9.307/1996, com as alterações da Lei 13.129/2015.</p>
+
+<p>Requisitos para a arbitragem: (i) partes capazes; (ii) litígio sobre direitos patrimoniais disponíveis. A convenção de arbitragem pode assumir duas formas: a <strong>cláusula compromissória</strong> (inserida no contrato, antes do litígio — compromisso de submeter futuras controvérsias a arbitragem) e o <strong>compromisso arbitral</strong> (celebrado após o surgimento do litígio). Ambas afastam a jurisdição estatal — se a parte ingressar no Judiciário violando a convenção, o juiz deve extinguir o processo sem resolução do mérito (art. 485, VII, CPC).</p>
+
+<p>A arbitragem pode ser de direito ou de equidade; quando envolve a Administração Pública, será sempre de direito e pública (art. 1º, §§1º e 2º, da Lei 9.307/1996, com redação da Lei 13.129/2015). A sentença arbitral pode ser anulada judicialmente por vícios formais (art. 32 da Lei 9.307) — não cabe revisão do mérito pelo Judiciário.</p>
+
+<h3>A Fazenda Pública e a autocomposição</h3>
+
+<p>A autocomposição pela Fazenda Pública é tema central para o Procurador do Estado. Historicamente, prevalecia a ideia de que o Estado não podia transacionar por ser titular de interesses indisponíveis. Essa visão foi superada: a indisponibilidade do interesse público não impede a autocomposição sobre direitos patrimoniais. O que é indisponível é o interesse público primário (o bem-estar da coletividade); o interesse secundário (patrimonial-financeiro do ente público) pode ser objeto de acordo, desde que observados os requisitos legais.</p>
+
+<p>A <strong>Lei 13.140/2015</strong> (arts. 32-40) autorizou expressamente a União, estados, DF e municípios a criar câmaras de prevenção e resolução administrativa de conflitos, com competência para: (i) dirimir conflitos entre órgãos e entidades da Administração; (ii) avaliar a admissibilidade de pedidos de resolução de conflitos por composição com particulares; (iii) promover a celebração de termos de ajustamento de conduta. A transação por adesão (art. 35) permite que a Administração resolva conflitos repetitivos mediante adesão a condições previamente estabelecidas — instrumento eficiente para a gestão do contencioso de massa.</p>
+
+<p>A <strong>Lei 14.133/2021</strong> (Nova Lei de Licitações) reforçou a autocomposição nos contratos administrativos: o art. 151 prevê a utilização de meios alternativos de prevenção e resolução de controvérsias, incluindo conciliação, mediação, comitê de resolução de disputas e arbitragem. A cláusula compromissória em contrato administrativo é expressamente admitida.</p>
+
+<div class="destaque">
+<p><strong>Para o Procurador do Estado:</strong> a PGE/RJ é o órgão com atribuição para celebrar acordos em nome do Estado, seja em câmaras de conciliação, seja em processos judiciais. A celebração de acordo depende de autorização normativa (resolução da PGE, decreto estadual) e observância do interesse público. A arbitragem envolvendo o Estado do RJ será sempre de direito, pública e relativa a direitos patrimoniais disponíveis. A Nova Lei de Licitações consolidou a possibilidade de cláusula arbitral em contratos de concessão, PPPs e contratos de obras de grande porte.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação fundamental</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo relevante</th></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 3º, §§1º-3º</td><td>Sistema multiportas: arbitragem permitida, dever de promoção da autocomposição, estímulo à conciliação e mediação</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Arts. 165-175</td><td>Conciliadores e mediadores judiciais: cadastro, princípios, impedimentos, CEJUSCs</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 334</td><td>Audiência de conciliação/mediação obrigatória no procedimento comum</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 190</td><td>Negócios jurídicos processuais: partes podem convencionar sobre procedimento</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 515, II, III e VII</td><td>Títulos executivos judiciais: acordo homologado, sentença arbitral</td></tr>
+<tr><td><span class="tag tag-lei">Lei 13.140/2015</span></td><td>Lei de Mediação: mediação judicial e extrajudicial; autocomposição na Administração Pública (arts. 32-40); câmaras de prevenção; transação por adesão (art. 35)</td></tr>
+<tr><td><span class="tag tag-lei">Lei 9.307/1996</span></td><td>Lei de Arbitragem: convenção (cláusula compromissória e compromisso arbitral), procedimento, sentença arbitral, anulação</td></tr>
+<tr><td><span class="tag tag-lei">Lei 13.129/2015</span></td><td>Reforma da Lei de Arbitragem: autorização expressa para Administração Pública (direta e indireta), arbitragem de direito, publicidade</td></tr>
+<tr><td><span class="tag tag-lei">Lei 14.133/2021</span> Art. 151</td><td>Nova Lei de Licitações: meios alternativos em contratos administrativos (conciliação, mediação, comitê de disputas, arbitragem)</td></tr>
+</table>
+
+<h3>Súmulas e enunciados</h3>
+
+<table>
+<tr><th>Enunciado</th><th>Conteúdo</th></tr>
+<tr><td><span class="tag tag-stj">Súmula 485 STJ</span></td><td>A Lei de Arbitragem aplica-se aos contratos que contenham cláusula arbitral, ainda que celebrados antes de sua edição</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Estruture o estudo em dois eixos: métodos autocompositivos (negociação, conciliação, mediação) e método heterocompositivo privado (arbitragem). No primeiro eixo, leia os arts. 165-175 do CPC (conciliadores e mediadores) e a Lei 13.140/2015, concentrando-se na distinção entre conciliador e mediador (arts. 165, §§2º e 3º), na audiência obrigatória do art. 334 e nas disposições sobre autocomposição pela Administração (arts. 32-40 da Lei de Mediação).</p>
+
+<p>No segundo eixo, estude a Lei 9.307/1996 com as alterações da Lei 13.129/2015: convenção de arbitragem (cláusula compromissória vs. compromisso arbitral), requisitos (capacidade e direitos patrimoniais disponíveis), sentença arbitral (título executivo judicial, irrecorrível no mérito, anulável por vício formal) e as regras especiais para a Administração Pública (arbitragem de direito, publicidade obrigatória).</p>
+
+<p>A Fazenda Pública e a autocomposição é o tema de maior densidade para a PGE/RJ. Domine a evolução conceitual (de "o Estado não pode transacionar" para "o Estado deve buscar a autocomposição quando adequada"), os fundamentos legais (art. 3º do CPC, Lei 13.140/2015, Lei 14.133/2021) e os limites práticos (necessidade de autorização, observância do interesse público, publicidade). Em uma questão discursiva, demonstrar que compreende essa tensão entre indisponibilidade e eficiência é o que diferencia a resposta.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Audiência de conciliação/mediação — dispensa exige manifestação de ambas as partes:</strong> a audiência do art. 334 do CPC é obrigatória como regra. Somente não ocorrerá se ambas as partes manifestarem expressamente desinteresse (o autor na petição inicial e o réu por petição com antecedência mínima de 10 dias). Se apenas uma parte manifestar desinteresse, a audiência é designada normalmente. O não comparecimento injustificado configura ato atentatório à dignidade da justiça, com multa de até 2% do valor da causa (art. 334, §8º).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Arbitragem afasta a jurisdição estatal — mas não elimina o controle judicial:</strong> a cláusula compromissória impede o Judiciário de conhecer o mérito da controvérsia arbitral. Porém, o Judiciário permanece competente para: (i) concessão de tutela de urgência antes da instituição do tribunal arbitral (art. 22-A da Lei 9.307); (ii) execução da sentença arbitral (que é título executivo judicial); (iii) ação anulatória da sentença arbitral por vícios formais (art. 33). A banca pode explorar esses limites.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Administração Pública e arbitragem — sempre de direito, nunca de equidade:</strong> quando o Estado participa de arbitragem, o árbitro aplica a legislação vigente (arbitragem de direito), não juízo de equidade. Além disso, o procedimento deve observar o princípio da publicidade — ao contrário da arbitragem privada, que pode ser sigilosa. Esses dois requisitos (direito + publicidade) são condições de validade da arbitragem envolvendo entes públicos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Indisponibilidade ≠ impossibilidade de acordo:</strong> o fato de o interesse público ser indisponível não significa que a Fazenda não possa celebrar acordos. A distinção está entre interesse público primário (coletividade — não pode ser renunciado) e interesse patrimonial do ente público (interesse secundário — pode ser objeto de transação). A Lei 13.140/2015 (arts. 32-40) e a Lei 14.133/2021 (art. 151) eliminaram qualquer dúvida: a autocomposição pela Administração é não apenas possível, mas incentivada.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Constitucionalidade da Lei de Arbitragem</strong> — O STF reconheceu a constitucionalidade da Lei 9.307/1996 (SE 5.206, julgada pelo Plenário em 2001), afirmando que a arbitragem não viola o princípio da inafastabilidade da jurisdição (art. 5º, XXXV, CF), pois a opção pela arbitragem é voluntária — as partes renunciam à tutela estatal por livre escolha, o que é exercício legítimo de autonomia privada.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Validade da cláusula compromissória em contratos administrativos</strong> — O STJ reconheceu a validade da cláusula arbitral em contratos de concessão e PPPs, afirmando que a indisponibilidade do interesse público não torna indisponíveis os direitos patrimoniais decorrentes dos contratos celebrados pela Administração. A arbitragem é admissível para resolver disputas sobre equilíbrio econômico-financeiro, reajustes, indenizações e outras questões patrimoniais.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 485</strong> — A Lei de Arbitragem aplica-se aos contratos que contenham cláusula arbitral, ainda que celebrados antes de sua edição. A súmula reforça a aplicação imediata da lei processual (que rege a arbitragem) aos contratos em vigor.</p>
+
+<h3>Temas recentes (2024-2026)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Audiência de conciliação/mediação obrigatória e Fazenda Pública</strong> — A jurisprudência tem consolidado que a Fazenda Pública não está automaticamente dispensada da audiência do art. 334 do CPC. Para que a audiência não ocorra, o ente público deve manifestar expressamente seu desinteresse, nos termos do §4º. A mera alegação genérica de "indisponibilidade do direito" não dispensa a audiência — a autocomposição é possível mesmo em causas envolvendo a Fazenda.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Câmaras de conciliação da Fazenda Pública e vinculação do acordo</strong> — Os tribunais têm reconhecido a validade e a eficácia dos acordos celebrados por câmaras de conciliação da Administração Pública (criadas na forma dos arts. 32-40 da Lei 13.140/2015), desde que firmados por autoridade competente e dentro dos limites da autorização normativa.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Arbitragem e tutela provisória</strong> — O STJ tem reafirmado que, antes da constituição do tribunal arbitral, o Judiciário pode conceder tutela de urgência para preservar o resultado útil do procedimento arbitral (art. 22-A da Lei 9.307). Após a instituição do tribunal arbitral, a competência cautelar transfere-se ao árbitro.</p>
+
+<table>
+<tr><th>Tema</th><th>Objeto</th><th>Status</th></tr>
+<tr><td><span class="tag tag-stf">STF</span> SE 5.206</td><td>Constitucionalidade da Lei de Arbitragem</td><td>Consolidado (2001) — não viola art. 5º, XXXV, CF</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span></td><td>Cláusula arbitral em contratos administrativos</td><td>Consolidado — válida para direitos patrimoniais disponíveis</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span></td><td>Audiência do art. 334 e Fazenda Pública</td><td>Fazenda não está automaticamente dispensada</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span></td><td>Tutela de urgência e arbitragem</td><td>Judiciário competente até constituição do tribunal arbitral</td></tr>
+</table>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparativo dos meios de solução de conflitos</h3>
+
+<table>
+<tr><th>Método</th><th>Terceiro?</th><th>Papel do terceiro</th><th>Quem decide?</th><th>Resultado</th></tr>
+<tr><td><strong>Negociação</strong></td><td>Não</td><td>—</td><td>As partes</td><td>Acordo (negócio jurídico)</td></tr>
+<tr><td><strong>Conciliação</strong></td><td>Sim (conciliador)</td><td>Sugere soluções, propõe acordo</td><td>As partes</td><td>Acordo (título extrajudicial ou judicial se homologado)</td></tr>
+<tr><td><strong>Mediação</strong></td><td>Sim (mediador)</td><td>Facilita o diálogo, não sugere</td><td>As partes</td><td>Acordo (título extrajudicial ou judicial se homologado)</td></tr>
+<tr><td><strong>Arbitragem</strong></td><td>Sim (árbitro)</td><td>Decide o conflito (como juiz privado)</td><td>O árbitro</td><td>Sentença arbitral (título executivo judicial)</td></tr>
+</table>
+
+<h3>Conciliação vs. mediação (CPC/2015)</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Conciliação</th><th>Mediação</th></tr>
+<tr><td>Postura do terceiro</td><td>Ativa — sugere soluções</td><td>Facilitadora — restaura comunicação</td></tr>
+<tr><td>Conflitos indicados</td><td>Sem vínculo anterior entre as partes</td><td>Com vínculo anterior entre as partes</td></tr>
+<tr><td>Fundamento CPC</td><td>Art. 165, §2º</td><td>Art. 165, §3º</td></tr>
+<tr><td>Lei específica</td><td>CPC (arts. 165-175, 334)</td><td>Lei 13.140/2015 + CPC</td></tr>
+</table>
+
+<h3>Arbitragem: cláusula compromissória vs. compromisso arbitral</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Cláusula compromissória</th><th>Compromisso arbitral</th></tr>
+<tr><td>Momento</td><td>Antes do litígio (inserida no contrato)</td><td>Após o surgimento do litígio</td></tr>
+<tr><td>Objeto</td><td>Litígios futuros decorrentes do contrato</td><td>Litígio já existente e determinado</td></tr>
+<tr><td>Espécies</td><td>Cheia (define regras) e vazia (apenas submissão)</td><td>Judicial (nos autos) ou extrajudicial</td></tr>
+<tr><td>Efeito</td><td>Afasta jurisdição estatal para litígios abrangidos</td><td>Afasta jurisdição estatal para o litígio específico</td></tr>
+</table>
+
+<h3>Autocomposição pela Fazenda Pública — marcos legais</h3>
+
+<table>
+<tr><th>Diploma</th><th>Instrumento</th><th>Alcance</th></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 3º, §§2º-3º</td><td>Dever de promoção da solução consensual</td><td>Geral — aplica-se a todos, inclusive Fazenda</td></tr>
+<tr><td><span class="tag tag-lei">Lei 13.140/2015</span> Arts. 32-40</td><td>Câmaras de prevenção e resolução; transação por adesão</td><td>Todos os entes federativos (União, estados, DF, municípios)</td></tr>
+<tr><td><span class="tag tag-lei">Lei 13.129/2015</span></td><td>Arbitragem pela Administração Pública</td><td>Direitos patrimoniais disponíveis; arbitragem de direito e pública</td></tr>
+<tr><td><span class="tag tag-lei">Lei 14.133/2021</span> Art. 151</td><td>Meios alternativos em contratos administrativos</td><td>Conciliação, mediação, comitê de disputas, arbitragem</td></tr>
+</table>

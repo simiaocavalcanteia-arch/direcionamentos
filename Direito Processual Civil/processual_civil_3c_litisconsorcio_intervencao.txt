@@ -1,0 +1,286 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 3c — Litisconsórcio e Intervenção de Terceiros</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Litisconsórcio e intervenção de terceiros são institutos que ampliam a relação processual para além da configuração mínima autor-réu. O litisconsórcio reúne mais de um sujeito no mesmo polo; a intervenção de terceiros traz ao processo quem originalmente não era parte. Para o Procurador do Estado, ambos os institutos têm relevância prática imediata: a Fazenda Pública frequentemente litiga em litisconsórcio (com autarquias, fundações, outros entes federados) e é alvo constante de intervenções (denunciação da lide do agente público, chamamento ao processo de codevedores solidários, amicus curiae em ações de repercussão coletiva).</p>
+
+<p>O edital cobra litisconsórcio e intervenção de terceiros. O tema conecta-se com a ação e seus elementos (Ponto 2a — identidade de partes para litispendência/coisa julgada), com o processo e a relação jurídica processual (Ponto 2b), com partes e Fazenda Pública (Ponto 3b — prerrogativas que se comunicam ao litisconsorte público), com a resposta do réu (Ponto 4b — momento para requerer intervenção) e com a sentença (Ponto 6 — limites subjetivos da coisa julgada no litisconsórcio unitário).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Litisconsórcio — conceito e classificações</h3>
+
+<p>Litisconsórcio é a pluralidade de sujeitos em um ou ambos os polos da relação processual. Quando há mais de um autor, fala-se em litisconsórcio ativo; quando há mais de um réu, litisconsórcio passivo; quando há pluralidade em ambos os polos, litisconsórcio misto. O CPC/2015 disciplina o litisconsórcio nos arts. 113 a 118, com classificações que se cruzam em dois eixos independentes:</p>
+
+<p><strong>Primeiro eixo — quanto à obrigatoriedade: facultativo ou necessário.</strong></p>
+
+<p><strong>Litisconsórcio facultativo (art. 113):</strong> as partes podem litigar em conjunto, mas não são obrigadas. O CPC admite o litisconsórcio facultativo quando: (i) entre os litisconsortes houver comunhão de direitos ou de obrigações relativamente à lide; (ii) entre as causas houver conexão pelo pedido ou pela causa de pedir; (iii) ocorrer afinidade de questões por ponto comum de fato ou de direito. A facultatividade é do autor, que escolhe se inclui ou não o litisconsorte. O juiz pode, contudo, limitar o litisconsórcio facultativo que comprometa a rápida solução do litígio ou dificulte a defesa ou o cumprimento da sentença (art. 113, §1º — litisconsórcio multitudinário).</p>
+
+<p><strong>Litisconsórcio necessário (art. 114):</strong> a lei ou a natureza da relação jurídica impõe a formação do litisconsórcio. É obrigatório quando a eficácia da sentença depender da citação de todos que devam ser litisconsortes. O exemplo clássico: ação de usucapião exige a citação de todos os confrontantes e do proprietário registral; ação de anulação de casamento exige a presença de ambos os cônjuges. Se o autor não formar o litisconsórcio necessário, o juiz determinará que o requeira a citação dos litisconsortes faltantes no prazo que fixar (art. 115, parágrafo único). Se o vício não for sanado, o processo será extinto sem resolução de mérito.</p>
+
+<p><strong>Segundo eixo — quanto à uniformidade da decisão: simples ou unitário.</strong></p>
+
+<p><strong>Litisconsórcio simples:</strong> o juiz pode decidir de forma diferente para cada litisconsorte. É a regra geral. Exemplo: ação indenizatória contra dois réus — o juiz pode condenar um e absolver o outro, conforme a prova de culpa de cada um.</p>
+
+<p><strong>Litisconsórcio unitário (art. 116):</strong> pela natureza da relação jurídica, o juiz deve decidir de modo uniforme para todos os litisconsortes. A sentença será necessariamente idêntica para todos. Exemplo: ação de nulidade de contrato — o contrato é nulo ou válido para todos; não é possível anular para um e manter para outro.</p>
+
+<div class="destaque">
+<p><strong>Combinações possíveis e armadilha de prova:</strong> litisconsórcio necessário não é sinônimo de unitário, embora frequentemente coincidam. Existem quatro combinações: (i) necessário-unitário (mais comum — usucapião, nulidade de casamento); (ii) necessário-simples (exemplo: ação de demarcação com decisão potencialmente diversa para cada confrontante); (iii) facultativo-unitário (exemplo: ação anulatória de deliberação societária por sócio — outros sócios podem integrar o polo ativo facultativamente, mas a decisão será uniforme); (iv) facultativo-simples (o mais comum na prática — vários credores cobrando dívidas conexas). A banca que perguntar "todo litisconsórcio necessário é unitário?" espera que você saiba que não.</p>
+</div>
+
+<h3>Regime jurídico dos litisconsortes</h3>
+
+<p>O art. 117 estabelece a regra da independência: os litisconsortes são considerados litigantes distintos em suas relações com a parte adversa. Os atos e omissões de um não prejudicam nem beneficiam os outros. Essa é a regra do litisconsórcio simples.</p>
+
+<p>No <strong>litisconsórcio unitário</strong>, aplica-se um regime diferenciado (art. 117, parte final): os atos benéficos praticados por um litisconsorte aproveitam a todos; os atos prejudiciais (como a confissão ou o reconhecimento do pedido) não prejudicam os demais. Se um litisconsorte unitário recorre e o outro não, o recurso beneficia ambos. Se um confessa, a confissão não tem eficácia contra os outros.</p>
+
+<p>O art. 118 garante que cada litisconsorte tem o direito de promover o andamento do processo e que todos devem ser intimados dos respectivos atos.</p>
+
+<h3>Intervenção de terceiros — conceito e modalidades</h3>
+
+<p>Intervenção de terceiros é o ingresso de alguém que não era parte originária no processo. O CPC/2015 prevê cinco modalidades, organizando-as no Título III do Livro III da Parte Geral (arts. 119-138):</p>
+
+<h3>1. Assistência (arts. 119-124)</h3>
+
+<p>O terceiro que demonstrar interesse jurídico na solução do litígio pode intervir para auxiliar uma das partes. A assistência é intervenção espontânea (o terceiro pede para entrar, não é chamado). Divide-se em duas espécies:</p>
+
+<p><strong>Assistência simples (art. 121):</strong> o assistente tem relação jurídica com o assistido, e o resultado do processo pode afetar essa relação indiretamente. O assistente atua como auxiliar — pode praticar atos processuais que não contrariem a vontade do assistido. Exemplo: o sublocatário pode assistir o locatário na ação de despejo movida pelo locador, pois a perda da locação afeta a sublocação.</p>
+
+<p><strong>Assistência litisconsorcial (art. 124):</strong> o assistente tem relação jurídica direta com o adversário do assistido — a sentença o afetará diretamente. É tratado como litisconsorte do assistido, com autonomia processual plena: pode praticar atos mesmo contra a vontade do assistido, recorrer independentemente, produzir provas próprias. Exemplo: o coobrigado solidário que intervém como assistente litisconsorcial do devedor principal demandado.</p>
+
+<p>A assistência pode ser requerida a qualquer tempo e grau de jurisdição (art. 119, parágrafo único). O pedido será autuado em apenso, e as partes terão 15 dias para impugnar (art. 120). Se houver impugnação, o juiz decide sem suspender o processo.</p>
+
+<h3>2. Denunciação da lide (arts. 125-129)</h3>
+
+<p>É a intervenção provocada pela qual uma das partes (denunciante) traz ao processo o terceiro (denunciado) que lhe deve garantia, para que o mesmo processo decida tanto a lide principal quanto o direito de regresso. O CPC/2015 prevê a denunciação em duas hipóteses (art. 125):</p>
+
+<p><strong>Inciso I:</strong> ao alienante imediato, no processo relativo à coisa cujo domínio foi transferido ao denunciante — a chamada evicção. Se o adquirente perde a coisa por decisão judicial, pode exigir a reparação do alienante.</p>
+
+<p><strong>Inciso II:</strong> àquele que estiver obrigado, por lei ou pelo contrato, a indenizar o denunciante, em ação regressiva, pelo prejuízo que lhe for causado por perda da demanda. É a hipótese mais ampla e mais utilizada na prática: seguradora, fiador, garantidor, entre outros.</p>
+
+<div class="destaque">
+<p><strong>Denunciação da lide e Fazenda Pública — tema clássico de prova:</strong> a grande questão é saber se a Fazenda Pública, quando demandada em ação de responsabilidade civil objetiva (art. 37, §6º, CF), pode denunciar a lide ao agente público responsável pelo dano. O STF, no RE 1.027.633/SP (Tema 940, 2019), fixou que a ação deve ser proposta contra o Estado, e não diretamente contra o agente (teoria da dupla garantia). Quanto à denunciação da lide, o STJ tem entendimento consolidado de que ela não é obrigatória quando introduz fundamento novo (responsabilidade subjetiva do agente), pois a lide principal se funda em responsabilidade objetiva. A denunciação tumultuaria o processo ao criar uma lide paralela com fundamento distinto (culpa do agente). Na prática, a Fazenda Pública que quiser exercer o direito de regresso deve fazê-lo em ação autônoma.</p>
+</div>
+
+<p>O art. 125, §1º, deixa claro que a denunciação da lide não é obrigatória no CPC/2015 — a falta de denunciação não gera perda do direito de regresso. O denunciante que não denunciar pode ajuizar ação autônoma de regresso. Essa é uma mudança significativa em relação ao CPC/1973, que previa a obrigatoriedade nas hipóteses de evicção (art. 70, I, CPC/1973).</p>
+
+<p>O denunciado, ao aceitar a denunciação, assume a posição de litisconsorte do denunciante (art. 128, I). Se o denunciado contestar o pedido do autor, o processo prossegue com autor vs. denunciante + denunciado. Se o denunciado for revel ou confessar, o denunciante pode exercer o direito de defesa (art. 128, II-III).</p>
+
+<h3>3. Chamamento ao processo (arts. 130-132)</h3>
+
+<p>É a intervenção provocada pelo réu, que traz ao processo os coobrigados solidários para que a sentença os vincule. Só é cabível nas hipóteses do art. 130: (i) do afiançado, na ação em que o fiador for réu; (ii) dos demais fiadores, quando o credor exigir de um ou alguns deles; (iii) dos demais devedores solidários, quando o credor exigir de um ou alguns deles.</p>
+
+<p>O chamado é integrado ao polo passivo como litisconsorte do réu original. A sentença condenatória valerá como título executivo contra todos os condenados, inclusive os chamados (art. 132). Isso amplia os sujeitos da condenação sem que o autor precise ajuizar ação autônoma contra os coobrigados.</p>
+
+<p>No âmbito da Fazenda Pública, o chamamento ao processo é utilizado quando o Estado é demandado solidariamente com outro ente (ex.: União, Estado e Município nas ações de saúde — o SUS é de responsabilidade solidária dos três entes, conforme entendimento do STF no Tema 793).</p>
+
+<h3>4. Incidente de desconsideração da personalidade jurídica (arts. 133-137)</h3>
+
+<p>Inovação do CPC/2015: criou um procedimento específico para a desconsideração da personalidade jurídica, garantindo contraditório prévio ao sócio ou à pessoa jurídica atingida. É cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução de título extrajudicial (art. 134). Também se aplica a desconsideração inversa — alcançar bens da pessoa jurídica para satisfazer dívida do sócio (art. 133, §2º).</p>
+
+<p>O incidente é instaurado a pedido da parte ou do Ministério Público (art. 133). Comunicado o requerimento, o sócio ou a pessoa jurídica será citado para se manifestar e requerer provas em 15 dias (art. 135). Acolhido o incidente, a obrigação se estende ao sócio ou à pessoa jurídica atingida (art. 137).</p>
+
+<p>Para a Fazenda Pública, o incidente tem relevância quando o Estado é credor (execução fiscal contra empresa que se dissolve irregularmente — pode requerer a desconsideração para alcançar o patrimônio dos sócios) ou quando o Estado é devedor em condenação judicial e o credor tenta atingir bens de autarquias ou fundações vinculadas.</p>
+
+<h3>5. Amicus curiae (art. 138)</h3>
+
+<p>O juiz ou relator pode admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, quando a causa envolva relevância da matéria, especificidade do tema objeto da demanda ou repercussão social da controvérsia (art. 138, caput). O amicus curiae pode ser admitido de ofício pelo juiz ou a requerimento das partes.</p>
+
+<p>O amicus curiae não é parte — não assume ônus, direitos nem deveres processuais típicos. Pode, porém: (i) manifestar-se nos autos (memoriais, pareceres); (ii) participar de audiência pública; (iii) opor embargos de declaração (art. 138, §1º). Não pode recorrer da decisão, exceto por embargos de declaração (art. 138, §1º) e da decisão que julgar o incidente de resolução de demandas repetitivas (art. 138, §3º).</p>
+
+<p>A decisão que admite ou inadmite o amicus curiae é irrecorrível (art. 138, caput, parte final). A PGE/RJ frequentemente atua como amicus curiae em julgamentos do STF e do STJ que envolvem temas de interesse do Estado do Rio de Janeiro.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos legais centrais</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 113-118:</strong> litisconsórcio. O art. 113 traz as hipóteses de litisconsórcio facultativo e o §1º autoriza a limitação do litisconsórcio multitudinário. O art. 114 define o litisconsórcio necessário. O art. 116 define o litisconsórcio unitário. O art. 117 estabelece a independência dos litisconsortes (regra do litisconsórcio simples) e a exceção para o unitário.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 115:</strong> consequências da ausência de litisconsorte necessário. Se o litisconsórcio for necessário e unitário: a sentença é nula se proferida sem a presença de todos os litisconsortes. Se o litisconsórcio for necessário e simples: a sentença é ineficaz em relação aos que não foram citados.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 119-124:</strong> assistência simples e litisconsorcial. O art. 123 traz a eficácia da intervenção do assistente simples — nos processos futuros, ele não pode discutir a justiça da decisão, salvo se provar que não pôde influenciar no resultado por culpa do assistido.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 125-129:</strong> denunciação da lide. O art. 125, §1º, aboliu a obrigatoriedade — a falta de denunciação não impede o exercício do direito de regresso. O art. 128 regula os efeitos da denunciação sobre a posição processual do denunciado.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 130-132:</strong> chamamento ao processo. O art. 132 é o mais relevante: a sentença condenatória vale como título executivo contra o réu original e contra os chamados.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 133-137:</strong> incidente de desconsideração da personalidade jurídica. O art. 134 prevê a instauração em qualquer fase processual. O art. 135 garante contraditório de 15 dias ao atingido.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 138:</strong> amicus curiae. Decisão de admissão é irrecorrível. Pode opor embargos de declaração. Não pode recorrer, salvo embargos de declaração e da decisão em IRDR.</p>
+
+<h3>Jurisprudência relevante</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 1.027.633/SP (Tema 940, Plenário, 2019):</strong> fixou a tese da "dupla garantia": a ação indenizatória por dano causado por agente público deve ser proposta contra o Estado (responsabilidade objetiva), não contra o agente diretamente. O agente só responde perante o Estado, em ação regressiva (demonstrado dolo ou culpa). A decisão impacta diretamente a questão da denunciação da lide: se o particular não pode acionar o agente diretamente, também não há interesse em denunciá-lo na ação contra o Estado.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência consolidada sobre denunciação da lide e responsabilidade do Estado:</strong> o STJ entende que a denunciação da lide ao agente público, em ação de responsabilidade objetiva do Estado, é inadmissível quando introduz fundamento novo (culpa/dolo do agente) que amplia indevidamente o objeto da lide principal. A Fazenda Pública deve exercer o direito de regresso em ação autônoma.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 793 (RE 855.178, Plenário, 2019):</strong> fixou que os entes federados são solidariamente responsáveis pelas ações e serviços de saúde, com competência concorrente para formular e executar políticas de saúde, cabendo ao autor a escolha de qual ente demandar. A decisão afeta o litisconsórcio nas ações de saúde: o autor pode demandar qualquer dos entes, e o demandado pode chamar ao processo os demais coobrigados solidários (art. 130, III).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 537:</strong> "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." A súmula ilustra o efeito prático da denunciação: o terceiro (seguradora) pode ser condenado diretamente, o que beneficia o autor da ação principal.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 631:</strong> "O indeferimento da assistência simples em processo civil não faz coisa julgada, de sorte que o terceiro pode buscar a intervenção na mesma demanda em outro momento processual." A indeferimento não impede nova tentativa, se demonstrado interesse jurídico superveniente ou não apreciado.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo litisconsórcio, internalizando as duas classificações independentes (facultativo/necessário e simples/unitário). A combinação mais importante para provas é a distinção entre necessário-unitário e necessário-simples, pois muitos candidatos confundem "necessário" com "unitário". Memorize o art. 115 (consequências da falta de litisconsorte necessário: nulidade se unitário, ineficácia se simples) — é um dos dispositivos mais cobrados.</p>
+
+<p>Na intervenção de terceiros, concentre-se nas cinco modalidades do CPC/2015, mas priorize a denunciação da lide (especialmente no contexto da responsabilidade civil do Estado) e o amicus curiae (inovação do CPC/2015 com alta probabilidade de cobrança). A assistência simples versus litisconsorcial é distinção conceitual que aparece com frequência em provas objetivas e discursivas.</p>
+
+<p>Para o contexto PGE/RJ, dois cenários merecem atenção especial: (i) a denunciação da lide ao agente público — saiba que o STJ a considera inadmissível em ações de responsabilidade objetiva; (ii) o litisconsórcio nas ações de saúde — saiba que o STF (Tema 793) firmou a solidariedade dos entes federados, permitindo ao autor escolher qual demandar. A interação entre esses precedentes e os institutos processuais deve ser demonstrada na prova discursiva.</p>
+
+<p>Quanto ao incidente de desconsideração da personalidade jurídica, estude os arts. 133-137 com foco na garantia do contraditório prévio (art. 135) — essa é a grande inovação do CPC/2015 em relação ao tratamento anterior, que permitia a desconsideração sem oitiva prévia do sócio. É uma mudança que a banca pode explorar ao perguntar sobre o devido processo legal na desconsideração.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Litisconsórcio necessário não é sinônimo de unitário:</strong> a confusão entre esses conceitos é o erro mais frequente do tema. Todo litisconsórcio necessário-unitário é obrigatório e uniforme, mas existe litisconsórcio necessário-simples (a presença de todos é obrigatória, mas a decisão pode ser diferente para cada um) e litisconsórcio facultativo-unitário (a presença não é obrigatória, mas, se formado, a decisão deve ser uniforme). Se a banca perguntar a consequência da falta de litisconsorte necessário, distinga: se unitário, a sentença é nula (art. 115, I); se simples, a sentença é ineficaz para os não citados (art. 115, II).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Denunciação da lide não é obrigatória no CPC/2015:</strong> o art. 125, §1º, expressamente prevê que o direito regressivo será exercido por ação autônoma quando não houver denunciação. Isso vale para todas as hipóteses, inclusive evicção. No CPC/1973, a denunciação era obrigatória para evicção (art. 70, I) — a mudança é significativa e frequentemente cobrada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Denunciação ao agente público — inadmissível na responsabilidade objetiva:</strong> candidatos que afirmam genericamente "a Fazenda Pública pode denunciar o agente" demonstram desconhecimento da jurisprudência consolidada. O STJ e o STF entendem que a denunciação introduz fundamento novo (culpa do agente) incompatível com a lide principal (responsabilidade objetiva). A Fazenda deve ajuizar ação regressiva autônoma. Fundamente com o Tema 940 do STF.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Amicus curiae — não é parte e não pode recorrer (em regra):</strong> o amicus curiae pode manifestar-se, participar de audiência pública e opor embargos de declaração. Mas não pode interpor recurso contra a decisão de mérito — exceto embargos de declaração e recurso contra decisão em IRDR (art. 138, §§1º e 3º). A decisão sobre admissão ou inadmissão do amicus é irrecorrível. Essas limitações são as mais cobradas em prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Chamamento ao processo — direito exclusivo do réu:</strong> diferente da denunciação (que pode ser feita por autor ou réu), o chamamento ao processo só pode ser requerido pelo réu (art. 131). É modalidade que amplia o polo passivo, trazendo coobrigados solidários. Na prática da Fazenda Pública, é relevante nas ações de saúde (chamar os demais entes federados solidários) e nas ações de fiança (chamar o afiançado).</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 1.027.633/SP (Tema 940, Plenário, ago. 2019):</strong> o Plenário fixou, por unanimidade, que "a teor do disposto no art. 37, §6º, da Constituição Federal, a ação por danos causados por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, sendo parte ilegítima para a ação o autor do ato, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa." É a tese da dupla garantia: garantia do particular (acionar o Estado, que tem maior capacidade econômica) e garantia do agente (não ser acionado diretamente). A decisão elimina a possibilidade de denunciação da lide ao agente pelo Estado — se o particular não pode acionar o agente, não há sentido em trazê-lo ao processo.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 855.178/SE (Tema 793, Plenário, 2019):</strong> fixou que "os entes da Federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro." A decisão afeta o chamamento ao processo: o ente demandado pode chamar os demais solidários, e o juiz pode redistribuir a obrigação conforme a competência administrativa.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 537 (2015):</strong> em ação de reparação de danos, a seguradora denunciada pode ser condenada direta e solidariamente com o segurado. Essa orientação do STJ é relevante porque demonstra que a denunciação da lide pode gerar condenação direta do denunciado em favor do autor — o que amplia a utilidade prática do instituto.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>REsp 1.809.486/RJ (2ª Turma, 2020):</strong> reafirmou que a denunciação da lide ao agente público em ação de responsabilidade objetiva do Estado introduz fundamento novo (culpa), incompatível com a lide principal. A Fazenda deve exercer o regresso em ação autônoma. Precedente específico sobre o Estado do Rio de Janeiro.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2022):</strong> o STF analisou diversos dispositivos do CPC/2015, incluindo aspectos do amicus curiae e da intervenção de terceiros. Confirmou que o amicus curiae não é parte, mas colaborador do juízo, e que sua participação não altera a competência nem os limites subjetivos da coisa julgada.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Litisconsórcio — classificações cruzadas</h3>
+
+<table>
+<tr>
+<th></th>
+<th>Simples (decisão pode ser diversa)</th>
+<th>Unitário (decisão deve ser uniforme)</th>
+</tr>
+<tr>
+<td><strong>Facultativo</strong></td>
+<td>O mais comum. Ex.: vários credores cobram dívidas conexas</td>
+<td>Ex.: sócios impugnando deliberação — não obrigatório, mas decisão uniforme</td>
+</tr>
+<tr>
+<td><strong>Necessário</strong></td>
+<td>Ex.: ação de demarcação com decisão potencialmente diversa para cada confrontante</td>
+<td>O mais cobrado. Ex.: usucapião, nulidade de casamento</td>
+</tr>
+</table>
+
+<h3>Consequências da ausência de litisconsorte necessário (art. 115)</h3>
+
+<table>
+<tr>
+<th>Tipo</th>
+<th>Consequência</th>
+<th>Fundamentação</th>
+</tr>
+<tr>
+<td><strong>Necessário unitário</strong></td>
+<td>Sentença nula</td>
+<td>Art. 115, I — a decisão deve ser uniforme, mas foi proferida sem todos os sujeitos</td>
+</tr>
+<tr>
+<td><strong>Necessário simples</strong></td>
+<td>Sentença ineficaz para os não citados</td>
+<td>Art. 115, II — a decisão não vincula quem não participou do processo</td>
+</tr>
+</table>
+
+<h3>Intervenção de terceiros — comparativo das cinco modalidades</h3>
+
+<table>
+<tr>
+<th>Modalidade</th>
+<th>Iniciativa</th>
+<th>Quem ingressa</th>
+<th>Momento</th>
+<th>Dispositivo</th>
+</tr>
+<tr>
+<td><strong>Assistência</strong></td>
+<td>Espontânea (terceiro pede)</td>
+<td>Terceiro com interesse jurídico</td>
+<td>Qualquer tempo e grau</td>
+<td>Arts. 119-124</td>
+</tr>
+<tr>
+<td><strong>Denunciação da lide</strong></td>
+<td>Provocada (autor ou réu)</td>
+<td>Garante/obrigado ao regresso</td>
+<td>Petição inicial ou contestação</td>
+<td>Arts. 125-129</td>
+</tr>
+<tr>
+<td><strong>Chamamento ao processo</strong></td>
+<td>Provocada (apenas réu)</td>
+<td>Coobrigados solidários</td>
+<td>Contestação</td>
+<td>Arts. 130-132</td>
+</tr>
+<tr>
+<td><strong>Desconsideração da PJ</strong></td>
+<td>A requerimento (parte ou MP)</td>
+<td>Sócio ou pessoa jurídica</td>
+<td>Qualquer fase</td>
+<td>Arts. 133-137</td>
+</tr>
+<tr>
+<td><strong>Amicus curiae</strong></td>
+<td>De ofício ou a requerimento</td>
+<td>Pessoa/órgão com representatividade</td>
+<td>Qualquer tempo (a critério do juiz)</td>
+<td>Art. 138</td>
+</tr>
+</table>
+
+<h3>Denunciação da lide ao agente público — síntese jurisprudencial</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Posição</th>
+<th>Fundamento</th>
+</tr>
+<tr>
+<td><strong>Ação direta contra agente</strong></td>
+<td>Inadmissível (STF, Tema 940)</td>
+<td>Dupla garantia — art. 37, §6º, CF</td>
+</tr>
+<tr>
+<td><strong>Denunciação ao agente</strong></td>
+<td>Inadmissível na responsabilidade objetiva (STJ)</td>
+<td>Introduz fundamento novo (culpa) — tumulto processual</td>
+</tr>
+<tr>
+<td><strong>Direito de regresso</strong></td>
+<td>Preservado — ação autônoma</td>
+<td>Art. 125, §1º, CPC + art. 37, §6º, CF</td>
+</tr>
+<tr>
+<td><strong>Obrigatoriedade</strong></td>
+<td>Inexistente no CPC/2015</td>
+<td>Art. 125, §1º — não denunciar não gera perda do regresso</td>
+</tr>
+</table>
