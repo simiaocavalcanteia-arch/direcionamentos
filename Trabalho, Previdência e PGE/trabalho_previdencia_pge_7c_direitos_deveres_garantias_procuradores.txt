@@ -109,7 +109,7 @@
 <table>
 <tr><th>Precedente</th><th>Conteúdo</th></tr>
 <tr><td>ADI 145/CE (STF)</td><td>As garantias institucionais do MP (vitaliciedade, inamovibilidade) <strong>não se estendem automaticamente</strong> aos Procuradores do Estado — são carreiras com regimes constitucionais distintos</td></tr>
-<tr><td>ADI 469/DF (STF)</td><td>Constitucionalidade de lei estadual que confere certas prerrogativas aos Procuradores, desde que compatíveis com a CF e que não reproduzam ipsis litteris as garantias do MP</td></tr>
+<tr><td>ADI 2.729/RN (STF, 2011)</td><td>Declarou <strong>inconstitucionais</strong> dispositivos de LC do RN que conferiam vitaliciedade e inamovibilidade a Procuradores do Estado, por reproduzirem garantias exclusivas do MP sem previsão constitucional para a advocacia pública</td></tr>
 <tr><td>RE 558.258 (STF, 2010)</td><td>Discutiu o teto remuneratório aplicável a procuradores autárquicos, reafirmando que a fixação de teto por decreto estadual deve observar os parâmetros constitucionais</td></tr>
 <tr><td>Tema 1.002 (STF, 2023)</td><td>Decidiu que são devidos honorários de sucumbência à Defensoria Pública quando litiga contra o ente público ao qual é vinculada, superando a Súmula 421/STJ</td></tr>
 <tr><td>ADI 6.022 (STF, 2020)</td><td>O STF reafirmou a <strong>unicidade da representação judicial</strong> nos Estados: a representação judicial e a consultoria jurídica da administração direta, autarquias e fundações estaduais compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de procuradorias paralelas</td></tr>

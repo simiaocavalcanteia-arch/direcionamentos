@@ -180,7 +180,7 @@
 <table>
 <tr><th>Critério</th><th>Determina-se por</th><th>Natureza</th><th>Exemplos</th></tr>
 <tr><td><strong>Material</strong></td><td>Natureza da causa</td><td>Absoluta</td><td>Vara cível, vara de família, vara de fazenda pública, vara empresarial</td></tr>
-<tr><td><strong>Territorial</strong></td><td>Localização geográfica</td><td>Relativa (regra) / Absoluta (ações reais imobiliárias do art. 47, §1º)</td><td>Domicílio do réu (art. 46), local do imóvel (art. 47), local do dano (art. 53, IV-A)</td></tr>
+<tr><td><strong>Territorial</strong></td><td>Localização geográfica</td><td>Relativa (regra) / Absoluta (ações reais imobiliárias do art. 47, §1º)</td><td>Domicílio do réu (art. 46), local do imóvel (art. 47), local do dano (art. 53, IV, "a")</td></tr>
 <tr><td><strong>Funcional</strong></td><td>Função no processo</td><td>Absoluta</td><td>Primeiro grau vs. tribunal; relator vs. turma; juízo de execução</td></tr>
 <tr><td><strong>Pessoal</strong></td><td>Qualidade da parte</td><td>Absoluta</td><td>Justiça Federal (União, autarquias, EPs federais); varas de fazenda pública</td></tr>
 <tr><td><strong>Valor da causa</strong></td><td>Valor atribuído</td><td>Variável</td><td>Juizados Especiais (até 60 SM); Juizados da Fazenda (até 60 SM)</td></tr>

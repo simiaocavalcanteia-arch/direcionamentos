@@ -164,7 +164,7 @@
 
 <p><span class="tag tag-stj">STJ</span> <strong>REsp 1.809.486/RJ (2ª Turma, 2020):</strong> reafirmou que a denunciação da lide ao agente público em ação de responsabilidade objetiva do Estado introduz fundamento novo (culpa), incompatível com a lide principal. A Fazenda deve exercer o regresso em ação autônoma. Precedente específico sobre o Estado do Rio de Janeiro.</p>
 
-<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2022):</strong> o STF analisou diversos dispositivos do CPC/2015, incluindo aspectos do amicus curiae e da intervenção de terceiros. Confirmou que o amicus curiae não é parte, mas colaborador do juízo, e que sua participação não altera a competência nem os limites subjetivos da coisa julgada.</p>
+<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2023):</strong> o STF analisou diversos dispositivos do CPC/2015, incluindo aspectos do amicus curiae e da intervenção de terceiros. Confirmou que o amicus curiae não é parte, mas colaborador do juízo, e que sua participação não altera a competência nem os limites subjetivos da coisa julgada.</p>
 
 <h2>Quadros Esquemáticos</h2>
 

@@ -130,7 +130,7 @@
 
 <p><span class="tag tag-lei">CF</span> <strong>Art. 37, §6º:</strong> responsabilidade objetiva do Estado por atos de seus agentes. Fundamenta a responsabilidade do Estado por atos judiciais, com direito de regresso contra o juiz se demonstrado dolo ou fraude.</p>
 
-<p><span class="tag tag-lei">LOMAN</span> <strong>Lei Complementar 35/1979, art. 133:</strong> garante que os magistrados não são responsáveis pelos seus atos jurisdicionais, exceto nos casos de dolo ou fraude. Complementa o art. 143 do CPC.</p>
+<p><span class="tag tag-lei">LOMAN</span> <strong>Lei Complementar 35/1979, art. 49:</strong> prevê que o magistrado responderá por perdas e danos quando, no exercício de suas funções, proceder com dolo ou fraude, ou quando recusar, omitir ou retardar providência sem justo motivo. Complementa o art. 143 do CPC.</p>
 
 <h3>Jurisprudência relevante</h3>
 

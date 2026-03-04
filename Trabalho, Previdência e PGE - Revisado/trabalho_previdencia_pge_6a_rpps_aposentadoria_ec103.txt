@@ -28,7 +28,7 @@
 
 <p>A EC 103/2019 estabeleceu novas regras permanentes no art. 40, §1º, da CF, aplicáveis diretamente à União. Para os Estados, Distrito Federal e Municípios, a EC determinou que a idade mínima seria fixada mediante emenda às respectivas Constituições e Leis Orgânicas, observando-se o tempo de contribuição e os demais requisitos em lei complementar. As modalidades de aposentadoria previstas são:</p>
 
-<p><strong>Aposentadoria voluntária (art. 40, §1º, III):</strong> exige idade mínima de 62 anos (mulher) e 65 anos (homem), com tempo mínimo de contribuição de 25 anos, sendo no mínimo 10 anos de efetivo exercício no serviço público e 5 anos no cargo efetivo em que se der a aposentadoria. Os proventos são calculados com base na média de todos os salários de contribuição (sem exclusão das menores), correspondendo a 60% dessa média + 2% por ano que exceder 20 anos de tempo de contribuição.</p>
+<p><strong>Aposentadoria voluntária (art. 40, §1º, III):</strong> exige idade mínima de 62 anos (mulher) e 65 anos (homem), com tempo mínimo de contribuição de 25 anos, sendo no mínimo 10 anos de efetivo exercício no serviço público e 5 anos no cargo efetivo em que se der a aposentadoria. Os proventos são calculados com base na média de todos os salários de contribuição (sem exclusão das menores), correspondendo a 60% dessa média + 2% por ano que exceder 20 anos de tempo de contribuição (homem) ou 15 anos (mulher).</p>
 
 <p><strong>Aposentadoria compulsória (art. 40, §1º, II):</strong> aos 75 anos de idade, com proventos proporcionais ao tempo de contribuição (LC 152/2015). O STF analisa a obrigatoriedade dessa aposentadoria e sua compatibilidade com os princípios da dignidade e eficiência (ARE 1.309.642).</p>
 
@@ -48,17 +48,17 @@
 
 <table>
 <tr><th>Regra de transição</th><th>Requisitos</th><th>Integralidade/Paridade</th></tr>
-<tr><td><strong>Pontos progressivos</strong> (art. 4º da EC 103)</td><td>Mulher: 56 anos de idade + 30 de contribuição + 86 pontos (idade + TC), com acréscimo de 1 ponto/ano até 100. Homem: 61 anos + 35 de contribuição + 96 pontos, até 105. Mínimo 20 anos no serviço público e 5 no cargo</td><td>Não há integralidade nem paridade. Cálculo pela média</td></tr>
+<tr><td><strong>Pontos progressivos</strong> (art. 4º da EC 103)</td><td>Mulher: 57 anos de idade (desde 2022) + 30 de contribuição + pontos progressivos (86 em 2019, +1/ano, limite 100). Homem: 62 anos (desde 2022) + 35 de contribuição + pontos progressivos (96 em 2019, +1/ano, limite 105). Mínimo 20 anos no serviço público e 5 no cargo</td><td>Regra geral: cálculo pela média. <strong>Exceção (§§6º-7º):</strong> se ingressou até 31/12/2003 E atingir 62/65 anos (M/H), tem integralidade e paridade</td></tr>
 <tr><td><strong>Pedágio de 100%</strong> (art. 20, §2º, da EC 103)</td><td>Mulher: 57 anos de idade + 30 de contribuição + pedágio de 100% do tempo que faltava em 13/11/2019. Homem: 60 anos + 35 de contribuição + pedágio de 100%. Mínimo 20 anos no serviço público e 5 no cargo</td><td><strong>Se ingressou até 31/12/2003:</strong> integralidade e paridade asseguradas. Se ingressou após: cálculo pela média</td></tr>
 </table>
 
 <div class="destaque">
-<p><strong>A regra do pedágio de 100% é a única que preserva integralidade e paridade</strong> para quem ingressou no serviço público até 31/12/2003. Essa é uma informação de alta importância para a prova — as demais regras de transição calculam os proventos pela média, sem paridade com a ativa.</p>
+<p><strong>Duas regras de transição preservam integralidade e paridade</strong> para quem ingressou no serviço público até 31/12/2003 (e não optou pela previdência complementar): (i) a regra do pedágio de 100% (art. 20, §2º), com idades de 57/60 (M/H); e (ii) a regra de pontos progressivos (art. 4º, §§6º-7º), com idades mais elevadas de 62/65 (M/H). As demais regras de transição calculam os proventos pela média, sem paridade com a ativa.</p>
 </div>
 
 <h3>Cálculo dos proventos — fórmula da EC 103/2019</h3>
 
-<p>Para quem não tem direito à integralidade, os proventos são calculados da seguinte forma: (i) apura-se a média de todos os salários de contribuição ao longo da vida contributiva do servidor (sem exclusão das 20% menores contribuições, como era antes); (ii) aplica-se o coeficiente de 60% + 2% por ano de contribuição que exceder 20 anos de tempo de contribuição. Assim, com 20 anos de contribuição, o servidor recebe 60% da média; com 25 anos, 70%; com 30 anos, 80%; com 35 anos, 90%; com 40 anos, 100%.</p>
+<p>Para quem não tem direito à integralidade, os proventos são calculados da seguinte forma: (i) apura-se a média de todos os salários de contribuição ao longo da vida contributiva do servidor (sem exclusão das 20% menores contribuições, como era antes); (ii) aplica-se o coeficiente de 60% + 2% por ano de contribuição que exceder 20 anos de tempo de contribuição (homem) ou 15 anos (mulher). Assim, um servidor homem com 20 anos de contribuição recebe 60% da média; com 25 anos, 70%; com 30 anos, 80%; com 35 anos, 90%; com 40 anos, 100%. Para uma servidora mulher, o acréscimo começa mais cedo: com 15 anos recebe 60%; com 20 anos, 70%; com 25 anos, 80%; com 30 anos, 90%; com 35 anos, 100%.</p>
 
 <p>O resultado não pode exceder a remuneração do cargo efetivo nem o teto do RGPS (para quem aderiu à previdência complementar). Pode, contudo, ser inferior ao salário mínimo (caso raro, pois há garantia constitucional do piso).</p>
 
@@ -109,7 +109,7 @@
 
 <h2>Estratégia de Estudo</h2>
 
-<p>Comece pela leitura do art. 40 da CF na redação atual (EC 103/2019), identificando as três modalidades de aposentadoria e seus requisitos. Em seguida, estude os arts. 4º e 20 da EC 103/2019, que contêm as regras de transição mais relevantes. A regra do pedágio de 100% merece atenção especial, pois é a única que preserva integralidade e paridade para ingressantes até 31/12/2003.</p>
+<p>Comece pela leitura do art. 40 da CF na redação atual (EC 103/2019), identificando as três modalidades de aposentadoria e seus requisitos. Em seguida, estude os arts. 4º e 20 da EC 103/2019, que contêm as regras de transição mais relevantes. As regras do pedágio de 100% e de pontos progressivos com idades de 62/65 (art. 4º, §§6º-7º) merecem atenção especial, pois são as duas que preservam integralidade e paridade para ingressantes até 31/12/2003.</p>
 
 <p>Na parte de cálculo dos proventos, domine a fórmula "60% + 2% por ano excedente a 20 de contribuição". Faça exercícios: com 25 anos de contribuição, o servidor recebe 70% da média; com 30 anos, 80%; com 35 anos, 90%. Essa fórmula é cobrada em provas tanto objetivas quanto discursivas.</p>
 
@@ -122,7 +122,7 @@
 </div>
 
 <div class="atencao">
-<p><strong>Integralidade e paridade — só no pedágio de 100% (para quem entrou até 31/12/2003):</strong> é erro frequente afirmar que toda regra de transição preserva integralidade e paridade. Apenas a regra do pedágio de 100% (art. 20, §2º) garante esses direitos, e somente para servidores que ingressaram no serviço público até 31/12/2003. As demais regras de transição calculam os proventos pela média e não garantem paridade.</p>
+<p><strong>Integralidade e paridade — apenas em duas regras de transição (para quem entrou até 31/12/2003):</strong> é erro frequente afirmar que toda regra de transição preserva integralidade e paridade. Na EC 103/2019, apenas duas regras o fazem: (i) o pedágio de 100% (art. 20, §2º), com idades de 57/60 (M/H); e (ii) a regra de pontos progressivos para quem atinge 62/65 anos (art. 4º, §§6º-7º). Em ambas, é necessário ingresso até 31/12/2003 e não adesão à previdência complementar. A regra de pontos sem o atingimento dessas idades mais elevadas calcula pela média, sem paridade.</p>
 </div>
 
 <div class="atencao">
@@ -178,7 +178,7 @@
 
 <table>
 <tr><th>Regra</th><th>Artigo</th><th>Idade</th><th>TC</th><th>Diferencial</th><th>Integralidade/Paridade</th></tr>
-<tr><td>Pontos progressivos</td><td>Art. 4º</td><td>56/61 (M/H)</td><td>30/35</td><td>86/96 pontos (+1/ano até 100/105)</td><td>Não</td></tr>
+<tr><td>Pontos progressivos</td><td>Art. 4º</td><td>57/62 (M/H) desde 2022</td><td>30/35</td><td>86/96 pontos (+1/ano até 100/105)</td><td>Não</td></tr>
 <tr><td>Pedágio 100%</td><td>Art. 20, §2º</td><td>57/60 (M/H)</td><td>30/35</td><td>Pedágio = 100% do tempo faltante em 13/11/2019</td><td>Sim (se ingresso até 31/12/2003)</td></tr>
 </table>
 

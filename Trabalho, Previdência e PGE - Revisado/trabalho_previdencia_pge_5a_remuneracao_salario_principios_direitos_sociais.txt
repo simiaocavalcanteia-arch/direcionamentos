@@ -160,7 +160,7 @@ strong { font-weight: 700; }
 <tr><td><strong>Súmula 354/TST</strong></td><td>Gorjetas não servem de base de cálculo para aviso prévio, adicional noturno, horas extras e RSR.</td></tr>
 <tr><td><strong>Súmula 91/TST</strong></td><td>Nula a cláusula contratual que fixa o salário complessivo (que engloba parcelas distintas sem discriminar cada uma).</td></tr>
 <tr><td><strong>Súmula 241/TST</strong></td><td>O vale-refeição fornecido por força de PAT não tem natureza salarial e não integra a remuneração.</td></tr>
-<tr><td><strong>Súmula 339/TST</strong></td><td>O adicional de periculosidade incide apenas sobre o salário-base, e não sobre outros adicionais.</td></tr>
+<tr><td><strong>Súmula 191/TST</strong></td><td>O adicional de periculosidade incide apenas sobre o salário-base, e não sobre este acrescido de outros adicionais.</td></tr>
 <tr><td><strong>SV 15/STF</strong></td><td>O cálculo de gratificações e outras vantagens de servidor público não incide sobre o abono utilizado para se atingir o salário mínimo.</td></tr>
 <tr><td><strong>SV 16/STF</strong></td><td>Os arts. 7º, IV, e 39, § 3º, da CF referem-se ao total da remuneração do servidor.</td></tr>
 </table>

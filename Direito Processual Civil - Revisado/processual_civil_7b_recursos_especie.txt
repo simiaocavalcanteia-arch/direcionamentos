@@ -26,7 +26,7 @@
 
 <h3>Agravo de instrumento (arts. 1.015-1.020)</h3>
 
-<p>O agravo de instrumento impugna decisões interlocutórias. O art. 1.015 lista as hipóteses de cabimento: (I) tutelas provisórias; (II) mérito do processo; (III) rejeição de alegação de convenção de arbitragem; (IV) incidente de desconsideração da personalidade jurídica; (V) rejeição do pedido de gratuidade ou acolhimento do pedido de revogação; (VI) exibição ou posse de documento ou coisa; (VII) exclusão de litisconsorte; (VIII) rejeição do pedido de limitação do litisconsórcio; (IX) admissão ou inadmissão de intervenção de terceiros; (X) concessão, modificação ou revogação de efeito suspensivo aos embargos à execução; (XI) redistribuição do ônus da prova nos termos do art. 373, §1º; (XII) outros casos expressamente referidos em lei; (XIII) versarem sobre provisão de alimentos. O parágrafo único estende o cabimento a todas as decisões interlocutórias proferidas em liquidação, cumprimento de sentença, execução e inventário.</p>
+<p>O agravo de instrumento impugna decisões interlocutórias. O art. 1.015 lista as hipóteses de cabimento: (I) tutelas provisórias; (II) mérito do processo; (III) rejeição de alegação de convenção de arbitragem; (IV) incidente de desconsideração da personalidade jurídica; (V) rejeição do pedido de gratuidade ou acolhimento do pedido de revogação; (VI) exibição ou posse de documento ou coisa; (VII) exclusão de litisconsorte; (VIII) rejeição do pedido de limitação do litisconsórcio; (IX) admissão ou inadmissão de intervenção de terceiros; (X) concessão, modificação ou revogação de efeito suspensivo aos embargos à execução; (XI) redistribuição do ônus da prova nos termos do art. 373, §1º; (XII) (vetado); (XIII) outros casos expressamente referidos em lei. O parágrafo único estende o cabimento a todas as decisões interlocutórias proferidas em liquidação, cumprimento de sentença, execução e inventário.</p>
 
 <div class="destaque">
 <p><strong>Taxatividade mitigada (Tema 988/STJ):</strong> o STJ fixou que o rol do art. 1.015 é de taxatividade mitigada — admite-se agravo de instrumento mesmo fora das hipóteses listadas, quando houver urgência decorrente da inutilidade do julgamento da questão apenas na apelação. O critério é duplo: (i) a questão deve ser relevante e passível de causar prejuízo irreparável; (ii) aguardar a apelação tornaria inútil a decisão sobre o tema. Essa tese expandiu significativamente o cabimento do agravo e é diretamente aplicável à advocacia pública.</p>
@@ -66,7 +66,7 @@
 
 <p><span class="tag tag-lei">CPC</span> <strong>Art. 1.013, §§3º e 4º</strong> — teoria da causa madura. Tribunal julga mérito diretamente ao reformar sentença terminativa ou que reconheça prescrição/decadência.</p>
 
-<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.015</strong> — hipóteses de cabimento do agravo de instrumento. 13 incisos + parágrafo único (liquidação, cumprimento, execução, inventário).</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.015</strong> — hipóteses de cabimento do agravo de instrumento. 13 incisos (XII vetado) + parágrafo único (liquidação, cumprimento, execução, inventário).</p>
 
 <p><span class="tag tag-lei">CPC</span> <strong>Art. 1.021</strong> — agravo interno. §4º: multa de 1% a 5% se manifestamente inadmissível ou improcedente por unanimidade.</p>
 

@@ -167,7 +167,7 @@
 <table>
 <tr><th>Instrumento</th><th>Fundamento</th><th>Requisitos/Condições</th></tr>
 <tr><td>Universalidade patrimonial</td><td>Art. 184 do CTN</td><td>Todos os bens respondem, inclusive os gravados</td></tr>
-<tr><td>Presunção de fraude</td><td>Art. 185 do CTN</td><td>Alienação após inscrição em DA; presunção <em>juris tantum</em></td></tr>
+<tr><td>Presunção de fraude</td><td>Art. 185 do CTN</td><td>Alienação após inscrição em DA; presunção absoluta (<em>juris et de jure</em>) — Tema 290/STJ</td></tr>
 <tr><td>Indisponibilidade de bens</td><td>Art. 185-A do CTN</td><td>Devedor citado que não paga/nomeia bens + esgotamento de diligências (Súmula 560/STJ)</td></tr>
 <tr><td>Presunção de certeza e liquidez da CDA</td><td>Art. 204 do CTN</td><td>CDA é título executivo extrajudicial</td></tr>
 <tr><td>Execução fiscal autônoma</td><td>Art. 187 do CTN + LEF</td><td>Não sujeita a concurso de credores</td></tr>

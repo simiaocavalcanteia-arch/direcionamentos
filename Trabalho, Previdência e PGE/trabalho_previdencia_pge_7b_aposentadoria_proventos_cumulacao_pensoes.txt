@@ -67,11 +67,11 @@
 <p>A EC 103/2019 trouxe regra nova e restritiva sobre a cumulação de <strong>benefícios previdenciários</strong> (aposentadoria + pensão por morte). Quando admitida a acumulação, o beneficiário receberá integralmente o benefício de maior valor e, do outro, apenas uma fração conforme faixas:</p>
 
 <ul>
-<li>60% da parcela que não ultrapasse 1 salário mínimo;</li>
-<li>40% da parcela entre 1 e 2 salários mínimos;</li>
-<li>20% da parcela entre 2 e 3 salários mínimos;</li>
-<li>10% da parcela entre 3 e 4 salários mínimos;</li>
-<li>0% acima de 4 salários mínimos.</li>
+<li>100% da parcela até 1 salário mínimo (implícito);</li>
+<li>60% da parcela que exceder 1 salário mínimo, até 2 salários mínimos;</li>
+<li>40% da parcela que exceder 2 salários mínimos, até 3 salários mínimos;</li>
+<li>20% da parcela que exceder 3 salários mínimos, até 4 salários mínimos;</li>
+<li>10% da parcela que exceder 4 salários mínimos.</li>
 </ul>
 
 <p>Essa regra tem <strong>eficácia imediata</strong>, aplicando-se inclusive a benefícios concedidos antes da EC 103/2019 (posição do governo federal sustentada nas ADIs 6.254 e 6.255, ainda pendentes de julgamento definitivo pelo STF).</p>
@@ -195,11 +195,11 @@
 
 <table>
 <tr><th>Faixa de Valor (benefício menor)</th><th>Percentual Recebido</th></tr>
-<tr><td>Até 1 salário mínimo</td><td>60%</td></tr>
-<tr><td>De 1 a 2 salários mínimos</td><td>40%</td></tr>
-<tr><td>De 2 a 3 salários mínimos</td><td>20%</td></tr>
-<tr><td>De 3 a 4 salários mínimos</td><td>10%</td></tr>
-<tr><td>Acima de 4 salários mínimos</td><td>0%</td></tr>
+<tr><td>Até 1 salário mínimo</td><td>100% (implícito)</td></tr>
+<tr><td>De 1 a 2 salários mínimos</td><td>60%</td></tr>
+<tr><td>De 2 a 3 salários mínimos</td><td>40%</td></tr>
+<tr><td>De 3 a 4 salários mínimos</td><td>20%</td></tr>
+<tr><td>Acima de 4 salários mínimos</td><td>10%</td></tr>
 </table>
 
 </div>

@@ -162,7 +162,7 @@
 
 <p><span class="tag tag-stj">STJ</span> <strong>Tema 988 e negócios processuais:</strong> embora o Tema 988 verse sobre agravo de instrumento, há conexão relevante: se as partes celebram negócio processual (art. 190) renunciando ao direito de recorrer de determinadas decisões, essa convenção é válida e limita a recorribilidade. O STJ tem admitido a eficácia dos negócios processuais, desde que não violem direitos indisponíveis nem a ordem pública processual.</p>
 
-<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2022):</strong> o STF examinou diversos dispositivos do CPC/2015, confirmando a constitucionalidade dos negócios jurídicos processuais (art. 190) e da contagem em dias úteis (art. 219). Decidiu que a contagem em dias úteis não viola o princípio da razoável duração do processo, pois visa assegurar tempo adequado para a prática dos atos processuais.</p>
+<p><span class="tag tag-stf">STF</span> <strong>ADI 5.492 (Plenário, 2023):</strong> o STF examinou diversos dispositivos do CPC/2015, confirmando a constitucionalidade dos negócios jurídicos processuais (art. 190) e da contagem em dias úteis (art. 219). Decidiu que a contagem em dias úteis não viola o princípio da razoável duração do processo, pois visa assegurar tempo adequado para a prática dos atos processuais.</p>
 
 <h2>Quadros Esquemáticos</h2>
 

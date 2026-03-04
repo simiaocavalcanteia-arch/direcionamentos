@@ -106,7 +106,7 @@
 
 <h3>ADC 80/STF (2025) — hipossuficiência e justiça gratuita trabalhista</h3>
 
-<p>Em julgamento iniciado em junho de 2025, o STF discute o grau de comprovação necessário para a declaração de hipossuficiência e a concessão de justiça gratuita na Justiça do Trabalho. O relator, Min. Edson Fachin, votou pela constitucionalidade das alterações da reforma trabalhista quanto aos critérios de comprovação (art. 790, §§3º e 4º, CLT). Julgamento suspenso, sem definição final.</p>
+<p>Em julgamento iniciado em junho de 2025, o STF discute o grau de comprovação necessário para a declaração de hipossuficiência e a concessão de justiça gratuita na Justiça do Trabalho. O relator, Min. Edson Fachin, votou pela constitucionalidade dos dispositivos da reforma trabalhista (art. 790, §§3º e 4º, CLT), mas com interpretação conforme à Constituição para admitir a autodeclaração de hipossuficiência como meio válido de comprovação, salvo impugnação fundamentada pela parte contrária. Julgamento suspenso após pedido de vista, sem definição final.</p>
 
 <h3>ADPF 324 e RE 958.252 (Tema 725/STF) — terceirização</h3>
 

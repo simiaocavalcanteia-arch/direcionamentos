@@ -147,7 +147,7 @@
 <h3>Decisões recentes e temas pendentes (2024-2025)</h3>
 
 <div class="destaque">
-<strong>Tema 1.349/STJ (afetado, pendente de julgamento):</strong> discute se é obrigatória a instauração do incidente de desconsideração da personalidade jurídica (IDPJ) na execução fiscal para o redirecionamento fundado no art. 135 do CTN. A 2ª Turma tem decidido que o IDPJ é desnecessário, pois a responsabilidade tributária decorre diretamente de lei. Já a 1ª Turma havia sinalizado em sentido contrário em algumas decisões. O julgamento pelo rito repetitivo trará uniformização definitiva — e o resultado terá impacto direto na atuação da PGE/RJ em execuções fiscais.
+<strong>Tema 1.209/STJ:</strong> discute se é obrigatória a instauração do incidente de desconsideração da personalidade jurídica (IDPJ) na execução fiscal para o redirecionamento fundado no art. 135 do CTN. A 2ª Turma tem decidido que o IDPJ é desnecessário, pois a responsabilidade tributária decorre diretamente de lei. Já a 1ª Turma havia sinalizado em sentido contrário em algumas decisões. O julgamento pelo rito repetitivo trará uniformização definitiva — e o resultado terá impacto direto na atuação da PGE/RJ em execuções fiscais.
 </div>
 
 <p><strong>STJ — responsabilidade tributária e dissolução irregular (2024):</strong> a Corte tem refinado os critérios para aplicação dos Temas 962 e 981, exigindo prova efetiva da dissolução irregular (certidão do oficial de justiça constatando o não funcionamento no endereço, por exemplo) e delimitando a responsabilidade pessoal do sócio-administrador que efetivamente detinha poderes de gestão no momento da dissolução.</p>

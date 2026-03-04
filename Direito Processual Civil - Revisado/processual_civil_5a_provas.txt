@@ -44,7 +44,7 @@
 
 <p><strong>Ata notarial (art. 384)</strong> — novidade do CPC/2015. A requerimento do interessado, o tabelião pode atestar a existência ou o modo de existir de algum fato, inclusive com dados de páginas eletrônicas. É especialmente útil para a Fazenda Pública na preservação de provas digitais (publicações em redes sociais, sites, mensagens), conferindo fé pública ao conteúdo documentado.</p>
 
-<p><strong>Depoimento pessoal e confissão</strong> — o depoimento pessoal (art. 385) é requerido pela parte contrária para obter a confissão ou esclarecer fatos. A parte que, intimada pessoalmente, não comparecer ou se recusar a depor, sofre a pena de confesso (art. 385, §1º). A confissão pode ser judicial ou extrajudicial, espontânea ou provocada. Tratando-se de direitos indisponíveis — situação frequente na advocacia pública —, a confissão não produz o efeito de tornar incontroverso o fato (art. 392 do CPC). Quando versar sobre direitos indisponíveis, a confissão será ineficaz como mecanismo de dispensa de prova (art. 392, §2º, do CPC).</p>
+<p><strong>Depoimento pessoal e confissão</strong> — o depoimento pessoal (art. 385) é requerido pela parte contrária para obter a confissão ou esclarecer fatos. A parte que, intimada pessoalmente, não comparecer ou se recusar a depor, sofre a pena de confesso (art. 385, §1º). A confissão pode ser judicial ou extrajudicial, espontânea ou provocada. Tratando-se de direitos indisponíveis — situação frequente na advocacia pública —, a confissão não produz o efeito de tornar incontroverso o fato (art. 392 do CPC). Quando versar sobre direitos indisponíveis, a confissão será ineficaz como mecanismo de dispensa de prova (art. 392, caput, do CPC).</p>
 
 <p><strong>Prova documental</strong> — deve ser apresentada com a petição inicial ou contestação (arts. 434-435), salvo documentos novos (fatos supervenientes, para contrapor documentos da outra parte, ou cuja existência era desconhecida). A impugnação de documentos segue procedimento próprio: arguição de falsidade (arts. 430-433). Os documentos públicos fazem prova de sua formação e dos fatos atestados pelo servidor (art. 405), gerando presunção de veracidade que favorece diretamente a Fazenda.</p>
 
@@ -64,7 +64,7 @@
 
 <p>A Constituição Federal (art. 5º, LVI) estabelece que "são inadmissíveis, no processo, as provas obtidas por meios ilícitos". Esse princípio se aplica ao processo civil com a mesma força que no processo penal, embora a jurisprudência admita certa flexibilização em situações excepcionais (proporcionalidade <em>pro reo</em> no processo penal; no civil, a questão é mais controversa).</p>
 
-<p>A <strong>teoria dos frutos da árvore envenenada</strong> (<em>fruit of the poisonous tree</em>) determina que as provas derivadas de uma prova ilícita também são contaminadas. O STJ reafirmou esse entendimento no HC 921.136/PE (6ª Turma). As exceções reconhecidas pela jurisprudência são: (i) <strong>fonte independente</strong> — a prova derivada foi obtida por meio autônomo, sem relação causal com a prova ilícita originária; e (ii) <strong>descoberta inevitável</strong> — demonstra-se que a prova seria encontrada por meios lícitos no curso normal da investigação.</p>
+<p>A <strong>teoria dos frutos da árvore envenenada</strong> (<em>fruit of the poisonous tree</em>) determina que as provas derivadas de uma prova ilícita também são contaminadas. O STJ reafirmou esse entendimento em diversos julgados da 5ª e 6ª Turmas. As exceções reconhecidas pela jurisprudência são: (i) <strong>fonte independente</strong> — a prova derivada foi obtida por meio autônomo, sem relação causal com a prova ilícita originária; e (ii) <strong>descoberta inevitável</strong> — demonstra-se que a prova seria encontrada por meios lícitos no curso normal da investigação.</p>
 
 <h2>Legislação e Jurisprudência Essencial</h2>
 
@@ -136,7 +136,7 @@
 
 <p><span class="tag tag-stf">STF</span> <strong>RE 466.343/SP</strong> — embora voltado à prisão civil, este julgado é relevante pelo raciocínio probatório envolvido: o STF reafirmou a vedação de meios coercitivos para obtenção de provas quando violarem garantias constitucionais. A prova obtida por meios ilícitos é inadmissível (art. 5º, LVI).</p>
 
-<p><span class="tag tag-stj">STJ</span> <strong>HC 921.136/PE (6ª Turma)</strong> — reafirmou a teoria dos frutos da árvore envenenada: provas derivadas de prova ilícita são igualmente inadmissíveis. Reconheceu as exceções da fonte independente e da descoberta inevitável como limites à contaminação.</p>
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência consolidada da 5ª e 6ª Turmas</strong> — o STJ reafirma a teoria dos frutos da árvore envenenada: provas derivadas de prova ilícita são igualmente inadmissíveis. Reconhece as exceções da fonte independente e da descoberta inevitável como limites à contaminação.</p>
 
 <h3>Decisões recentes (2024-2025)</h3>
 

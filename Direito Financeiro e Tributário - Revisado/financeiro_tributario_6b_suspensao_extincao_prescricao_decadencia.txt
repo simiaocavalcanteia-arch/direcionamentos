@@ -73,7 +73,7 @@
 
 <p><strong>Causas de interrupção (art. 174, parágrafo único):</strong> (I) despacho do juiz que ordena a citação em execução fiscal (após LC 118/2005 — antes era a citação pessoal); (II) protesto judicial; (III) qualquer ato judicial que constitua em mora o devedor; (IV) qualquer ato inequívoco que importe em reconhecimento do débito pelo devedor (confissão de dívida, pedido de parcelamento).</p>
 
-<p><strong>Prescrição intercorrente:</strong> ocorre durante o curso da execução fiscal, quando o feito fica paralisado por mais de cinco anos sem impulso efetivo. O art. 40 da LEF (Lei 6.830/80) prevê a suspensão do processo por um ano quando não encontrado o devedor ou bens; após esse ano, inicia-se automaticamente o prazo prescricional de cinco anos. O STF declarou constitucional esse regime (Tema 390, RE 636.562, 2020).</p>
+<p><strong>Prescrição intercorrente:</strong> ocorre durante o curso da execução fiscal, quando o feito fica paralisado por mais de cinco anos sem impulso efetivo. O art. 40 da LEF (Lei 6.830/80) prevê a suspensão do processo por um ano quando não encontrado o devedor ou bens; após esse ano, inicia-se automaticamente o prazo prescricional de cinco anos. O STF declarou constitucional esse regime (Tema 390, RE 636.562, 2023).</p>
 
 <!-- ========== SEÇÃO 3 ========== -->
 <h2>Legislação e Jurisprudência Essencial</h2>
@@ -101,9 +101,9 @@
 
 <p><strong>Súmula 555/STJ:</strong> "Quando não houver declaração do débito, o prazo decadencial quinquenal para o Fisco constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN." Pacifica a contagem de decadência nos tributos por homologação em que o contribuinte não entregou a declaração.</p>
 
-<p><strong>Tema 390/STF (RE 636.562, 2020):</strong> declarou constitucional o regime de prescrição intercorrente do art. 40 da LEF, fixando que, após um ano de suspensão, o prazo prescricional de cinco anos flui automaticamente, independentemente de intimação da Fazenda.</p>
+<p><strong>Tema 390/STF (RE 636.562, 2023):</strong> declarou constitucional o regime de prescrição intercorrente do art. 40 da LEF, fixando que, após um ano de suspensão, o prazo prescricional de cinco anos flui automaticamente, independentemente de intimação da Fazenda.</p>
 
-<p><strong>Tema 444/STJ (REsp 1.340.553, 2018):</strong> sistematizou a prescrição intercorrente na execução fiscal. Estabeleceu que: (i) o prazo de 1 ano de suspensão do art. 40 da LEF tem início automático quando não localizados bens ou o devedor; (ii) findo o ano de suspensão, inicia-se o prazo prescricional de 5 anos; (iii) o reconhecimento da prescrição intercorrente independe de prévia oitiva da Fazenda.</p>
+<p><strong>Tema 566/STJ (REsp 1.340.553, 2018):</strong> sistematizou a prescrição intercorrente na execução fiscal. Estabeleceu que: (i) o prazo de 1 ano de suspensão do art. 40 da LEF tem início automático quando não localizados bens ou o devedor; (ii) findo o ano de suspensão, inicia-se o prazo prescricional de 5 anos; (iii) o reconhecimento da prescrição intercorrente independe de prévia oitiva da Fazenda.</p>
 
 <p><strong>STJ — prescrição do redirecionamento (Temas 444 e 981):</strong> para o redirecionamento contra sócio-gerente por dissolução irregular, o prazo prescricional de 5 anos conta-se da data da ciência da dissolução irregular pelo fisco (diligência negativa do oficial de justiça), não da citação da pessoa jurídica.</p>
 
@@ -114,7 +114,7 @@
 
 <p>Para decadência e prescrição, o estudo exige mais compreensão do que memorização. Monte uma linha do tempo para cada modalidade de lançamento: (i) tributo de ofício → decadência: art. 173, I → prescrição: art. 174; (ii) tributo por homologação com pagamento → decadência: art. 150, §4º → prescrição: art. 174; (iii) tributo por homologação sem declaração → decadência: art. 173, I (Súmula 555) → prescrição: art. 174. Essa visualização ajuda enormemente em prova discursiva.</p>
 
-<p>A prescrição intercorrente merece estudo dedicado: conheça o regime do art. 40 da LEF, o Tema 444/STJ e o Tema 390/STF. Para a PGE/RJ, este é o instituto processual que mais impacta a cobrança de créditos estaduais — grande parte das execuções fiscais de ICMS enfrenta alegações de prescrição intercorrente.</p>
+<p>A prescrição intercorrente merece estudo dedicado: conheça o regime do art. 40 da LEF, o Tema 566/STJ e o Tema 390/STF. Para a PGE/RJ, este é o instituto processual que mais impacta a cobrança de créditos estaduais — grande parte das execuções fiscais de ICMS enfrenta alegações de prescrição intercorrente.</p>
 
 <!-- ========== SEÇÃO 5 ========== -->
 <h2>Atenção Redobrada</h2>
@@ -132,7 +132,7 @@
 </div>
 
 <div class="atencao">
-<strong>Prescrição intercorrente — início automático:</strong> após o despacho de suspensão do art. 40 da LEF e decorrido 1 ano sem localização de bens ou do devedor, o prazo prescricional de 5 anos se inicia automaticamente, sem necessidade de nova intimação da Fazenda (Tema 444/STJ). O Procurador deve monitorar ativamente os prazos em execuções fiscais paralisadas para evitar a perda do crédito.
+<strong>Prescrição intercorrente — início automático:</strong> após o despacho de suspensão do art. 40 da LEF e decorrido 1 ano sem localização de bens ou do devedor, o prazo prescricional de 5 anos se inicia automaticamente, sem necessidade de nova intimação da Fazenda (Tema 566/STJ). O Procurador deve monitorar ativamente os prazos em execuções fiscais paralisadas para evitar a perda do crédito.
 </div>
 
 <!-- ========== SEÇÃO 6 ========== -->
@@ -145,8 +145,8 @@
 <tr><td>Súmula 112/STJ</td><td>Depósito integral em dinheiro para suspensão</td><td>Consolidada</td></tr>
 <tr><td>SV 28/STF</td><td>Inconstitucional depósito prévio como requisito de ação judicial</td><td>Consolidada</td></tr>
 <tr><td>Súmula 555/STJ</td><td>Sem declaração em homologação: decadência pelo art. 173, I</td><td>Consolidada</td></tr>
-<tr><td>Tema 390/STF (2020)</td><td>Constitucionalidade da prescrição intercorrente (art. 40 LEF)</td><td>Trânsito em julgado</td></tr>
-<tr><td>Tema 444/STJ (2018)</td><td>Sistematização da prescrição intercorrente: 1 ano + 5 anos automáticos</td><td>Trânsito em julgado</td></tr>
+<tr><td>Tema 390/STF (2023)</td><td>Constitucionalidade da prescrição intercorrente (art. 40 LEF)</td><td>Trânsito em julgado</td></tr>
+<tr><td>Tema 566/STJ (2018)</td><td>Sistematização da prescrição intercorrente: 1 ano + 5 anos automáticos</td><td>Trânsito em julgado</td></tr>
 </table>
 
 <h3>Decisões recentes (2024-2025)</h3>

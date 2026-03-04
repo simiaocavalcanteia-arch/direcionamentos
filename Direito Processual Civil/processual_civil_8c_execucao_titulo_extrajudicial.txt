@@ -12,7 +12,7 @@
 
 <h3>Títulos executivos extrajudiciais (art. 784)</h3>
 
-<p>O art. 784 do CPC apresenta um rol de onze incisos com os documentos que constituem títulos executivos extrajudiciais. A lista é ampla: letra de câmbio, nota promissória, duplicata, debênture e cheque (I); escritura pública e documentos públicos assinados pelo devedor (II); documentos particulares assinados pelo devedor e por duas testemunhas (III); instrumento de transação referendado pelo MP, Defensoria ou advogados (IV); contrato garantido por hipoteca, penhor, anticrese ou outro direito real (V); contrato de seguro de vida em caso de morte (VI); crédito de serventuário, perito, intérprete ou tradutor (VII); certidão de dívida ativa — CDA (IX); crédito de foro, laudêmio e aluguéis (X); e outros documentos que a lei atribua força executiva (XII).</p>
+<p>O art. 784 do CPC apresenta um rol de doze incisos com os documentos que constituem títulos executivos extrajudiciais. A lista é ampla: letra de câmbio, nota promissória, duplicata, debênture e cheque (I); escritura pública e documentos públicos assinados pelo devedor (II); documentos particulares assinados pelo devedor e por duas testemunhas (III); instrumento de transação referendado pelo MP, Defensoria ou advogados (IV); contrato garantido por hipoteca, penhor, anticrese ou outro direito real (V); contrato de seguro de vida em caso de morte (VI); crédito decorrente de foro e laudêmio (VII); crédito de aluguel de imóvel e encargos acessórios (VIII); certidão de dívida ativa — CDA (IX); contribuições ordinárias ou extraordinárias de condomínio edilício (X); certidão expedida por serventia notarial ou de registro (XI); e outros documentos que a lei atribua força executiva (XII).</p>
 
 <div class="destaque">
 <strong>CDA como título executivo:</strong> a Certidão de Dívida Ativa (art. 784, IX) goza de presunção de certeza e liquidez (art. 3º da LEF). Essa presunção é relativa (<em>juris tantum</em>), podendo ser ilidida por prova inequívoca a cargo do executado. A CDA se sujeita a procedimento especial (Lei 6.830/80), mas subsidiariamente aplicam-se as regras do CPC. Para o candidato a Procurador do Estado, dominar a interseção entre o regime geral do CPC e o regime especial da LEF é fundamental.
@@ -81,7 +81,7 @@
 
 <h2>Legislação e Jurisprudência Essencial</h2>
 
-<p><span class="tag tag-lei">CPC</span> <strong>Art. 784:</strong> rol dos títulos executivos extrajudiciais — 11 incisos. Atenção especial ao inciso IX (CDA) e ao inciso XII (cláusula residual: "todos os demais títulos a que, por disposição expressa, a lei atribuir força executiva").</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 784:</strong> rol dos títulos executivos extrajudiciais — 12 incisos. Atenção especial ao inciso IX (CDA) e ao inciso XII (cláusula residual: "todos os demais títulos a que, por disposição expressa, a lei atribuir força executiva").</p>
 
 <p><span class="tag tag-lei">CPC</span> <strong>Art. 785:</strong> possibilidade de o credor optar pelo processo de conhecimento em vez de executar diretamente o título extrajudicial.</p>
 
