@@ -86,7 +86,7 @@
 </div>
 
 <div class="destaque">
-<p><strong>Tema 935 (ARE 1.018.459) — STF, 2023:</strong> é constitucional a instituição de contribuição assistencial ou negocial por meio de acordo ou convenção coletiva, inclusive para não filiados, desde que assegurado o direito de oposição. A decisão superou o entendimento anterior que vedava a cobrança compulsória de não sindicalizados (Súmula Vinculante 40, que foi reinterpretada).</p>
+<p><strong>Tema 935 (ARE 1.018.459) — STF, 2023:</strong> é constitucional a instituição de contribuição assistencial ou negocial por meio de acordo ou convenção coletiva, inclusive para não filiados, desde que assegurado o direito de oposição. A decisão superou o entendimento anterior (de 2017) que vedava a cobrança compulsória de não sindicalizados. A Súmula Vinculante 40, que trata de contribuição confederativa (espécie distinta), permanece integralmente vigente — essa contribuição continua sendo exigível apenas de filiados.</p>
 </div>
 
 <div class="destaque">

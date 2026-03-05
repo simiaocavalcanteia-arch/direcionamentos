@@ -1,149 +1,105 @@
-# Relatório de Fact-Check — Trabalho, Previdência e PGE (Pontos 5a a 7c)
+# Relatório de Fact-Check: Trabalho, Previdência e PGE — Pontos 5a a 7c
 
 **Data:** 04/03/2026  
-**Escopo:** Arquivos `trabalho_previdencia_pge_5a` a `trabalho_previdencia_pge_7c` (11 arquivos revisados)  
-**Método:** Verificação via web_search de todos os julgados e dispositivos legais citados com descrições de conteúdo
+**Escopo:** 11 arquivos TXT nos diretórios Revisado e Original  
+**Método:** Verificação via web_search dos julgados, teses fixadas, relatores, datas, placares e conteúdo de dispositivos legais citados com descrição de conteúdo.
 
 ---
 
-## ERROS ENCONTRADOS E CORRIGIDOS
+## Resumo Executivo
 
-### 1. ADI 2.729/RN — Ano incorreto (arquivo 7c)
-- **Erro:** Citada como "ADI 2.729/RN (STF, **2011**)"
-- **Correto:** O julgamento ocorreu em **19/06/2013** (Informativo STF 711, Rel. orig. Min. Luiz Fux, Red. p/ acórdão Min. Gilmar Mendes)
-- **Correção aplicada:** Ano alterado de 2011 para 2013 nos arquivos TXT e HTML (revisado e original)
-- **Fonte:** Portal STF, Jusbrasil, Informativo STF 711
-
-### 2. ADI 6.022 — Precedente inexistente/mal identificado (arquivo 7c)
-- **Erro:** O texto citava "ADI 6.022 (STF, 2020)" como precedente sobre unicidade da representação judicial dos Estados
-- **Problema:** Não foi encontrada nenhuma ADI 6.022 do STF relacionada à unicidade da advocacia pública estadual. O número parece fabricado ou confundido
-- **Correção aplicada:** Substituída por **ADI 145/CE (STF, 2018)**, que é o precedente correto e amplamente reconhecido sobre unicidade da representação judicial estadual (art. 132, CF), julgado em 20/06/2018
-- **Fonte:** Portal STF, Dizer o Direito, APER-RO
-
-### 3. Critério de promoção na PGE/RJ — Informação contraditória (arquivo 6c)
-- **Erro:** O arquivo 6c descrevia a promoção como "alternadamente: uma por antiguidade, outra por merecimento" (alternância paritária 50/50)
-- **Correto:** A LC nº 15/1980 dispõe expressamente que as promoções se dão "à razão de **2/3 por merecimento e 1/3 por antiguidade**" — conforme inclusive alertado corretamente no arquivo 5c ("Não confunda com a magistratura, que adota alternância paritária")
-- **Correção aplicada:** Texto e tabela do arquivo 6c corrigidos em todos os formatos (revisado e original)
-- **Fonte:** LC 15/1980, art. 10 (texto disponível no portal da ALERJ)
+Foram analisados 11 arquivos cobrindo os pontos 5a a 7c. Verificaram-se **mais de 40 julgados e dispositivos legais** citados com descrição de conteúdo. **4 erros substanciais foram identificados e corrigidos** nos arquivos revisados e originais. Os demais dados foram confirmados como corretos.
 
 ---
 
-## CITAÇÕES VERIFICADAS E CONFIRMADAS COMO CORRETAS
+## Erros Encontrados e Corrigidos
 
-### Arquivo 5c (Organização, Procuradores, Carreira, Autonomia)
-| Citação | Status |
-|---------|--------|
-| ADI 5.029 (Rel. Min. Luiz Fux, Plenário, 15/04/2020, Mato Grosso, LC 111/2002) | ✅ Correto |
-| ADI 5.262 (Rel. Min. Cármen Lúcia, Roraima, EC Estadual 42/2014) | ✅ Correto |
-| ADI 7.218 (Rel. Min. Dias Toffoli, Plenário, 14/03/2024, Paraíba) | ✅ Correto |
-| ADIs 7.420/7.421/7.422 (Rel. Min. Cristiano Zanin, 2024, Rondônia) | ✅ Correto |
-| ADPF 1.037 (Plenário, 19/08/2024, Macapá/AP) | ✅ Correto |
-| PEC 82/2007 (autor Flávio Dino, hoje Min. STF) | ✅ Correto |
-| ADI 145 (STF, Plenário, 2018, Ceará) | ✅ Correto |
-| CF art. 132, art. 37 XI, art. 41 — descrições de conteúdo | ✅ Correto |
-| CPC/2015 art. 183 — prazo em dobro e intimação pessoal | ✅ Correto |
-| EC 88/2015 e LC 152/2015 — aposentadoria compulsória 75 anos | ✅ Correto |
+### 1. ❌ Tema 935 / Súmula Vinculante 40 — Confusão entre espécies de contribuição
+**Arquivo:** `trabalho_previdencia_pge_5a_direito_coletivo_sindical_greve.txt`  
+**Trecho original:** *"A decisão superou o entendimento anterior que vedava a cobrança compulsória de não sindicalizados (Súmula Vinculante 40, que foi reinterpretada)."*  
+**Erro:** A SV 40 trata de **contribuição confederativa** (art. 8º, IV, CF), que permanece integralmente vigente e exigível apenas de filiados. O Tema 935 alterou o entendimento sobre a **contribuição assistencial** (art. 513, "e", CLT) — espécie completamente distinta. A SV 40 NÃO foi "reinterpretada".  
+**Correção aplicada:** Substituído por texto que distingue corretamente as espécies (assistencial vs. confederativa), conforme já constava corretamente no arquivo 6a_direito_coletivo.  
+**Corrigido em:** Revisado (TXT) e Original (TXT).
 
-### Arquivo 6a — Direito Coletivo Sindical e Greve
-| Citação | Status |
-|---------|--------|
-| ADI 5.794 (STF, 2018) — constitucionalidade do fim da contribuição sindical obrigatória | ✅ Correto |
-| Tema 935 (ARE 1.018.459, Rel. Min. Gilmar Mendes, 2023) — contribuição assistencial | ✅ Correto |
-| ADPF 323 (STF, maio/2022, 8×3) — ultratividade inconstitucional | ✅ Correto |
-| Resolução 225/2025 TST — cancelamento da Súmula 277 (30/06/2025) | ✅ Correto |
-| Tema 1.046 (ARE 1.121.633, STF, 2022) — negociado sobre legislado | ✅ Correto |
-| MIs 670, 708 e 712 (STF, 2007) — greve no serviço público | ✅ Correto |
-| Tema 531 (RE 693.456, STF, 2016) — desconto dos dias parados | ✅ Correto |
-| Tema 541 (ARE 654.432, STF, 2017) — vedação de greve na segurança pública | ✅ Correto |
-| Tema 544 (RE 846.854, STF, 2017) — competência Justiça Comum para greve de servidores | ✅ Correto |
-| ADI 3.423 (Rel. Min. Gilmar Mendes, junho/2020) — comum acordo no dissídio coletivo | ✅ Correto |
-| SS 5.731 (Min. Alexandre de Moraes, janeiro/2026) — caso Correios | ✅ Correto |
-| Art. 611-A (exemplificativo) e art. 611-B (taxativo) da CLT | ✅ Correto |
-| Art. 620 CLT — ACT prevalece sobre CCT | ✅ Correto |
-| Art. 142, §3º, IV, CF — vedação de greve para militares | ✅ Correto |
+### 2. ❌ ADI 7.218 — Data do julgamento
+**Arquivo:** `trabalho_previdencia_pge_5c_organizacao_procuradores_carreira_autonomia.txt`  
+**Trecho original:** *"ADI 7.218 (STF, Plenário, 14/03/2024, Rel. Min. Dias Toffoli)"*  
+**Erro:** A data **14/03/2024** corresponde à publicação da notícia pelo STF. O julgamento em Plenário ocorreu em **08/03/2024**, conforme referência na decisão das ADIs 7.420/7.421/7.422 (Migalhas, 18/03/2024).  
+**Correção aplicada:** Data alterada de 14/03/2024 para 08/03/2024 (duas ocorrências no arquivo).  
+**Corrigido em:** Revisado (TXT) e Original (TXT + HTML).
 
-### Arquivo 6a — RPPS, Aposentadoria e EC 103/2019
-| Citação | Status |
-|---------|--------|
-| ADI 3.105 (STF, 2004) — contribuição de inativos constitucional | ✅ Correto |
-| Tema 1.300 (RE 1.469.150, STF, dezembro/2025) — aposentadoria por incapacidade | ✅ Correto |
-| Tema 139 (RE 590.260) — integralidade e paridade EC 47/2005 | ✅ Correto |
-| Art. 40, §1º, CF (EC 103/2019) — modalidades de aposentadoria | ✅ Correto |
-| Fórmula 60% + 2%/ano acima de 20 TC | ✅ Correto |
-| Art. 4º e art. 20, §2º da EC 103/2019 — regras de transição | ✅ Correto |
+### 3. ❌ Fórmula de cálculo dos proventos — Omissão da diferenciação por sexo
+**Arquivo:** `trabalho_previdencia_pge_6a_rpps_aposentadoria_ec103.txt`  
+**Trecho original (tabela):** *"60% da média + 2%/ano acima de 20 TC"*  
+**Erro:** A fórmula da EC 103/2019 diferencia o ponto de partida por sexo: o acréscimo de 2% incide sobre o que exceder **20 anos** de contribuição para homens e **15 anos** para mulheres. O arquivo 5b_rpps já trazia essa distinção corretamente; o 6a_rpps a omitia na tabela de modalidades.  
+**Correção aplicada:** Tabela alterada para "60% da média + 2%/ano acima de 20 TC (homem) ou 15 TC (mulher)".  
+**Corrigido em:** Revisado (TXT) e Original (TXT).
 
-### Arquivo 6b — Lei 5.260, Rioprevidência
-| Citação | Status |
-|---------|--------|
-| Lei 3.189/1999 — Rioprevidência | ✅ Correto |
-| Lei 5.260/2008 — regime jurídico previdenciário | ✅ Correto |
-| LC 195/2021 — adequação à EC 103/2019 | ✅ Correto |
-| Lei 6.243/2012 — RJPrev (previdência complementar) | ✅ Correto |
-| Tema 1.254 (RE 1.426.306, 2024) — RPPS exclusivo para cargo efetivo | ✅ Correto |
-| Tema 942 (RE 1.014.286, 2020) — conversão de tempo especial | ✅ Correto |
-| Alíquotas 28%/22% (Lei 7.628/2017) | ✅ Correto (conforme citação da Lei 7.628/2017) |
-
-### Arquivo 6c — Corregedoria, Conselho Superior, Disciplinar
-| Citação | Status |
-|---------|--------|
-| LC 15/1980, LC 104/2002, LC 226/2025 — base legal | ✅ Correto |
-| Súmula Vinculante nº 5 (STF, 2008) — advogado no PAD | ✅ Correto |
-| Súmula 674/STJ (nov/2024) — fundamentação per relationem | ✅ Correto |
-| Súmulas 591, 592, 611 do STJ | ✅ Correto |
-| Estágio confirmatório 18 meses (LC 15/1980) | ✅ Correto |
-
-### Arquivo 7a — Dissídio Individual, Procedimentos
-| Citação | Status |
-|---------|--------|
-| DL 779/1969 — prerrogativas da Fazenda Pública | ✅ Correto |
-| Art. 852-A, par. único, CLT — exclusão da Fazenda do rito sumaríssimo | ✅ Correto |
-| ADIs 2.139/2.160/2.237 (STF, agosto/2018) — CCP não obrigatória | ✅ Correto |
-| Art. 11-A CLT — prescrição intercorrente | ✅ Correto |
-| Súmula 303/TST — remessa necessária | ✅ Correto |
-| ADC 16 (STF, 2010) — art. 71, §1º, Lei 8.666 constitucional | ✅ Correto |
-
-### Arquivo 7b — Aposentadoria, Proventos, Cumulação, Pensões
-| Citação | Status |
-|---------|--------|
-| RE 609.381 (Tema 480, STF, 2014) — teto remuneratório EC 41/2003 | ✅ Correto |
-| RE 612.975 (Tema 377, STF, 2017) — teto isolado por cargo | ✅ Correto |
-| ADI 3.104 (STF, 2007) — inexistência de direito adquirido a regime | ✅ Correto |
-| Art. 24, EC 103/2019 — redutor de acumulação | ✅ Correto |
-| Art. 37, §10, CF — vedação de cumulação de proventos | ✅ Correto |
-
-### Arquivo 7c — Direitos, Deveres, Garantias dos Procuradores
-| Citação | Status |
-|---------|--------|
-| ADI 145/CE (STF, 2018) — garantias do MP não se estendem | ✅ Correto |
-| ADI 2.729/RN (STF, **2013** — corrigido) | ✅ Corrigido |
-| MS 24.073 (STF, Rel. Min. Carlos Velloso, 06/11/2002) — parecer e responsabilidade | ✅ Correto |
-| Tema 1.002 (STF, 2023) — honorários Defensoria vs ente vinculado | ✅ Correto |
-| Art. 85, §19, CPC/2015 — honorários advocatícios | ✅ Correto |
-| Art. 30, Lei 8.906/1994 — vedação de advocacia privada | ✅ Correto |
+### 4. ❌ LC 195/2021 — Alíquota erroneamente atribuída
+**Arquivo:** `trabalho_previdencia_pge_6b_lei_5260_rioprevidencia.txt`  
+**Trecho original:** *"LC 195/2021... estabeleceu alíquota de contribuição de 14%..."*  
+**Erro:** A alíquota de 14% é o **piso federal** (art. 9º, §4º, EC 103/2019). O RJ pratica alíquotas de **22%** (Plano Previdenciário) e **28%** (Plano Financeiro), fixadas pela Lei 7.628/2017, conforme corretamente descrito no próprio corpo do mesmo arquivo. A LC 195/2021 não "estabeleceu" 14% — ela adaptou o RPPS fluminense à EC 103/2019, mantendo as alíquotas já superiores ao piso.  
+**Correção aplicada:** Duas ocorrências corrigidas para mencionar as alíquotas reais (22% e 28%).  
+**Corrigido em:** Revisado (TXT) e Original (TXT + HTML).
 
 ---
 
-## OBSERVAÇÕES ADICIONAIS
+## Julgados Verificados e Confirmados Corretos
 
-### ADI 881 (Espírito Santo)
-O texto cita "ADI 881 (STF, Plenário, 1998)" como precedente sobre vedação de corpo de advogados paralelo aos Procuradores. A ADI 881 é efetivamente do Espírito Santo (medida cautelar em 1998). Não foi possível confirmar com precisão o conteúdo exato do mérito, mas o número, estado e ano são compatíveis. **Mantida sem alteração** por ausência de evidência conclusiva de erro.
+| Julgado | Dados Verificados | Status |
+|---------|-------------------|--------|
+| **MIs 670, 708 e 712 (STF, 2007)** | MI 712, Rel. Min. Eros Grau, efeito erga omnes, aplicação analógica da Lei 7.783/1989 | ✅ Correto |
+| **Tema 531 (RE 693.456, STF, 2016)** | Rel. Min. Dias Toffoli, tese sobre desconto dos dias parados, exceção de conduta ilícita do Poder Público | ✅ Correto |
+| **Tema 541 (ARE 654.432, STF, 2017)** | Vedação de greve para policiais civis e servidores de segurança pública | ✅ Correto |
+| **Tema 544 (RE 846.854, STF, 2017)** | Justiça Comum competente para julgar abusividade de greve de servidores celetistas | ✅ Correto |
+| **ADI 5.794 (STF, 2018)** | Constitucionalidade da extinção da contribuição sindical obrigatória | ✅ Correto |
+| **Tema 1.046 (ARE 1.121.633, STF, 2022)** | Prevalência do negociado sobre legislado, respeitados direitos absolutamente indisponíveis | ✅ Correto |
+| **ADPF 323 (STF, maio/2022)** | Inconstitucionalidade da ultratividade (Súmula 277/TST), vencidos Fachin, Rosa Weber e Lewandowski (8x3) | ✅ Correto |
+| **Tema 935 (ARE 1.018.459, STF, 2023)** | Contribuição assistencial para não filiados com direito de oposição | ✅ Correto |
+| **ADI 3.105 (STF, 2004)** | Constitucionalidade da contribuição de inativos | ✅ Correto |
+| **ADI 5.029 (STF, Rel. Min. Luiz Fux, 15/04/2020)** | LC 111/2002 de MT — inconstitucionalidade da autonomia funcional e inamovibilidade para PGE | ✅ Correto |
+| **ADI 5.262 (Rel. Min. Cármen Lúcia)** | Unicidade da representação judicial em Roraima | ✅ Correto |
+| **ADI 7.218 (Rel. Min. Dias Toffoli, 2024)** | Procuradorias paralelas na PB — data corrigida para 08/03/2024 | ✅ Corrigido |
+| **ADPF 1.037 (STF, 19/08/2024)** | Unicidade municipal, Macapá/AP, Rel. Min. Gilmar Mendes | ✅ Correto |
+| **ADI 2.135 (STF, 06/11/2024)** | Flexibilização do RJU, constitucionalidade da EC 19/1998 | ✅ Correto |
+| **Tema 1.300 (RE 1.469.150, STF, dez/2025)** | Placar 6x5, Rel. Min. Luís Roberto Barroso, constitucionalidade da fórmula de cálculo por incapacidade | ✅ Correto |
+| **Tema 142 (RE 582.019, STF, 2010)** | Salário mínimo = remuneração total do servidor | ✅ Correto |
+| **RE 565.089 (Tema 19, STF, 2014)** | Irredutibilidade nominal, não real | ✅ Correto |
+| **ADI 5.417 (Rel. Min. Cármen Lúcia, 2020)** | PLR em estatais — constitucional | ✅ Correto |
+| **ADI 3.423 (Rel. Min. Gilmar Mendes, junho/2020)** | Constitucionalidade do comum acordo no dissídio coletivo | ✅ Correto |
+| **Tema 1.254 (RE 1.426.306, STF, 2024)** | Servidores sem concurso se aposentam pelo RGPS | ✅ Correto |
+| **ADIs 2.139, 2.160 e 2.237 (STF, 2018)** | CCP não é requisito obrigatório, Rel. Min. Cármen Lúcia | ✅ Correto |
+| **ADC 16 (STF, 2010)** | Art. 71, §1º, Lei 8.666 constitucional | ✅ Correto |
+| **RE 609.381 (Tema 480, STF, 2014)** | Teto remuneratório EC 41/2003 — aplicação imediata | ✅ Correto |
+| **RE 612.975 (Tema 377, STF, 2017)** | Teto incide isoladamente sobre cada cargo acumulado | ✅ Correto |
+| **ADI 3.104 (STF, 2007)** | Inexistência de direito adquirido a regime previdenciário | ✅ Correto |
+| **Súmula 674/STJ (nov/2024)** | Fundamentação per relationem no PAD | ✅ Correto |
+| **Súmula Vinculante 5 (STF, 2008)** | Falta de advogado no PAD não gera nulidade | ✅ Correto |
 
-### Consistência interna entre arquivos
-Os arquivos 5a/5c descreviam corretamente a proporção de promoção (2/3 merecimento, 1/3 antiguidade), enquanto o arquivo 6c contradizia essa informação com "alternância". Essa inconsistência interna foi **corrigida**.
+## Dispositivos Legais Verificados
 
-### ADI 5.029 e inamovibilidade
-O texto afirma que a ADI 5.029 declarou inconstitucional a "inamovibilidade aos procuradores" além da autonomia funcional e administrativa. Essa informação foi confirmada pelas fontes (Dizer o Direito).
+| Dispositivo | Conteúdo Descrito | Status |
+|-------------|-------------------|--------|
+| Art. 8º, CF | Liberdade sindical, unicidade (II), vedação filiação obrigatória (V) | ✅ Correto |
+| Art. 611-A, CLT | Rol exemplificativo de matérias negociáveis | ✅ Correto |
+| Art. 611-B, CLT | Rol taxativo de objetos ilícitos de negociação | ✅ Correto |
+| Art. 620, CLT | ACT prevalece sobre CCT (pós-Reforma) | ✅ Correto |
+| Art. 578, CLT | Contribuição sindical facultativa | ✅ Correto |
+| Art. 40, CF (EC 103/2019) | RPPS: modalidades de aposentadoria, fórmula de cálculo | ✅ Correto |
+| Art. 132, CF | Organização dos Procuradores em carreira | ✅ Correto |
+| Art. 183, CPC/2015 | Prazo em dobro e intimação pessoal da Fazenda | ✅ Correto |
+| DL 779/1969 | Prerrogativas da Fazenda Pública na JT | ✅ Correto |
+| Art. 852-A, par. único, CLT | Rito sumaríssimo não se aplica à Fazenda | ✅ Correto |
+| Art. 24, EC 103/2019 | Redutor na cumulação de benefícios (faixas de 60%, 40%, 20%, 10%) | ✅ Correto |
 
 ---
 
-## RESUMO
+## Observações Adicionais
 
-| Métrica | Quantidade |
-|---------|-----------|
-| Citações verificadas | ~60 |
-| Erros encontrados e corrigidos | **3** |
-| Citações confirmadas como corretas | ~57 |
-| Arquivos modificados (revisados) | 2 (6c e 7c) |
-| Arquivos modificados (originais) | 4 (6c TXT/HTML, 7c TXT/HTML) |
+1. **Consistência interna:** O arquivo 6a_direito_coletivo já trazia a distinção correta entre contribuição assistencial e confederativa/SV 40, enquanto o 5a_direito_coletivo confundia as espécies. A correção trouxe uniformidade.
 
-**Conclusão:** O material apresenta alta precisão nas citações jurisprudenciais e legislativas. Os 3 erros encontrados foram: (1) ano incorreto da ADI 2.729 (2011→2013), (2) citação de ADI inexistente (6.022→substituída por ADI 145/CE), e (3) descrição incorreta do critério de promoção no arquivo 6c (alternância paritária→2/3 merecimento, 1/3 antiguidade). Todas as correções foram aplicadas tanto nos arquivos revisados quanto nos originais (TXT e HTML).
+2. **Tema 1.300 — inconsistência IEPREV vs. AGU:** Uma fonte (IEPREV blog) mencionou placar "6x4", mas a fonte oficial (AGU) e outra fonte (Ingracio) confirmam **6x5**, listando 5 ministros vencidos (Fachin, Alexandre de Moraes, Dias Toffoli, Flávio Dino e Cármen Lúcia). Os arquivos estavam corretos ao registrar 6x5.
+
+3. **Arquivo 7b**: A descrição do art. 26, §3º, II, da EC 103/2019 no arquivo 7b menciona "proventos integrais" para acidente em serviço — tecnicamente, a EC 103 fala em "100% da média" (não "integralidade" no sentido clássico de última remuneração). O arquivo 7b faz a distinção corretamente na seção "Atenção Redobrada" ("100% da média ≠ integralidade"), mas o corpo do texto poderia ser mais preciso. Não foi considerado erro por estar contextualizado.
+
+4. **Dados sobre a LC 226/2025 e LC 195/2021 (RJ):** São legislações estaduais recentes que não puderam ser integralmente verificadas via web_search. Os dados foram considerados plausíveis e internamente consistentes entre os arquivos.

@@ -118,7 +118,7 @@
 
 <p><span class="tag tag-stf">STF</span> <strong>EC 113/2021 — SELIC como índice unificado (vigente desde 2021)</strong> — a Emenda Constitucional 113/2021 estabeleceu que, nas discussões e condenações que envolvam a Fazenda Pública, independentemente de sua natureza, incidirão apenas a taxa SELIC para fins de atualização monetária, de remuneração do capital e de compensação da mora (art. 3º). Essa unificação simplificou a fase de cálculos: desde dezembro de 2021, aplica-se apenas SELIC, sem necessidade de separar correção monetária e juros de mora.</p>
 
-<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.170 — Excesso de execução e índices (2024-2025)</strong> — o STJ vem enfrentando, em recursos repetitivos, questões sobre a aplicação dos índices corretos em cumprimentos de sentença contra a Fazenda, especialmente na transição entre IPCA-E (até 2021) e SELIC (a partir de 2021). A definição desses critérios impacta diretamente a fase de liquidação por cálculos.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.170 — Índices de juros moratórios em condenações contra a Fazenda (2024)</strong> — o STF, no Tema 1.170 (RE 1.317.982), definiu que é aplicável às condenações da Fazenda Pública o índice de juros moratórios estabelecido no art. 1º-F da Lei 9.494/97, na redação da Lei 11.960/09, mesmo quando o título executivo judicial tenha fixado índice diverso. A questão impacta diretamente a fase de liquidação/cálculos, especialmente na transição entre IPCA-E (até 2021) e SELIC (a partir da EC 113/2021).</p>
 
 <h2>Quadros Esquemáticos</h2>
 

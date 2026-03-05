@@ -124,7 +124,7 @@
 
 <h3>Temas consolidados</h3>
 
-<p><strong>RE 796.376 — Tema 796</strong> (STF, Plenário virtual, sessão encerrada em 05/08/2020, Rel. Min. Alexandre de Moraes): fixou que a imunidade do ITBI (art. 156, § 2.º, I, CF) alcança exclusivamente o valor dos bens correspondente ao capital social integralizado. O valor que excede o capital subscrito não é imune. A tese impactou a constituição de holdings patrimoniais, que tradicionalmente utilizavam a integralização de imóveis como forma de evitar o ITBI.</p>
+<p><strong>RE 796.376 — Tema 796</strong> (STF, Plenário virtual, sessão encerrada em 05/08/2020, Rel. Min. Marco Aurélio): fixou que a imunidade do ITBI (art. 156, § 2.º, I, CF) alcança exclusivamente o valor dos bens correspondente ao capital social integralizado. O valor que excede o capital subscrito não é imune. A tese impactou a constituição de holdings patrimoniais, que tradicionalmente utilizavam a integralização de imóveis como forma de evitar o ITBI.</p>
 
 <p><strong>RE 330.817 — Tema 593</strong> (STF, Plenário, j. 08/03/2017, Rel. Min. Dias Toffoli): a imunidade do art. 150, VI, d, alcança livros eletrônicos e os suportes exclusivamente utilizados para fixá-los (e-readers). O STF adotou interpretação teleológica — a finalidade da imunidade cultural é promover o acesso ao conhecimento, independentemente do suporte físico ou digital.</p>
 

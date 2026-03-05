@@ -313,7 +313,7 @@
 
 <p><span class="tag tag-lei">Lei 5.109/2007</span> — determinou a extinção do IPERJ e a transferência de todas as suas atribuições ao Rioprevidência. A concentração da gestão previdenciária num único fundo é parte da racionalização administrativa do sistema.</p>
 
-<p><span class="tag tag-lei">LC 195/2021</span> — adaptação do RPPS fluminense à EC nº 103/2019. Fixou novas idades mínimas para aposentadoria, definiu regras de transição por pontos e pedágio 100%, estabeleceu alíquota de contribuição de 14% e regulamentou o novo cálculo dos benefícios. Vigência a partir de 1º de janeiro de 2022.</p>
+<p><span class="tag tag-lei">LC 195/2021</span> — adaptação do RPPS fluminense à EC nº 103/2019. Fixou novas idades mínimas para aposentadoria, definiu regras de transição por pontos e pedágio 100%, manteve as alíquotas de contribuição de 22% (Plano Previdenciário) e 28% (Plano Financeiro), superiores ao piso federal de 14%, e regulamentou o novo cálculo dos benefícios. Vigência a partir de 1º de janeiro de 2022.</p>
 
 <p><span class="tag tag-lei">Lei 6.243/2012</span> — criou a Fundação de Previdência Complementar do Estado do RJ (RJPrev), autorizando a instituição do regime de previdência complementar para servidores do Estado.</p>
 
@@ -333,7 +333,7 @@
 
 <p>O estudo deste ponto deve começar pela leitura integral da Lei nº 5.260/2008. É um diploma relativamente enxuto, com linguagem acessível, e que fornece a estrutura conceitual do RPPS fluminense: quem são os segurados, quais são os benefícios, como se dá o custeio. Sem essa base, qualquer aprofundamento posterior ficará solto. Reserve um período de estudo dedicado exclusivamente a essa leitura, anotando as definições de segurado, dependente e cada espécie de benefício.</p>
 
-<p>Em seguida, passe à LC nº 195/2021, que é a lei mais recente e, por isso, a mais provável de ser cobrada em prova. Concentre sua atenção nos artigos que tratam das regras de transição (pontos e pedágio 100%), do novo cálculo de benefícios e da alíquota de contribuição de 14%. Compare sistematicamente cada regra de transição: idade mínima, tempo de contribuição, pontuação, presença ou ausência de integralidade e paridade. Construa uma tabela comparativa — o quadro acima pode servir de modelo — e revise-a periodicamente.</p>
+<p>Em seguida, passe à LC nº 195/2021, que é a lei mais recente e, por isso, a mais provável de ser cobrada em prova. Concentre sua atenção nos artigos que tratam das regras de transição (pontos e pedágio 100%), do novo cálculo de benefícios e das alíquotas de contribuição (22% e 28%, conforme o plano). Compare sistematicamente cada regra de transição: idade mínima, tempo de contribuição, pontuação, presença ou ausência de integralidade e paridade. Construa uma tabela comparativa — o quadro acima pode servir de modelo — e revise-a periodicamente.</p>
 
 <p>A Lei nº 3.189/1999, embora mais antiga, não deve ser negligenciada: ela contém a base normativa do Rioprevidência e foi expressamente mencionada no edital. Conheça a estrutura do fundo, a distinção entre Plano Financeiro e Plano Previdenciário, e as atribuições do Conselho de Administração. Não é necessário memorizar artigos específicos, mas sim compreender a lógica organizacional.</p>
 

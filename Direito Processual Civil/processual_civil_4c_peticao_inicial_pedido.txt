@@ -278,3 +278,328 @@
 <td>Pedido prescrito verificável de plano</td>
 </tr>
 </table>
+
+<h1>Complemento do Ponto 4c — Audiência de Conciliação ou Mediação. Resposta do Réu. Contestação. Reconvenção. Inércia Processual: Contumácia e Revelia. Ação Declaratória Incidental. Incidentes Processuais</h1>
+
+<p>O edital do concurso PGE/RJ agrupa no Ponto 4c, além da petição inicial e do pedido (tratados acima), os seguintes temas: audiência de conciliação ou de mediação; resposta do réu; contestação; reconvenção; inércia processual — contumácia e revelia; ação declaratória incidental; e incidentes processuais. Os temas de resposta do réu, contestação, reconvenção e revelia já foram detalhados no Ponto 4b — aqui se faz uma abordagem complementar com ênfase nos aspectos não cobertos naquele ponto. Os demais temas são desenvolvidos integralmente abaixo.</p>
+
+<h2>Audiência de Conciliação ou de Mediação (art. 334)</h2>
+
+<h3>Sistemática do CPC/2015</h3>
+
+<p>O CPC/2015 introduziu a audiência de conciliação ou mediação como etapa obrigatória do procedimento comum, anterior à apresentação da contestação. Recebida a petição inicial, se ela preencher os requisitos formais e não for caso de improcedência liminar (art. 332), o juiz designará audiência de conciliação ou mediação com antecedência mínima de 30 dias, devendo o réu ser citado com pelo menos 20 dias de antecedência (art. 334, caput). A audiência é conduzida por conciliador ou mediador, onde houver, não pelo juiz (art. 334, §1º).</p>
+
+<p><strong>Conciliação versus mediação:</strong> o CPC distingue os dois institutos. O conciliador atua preferencialmente nos casos em que não há vínculo anterior entre as partes, podendo sugerir soluções (art. 165, §2º). O mediador atua preferencialmente nos casos em que há vínculo anterior, auxiliando os interessados a compreender as questões e a identificar soluções consensuais (art. 165, §3º). A escolha entre conciliação e mediação depende da natureza do conflito.</p>
+
+<h3>Hipóteses de não realização da audiência (art. 334, §4º)</h3>
+
+<p>A audiência não será realizada apenas em duas hipóteses cumulativas ou alternativas: (I) se ambas as partes manifestarem, expressamente, desinteresse na composição consensual — o autor deve indicar na petição inicial (art. 319, VII) e o réu deve fazê-lo por petição apresentada com 10 dias de antecedência da audiência (art. 334, §5º); (II) quando não se admitir a autocomposição — hipótese rara, limitada a direitos verdadeiramente indisponíveis que não admitam transação.</p>
+
+<div class="destaque">
+<p><strong>Fazenda Pública e autocomposição:</strong> a Lei 13.140/2015 (Lei de Mediação) autoriza expressamente a autocomposição pela Administração Pública (arts. 32-40). A Lei 14.133/2021 (art. 151) também prevê meios alternativos para contratos administrativos. Portanto, o fato de a Fazenda Pública ser parte NÃO dispensa a audiência do art. 334. A indisponibilidade do interesse público não impede a transação — admite-se composição sobre o modo de cumprimento, parcelamento, prazos e outros aspectos. Câmaras de mediação e conciliação da Administração Pública (art. 174, CPC) reforçam essa orientação.</p>
+</div>
+
+<h3>Consequências do não comparecimento</h3>
+
+<p><strong>Multa por ato atentatório à dignidade da Justiça (art. 334, §8º):</strong> o não comparecimento injustificado do autor ou do réu à audiência de conciliação é considerado ato atentatório à dignidade da Justiça, punível com multa de até 2% da vantagem econômica pretendida ou do valor da causa, revertida em favor da União ou do Estado.</p>
+
+<p><strong>Representação por advogado com poderes para transigir (art. 334, §10):</strong> a parte pode constituir representante, por meio de procuração específica, com poderes para negociar e transigir. O STJ firmou, no RMS 56.422/MS (4ª Turma, Rel. Min. Raul Araújo, j. 08/06/2021, Info 700), que não cabe a aplicação de multa pelo não comparecimento pessoal à audiência de conciliação quando a parte estiver representada por advogado com poderes específicos para transigir. Esse entendimento foi reiterado no REsp 2.168.199/RS (3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, j. 03/12/2024, Info 836).</p>
+
+<h3>Prazo para contestação e audiência</h3>
+
+<p>O prazo para contestação flui a partir da audiência (art. 335, I): da data da audiência de conciliação ou mediação, ou da última sessão, quando qualquer das partes não comparecer ou quando não se obtiver autocomposição. Se ambas as partes manifestarem desinteresse, o prazo flui do protocolo do pedido de cancelamento pelo réu (art. 335, II). Essa é uma mudança estrutural em relação ao CPC/1973, em que o prazo fluía da citação.</p>
+
+<h3>Nulidade por falta de designação</h3>
+
+<p>O STJ entende que o direito da parte interessada na realização da conciliação ou mediação pode gerar nulidade do processo caso o juiz não designe a audiência. Se uma das partes manifesta interesse na autocomposição e o juiz, sem justificativa, pula a audiência e determina a citação direta para contestar, há vício processual sanável — a parte prejudicada pode arguir a nulidade.</p>
+
+<h3>Mais de uma sessão (art. 334, §2º)</h3>
+
+<p>A audiência pode ser dividida em mais de uma sessão, desde que necessárias à composição das partes. O prazo máximo é de 2 meses da data da primeira sessão (art. 334, §2º). Isso permite negociações mais complexas, especialmente em causas envolvendo a Fazenda Pública, em que a obtenção de autorização interna para transigir pode demandar tempo.</p>
+
+<h2>Inércia Processual: Contumácia e Revelia</h2>
+
+<h3>Contumácia — conceito amplo</h3>
+
+<p>Contumácia é gênero que designa a inatividade das partes no processo. Abrange toda e qualquer omissão processual, tanto do autor quanto do réu, tanto inicial quanto superveniente. A doutrina processualista (Dinamarco, Didier, Medeiros) distingue:</p>
+
+<p><strong>Contumácia do autor:</strong> pode se manifestar como: (i) abandono da causa por mais de 30 dias sem promover os atos e diligências que lhe incumbam (art. 485, III, CPC — extinção sem mérito, precedida de intimação pessoal para suprir a falta em 5 dias); (ii) não comparecimento à audiência de conciliação (art. 334, §8º — multa); (iii) não comparecimento à audiência de instrução, quando intimado pessoalmente (possível confissão ficta — art. 385, §1º).</p>
+
+<p><strong>Contumácia do réu (revelia):</strong> a revelia é espécie de contumácia. É a situação processual em que o réu, devidamente citado, não apresenta contestação no prazo legal (art. 344). A revelia se refere especificamente à ausência de contestação — não se confunde com a mera ausência física do réu em audiências ou com a falta de prática de outros atos processuais.</p>
+
+<div class="destaque">
+<p><strong>Distinção fundamental para concurso:</strong> contumácia é gênero (inatividade de qualquer parte); revelia é espécie (ausência de contestação pelo réu). O edital cobra "inércia processual: contumácia e revelia" justamente para testar se o candidato domina essa distinção. A banca pode perguntar: "a ausência do autor na audiência de instrução configura revelia?" — a resposta é não, pois revelia é instituto exclusivo do réu e se refere à falta de contestação. A inércia do autor recebe outro tratamento (abandono, confissão ficta, extinção).</p>
+</div>
+
+<h3>Revelia — complemento ao Ponto 4b</h3>
+
+<p>Os efeitos da revelia (presunção de veracidade, dispensa de intimação, julgamento antecipado) e suas exceções (art. 345) já foram detalhados no Ponto 4b. Aqui se acrescentam dois aspectos complementares:</p>
+
+<p><strong>Revelia e tutela de evidência (art. 311, II):</strong> o juiz pode conceder tutela de evidência quando as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante. A revelia, embora gere presunção de veracidade, não é, por si só, hipótese autônoma de tutela de evidência — mas pode reforçar o enquadramento no art. 311 quando combinada com prova documental robusta.</p>
+
+<p><strong>Revelia e negócios jurídicos processuais (art. 190):</strong> o réu revel que comparece tardiamente pode celebrar negócios jurídicos processuais com a parte contrária? A doutrina majoritária responde positivamente, desde que o revel esteja representado nos autos e o negócio verse sobre direitos que admitam autocomposição. A revelia limita oportunidades de defesa, mas não extingue a capacidade processual da parte.</p>
+
+<h3>Contumácia superveniente e abandono (art. 485, III)</h3>
+
+<p>A contumácia pode ser superveniente: o autor ou o réu, após comparecer inicialmente, deixa de praticar atos processuais que lhe incumbem. Para o autor, a consequência mais grave é a extinção do processo sem resolução de mérito por abandono (art. 485, III), que exige: (i) paralisação por mais de 30 dias; (ii) intimação pessoal para suprir a falta em 5 dias (art. 485, §1º); (iii) requerimento do réu (o juiz não pode extinguir de ofício por abandono — exige provocação). Para o réu, a contumácia superveniente implica fluência dos prazos sem intimação e preclusão dos atos não praticados.</p>
+
+<h2>Ação Declaratória Incidental</h2>
+
+<h3>Transformação no CPC/2015</h3>
+
+<p>O CPC/1973 previa expressamente a ação declaratória incidental (arts. 5º e 325) como instrumento para que a parte obtivesse, com força de coisa julgada, a declaração sobre questão prejudicial discutida no processo. No CPC/2015, a ação declaratória incidental como instituto autônomo deixou de existir — foi substituída pelo regime do art. 503, §1º, que permite a extensão da coisa julgada às questões prejudiciais decididas no processo, desde que preenchidos determinados requisitos.</p>
+
+<h3>Art. 503, §1º — coisa julgada sobre questão prejudicial</h3>
+
+<p>O art. 503, §1º, do CPC/2015 dispõe que a resolução de questão prejudicial, decidida expressa e incidentemente no processo, faz coisa julgada se: (I) dessa resolução depender o julgamento do mérito; (II) a seu respeito tiver havido contraditório prévio e efetivo, não se aplicando no caso de revelia; (III) o juízo tiver competência em razão da matéria e da pessoa para resolvê-la como questão principal.</p>
+
+<p>Esse dispositivo tornou desnecessária a ação declaratória incidental na maioria dos casos: se a questão prejudicial for debatida com contraditório pleno e decidida pelo juízo competente, a coisa julgada se formará automaticamente, sem necessidade de pedido declaratório específico da parte.</p>
+
+<div class="destaque">
+<p><strong>Exemplo prático para PGE/RJ:</strong> em ação de cobrança de ICMS contra contribuinte, o Estado alega a constitucionalidade da lei estadual que instituiu o tributo. O contribuinte, em contestação, arguiu a inconstitucionalidade da lei como defesa. Se o juiz decidir essa questão com contraditório efetivo e for competente para analisá-la, a decisão sobre a constitucionalidade/inconstitucionalidade fará coisa julgada — sem necessidade de ação declaratória incidental. O §2º do art. 503 ressalva que não se aplica a extensão se houver revelia ou se as partes não puderem dispor do objeto da questão prejudicial por limitações probatórias.</p>
+</div>
+
+<h3>Sobrevivência da ação declaratória incidental?</h3>
+
+<p>A doutrina diverge sobre se a ação declaratória incidental ainda é cabível no CPC/2015. A corrente majoritária (Didier, Marinoni, Câmara) entende que, embora não haja previsão expressa como no CPC/1973, nada impede que a parte formule pedido declaratório incidente com base nos arts. 19 e 20 do CPC, que admitem a ação declaratória para obter declaração de existência, inexistência ou modo de ser de relação jurídica, e de autenticidade ou falsidade de documento.</p>
+
+<p><strong>Art. 19:</strong> o interesse do autor pode se limitar à declaração de existência, inexistência ou modo de ser de relação jurídica, ou de autenticidade ou falsidade de documento.</p>
+
+<p><strong>Art. 20:</strong> é admissível a ação declaratória, ainda que tenha ocorrido a violação do direito. Isso significa que a declaração pode ser pedida mesmo quando já seria cabível a condenação — o que permite ao autor "reduzir" sua pretensão ao plano declaratório.</p>
+
+<p>Na prática, o réu pode formular pedido declaratório via reconvenção (art. 343), e o autor pode ampliar seus pedidos por aditamento (art. 329). A funcionalidade da antiga ação declaratória incidental foi absorvida por esses mecanismos + a extensão automática da coisa julgada do art. 503, §1º.</p>
+
+<h3>Imprescritibilidade da ação declaratória pura</h3>
+
+<p>O STJ consolidou o entendimento de que a ação declaratória pura é imprescritível, salvo quando houver pretensão condenatório-constitutiva subjacente (REsp 1.721.184/SP). Isso é relevante para a PGE/RJ em ações declaratórias de inexistência de relação tributária: o contribuinte pode ajuizar ação declaratória a qualquer tempo para obter a certeza de que não deve determinado tributo, sem sujeição a prazo prescricional — a prescrição atinge apenas a pretensão de repetição de indébito (restituição), não a mera declaração.</p>
+
+<h2>Incidentes Processuais</h2>
+
+<p>Os incidentes processuais são questões acessórias que surgem no curso do processo e demandam resolução antes ou paralelamente ao julgamento da causa principal. O CPC/2015 disciplina diversos incidentes, que podem ser agrupados em categorias:</p>
+
+<h3>Incidente de impedimento e suspeição (arts. 144-148)</h3>
+
+<p>Já tratados no Ponto 3a (O Juiz). Destaca-se aqui a alteração estrutural do CPC/2015: a arguição de impedimento ou suspeição não é mais feita por exceção ritual autônoma (como no CPC/1973), mas por petição específica dirigida ao tribunal competente para julgar o incidente (art. 146). O incidente suspende o processo (art. 146, §2º) e é julgado pelo tribunal, não pelo próprio juiz arguido.</p>
+
+<h3>Conflito de competência (arts. 66 e 951-959)</h3>
+
+<p>Ocorre quando dois ou mais juízes se declaram competentes (conflito positivo) ou incompetentes (conflito negativo) para a mesma causa, ou quando entre eles surge controvérsia sobre reunião ou separação de processos (art. 66). O conflito é suscitado perante o tribunal hierarquicamente superior aos juízos em conflito.</p>
+
+<p><strong>Competência para julgar conflitos:</strong> STF — conflito entre tribunais superiores ou entre tribunal superior e qualquer outro tribunal (art. 102, I, "o", CF); STJ — conflito entre tribunais ou entre tribunal e juízes a ele não vinculados (art. 105, I, "d", CF); tribunais estaduais e regionais — conflito entre juízes a eles vinculados.</p>
+
+<p><strong>Procedimento:</strong> o relator pode designar juízo provisório (art. 955), determinar a prática de atos urgentes e pode decidir monocraticamente quando a jurisprudência do tribunal for firme (art. 955, parágrafo único). O Ministério Público é ouvido quando não for parte (art. 951, parágrafo único).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 59:</strong> "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes."</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 348:</strong> "Compete ao STJ decidir os conflitos de competência entre juizado especial federal e juízo federal, ainda que da mesma seção judiciária."</p>
+
+<h3>Incidente de arguição de inconstitucionalidade (arts. 948-950)</h3>
+
+<p>Decorrência da cláusula de reserva de plenário (art. 97, CF; Súmula Vinculante 10). Quando o relator ou a câmara/turma do tribunal considerar que há inconstitucionalidade de lei ou ato normativo do poder público, deve submeter a questão ao plenário ou órgão especial do tribunal (art. 948). O incidente é obrigatório para declaração de inconstitucionalidade — turma ou câmara não podem declarar inconstitucionalidade de lei por maioria de votos própria.</p>
+
+<p><strong>Exceção:</strong> não se submete ao plenário quando já houver pronunciamento do próprio tribunal pleno, do órgão especial ou do STF sobre a questão (art. 949, parágrafo único). Essa exceção evita a repetição desnecessária do incidente quando a questão constitucional já está resolvida.</p>
+
+<h3>Incidente de Resolução de Demandas Repetitivas — IRDR (arts. 976-987)</h3>
+
+<p>Já tratado no Ponto 7c (RE e REsp). O IRDR é cabível quando houver, simultaneamente: efetiva repetição de processos com controvérsia sobre a mesma questão unicamente de direito (material ou processual) e risco de ofensa à isonomia e à segurança jurídica (art. 976). A tese fixada no IRDR aplica-se a todos os processos que versem sobre idêntica questão de direito na área de jurisdição do tribunal (art. 985, I) e a casos futuros (art. 985, II).</p>
+
+<h3>Incidente de Assunção de Competência — IAC (art. 947)</h3>
+
+<p>Também já mencionado em pontos anteriores. Cabível quando o julgamento de recurso, remessa necessária ou processo de competência originária envolver relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos (art. 947). O acórdão proferido no IAC vincula todos os juízes e órgãos fracionários do tribunal (art. 947, §3º).</p>
+
+<h3>Incidente de falsidade documental (arts. 430-433)</h3>
+
+<p>A arguição de falsidade de documento pode ser suscitada por qualquer das partes a qualquer tempo, enquanto não encerrada a instrução (art. 430). A arguição é feita na contestação, na réplica ou por petição, com exposição dos motivos e indicação dos meios de prova (art. 430, parágrafo único). O juiz decide o incidente por decisão interlocutória, e a declaração de falsidade ou autenticidade do documento faz coisa julgada (art. 433).</p>
+
+<h3>Incidente de desconsideração da personalidade jurídica (arts. 133-137)</h3>
+
+<p>Já tratado no Ponto 3c (Litisconsórcio e Intervenção de Terceiros). O incidente é cabível em todas as fases do processo de conhecimento, cumprimento de sentença e execução (art. 134). A instauração do incidente suspende o processo (art. 134, §3º) e exige contraditório prévio do sócio ou da pessoa jurídica a ser atingida (art. 135). A decisão é recorrível por agravo de instrumento (art. 136).</p>
+
+<h3>Habilitação (arts. 687-692)</h3>
+
+<p>Incidente que ocorre quando há sucessão processual por morte de uma das partes. Os herdeiros ou sucessores requerem a habilitação nos autos para assumir a posição processual do falecido. O juiz decide por decisão interlocutória, após ouvida a parte contrária (art. 690). Se a morte ocorrer após a sentença mas antes do trânsito em julgado, o processo fica suspenso até a habilitação (art. 689).</p>
+
+<h2>Legislação e Jurisprudência Essencial — Complemento</h2>
+
+<h3>Audiência de conciliação/mediação</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 334:</strong> audiência de conciliação ou mediação — designação obrigatória; antecedência mínima de 30 dias; citação com 20 dias de antecedência; §4º: não realização apenas se ambas as partes recusarem ou se o direito não admitir autocomposição; §8º: multa por não comparecimento; §10: representação por advogado com poderes para transigir.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 165, §§2º-3º:</strong> distinção entre conciliador (sem vínculo anterior) e mediador (com vínculo anterior).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 174:</strong> câmaras de mediação e conciliação da Administração Pública — criação obrigatória pela União, Estados, DF e Municípios.</p>
+
+<p><span class="tag tag-lei">Lei 13.140/2015</span> <strong>Arts. 32-40:</strong> autocomposição de conflitos pela Administração Pública.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>RMS 56.422/MS (4ª Turma, Rel. Min. Raul Araújo, j. 08/06/2021, Info 700):</strong> não cabe multa por não comparecimento pessoal à audiência de conciliação quando a parte estiver representada por advogado com poderes para transigir (art. 334, §10). Reiterado no REsp 2.168.199/RS (3ª Turma, j. 03/12/2024, Info 836).</p>
+
+<h3>Ação declaratória e questão prejudicial</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 19 e 20:</strong> ação declaratória — interesse limitado à declaração de existência/inexistência de relação jurídica ou autenticidade/falsidade de documento; cabível mesmo após violação do direito.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 503, §1º:</strong> extensão da coisa julgada à questão prejudicial — requisitos: (I) dependência do mérito; (II) contraditório prévio e efetivo (inaplicável em caso de revelia); (III) competência em razão da matéria e da pessoa.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>REsp 1.721.184/SP:</strong> ação declaratória pura é imprescritível; prescrição atinge apenas pretensão condenatória/constitutiva subjacente.</p>
+
+<h3>Incidentes processuais</h3>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 144-148:</strong> impedimento e suspeição.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 66, 951-959:</strong> conflito de competência.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 948-950:</strong> arguição de inconstitucionalidade (reserva de plenário).</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 976-987:</strong> IRDR.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 947:</strong> assunção de competência.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 430-433:</strong> falsidade documental.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 133-137:</strong> desconsideração da personalidade jurídica.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 687-692:</strong> habilitação.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula Vinculante 10:</strong> "Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte."</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 59:</strong> "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes."</p>
+
+<h2>Atenção Redobrada — Complemento</h2>
+
+<div class="atencao">
+<p><strong>Contumácia ≠ Revelia:</strong> contumácia é gênero (inatividade de qualquer parte, em qualquer momento); revelia é espécie (ausência de contestação do réu). Dizer que "o autor é revel" é erro técnico — o autor pode ser contumaz, mas não revel. A revelia é instituto exclusivo do réu e se refere apenas à falta de contestação.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Audiência do art. 334 e Fazenda Pública:</strong> a presença da Fazenda Pública como parte NÃO dispensa automaticamente a audiência de conciliação/mediação. A autocomposição é admitida em matéria de direito público (Lei 13.140/2015; art. 174, CPC). A dispensa só ocorre se ambas as partes (autor E Fazenda) manifestarem desinteresse expressamente.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Ação declaratória incidental — não existe mais como instituto autônomo:</strong> no CPC/2015, a funcionalidade da antiga ação declaratória incidental foi absorvida pelo art. 503, §1º (coisa julgada sobre questão prejudicial) e pela reconvenção declaratória (art. 343). O candidato que citar "ação declaratória incidental com base no art. 325 do CPC" está invocando dispositivo do CPC/1973, revogado.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 503, §1º — coisa julgada sobre prejudicial NÃO se forma em caso de revelia:</strong> o inciso II do §1º exige contraditório prévio e efetivo, expressamente excluindo a hipótese de revelia. Se o réu é revel, a questão prejudicial decidida no processo NÃO faz coisa julgada — apenas a questão principal (pedido) fará. Essa é uma pegadinha clássica.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Reserva de plenário (art. 97, CF) e improcedência liminar (art. 332):</strong> o juiz de primeiro grau pode julgar liminarmente improcedente o pedido com base em súmula vinculante ou tese de recurso repetitivo que verse sobre constitucionalidade — sem necessidade de incidente de arguição de inconstitucionalidade, pois a orientação já está fixada pelo STF. Mas se a questão constitucional não está pacificada, o juiz singular não pode declarar inconstitucionalidade — apenas os tribunais, pelo plenário ou órgão especial.</p>
+</div>
+
+<h2>Quadros Esquemáticos — Complemento</h2>
+
+<h3>Audiência de conciliação/mediação — quando é dispensada</h3>
+
+<table>
+<tr>
+<th>Hipótese</th>
+<th>Requisito</th>
+<th>Dispositivo</th>
+</tr>
+<tr>
+<td>Ambas as partes recusam</td>
+<td>Autor indica na inicial (art. 319, VII) + réu petição 10 dias antes (art. 334, §5º)</td>
+<td>Art. 334, §4º, I</td>
+</tr>
+<tr>
+<td>Direito não admite autocomposição</td>
+<td>Direito verdadeiramente indisponível (raro)</td>
+<td>Art. 334, §4º, II</td>
+</tr>
+<tr>
+<td>Improcedência liminar</td>
+<td>Pedido contraria precedente vinculante ou há prescrição/decadência</td>
+<td>Art. 332 (audiência nem é designada)</td>
+</tr>
+<tr>
+<td>Indeferimento da inicial</td>
+<td>Petição inepta, ilegitimidade, falta de interesse</td>
+<td>Art. 330 (audiência nem é designada)</td>
+</tr>
+</table>
+
+<h3>Contumácia — espécies e consequências</h3>
+
+<table>
+<tr>
+<th>Parte</th>
+<th>Espécie de contumácia</th>
+<th>Consequência</th>
+<th>Dispositivo</th>
+</tr>
+<tr>
+<td>Réu</td>
+<td>Revelia (não contestar)</td>
+<td>Presunção de veracidade dos fatos + dispensa de intimação + julgamento antecipado</td>
+<td>Arts. 344-346, 355, II</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td>Abandono (inércia por 30+ dias)</td>
+<td>Extinção sem mérito (exige intimação pessoal + requerimento do réu)</td>
+<td>Art. 485, III e §1º</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td>Não comparecimento à audiência de instrução</td>
+<td>Possível confissão ficta sobre fatos pessoais</td>
+<td>Art. 385, §1º</td>
+</tr>
+<tr>
+<td>Qualquer</td>
+<td>Não comparecimento à audiência de conciliação</td>
+<td>Multa de até 2% do valor da causa</td>
+<td>Art. 334, §8º</td>
+</tr>
+</table>
+
+<h3>Incidentes processuais — síntese</h3>
+
+<table>
+<tr>
+<th>Incidente</th>
+<th>Dispositivo</th>
+<th>Quem julga</th>
+<th>Efeito no processo</th>
+</tr>
+<tr>
+<td>Impedimento/suspeição</td>
+<td>Arts. 144-148</td>
+<td>Tribunal</td>
+<td>Suspensão</td>
+</tr>
+<tr>
+<td>Conflito de competência</td>
+<td>Arts. 66, 951-959</td>
+<td>Tribunal superior hierárquico</td>
+<td>Designação de juízo provisório</td>
+</tr>
+<tr>
+<td>Arguição de inconstitucionalidade</td>
+<td>Arts. 948-950</td>
+<td>Plenário/órgão especial</td>
+<td>Suspensão do julgamento no órgão fracionário</td>
+</tr>
+<tr>
+<td>IRDR</td>
+<td>Arts. 976-987</td>
+<td>Órgão indicado pelo regimento</td>
+<td>Suspensão dos processos pendentes</td>
+</tr>
+<tr>
+<td>Assunção de competência</td>
+<td>Art. 947</td>
+<td>Órgão indicado pelo regimento</td>
+<td>Vinculação dos juízes e órgãos fracionários</td>
+</tr>
+<tr>
+<td>Falsidade documental</td>
+<td>Arts. 430-433</td>
+<td>Juiz da causa</td>
+<td>Sem suspensão (decidido incidentalmente)</td>
+</tr>
+<tr>
+<td>Desconsideração da PJ</td>
+<td>Arts. 133-137</td>
+<td>Juiz da causa</td>
+<td>Suspensão</td>
+</tr>
+<tr>
+<td>Habilitação</td>
+<td>Arts. 687-692</td>
+<td>Juiz da causa</td>
+<td>Suspensão até habilitação</td>
+</tr>
+</table>

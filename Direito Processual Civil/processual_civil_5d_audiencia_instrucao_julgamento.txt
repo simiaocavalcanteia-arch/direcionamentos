@@ -132,7 +132,7 @@
 
 <p><span class="tag tag-stj">STJ</span> <strong>Julgamento antecipado parcial e honorários (2024)</strong> — o STJ vem enfrentando a questão dos honorários advocatícios no julgamento antecipado parcial do mérito (art. 356). A orientação que se consolida é de que os honorários relativos ao capítulo julgado antecipadamente podem ser fixados desde logo na decisão interlocutória, sem necessidade de aguardar o julgamento final dos demais pedidos.</p>
 
-<p><span class="tag tag-stf">STF</span> <strong>Audiências virtuais e garantias processuais (2024)</strong> — o STF reconheceu a constitucionalidade da realização de audiências de instrução e julgamento por videoconferência, desde que preservadas as garantias do contraditório, da ampla defesa e da publicidade. A prática, intensificada durante a pandemia, foi consolidada pela Resolução CNJ 354/2020 (com alterações das Resoluções CNJ 481/2022 e 508/2023). O STF ressalvou que a parte pode requerer a realização presencial quando demonstrar prejuízo concreto à sua defesa.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Audiências virtuais e garantias processuais (2024)</strong> — o STF reconheceu a constitucionalidade da realização de audiências de instrução e julgamento por videoconferência, desde que preservadas as garantias do contraditório, da ampla defesa e da publicidade. A prática, intensificada durante a pandemia, foi consolidada pela Resolução CNJ 354/2020 (com alterações da Resolução CNJ 481/2022). O STF ressalvou que a parte pode requerer a realização presencial quando demonstrar prejuízo concreto à sua defesa.</p>
 
 <h2>Quadros Esquemáticos</h2>
 

@@ -158,7 +158,7 @@
 
 <table>
 <tr><th>Modalidade</th><th>Requisitos</th><th>Proventos</th></tr>
-<tr><td>Voluntária</td><td>62/65 anos (M/H); 25 anos TC; 10 anos SP; 5 anos no cargo</td><td>60% da média + 2%/ano acima de 20 TC</td></tr>
+<tr><td>Voluntária</td><td>62/65 anos (M/H); 25 anos TC; 10 anos SP; 5 anos no cargo</td><td>60% da média + 2%/ano acima de 20 TC (homem) ou 15 TC (mulher)</td></tr>
 <tr><td>Compulsória</td><td>75 anos de idade (LC 152/2015)</td><td>Proporcionais ao tempo de contribuição</td></tr>
 <tr><td>Incapacidade permanente</td><td>Laudo médico oficial atestando incapacidade</td><td>Proporcionais; integrais se acidente em serviço ou doença profissional (Tema 1.300: proporcional para doença grave pós-EC 103)</td></tr>
 </table>
