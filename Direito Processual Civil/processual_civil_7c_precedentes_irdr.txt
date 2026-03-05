@@ -1,0 +1,89 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 7c — Precedentes e Casos Repetitivos. Força Vinculante da Jurisprudência. Incidente de Resolução de Demandas Repetitivas. Incidente de Assunção de Competência. Julgamento de Recursos Extraordinário e Especial Repetitivos. Reclamação. Súmulas. Súmula Vinculante. Modulação Temporal da Jurisprudência</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O CPC/2015 instituiu um sistema de precedentes vinculantes (art. 927) que transformou a relação entre jurisprudência e decisões judiciais. Para o Procurador do Estado, este é tema de altíssima relevância: a Fazenda Pública é a maior litigante do país e os precedentes vinculantes determinam a estratégia de defesa — saber quando a tese está pacificada, quando cabe reclamação e quando há espaço para distinguishing é essencial.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Sistema de precedentes vinculantes (art. 927)</h3>
+
+<p>Os juízes e tribunais devem observar (art. 927): (I) decisões do STF em controle concentrado de constitucionalidade; (II) enunciados de súmula vinculante; (III) acórdãos em IRDR e IAC; (IV) enunciados de súmula do STF em matéria constitucional e do STJ em matéria infraconstitucional; (V) orientação do plenário ou órgão especial a que estiverem vinculados.</p>
+
+<p><strong>Distinção entre precedente vinculante e persuasivo:</strong> os precedentes do art. 927 são obrigatórios — o juiz não pode decidir em sentido contrário sem demonstrar distinguishing (distinção do caso concreto) ou superação (overruling). Precedentes meramente persuasivos (ex.: decisões de turmas que não se enquadram no art. 927) podem ser seguidos ou não, mediante fundamentação.</p>
+
+<p><strong>Dever de fundamentação (art. 489, §1º, V e VI):</strong> não se considera fundamentada a decisão que: (V) se limitar a invocar precedente sem identificar seus fundamentos determinantes nem demonstrar que o caso se ajusta àqueles fundamentos; (VI) deixar de seguir precedente invocado pela parte sem demonstrar a existência de distinção ou superação.</p>
+
+<h3>Incidente de Resolução de Demandas Repetitivas — IRDR (arts. 976-987)</h3>
+
+<p><strong>Cabimento (art. 976):</strong> quando houver, simultaneamente: (I) efetiva repetição de processos com controvérsia sobre a mesma questão unicamente de direito; (II) risco de ofensa à isonomia e à segurança jurídica.</p>
+
+<p><strong>Legitimidade (art. 977):</strong> pode ser instaurado de ofício pelo relator/órgão colegiado, ou a requerimento das partes, do Ministério Público ou da Defensoria Pública.</p>
+
+<p><strong>Competência:</strong> julgado pelo órgão indicado pelo regimento interno do tribunal (art. 978).</p>
+
+<p><strong>Efeito suspensivo (art. 982, I):</strong> admitido o IRDR, suspendem-se os processos pendentes na área de jurisdição do tribunal. O relator pode requisitar a suspensão nacional ao STJ ou STF (art. 982, §3º).</p>
+
+<p><strong>Tese jurídica (art. 985):</strong> a tese fixada aplica-se a todos os processos pendentes e futuros na jurisdição do tribunal. Se interposto RE ou REsp, a tese terá alcance nacional.</p>
+
+<p><strong>Prazo de julgamento:</strong> 1 ano (art. 980), sob pena de cessação da suspensão dos processos.</p>
+
+<h3>Incidente de Assunção de Competência — IAC (art. 947)</h3>
+
+<p><strong>Cabimento:</strong> quando o julgamento de recurso, remessa necessária ou processo de competência originária envolver relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos.</p>
+
+<p><strong>Distinção do IRDR:</strong> o IAC é para questões relevantes sem repetição massiva; o IRDR é para questões com efetiva repetição. São complementares.</p>
+
+<p><strong>Vinculação (art. 947, §3º):</strong> o acórdão proferido vincula todos os juízes e órgãos fracionários do tribunal, exceto se houver revisão de tese.</p>
+
+<h3>Recursos repetitivos (arts. 1.036-1.041)</h3>
+
+<p><strong>Afetação (art. 1.036):</strong> quando houver multiplicidade de recursos com fundamento em idêntica questão de direito, o presidente/vice do tribunal selecionará 2 ou mais recursos representativos da controvérsia para afetação ao STJ ou STF.</p>
+
+<p><strong>Suspensão (art. 1.037, II):</strong> afetada a questão, o relator determinará a suspensão dos processos pendentes em todo o território nacional.</p>
+
+<p><strong>Tese vinculante (art. 1.040):</strong> publicado o acórdão paradigma, os tribunais de origem: (I) negarão seguimento aos recursos sobrestados se a decisão recorrida estiver em consonância com a tese; (II) reexaminarão se estiver em dissonância.</p>
+
+<h3>Reclamação (arts. 988-993)</h3>
+
+<p><strong>Cabimento (art. 988):</strong> para: (I) preservar a competência do tribunal; (II) garantir a autoridade das decisões do tribunal; (III) garantir a observância de enunciado de súmula vinculante e de decisão em controle concentrado; (IV) garantir a observância de acórdão proferido em IRDR, IAC ou repetitivo (desde que esgotadas as instâncias ordinárias).</p>
+
+<p><strong>Legitimidade:</strong> a parte interessada ou o Ministério Público (art. 988, caput).</p>
+
+<p><strong>Inadmissibilidade (art. 988, §5º, II):</strong> é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada.</p>
+
+<h3>Súmula vinculante (art. 103-A, CF; Lei 11.417/2006)</h3>
+
+<p>O STF pode, de ofício ou por provocação, aprovar súmula vinculante após reiteradas decisões sobre matéria constitucional. A súmula vincula todo o Poder Judiciário e a Administração Pública. O descumprimento enseja reclamação direta ao STF (art. 103-A, §3º, CF).</p>
+
+<h3>Modulação temporal (art. 927, §3º)</h3>
+
+<p>Na hipótese de alteração de jurisprudência dominante do STF e dos tribunais superiores, ou de alteração de tese fixada em IRDR/repetitivo, pode haver modulação dos efeitos da alteração no interesse da segurança jurídica (art. 927, §3º). A modulação permite que o tribunal defina a partir de quando a nova orientação se aplica, protegendo situações consolidadas sob a orientação anterior.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 927:</strong> rol de precedentes obrigatórios — 5 incisos.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 976-987:</strong> IRDR — cabimento, suspensão, tese, prazo.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 947:</strong> IAC — cabimento, vinculação.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 1.036-1.041:</strong> recursos repetitivos — afetação, suspensão, tese.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 988-993:</strong> reclamação — cabimento (4 hipóteses), inadmissibilidade após trânsito.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 103-A:</strong> súmula vinculante.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 927, §3º:</strong> modulação temporal.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885 (REs 949.297 e 955.227, Plenário, 8/2/2023):</strong> limites da coisa julgada em matéria tributária — a coisa julgada tributária cessa seus efeitos quando o STF decide em sentido contrário em controle concentrado ou repercussão geral.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>IRDR versus repetitivos:</strong> o IRDR é instrumento de tribunal local/regional; os repetitivos são do STJ/STF. A tese do IRDR vincula na área de jurisdição do tribunal; a tese dos repetitivos vincula nacionalmente. Ambos geram suspensão de processos, mas em âmbitos diferentes.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Reclamação exige esgotamento das instâncias ordinárias (art. 988, §5º, I):</strong> para garantir observância de IRDR/IAC/repetitivo, é inadmissível reclamação sem esgotamento prévio. Mas para súmula vinculante e controle concentrado, a reclamação é direta ao STF.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Distinguishing versus overruling:</strong> o distinguishing é a demonstração de que o caso concreto difere do precedente, justificando decisão diversa. O overruling é a superação do precedente pelo próprio tribunal que o firmou. Juízes de primeiro grau podem fazer distinguishing, mas não overruling — apenas o tribunal autor do precedente pode superá-lo.</p>
+</div>

@@ -1,0 +1,166 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 7b — Recursos para os Tribunais Superiores. Recurso Ordinário. Recurso Especial. Recurso Extraordinário. Agravo em Recurso Especial e Extraordinário. Embargos de Divergência</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os recursos extraordinário (RE) e especial (REsp) são os instrumentos de acesso às cortes superiores — STF e STJ, respectivamente. São recursos de fundamentação vinculada, com pressupostos específicos de admissibilidade que vão além dos exigidos nos recursos ordinários. Para a Fazenda Pública, esses recursos são ferramentas cotidianas: o Estado do Rio de Janeiro litiga em volumes expressivos nas instâncias superiores, e a correta interposição e defesa nesses recursos pode definir teses com repercussão sobre milhares de processos.</p>
+
+<p>O CPC/2015 aprofundou a sistematização dos recursos excepcionais nos arts. 1.029-1.041, regulando minuciosamente o procedimento de interposição, o juízo de admissibilidade na origem, o agravo contra inadmissão (art. 1.042) e o julgamento de recursos repetitivos (arts. 1.036-1.041). A Emenda Constitucional 125/2022 introduziu o filtro de relevância para o recurso especial, nos moldes da repercussão geral do RE, o que representa mudança estrutural no sistema recursal brasileiro.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Recurso extraordinário (art. 102, III, CF)</h3>
+
+<p>Compete ao STF julgar, em recurso extraordinário, as causas decididas em única ou última instância quando a decisão recorrida: (a) contrariar dispositivo da Constituição; (b) declarar a inconstitucionalidade de tratado ou lei federal; (c) julgar válida lei ou ato de governo local contestado em face da Constituição; (d) julgar válida lei local contestada em face de lei federal.</p>
+
+<p>O pressuposto específico do RE é a <strong>repercussão geral</strong> (art. 102, §3º, CF; art. 1.035, CPC): o recorrente deve demonstrar que a questão constitucional possui relevância que transcenda os interesses subjetivos da causa, por conter aspecto econômico, político, social ou jurídico significativo. A repercussão geral é <strong>presumida</strong> quando a decisão recorrida contrariar súmula ou jurisprudência dominante do STF, ou tiver reconhecido a inconstitucionalidade de tratado ou lei federal (art. 1.035, §3º).</p>
+
+<p>O reconhecimento ou a rejeição da repercussão geral é decisão do Plenário do STF, por manifestação de dois terços dos membros (8 ministros), e tem efeito vinculante para os demais processos sobre a mesma matéria. Se a repercussão geral é negada, todos os RE sobre aquele tema ficam inadmitidos.</p>
+
+<h3>Recurso especial (art. 105, III, CF)</h3>
+
+<p>Compete ao STJ julgar, em recurso especial, as causas decididas em única ou última instância pelos TRFs ou TJs quando a decisão recorrida: (a) contrariar tratado ou lei federal, ou negar-lhes vigência; (b) julgar válido ato de governo local contestado em face de lei federal; (c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.</p>
+
+<p>O REsp pela alínea "c" (dissídio jurisprudencial) exige demonstração analítica da divergência: não basta transcrever ementas — o recorrente deve confrontar os trechos dos acórdãos paradigma e recorrido, demonstrando que, diante de situações fáticas semelhantes, os tribunais deram interpretações divergentes à mesma lei federal (art. 1.029, §1º).</p>
+
+<div class="destaque">
+<p><strong>Filtro de relevância (EC 125/2022):</strong> a Emenda Constitucional 125/2022 acrescentou o §2º ao art. 105 da CF, exigindo que o recorrente demonstre a "relevância das questões de direito federal infraconstitucional discutidas no caso" como requisito de admissibilidade do recurso especial. O instituto é análogo à repercussão geral do RE e será exigido a partir da regulamentação por lei, que está em fase de elaboração. Quando implementado, será um filtro adicional para o REsp, e a rejeição da relevância por 2/3 dos membros do órgão competente para o julgamento impedirá o conhecimento do recurso. Presume-se a relevância nos seguintes casos (art. 105, §3º): (I) ações penais; (II) ações de improbidade administrativa; (III) ações cujo valor da causa ultrapasse 500 salários-mínimos; (IV) ações que possam gerar inelegibilidade; (V) hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do STJ; (VI) outras hipóteses previstas em lei.</p>
+</div>
+
+<h3>Pressupostos comuns: prequestionamento e esgotamento das instâncias</h3>
+
+<p>Tanto o RE quanto o REsp exigem que a matéria constitucional ou federal tenha sido <strong>prequestionada</strong> — debatida e decidida pelo tribunal de origem. A Súmula 282/STF ("é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e a Súmula 356/STF ("o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento") continuam aplicáveis.</p>
+
+<p>O CPC/2015 atenuou a rigidez com o <strong>prequestionamento ficto</strong> (art. 1.025): se a parte opôs embargos de declaração suscitando a questão e os embargos foram rejeitados, a matéria se considera prequestionada, desde que o tribunal superior reconheça que o vício existia. Na prática, a oposição de embargos de declaração continua sendo etapa obrigatória da estratégia recursal.</p>
+
+<p>Outro pressuposto é o <strong>esgotamento das instâncias ordinárias</strong>: só cabe RE ou REsp contra decisão de tribunal (TJ, TRF). Decisão de juiz de primeiro grau não admite recurso excepcional diretamente (Súmula 203/STJ para os Juizados, com ressalvas).</p>
+
+<h3>Juízo de admissibilidade e agravo (art. 1.042)</h3>
+
+<p>O RE e o REsp são interpostos perante o presidente ou vice-presidente do tribunal de origem, que realiza o juízo de admissibilidade (art. 1.030). Se o recurso for inadmitido, cabe <strong>agravo em recurso especial ou extraordinário</strong> (art. 1.042) diretamente ao STJ ou STF. O prazo é de 15 dias úteis (30 para a Fazenda). O CPC/2015 suprimiu o antigo agravo de instrumento contra inadmissão na origem.</p>
+
+<p>Atenção à sistemática do art. 1.030: o presidente do tribunal de origem pode (I) negar seguimento a RE que discuta questão cuja repercussão geral foi negada ou a RE/REsp interposto contra acórdão que esteja em conformidade com tese fixada em repetitivo; (II) encaminhar o RE se reconhecida a repercussão geral; (III) sobrestar o RE/REsp fundado em repetitivo pendente; (IV) selecionar o RE/REsp como representativo de controvérsia; (V) admitir ou inadmitir o recurso. Contra a decisão de inadmissão (inciso V), cabe agravo (art. 1.042). Contra as demais (incisos I e III), cabe agravo interno ao próprio tribunal de origem (art. 1.021).</p>
+
+<h3>Recursos repetitivos (arts. 1.036-1.041)</h3>
+
+<p>Os recursos repetitivos são o mecanismo de julgamento por amostragem de questões idênticas que se repetem em múltiplos processos. Quando há multiplicidade de RE ou REsp com fundamento em idêntica questão de direito, o presidente do tribunal de origem seleciona dois ou mais recursos representativos e os encaminha ao STJ ou STF, <strong>sobrestando</strong> os demais até o julgamento do tema (art. 1.036, §1º).</p>
+
+<p>Qualquer interessado pode requerer a <strong>distinção</strong> (<em>distinguishing</em>) entre a questão do caso concreto e a questão afetada pelo repetitivo, para demonstrar que seu recurso não deve ficar sobrestado (art. 1.037, §9º). O <strong>amicus curiae</strong> pode participar do julgamento de repetitivos, ampliando o contraditório e a legitimidade democrática da tese fixada (art. 1.038, I).</p>
+
+<p>Julgado o repetitivo, os efeitos são: (i) os tribunais de origem aplicam a tese aos processos sobrestados — se o acórdão local está em conformidade, nega-se seguimento ao RE/REsp; se diverge, o tribunal local pode exercer juízo de retratação (art. 1.040, II); (ii) a tese fixada vincula juízes e tribunais, integrando o sistema de precedentes obrigatórios (art. 927, III).</p>
+
+<h3>Efeitos e particularidades para a Fazenda</h3>
+
+<p>O RE e o REsp <strong>não têm efeito suspensivo</strong> (art. 995). A parte pode requerer ao tribunal de origem, ao relator do recurso no tribunal superior, ou ao presidente do tribunal de origem a concessão de efeito suspensivo ou tutela provisória recursal (art. 1.029, §5º). Para a Fazenda Pública, isso é frequentemente necessário: quando a decisão do tribunal local condena o Estado e o RE/REsp não tem efeito suspensivo, a execução pode ser iniciada enquanto o recurso tramita.</p>
+
+<p>A Fazenda goza das mesmas prerrogativas: prazo em dobro (30 dias úteis), dispensa de preparo, intimação pessoal. Os recursos repetitivos são especialmente relevantes para a advocacia pública, pois temas tributários, previdenciários, funcionais e de responsabilidade civil do Estado são frequentemente afetados pela sistemática repetitiva.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 102, III</strong> — recurso extraordinário. Quatro alíneas (a, b, c, d). Pressuposto: repercussão geral (§3º).</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 105, III</strong> — recurso especial. Três alíneas (a, b, c). EC 125/2022: filtro de relevância (§2º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.029</strong> — interposição de RE e REsp. §1º: cotejo analítico para dissídio. §5º: efeito suspensivo e tutela provisória.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.030</strong> — juízo de admissibilidade na origem. Cinco hipóteses de decisão do presidente do tribunal.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.035</strong> — repercussão geral. §3º: presunção de repercussão (contrariedade a súmula/jurisprudência dominante do STF, declaração de inconstitucionalidade).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.025</strong> — prequestionamento ficto. Aplica-se a RE e REsp.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.042</strong> — agravo em RE/REsp contra decisão de inadmissão na origem.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 1.036-1.041</strong> — recursos repetitivos. Sobrestamento, distinção, amicus curiae, juízo de retratação, vinculação da tese.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmulas 282 e 356</strong> — exigência de prequestionamento para RE. Continuam aplicáveis, com atenuação pelo art. 1.025.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 7</strong> — "a pretensão de simples reexame de prova não enseja recurso especial." Vedação ao reexame fático-probatório.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 83</strong> — "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida." Limitação ao REsp pela alínea "c".</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelas normas constitucionais (arts. 102, III, e 105, III, CF) e memorize as alíneas de cada recurso — a prova pode cobrar a distinção entre elas. Em seguida, leia os arts. 1.029-1.035 (RE e REsp) e 1.036-1.041 (repetitivos). O art. 1.030 é essencial para entender o novo juízo de admissibilidade na origem e os recursos cabíveis contra cada tipo de decisão.</p>
+
+<p>Para o prequestionamento, domine as Súmulas 282 e 356 do STF e o art. 1.025 do CPC (ficto). Saiba que a oposição de embargos de declaração é etapa necessária quando o tribunal de origem não enfrentou a questão federal ou constitucional. Sem prequestionamento, o recurso não será conhecido.</p>
+
+<p>Sobre repetitivos, concentre-se no fluxo: afetação → sobrestamento → julgamento → aplicação da tese (art. 1.040). Conheça o mecanismo de distinção (§9º do art. 1.037) e o juízo de retratação (art. 1.040, II). Essas regras definem a dinâmica da litigância em massa, central para a Fazenda.</p>
+
+<p>Grave as Súmulas 7 (reexame de provas) e 83 (divergência superada) do STJ — são as causas mais frequentes de inadmissão de REsp. Conecte com o Ponto 7b (embargos de declaração e prequestionamento ficto) e com o Ponto 6c (coisa julgada — a tese fixada em repetitivo pode fundamentar rescisória se contrária a decisão transitada).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Recurso cabível contra cada decisão do art. 1.030:</strong> a sistematização do art. 1.030 gera confusão. Quando o presidente inadmite o recurso (inciso V) → agravo ao STJ/STF (art. 1.042). Quando nega seguimento por repercussão geral negada ou conformidade com repetitivo (inciso I) → agravo interno ao próprio tribunal (art. 1.021). Quando sobresta o recurso (inciso III) → agravo interno ou pedido de distinção. Trocar os recursos é erro frequente e grave.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Reexame de prova × revaloração jurídica de prova:</strong> a Súmula 7/STJ veda o reexame de prova em REsp (revisitar fatos e provas para chegar a conclusão diversa). Porém, o STJ admite a revaloração jurídica de fatos já estabelecidos pelo tribunal de origem (aplicar a qualificação jurídica correta aos fatos incontroversos). A distinção é sutil e muito explorada em provas.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Interposição simultânea de RE e REsp:</strong> quando o acórdão contém questão constitucional (RE) e questão infraconstitucional (REsp), ambos devem ser interpostos simultaneamente. Se a parte interpõe apenas o REsp e o STJ entende que a questão é constitucional, remete ao STF (art. 1.032). Se interpõe apenas o RE e o STF entende que a violação é de lei infraconstitucional, remete ao STJ (art. 1.033). Esses dispositivos de "conversão" são novidade do CPC/2015.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Filtro de relevância (EC 125/2022) — ainda não implementado:</strong> embora já aprovada, a EC 125/2022 depende de regulamentação infraconstitucional para que o filtro de relevância passe a ser exigido como requisito de admissibilidade do REsp. Até a regulamentação, o REsp segue com os pressupostos tradicionais. É essencial acompanhar a tramitação legislativa, pois a implementação pode ocorrer a qualquer momento.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Tese fixada em repetitivo vincula, mas admite distinção:</strong> a tese fixada em recurso repetitivo é obrigatória (art. 927, III), mas a parte pode demonstrar que seu caso concreto se distingue do paradigma (<em>distinguishing</em>). A distinção deve ser fundamentada em diferenças fáticas ou jurídicas relevantes — não basta discordar da tese. Para a Fazenda, saber distinguir é tão importante quanto aplicar o precedente.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Repercussão geral — 15 anos de aplicação</strong> — desde a EC 45/2004, o STF reconheceu ou negou repercussão geral em mais de 1.400 temas. A experiência do STF serviu de modelo para o filtro de relevância do REsp (EC 125/2022). O STJ já anunciou que se inspirou na experiência do STF para elaborar a regulamentação.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 7 e seus contornos</strong> — a Súmula 7 é a causa mais frequente de inadmissão de REsp. O STJ, porém, excetua hipóteses como: (i) revaloração jurídica dos fatos já estabelecidos; (ii) verificação de contrariedade a regras de experiência e presunções legais; (iii) análise de cláusula contratual (matéria de direito, não de fato).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Conversão de REsp em RE e vice-versa (arts. 1.032-1.033)</strong> — o STJ vem aplicando rotineiramente os arts. 1.032 e 1.033, remetendo processos ao STF quando identifica fundamento constitucional e recebendo do STF processos com fundamento infraconstitucional. O mecanismo evita a perda do recurso por erro na identificação do tribunal competente.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>EC 125/2022 — regulamentação em andamento (2024-2025)</strong> — o STJ encaminhou ao Senado proposta para regulamentar o filtro de relevância. O projeto prevê presunção de relevância para recursos que envolvam: (i) questão penal; (ii) questão com repercussão de massa; (iii) matéria de direitos fundamentais; (iv) contrariedade a súmula do STJ. Enquanto a regulamentação não é aprovada, o REsp continua sendo admitido sem exigência de demonstração de relevância.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Volume de repetitivos (2024-2025)</strong> — o STJ julgou 37 temas repetitivos no primeiro semestre de 2025, reafirmando a importância do mecanismo para a uniformização da jurisprudência. Dentre os temas, vários diretamente relacionados à Fazenda Pública: execução fiscal, tributos estaduais, responsabilidade civil do Estado e servidores públicos.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Agravo em REsp — julgamento direto pelo colegiado (2024)</strong> — o STJ consolidou a prática de julgar diretamente o mérito do REsp quando o agravo em recurso especial (art. 1.042) é provido, sem necessidade de retorno dos autos à origem para novo juízo de admissibilidade. Essa orientação acelera o julgamento e é relevante para a Fazenda, que pode obter decisão definitiva mais rapidamente.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Recurso Extraordinário (RE)</th><th>Recurso Especial (REsp)</th></tr>
+<tr><td><strong>Tribunal</strong></td><td>STF</td><td>STJ</td></tr>
+<tr><td><strong>Fundamento constitucional</strong></td><td>Art. 102, III, CF</td><td>Art. 105, III, CF</td></tr>
+<tr><td><strong>Matéria</strong></td><td>Questão constitucional</td><td>Questão de lei federal / tratado</td></tr>
+<tr><td><strong>Alíneas</strong></td><td>a, b, c, d</td><td>a, b, c</td></tr>
+<tr><td><strong>Requisito específico</strong></td><td>Repercussão geral (art. 1.035)</td><td>Filtro de relevância (EC 125/2022 — pendente)</td></tr>
+<tr><td><strong>Reexame de provas</strong></td><td>Vedado (Súmula 279/STF)</td><td>Vedado (Súmula 7/STJ)</td></tr>
+<tr><td><strong>Prequestionamento</strong></td><td>Obrigatório (Súmulas 282/356)</td><td>Obrigatório (Súmulas 282/356 por analogia + art. 1.025)</td></tr>
+<tr><td><strong>Efeito suspensivo</strong></td><td>Não (requerível)</td><td>Não (requerível)</td></tr>
+</table>
+
+<table>
+<tr><th>Art. 1.030 — Decisão do presidente do tribunal de origem</th><th>Recurso cabível</th></tr>
+<tr><td><strong>Inciso I</strong> — Negativa de seguimento (repercussão geral negada ou conformidade com repetitivo)</td><td>Agravo interno (art. 1.021) ao próprio tribunal</td></tr>
+<tr><td><strong>Inciso III</strong> — Sobrestamento (tema repetitivo pendente)</td><td>Agravo interno ou pedido de distinção (art. 1.037, §9º)</td></tr>
+<tr><td><strong>Inciso V</strong> — Inadmissão do recurso</td><td>Agravo em RE/REsp (art. 1.042) ao STF/STJ</td></tr>
+</table>
+
+<table>
+<tr><th>Fluxo dos recursos repetitivos</th></tr>
+<tr><td><strong>1.</strong> Identificação de multiplicidade de RE/REsp com questão idêntica</td></tr>
+<tr><td><strong>2.</strong> Seleção de recursos representativos + sobrestamento dos demais (art. 1.036)</td></tr>
+<tr><td><strong>3.</strong> Possibilidade de distinção pela parte interessada (art. 1.037, §9º)</td></tr>
+<tr><td><strong>4.</strong> Abertura para amicus curiae (art. 1.038, I)</td></tr>
+<tr><td><strong>5.</strong> Julgamento pelo STF/STJ e fixação de tese vinculante (art. 1.038)</td></tr>
+<tr><td><strong>6.</strong> Aplicação da tese: conformidade → negativa de seguimento; divergência → juízo de retratação (art. 1.040)</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre RE e REsp, demonstre domínio das diferenças entre ambos (matéria constitucional × infraconstitucional), dos pressupostos comuns (prequestionamento, esgotamento das instâncias, vedação ao reexame de provas) e dos específicos (repercussão geral para RE, filtro de relevância para REsp). Cite o art. 1.025 (prequestionamento ficto), o art. 1.030 (juízo de admissibilidade na origem) e os repetitivos (arts. 1.036-1.041). Se Fazenda for mencionada, conecte com a litigância de massa e a importância estratégica dos repetitivos para a advocacia pública.</p>
+</div>

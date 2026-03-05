@@ -1,0 +1,336 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8c — Execução. Teoria Geral. Princípios. Disposições Gerais. Espécies. Competência. Legitimidade. Título Executivo. Responsabilidade Patrimonial. Fraudes. Execução de Título Extrajudicial. Penhora. Avaliação. Expropriação</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A execução é a fase processual destinada à satisfação efetiva do direito do credor. Enquanto o processo de conhecimento define <em>se</em> existe o direito, a execução realiza concretamente o direito já reconhecido ou documentado em título executivo. Para a Fazenda Pública, a execução se desdobra em duas perspectivas opostas: como credora (execução fiscal, cobrança de créditos tributários e não tributários), a Fazenda busca satisfação de seus créditos; como devedora (cumprimento de sentença contra o Estado), enfrenta regime especial de precatórios e RPV.</p>
+
+<p>O CPC/2015 consolidou o modelo sincrético, em que conhecimento e execução integram o mesmo processo (cumprimento de sentença — arts. 513-538), mantendo também o processo autônomo de execução para títulos extrajudiciais (arts. 771-925). Os princípios fundamentais — nulla executio sine titulo, patrimonialidade, menor onerosidade, resultado — regem ambas as modalidades e são frequentemente cobrados em provas discursivas.</p>
+
+<p>Este ponto introduz os fundamentos que serão aplicados nos pontos seguintes: cumprimento de sentença (8b), execução de título extrajudicial (8c), execução contra Fazenda (8d) e execução fiscal (8e).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Princípios fundamentais da execução</h3>
+
+<p><strong>Nulla executio sine titulo:</strong> toda execução pressupõe título executivo — judicial ou extrajudicial — que corporifique obrigação certa, líquida e exigível (art. 783). Sem título, não há execução. O título é o documento que permite a instauração da atividade executiva, dispensando novo processo de conhecimento.</p>
+
+<p><strong>Patrimonialidade (art. 789):</strong> a execução recai sobre o patrimônio do devedor, e não sobre sua pessoa. O devedor responde com todos os seus bens presentes e futuros, salvo as restrições legais (impenhorabilidades). No direito brasileiro contemporâneo, a prisão civil por dívida é exceção constitucional restrita ao devedor de alimentos (art. 5º, LXVII, CF).</p>
+
+<p><strong>Menor onerosidade (art. 805):</strong> quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado. O §único do art. 805 acrescenta que o executado deve indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados. Essa regra equilibra o direito do credor à satisfação com a proteção do devedor contra excessos.</p>
+
+<p><strong>Resultado (satisfatividade):</strong> a execução deve ser conduzida no interesse do exequente, que tem direito a obter exatamente aquilo a que faz jus. Não há utilidade em execução que não produza resultado — se a atividade executiva não alcançar bens suficientes para satisfazer o crédito, a execução será suspensa (art. 921, III).</p>
+
+<p><strong>Boa-fé e cooperação:</strong> os princípios dos arts. 5º e 6º do CPC aplicam-se igualmente à execução. Atos atentatórios à dignidade da justiça por parte do executado (art. 774) sujeitam-no a multa de até 20% do valor do débito.</p>
+
+<h3>Títulos executivos judiciais (art. 515)</h3>
+
+<p>São títulos executivos judiciais: (I) decisões que reconheçam a exigibilidade de obrigação de pagar, fazer, não fazer ou entregar coisa; (II) decisão homologatória de autocomposição judicial; (III) decisão homologatória de autocomposição extrajudicial de qualquer natureza; (IV) formal e certidão de partilha; (V) crédito de auxiliar da justiça; (VI) sentença penal condenatória transitada em julgado; (VII) sentença arbitral; (VIII) sentença estrangeira homologada pelo STJ; (IX) decisão interlocutória estrangeira após concessão de exequatur.</p>
+
+<p>Os títulos judiciais são executados por <strong>cumprimento de sentença</strong> (arts. 513-538), dentro do mesmo processo em que foram formados (modelo sincrético). A exceção são os títulos dos incisos VI a IX, que exigem processo autônomo de execução.</p>
+
+<h3>Títulos executivos extrajudiciais (art. 784)</h3>
+
+<p>São títulos executivos extrajudiciais: (I) letra de câmbio, nota promissória, duplicata, debênture e cheque; (II) escritura pública ou documento público assinado pelo devedor; (III) documento particular assinado pelo devedor e duas testemunhas; (IV) instrumento de transação referendado pelo MP, Defensoria ou advogados; (V) contrato garantido por hipoteca, penhor, anticrese ou outro direito real de garantia; (VI) contrato de seguro de vida em caso de morte; (VII) crédito decorrente de foro e laudêmio; (VIII) crédito de serventias notariais e de registro; (IX) CDA — Certidão de Dívida Ativa da Fazenda Pública; (X) crédito referente a custas do NCPC; (XI) todos os demais títulos previstos em lei.</p>
+
+<p>Os títulos extrajudiciais são executados por <strong>processo de execução autônomo</strong> (arts. 771 e seguintes). Destaque especial para o inciso IX: a CDA é o título que fundamenta a execução fiscal (Lei 6.830/1980), instrumento central da advocacia pública na recuperação de créditos do Estado.</p>
+
+<h3>Requisitos do título: certeza, liquidez e exigibilidade</h3>
+
+<p>Todo título executivo deve reunir três atributos (art. 783): <strong>certeza</strong> (a obrigação existe e é definida quanto ao objeto e aos sujeitos); <strong>liquidez</strong> (o valor é determinado ou determinável por simples cálculo aritmético); e <strong>exigibilidade</strong> (o prazo para cumprimento venceu, ou a condição se implementou). A ausência de qualquer desses atributos impede a instauração da execução — ou, se esta já foi iniciada, fundamenta a impugnação ou embargos do executado.</p>
+
+<h3>Responsabilidade patrimonial (arts. 789-796)</h3>
+
+<p>A responsabilidade patrimonial primária recai sobre o devedor, que responde com todos os seus bens (art. 789). O art. 790 amplia a responsabilidade para incluir: (I) sucessor a título singular; (II) sócio nos termos da lei; (III) devedor de garantia real; (IV) cônjuge ou companheiro nos casos de dívida comum; (V) fiador (limitações da Lei 8.009/90); (VI) responsável tributário; (VII) responsável por despesa processual.</p>
+
+<p>A <strong>fraude à execução</strong> (art. 792) ocorre quando o devedor aliena ou onera bens durante a pendência de ação capaz de reduzi-lo à insolvência, tornando o ato ineficaz perante o exequente. As hipóteses incluem: pendência de ação fundada em direito real, averbação da pendência de execução (art. 828), existência de constrição judicial sobre o bem, e demais casos previstos em lei. A fraude à execução dispensa ação pauliana — o ato é declarado ineficaz nos próprios autos da execução.</p>
+
+<h3>Impenhorabilidades (arts. 832-834)</h3>
+
+<p>O CPC e leis especiais preveem bens absolutamente impenhoráveis (art. 833): (I) vestuário e pertences de uso pessoal; (II) móveis e utensílios domésticos (salvo de valor elevado); (III) vestuário e pertences necessários ao exercício de profissão; (IV) vencimentos, subsídios, soldos e salários (com exceções para dívida alimentícia e valores superiores a 50 SM — §2º); (V) livros, máquinas e instrumentos de trabalho; (VI) seguro de vida; (VII) materiais de construção incorporados ao solo; (VIII) pequena propriedade rural; (IX) recursos públicos do Tesouro. A Lei 8.009/1990 protege o bem de família.</p>
+
+<div class="destaque">
+<p><strong>Execução e Fazenda Pública — dupla posição:</strong> como credora, a Fazenda executa seus créditos por execução fiscal (Lei 6.830/80), com prerrogativas próprias (art. 784, IX — CDA como título). Como devedora, a Fazenda está sujeita a regime especial: não há penhora de bens públicos (impenhorabilidade — art. 100, CF), e o pagamento se faz por precatório ou RPV (art. 535, §3º, CPC). Essa dualidade é frequente em provas e exige do candidato domínio de ambas as perspectivas.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 515</strong> — títulos executivos judiciais. Nove incisos. Cumprimento de sentença (modelo sincrético).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 784</strong> — títulos executivos extrajudiciais. Doze incisos (I a XII). Inciso IX: CDA (execução fiscal).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 783</strong> — requisitos do título: certeza, liquidez, exigibilidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 789</strong> — responsabilidade patrimonial primária: devedor responde com todos os bens.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 792</strong> — fraude à execução. Hipóteses e consequência (ineficácia).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 805</strong> — menor onerosidade. §único: dever do executado de indicar alternativa.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 833</strong> — impenhorabilidades absolutas. Dez incisos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 774</strong> — atos atentatórios à dignidade da justiça na execução. Multa de até 20%.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 100</strong> — regime de precatórios. Impenhorabilidade de bens públicos. Fundamento constitucional da execução contra Fazenda.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 375 — fraude à execução e boa-fé do terceiro</strong> — "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente." Sem a averbação da pendência de execução no registro do imóvel, incumbe ao exequente provar a ciência do terceiro. Com a averbação (art. 828), a fraude é presumida.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Leia os arts. 771-796 (parte geral da execução) e os arts. 515 e 784 (títulos executivos). Faça uma tabela comparativa entre títulos judiciais e extrajudiciais — o exercício ajuda a fixar as diferenças. Memorize os princípios fundamentais (título, patrimonialidade, menor onerosidade, resultado) e saiba explicar cada um com exemplo prático.</p>
+
+<p>Para as impenhorabilidades (art. 833), monte uma lista dos bens protegidos e, ao lado de cada um, a exceção (quando houver). A exceção mais relevante para a prova é a do inciso IV (salários): a impenhorabilidade não se aplica para dívida alimentícia e, conforme o §2º, para valores que excedam 50 salários mínimos mensais.</p>
+
+<p>Sobre fraude à execução (art. 792), conecte com a averbação do art. 828 e com o Tema 444 do STJ. A distinção entre fraude à execução (ineficácia reconhecida na própria execução) e fraude contra credores (anulabilidade que exige ação pauliana) é conceito que cai com frequência.</p>
+
+<p>Conecte este ponto com os seguintes: a teoria geral fundamenta o cumprimento de sentença (8b), a execução de título extrajudicial (8c), a execução contra Fazenda (8d) e a execução fiscal (8e). A visão sistêmica do candidato demonstra maturidade para a banca.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Menor onerosidade não é escudo absoluto:</strong> o art. 805 protege o executado contra meios desnecessariamente gravosos, mas o §único acrescenta que o executado deve indicar alternativa concreta. Se não apontar outro meio igualmente eficaz e menos oneroso, prevalece o ato executivo determinado pelo juiz. Candidatos frequentemente invocam o princípio como se fosse proibição de qualquer ato gravoso — não é.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fraude à execução × fraude contra credores:</strong> a fraude à execução (art. 792) gera ineficácia do ato, reconhecível incidentalmente na execução, sem necessidade de ação autônoma. A fraude contra credores (CC, arts. 158-165) gera anulabilidade, que só pode ser declarada em ação pauliana. A distinção é conceitual e processual — e constantemente cobrada.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Bens públicos são absolutamente impenhoráveis:</strong> quando a Fazenda é devedora, não se aplica a penhora. Os bens públicos são impenhoráveis por força constitucional (art. 100, CF), e o pagamento se faz exclusivamente por precatório ou RPV. Tentar penhorar receita pública ou bloquear conta do Tesouro é medida que viola o regime constitucional — a banca pode explorar esse ponto.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Título executivo extrajudicial permite cumprimento de sentença?</strong> Não. O detentor de título extrajudicial tem duas opções: (i) ajuizar ação de execução autônoma (arts. 771 ss.); ou (ii) ajuizar ação de conhecimento e, obtida sentença, promover o cumprimento (art. 785). A segunda opção é rara, mas é prevista no CPC e pode confundir o candidato.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 375 — fraude à execução e boa-fé do terceiro</strong> — o STJ fixou que, sem a averbação da pendência de execução no registro do imóvel (art. 828), incumbe ao exequente provar que o adquirente tinha ciência da demanda. Com a averbação, a fraude é presumida e o ato é ineficaz independentemente de prova de má-fé. Essa tese é fundamental para a execução fiscal e a proteção do crédito público.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Impenhorabilidade de salário — exceções</strong> — o STJ consolidou que a impenhorabilidade de salários (art. 833, IV) não é absoluta: admite-se penhora para dívida alimentícia, para valores que excedam 50 SM mensais, e, em jurisprudência mais recente, para parcelas de natureza não salarial depositadas em conta bancária (como restituição de IR, FGTS acumulado, etc.).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Medidas executivas atípicas — ADI 5.941 e Tema 1.137/STJ</strong> — o STF e o STJ definiram os limites das medidas executivas atípicas (art. 139, IV), aplicáveis também na execução: suspensão de CNH e passaporte, por exemplo, só são admissíveis quando as medidas típicas se mostrarem insuficientes e houver indícios de ocultação patrimonial pelo devedor.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Art. 805, §único — ônus do executado (2024)</strong> — o STJ reafirmou que o princípio da menor onerosidade exige que o próprio executado indique alternativa concreta. A mera alegação genérica de onerosidade não basta para afastar atos constritivos, como penhora on-line ou bloqueio de valores em conta.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Fraude à execução e crédito tributário (2024-2025)</strong> — o STJ vem decidindo que, no caso de crédito tributário regularmente inscrito em dívida ativa, a alienação de bens pelo devedor presume-se fraudulenta (art. 185 do CTN), independentemente de averbação no registro. Essa presunção é mais forte do que a regra geral do art. 792 do CPC e beneficia diretamente a Fazenda Pública em execuções fiscais.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Título executivo judicial</th><th>Título executivo extrajudicial</th></tr>
+<tr><td><strong>Base legal</strong></td><td>Art. 515</td><td>Art. 784</td></tr>
+<tr><td><strong>Via executiva</strong></td><td>Cumprimento de sentença (sincrético)</td><td>Processo de execução autônomo</td></tr>
+<tr><td><strong>Defesa do executado</strong></td><td>Impugnação ao cumprimento (art. 525/535)</td><td>Embargos à execução (art. 914)</td></tr>
+<tr><td><strong>Exemplos</strong></td><td>Sentença condenatória, decisão homologatória, sentença arbitral</td><td>Cheque, nota promissória, CDA, escritura pública</td></tr>
+<tr><td><strong>Formação</strong></td><td>No processo judicial ou arbitral</td><td>Fora do processo judicial</td></tr>
+</table>
+
+<table>
+<tr><th>Princípio</th><th>Conteúdo</th><th>Base legal</th></tr>
+<tr><td><strong>Título</strong></td><td>Não há execução sem título executivo</td><td>Art. 783</td></tr>
+<tr><td><strong>Patrimonialidade</strong></td><td>Execução recai sobre bens, não sobre pessoa</td><td>Art. 789</td></tr>
+<tr><td><strong>Menor onerosidade</strong></td><td>Execução pelo meio menos gravoso ao executado</td><td>Art. 805</td></tr>
+<tr><td><strong>Resultado</strong></td><td>Execução no interesse do exequente</td><td>Art. 797</td></tr>
+<tr><td><strong>Boa-fé</strong></td><td>Lealdade processual na execução</td><td>Arts. 5º e 774</td></tr>
+</table>
+
+<table>
+<tr><th>Fraude à execução (art. 792)</th><th>Fraude contra credores (CC 158-165)</th></tr>
+<tr><td>Ineficácia do ato</td><td>Anulabilidade do ato</td></tr>
+<tr><td>Reconhecida na própria execução</td><td>Exige ação pauliana autônoma</td></tr>
+<tr><td>Dispensa prova de prejuízo (com averbação)</td><td>Exige prova do <em>eventus damni</em> e <em>consilium fraudis</em></td></tr>
+<tr><td>Ocorre após litispendência ou averbação</td><td>Ocorre antes da litispendência</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre teoria geral da execução, demonstre domínio dos princípios fundamentais (título, patrimonialidade, menor onerosidade, resultado), distinga títulos judiciais (art. 515) de extrajudiciais (art. 784), mencione os requisitos de certeza, liquidez e exigibilidade (art. 783), e aborde a responsabilidade patrimonial (art. 789) e a fraude à execução (art. 792). Se Fazenda for mencionada, conecte com a dupla posição (credora via CDA/execução fiscal × devedora via precatório) e com a impenhorabilidade de bens públicos (art. 100, CF).</p>
+</div>
+<h1>Execução de Título Extrajudicial</h1>
+
+<h3>Títulos executivos extrajudiciais (art. 784)</h3>
+
+<p>O art. 784 do CPC apresenta um rol de doze incisos com os documentos que constituem títulos executivos extrajudiciais. A lista é ampla: letra de câmbio, nota promissória, duplicata, debênture e cheque (I); escritura pública e documentos públicos assinados pelo devedor (II); documentos particulares assinados pelo devedor e por duas testemunhas (III); instrumento de transação referendado pelo MP, Defensoria ou advogados (IV); contrato garantido por hipoteca, penhor, anticrese ou outro direito real (V); contrato de seguro de vida em caso de morte (VI); crédito decorrente de foro e laudêmio (VII); crédito de aluguel de imóvel e encargos acessórios (VIII); certidão de dívida ativa — CDA (IX); contribuições ordinárias ou extraordinárias de condomínio edilício (X); certidão expedida por serventia notarial ou de registro (XI); e outros documentos que a lei atribua força executiva (XII).</p>
+
+<div class="destaque">
+<strong>CDA como título executivo:</strong> a Certidão de Dívida Ativa (art. 784, IX) goza de presunção de certeza e liquidez (art. 3º da LEF). Essa presunção é relativa (<em>juris tantum</em>), podendo ser ilidida por prova inequívoca a cargo do executado. A CDA se sujeita a procedimento especial (Lei 6.830/80), mas subsidiariamente aplicam-se as regras do CPC. Para o candidato a Procurador do Estado, dominar a interseção entre o regime geral do CPC e o regime especial da LEF é fundamental.
+</div>
+
+<p>O CPC/2015 trouxe uma inovação relevante no art. 785: a possibilidade de o credor optar pelo processo de conhecimento em vez da execução direta. Essa escolha pode ser estratégica quando o credor deseja obter título judicial com cognição exauriente, especialmente se antevê defesa robusta do devedor.</p>
+
+<h3>Procedimento da execução por quantia certa (arts. 824-826)</h3>
+
+<p>O art. 824 estabelece a diretriz fundamental: a execução por quantia certa realiza-se pela <strong>expropriação dos bens do executado</strong>, suficientes à satisfação do crédito. A petição inicial deve ser instruída com o título executivo, o demonstrativo do débito atualizado (com indicação do índice de correção, taxa de juros, honorários, custas e demais encargos), a prova de que a condição se verificou ou o termo venceu, e, quando couber, a prova do cumprimento da contraprestação (art. 798).</p>
+
+<p>Distribuída a inicial, o juiz fixa de plano os honorários advocatícios de 10% (art. 827), que serão reduzidos pela metade se o executado pagar integralmente no prazo de 3 dias. O devedor é então <strong>citado para pagar em 3 dias</strong> (art. 829) — prazo significativamente menor que os 15 dias do cumprimento de sentença. Se não pagar, tem início a fase de penhora e avaliação.</p>
+
+<h3>Penhora (arts. 831-869)</h3>
+
+<p>A penhora é o ato pelo qual se apreendem bens do devedor para sujeitá-los ao processo de execução. O CPC estabelece uma ordem preferencial de penhora no art. 835, encabeçada por dinheiro (em espécie, depósito ou aplicação financeira), seguido de títulos e valores mobiliários, veículos, bens imóveis, móveis, semoventes, percentual de faturamento, pedras e metais preciosos, empresas e direitos, entre outros. Essa ordem não é absoluta — o juiz pode alterá-la conforme as circunstâncias do caso e o princípio da menor onerosidade (art. 805).</p>
+
+<p>A penhora eletrônica de ativos financeiros (Sisbajud/Bacenjud) merece destaque. O art. 854 autoriza o juiz a determinar, sem dar ciência prévia ao executado, a indisponibilidade de ativos financeiros até o valor indicado na execução. Realizada a constrição, o executado é intimado e tem 5 dias para comprovar que as quantias são impenhoráveis ou que há excesso. A prática do Sisbajud se tornou o meio mais eficaz de satisfação do crédito, e bancas frequentemente testam o conhecimento sobre seus limites e exceções.</p>
+
+<div class="destaque">
+<strong>Avaliação:</strong> será feita pelo oficial de justiça, em regra (art. 870). Excepcionalmente, admite-se avaliação por perito quando necessários conhecimentos especializados (art. 870, parágrafo único). Inovação do CPC/2015: é desnecessária avaliação quando se tratar de títulos ou mercadorias com cotação em bolsa, comprovável por certidão ou publicação (art. 871, I).
+</div>
+
+<h3>Impenhorabilidade (art. 833)</h3>
+
+<p>O regime de impenhorabilidades é tema extenso e altamente cobrado. O art. 833 lista os bens impenhoráveis, entre os quais se destacam:</p>
+
+<table>
+<tr><th>Inciso</th><th>Bem impenhorável</th><th>Exceções relevantes</th></tr>
+<tr><td>I</td><td>Bens inalienáveis e declarados não sujeitos à execução</td><td>—</td></tr>
+<tr><td>II</td><td>Móveis, pertences e utilidades domésticas que guarnecem a residência</td><td>Não abrange objetos de elevado valor ou supérfluos</td></tr>
+<tr><td>III</td><td>Vestuários e pertences de uso pessoal</td><td>Idem</td></tr>
+<tr><td>IV</td><td>Vencimentos, subsídios, soldos, salários, remunerações, proventos</td><td>Prestação alimentícia (qualquer origem); créditos quando salário excede 50 SM</td></tr>
+<tr><td>V</td><td>Livros, máquinas, ferramentas e utensílios necessários ao exercício profissional</td><td>—</td></tr>
+<tr><td>VIII</td><td>Seguro de vida</td><td>—</td></tr>
+<tr><td>X</td><td>Quantia depositada em caderneta de poupança até 40 SM</td><td>STJ ampliou para qualquer aplicação financeira até 40 SM</td></tr>
+</table>
+
+<p>Além do art. 833, a Lei 8.009/90 protege o bem de família, que é impenhorável em regra, salvo nas exceções do art. 3º (crédito de trabalhadores da residência, financiamento para construção/aquisição do imóvel, crédito alimentar, execução de hipoteca oferecida em garantia, entre outras). O STJ tem sido prolífico em interpretar essas exceções, especialmente quanto à impenhorabilidade do imóvel dado em garantia de dívida da empresa familiar.</p>
+
+<h3>Expropriação (arts. 825, 876-903)</h3>
+
+<p>A expropriação pode ocorrer por três vias: <strong>adjudicação</strong> (art. 876), <strong>alienação</strong> (arts. 879-903) e <strong>apropriação de frutos e rendimentos</strong> (arts. 867-869). A adjudicação é preferencial — o exequente pode adjudicar o bem penhorado pelo valor da avaliação. Não havendo adjudicação, procede-se à alienação, que pode ser por iniciativa particular (art. 880) ou em leilão judicial (art. 881). O CPC/2015 unificou a hasta pública em "leilão judicial", eliminando a antiga distinção entre praça (imóveis) e leilão (móveis).</p>
+
+<p>No leilão judicial, o primeiro lance mínimo é o valor da avaliação; no segundo leilão, aceita-se qualquer lance que não seja considerado vil (art. 891), assim entendido aquele inferior a 50% da avaliação — podendo o juiz fixar percentual diverso. Para execuções contra a Fazenda Pública, lembre-se de que os bens públicos são impenhoráveis (princípio da impenhorabilidade dos bens públicos), de modo que essas regras de expropriação não se aplicam quando a Fazenda é executada.</p>
+
+<h3>Embargos à execução (arts. 914-920)</h3>
+
+<p>Os embargos são a defesa típica do executado na execução de título extrajudicial. Diferentemente da impugnação ao cumprimento de sentença, os embargos constituem ação autônoma incidental. Suas principais características:</p>
+
+<div class="destaque">
+<strong>Independência de garantia do juízo:</strong> no CPC/2015, os embargos podem ser oferecidos <strong>independentemente de penhora, depósito ou caução</strong> (art. 914). Essa é uma mudança fundamental em relação ao CPC/1973, que exigia a segurança do juízo como condição para embargar. A exceção fica por conta da execução fiscal, em que a Lei 6.830/80 ainda exige garantia (art. 16, §1º).
+</div>
+
+<p>O prazo para embargos é de <strong>15 dias</strong>, contados da juntada aos autos do mandado de citação devidamente cumprido (art. 915). Havendo mais de um executado, o prazo corre individualmente. A matéria arguível é amplíssima: o executado pode alegar qualquer defesa que lhe seria lícito deduzir em processo de conhecimento (art. 917) — o que inclui prescrição, pagamento, novação, compensação, excesso de execução, nulidade do título, entre outros.</p>
+
+<p>Os embargos <strong>não têm efeito suspensivo</strong> como regra (art. 919). Porém, o juiz pode atribuí-lo quando: (a) o embargante requerer; (b) a execução estiver garantida por penhora, depósito ou caução suficientes; e (c) estiverem presentes os requisitos da tutela provisória (probabilidade do direito e perigo de dano — art. 300). A concessão de efeito suspensivo não impede a prática de atos de substituição, reforço ou redução da penhora.</p>
+
+<h3>Parcelamento do débito (art. 916)</h3>
+
+<p>O executado que reconhece o crédito e deposita 30% do valor total (incluindo custas e honorários) pode requerer o parcelamento do restante em até 6 prestações mensais, acrescidas de correção monetária e juros de 1% ao mês. O requerimento deve ser feito no prazo dos embargos. Deferido o parcelamento, os atos executivos ficam suspensos; se o executado deixar de pagar qualquer parcela, incide multa de 10% sobre as parcelas restantes e o prosseguimento imediato da execução.</p>
+
+<div class="atencao">
+<strong>Parcelamento e embargos são incompatíveis:</strong> ao requerer o parcelamento, o executado reconhece o crédito, o que impede a oposição de embargos. Não é possível embargar e parcelar simultaneamente. Essa incompatibilidade é tema recorrente em provas.
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 784:</strong> rol dos títulos executivos extrajudiciais — 12 incisos. Atenção especial ao inciso IX (CDA) e ao inciso XII (cláusula residual: "todos os demais títulos a que, por disposição expressa, a lei atribuir força executiva").</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 785:</strong> possibilidade de o credor optar pelo processo de conhecimento em vez de executar diretamente o título extrajudicial.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 827:</strong> fixação de honorários de 10% na execução; redução pela metade se o pagamento for integral no prazo de 3 dias. Diferente dos honorários no cumprimento de sentença (art. 523, §1º), aqui os honorários são fixados na inicial, e não como sanção pelo inadimplemento.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 829:</strong> citação do executado para pagar em 3 dias — prazo menor que os 15 dias do cumprimento de sentença.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 833:</strong> bens absolutamente impenhoráveis. Exceções do §2º para prestações alimentícias e para salários acima de 50 SM.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 835:</strong> ordem preferencial de penhora. Dinheiro em primeiro lugar (inclusive por bloqueio via Sisbajud).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 854:</strong> penhora eletrônica de ativos financeiros (Sisbajud). Indisponibilidade sem ciência prévia do devedor; intimação posterior com prazo de 5 dias para alegar impenhorabilidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 914-920:</strong> embargos à execução — independem de garantia do juízo; prazo de 15 dias; sem efeito suspensivo automático; cognição ampla.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 916:</strong> parcelamento — depósito de 30%, seis parcelas, incompatível com embargos.</p>
+
+<p><span class="tag tag-lei">Lei 8.009/90</span> <strong>Art. 1º:</strong> impenhorabilidade do bem de família. <strong>Art. 3º:</strong> exceções (trabalhadores da residência, financiamento do imóvel, pensão alimentícia, execução de hipoteca, fiança em locação).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 478:</strong> na execução de crédito relativo a cotas condominiais, este tem preferência sobre o hipotecário.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Art. 833, X, e a ampliação da impenhorabilidade:</strong> o STJ entende que a impenhorabilidade de 40 SM não se limita à caderneta de poupança, abrangendo qualquer depósito ou aplicação financeira até esse limite, inclusive em conta-corrente, desde que representem reserva patrimonial do executado.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo procedimento da execução por quantia certa (arts. 824-829): petição inicial, fixação de honorários, citação para pagamento em 3 dias. Depois, mergulhe no regime de penhora: ordem preferencial do art. 835, penhora eletrônica (art. 854), impenhorabilidades do art. 833. Essa segunda parte demanda atenção redobrada porque concentra a maior parte das questões de prova — especialmente as exceções à impenhorabilidade salarial (§2º do art. 833) e a jurisprudência do STJ sobre o limite de 40 SM.</p>
+
+<p>Na sequência, estude os meios expropriatórios (adjudicação, alienação, apropriação de frutos), focando na preferência da adjudicação e nas regras do leilão judicial (lance mínimo, preço vil — art. 891). Depois, passe aos embargos à execução (arts. 914-920), comparando-os sistematicamente com a impugnação ao cumprimento de sentença (art. 525): a principal diferença é que os embargos são ação autônoma com cognição ampla e independem de garantia do juízo no CPC/2015. Por fim, não esqueça o parcelamento do art. 916 — sua incompatibilidade com os embargos é pegadinha clássica.</p>
+
+<p>Conecte o estudo com o Ponto 8a (teoria geral da execução), que fornece os princípios aplicáveis, e com o Ponto 8e (execução fiscal), que segue procedimento especial mas se vale subsidiariamente dessas regras gerais do CPC.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Prazo de 3 dias × 15 dias:</strong> na execução de título extrajudicial, o executado é citado para pagar em 3 dias (art. 829). No cumprimento de sentença, o prazo é de 15 dias (art. 523). No cumprimento contra a Fazenda, o prazo para impugnar é de 30 dias (art. 535). Confundir esses prazos é armadilha clássica.
+</div>
+
+<div class="atencao">
+<strong>Embargos não exigem garantia do juízo no CPC/2015:</strong> diferentemente do CPC/1973, os embargos podem ser opostos independentemente de penhora, depósito ou caução (art. 914). Mas atenção: a execução fiscal (LEF) mantém a exigência de garantia para embargar (art. 16, §1º, da Lei 6.830/80). Essa distinção entre o regime geral e o regime especial da LEF é frequentemente explorada em provas de procuradorias.
+</div>
+
+<div class="atencao">
+<strong>Penhora de salário — exceções e relativização:</strong> a impenhorabilidade salarial (art. 833, IV) possui duas exceções expressas: prestação alimentícia de qualquer origem e salários acima de 50 SM. Além disso, o STJ vem admitindo, excepcionalmente, a relativização dessa regra para dívidas não alimentares, desde que preservado o mínimo existencial. É tema em evolução — novo repetitivo foi afetado para definir a tese.
+</div>
+
+<div class="atencao">
+<strong>40 SM não se limitam à poupança:</strong> o art. 833, X, fala literalmente em "caderneta de poupança", mas o STJ ampliou a proteção para qualquer depósito ou aplicação financeira até 40 SM, desde que representem reserva patrimonial (e não movimentação ordinária de recebimentos e pagamentos). Essa interpretação extensiva é tema recorrente.
+</div>
+
+<div class="atencao">
+<strong>Parcelamento (art. 916) e embargos são incompatíveis:</strong> ao requerer o parcelamento, o executado reconhece o crédito. Portanto, não pode simultaneamente embargar para discutir a existência ou o valor da dívida. A banca pode explorar essa vedação de diversas formas.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Impenhorabilidade de 40 SM — ampliação para além da poupança</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Corte Especial do STJ consolidou entendimento de que a proteção do art. 833, X, do CPC não se restringe à caderneta de poupança, alcançando valores depositados em qualquer tipo de conta ou aplicação financeira, até o limite de 40 salários-mínimos, desde que representem reserva patrimonial do devedor. O fundamento é que a proteção visa assegurar o mínimo existencial, independentemente do instrumento financeiro utilizado. O entendimento foi reafirmado em múltiplas decisões em 2024.</p>
+
+<h3>Penhora de salário para dívida não alimentar — tema afetado como repetitivo</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Corte Especial afetou, em janeiro de 2024, recurso para definir, sob o rito dos repetitivos, a possibilidade de afastar a impenhorabilidade de salário em execução de dívida não alimentar. Até o julgamento definitivo, coexistem decisões que admitem a relativização (com fundamento na dignidade da pessoa humana e na proporcionalidade, limitando a penhora a um percentual que preserve o mínimo existencial) e decisões que a rejeitam (por entender que o art. 833, IV, é norma cogente). A definição da tese terá impacto direto na atuação fazendária em execuções fiscais.</p>
+
+<h3>Honorários de sucumbência e penhora de salário/poupança</h3>
+
+<p><span class="tag tag-stj">STJ</span> Em novembro de 2024, o STJ decidiu que honorários advocatícios sucumbenciais não se enquadram como prestação alimentícia para fins de exceção à impenhorabilidade salarial e de poupança. Assim, a regra geral de impenhorabilidade do art. 833, IV e X, prevalece mesmo em execução de honorários. Apenas os honorários de natureza alimentar do próprio advogado (decorrentes do contrato) podem configurar crédito alimentar — os sucumbenciais, fixados judicialmente, não.</p>
+
+<h3>Bem de família e garantia real de dívida empresarial</h3>
+
+<p><span class="tag tag-stj">STJ</span> Em repetitivo julgado em 2025, o STJ fixou a seguinte tese: se o imóvel residencial é dado em garantia hipotecária por um dos sócios de pessoa jurídica, é, em regra, impenhorável (incidindo a proteção do bem de família), cabendo ao credor provar que a dívida reverteu em benefício da entidade familiar. Porém, se os titulares do imóvel são os únicos sócios da empresa, inverte-se a presunção — o bem é penhorável, cabendo aos proprietários demonstrar que a dívida não beneficiou a família. Essa distinção é relevante para a Fazenda quando busca garantias reais em execuções fiscais envolvendo sócios de empresas devedoras.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Cumprimento de Sentença (arts. 523-527)</th><th>Execução de Título Extrajudicial (arts. 824 ss.)</th></tr>
+<tr><td>Natureza</td><td>Fase processual (sincrética)</td><td>Processo autônomo</td></tr>
+<tr><td>Prazo para pagamento</td><td>15 dias</td><td>3 dias</td></tr>
+<tr><td>Multa por inadimplemento</td><td>10% (art. 523, §1º)</td><td>Não há multa — honorários de 10% na inicial (art. 827)</td></tr>
+<tr><td>Defesa do executado</td><td>Impugnação (incidente, art. 525)</td><td>Embargos (ação autônoma, art. 914)</td></tr>
+<tr><td>Exigência de garantia para defesa</td><td>Não (impugnação independe de penhora)</td><td>Não no CPC; Sim na LEF (art. 16, §1º)</td></tr>
+<tr><td>Prazo para defesa</td><td>15 dias após penhora</td><td>15 dias após citação</td></tr>
+<tr><td>Cognição da defesa</td><td>Restrita (matérias do §1º do art. 525)</td><td>Ampla (qualquer matéria de defesa)</td></tr>
+<tr><td>Efeito suspensivo da defesa</td><td>Não automático (art. 525, §6º)</td><td>Não automático (art. 919)</td></tr>
+</table>
+
+<table>
+<tr><th>Posição</th><th>Bem penhorável (art. 835)</th></tr>
+<tr><td>1º</td><td>Dinheiro (espécie, depósito, aplicação financeira)</td></tr>
+<tr><td>2º</td><td>Títulos da dívida pública (União, Estados, DF)</td></tr>
+<tr><td>3º</td><td>Títulos e valores mobiliários com cotação em mercado</td></tr>
+<tr><td>4º</td><td>Veículos de via terrestre</td></tr>
+<tr><td>5º</td><td>Bens imóveis</td></tr>
+<tr><td>6º</td><td>Bens móveis em geral</td></tr>
+<tr><td>7º</td><td>Semoventes</td></tr>
+<tr><td>8º</td><td>Navios e aeronaves</td></tr>
+<tr><td>9º</td><td>Ações e quotas de sociedades simples e empresárias</td></tr>
+<tr><td>10º</td><td>Percentual de faturamento de empresa</td></tr>
+<tr><td>11º</td><td>Pedras e metais preciosos</td></tr>
+<tr><td>12º</td><td>Direitos aquisitivos derivados de promessa de compra e venda</td></tr>
+<tr><td>13º</td><td>Outros direitos</td></tr>
+</table>
+
+<table>
+<tr><th>Requisito</th><th>Efeito suspensivo dos embargos (art. 919, §1º)</th></tr>
+<tr><td>1. Requerimento</td><td>Pedido expresso do embargante</td></tr>
+<tr><td>2. Garantia do juízo</td><td>Execução garantida por penhora, depósito ou caução suficientes</td></tr>
+<tr><td>3. Probabilidade do direito</td><td>Requisitos da tutela provisória (art. 300)</td></tr>
+<tr><td>4. Perigo de dano</td><td>Risco de dano irreparável se a execução prosseguir</td></tr>
+</table>

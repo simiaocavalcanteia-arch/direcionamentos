@@ -1,0 +1,320 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 6c — Sentença. Conceito. Classificações. Requisitos. Capítulos. Efeitos. Publicação, Intimação, Correção e Integração. Erro Material. Coisa Julgada. Conceito. Natureza Jurídica. Espécies. Limites Subjetivos e Objetivos</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A sentença é o pronunciamento judicial central do processo de conhecimento. É nela que se concentra a solução do litígio — ou a constatação de que ele não pode ser resolvido por vícios processuais. Para o futuro procurador do Estado, compreender profundamente a sentença é indispensável: a Fazenda Pública é parte em milhares de processos, e o conhecimento minucioso dos elementos, vícios e efeitos da sentença permite tanto uma atuação eficaz em primeiro grau quanto a fundamentação adequada de recursos.</p>
+
+<p>O CPC/2015 trouxe mudanças relevantes nessa matéria. Redefiniu o conceito de sentença (art. 203, §1º) adotando critério misto (conteúdo + finalidade), aprofundou o dever de fundamentação com o detalhado art. 489, §1º, regulou a sentença parcial de mérito (art. 356), e fixou regime próprio de honorários quando a Fazenda for parte (art. 85, §3º). A prova discursiva da PGE/RJ tende a cobrar esses temas com frequência, especialmente o dever de fundamentação e suas consequências.</p>
+
+<p>Este ponto se conecta diretamente com a coisa julgada (Ponto 6c) e com os recursos (Ponto 7), pois a classificação da sentença (terminativa ou de mérito) determina o recurso cabível e a formação ou não de coisa julgada material. Também se relaciona com o Ponto 5d (audiência de instrução), pois a sentença é o ato que encerra a audiência ou é proferida nos 30 dias seguintes.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito de sentença (art. 203, §1º)</h3>
+
+<p>O CPC/2015 define sentença como "o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução". O conceito adota um <strong>critério misto</strong>: exige-se, simultaneamente, que o pronunciamento tenha determinado conteúdo (fundamento nos arts. 485 ou 487) e certa finalidade (encerrar a fase de conhecimento ou a execução). Nem todo pronunciamento que aplique o art. 485 ou 487 será sentença — é necessário que também ponha fim à fase cognitiva ou à execução.</p>
+
+<p>Essa definição é importante para distinguir a sentença da decisão interlocutória de mérito (art. 356), que também se funda no art. 487, mas não encerra a fase cognitiva (porque a instrução prossegue quanto aos demais pedidos). A consequência prática é o recurso cabível: sentença → apelação; decisão interlocutória de mérito → agravo de instrumento.</p>
+
+<h3>Classificação das sentenças</h3>
+
+<p><strong>Quanto à resolução do mérito:</strong> a classificação fundamental distingue sentenças terminativas (art. 485) das sentenças de mérito ou definitivas (art. 487).</p>
+
+<p>As <strong>sentenças terminativas</strong> (art. 485) extinguem o processo sem resolução do mérito. São 10 hipóteses, das quais merecem destaque: indeferimento da petição inicial (I), ausência de pressupostos processuais (IV), falta de legitimidade ou interesse processual (VI), existência de perempção, litispendência ou coisa julgada (V), desistência da ação (VIII) e abandono por mais de 30 dias pelo autor (III). A sentença terminativa, em regra, não faz coisa julgada material — o que significa que a parte pode repropor a ação, corrigidos os vícios que levaram à extinção (art. 486).</p>
+
+<p>As <strong>sentenças de mérito</strong> (art. 487) resolvem o pedido do autor. São três hipóteses: acolhimento ou rejeição do pedido (I), reconhecimento da procedência do pedido pelo réu — incluindo o reconhecimento jurídico (II) — e homologação de transação, renúncia ou reconhecimento (III). Também resolve o mérito a decisão que reconhece prescrição ou decadência (art. 487, II). Essas sentenças formam coisa julgada material.</p>
+
+<p><strong>Quanto à natureza da tutela:</strong> a classificação trinária tradicional (Liebman) divide as sentenças de mérito em declaratórias, constitutivas e condenatórias. A classificação quinária (Pontes de Miranda) acrescenta as sentenças mandamentais e executivas <em>lato sensu</em>. O CPC/2015 não adotou expressamente nenhuma das classificações, mas reconhece implicitamente as cinco espécies ao regular diferentes formas de cumprimento de sentença.</p>
+
+<h3>Elementos essenciais da sentença (art. 489)</h3>
+
+<p>Toda sentença deve conter três elementos obrigatórios: (I) <strong>relatório</strong> — nome das partes, identificação do caso, suma do pedido e da contestação, registro das principais ocorrências; (II) <strong>fundamentação</strong> — análise das questões de fato e de direito; e (III) <strong>dispositivo</strong> — resolução das questões que as partes submeteram ao juiz. A ausência de qualquer desses elementos constitui vício grave: a falta de fundamentação viola o art. 93, IX, da Constituição e gera nulidade absoluta.</p>
+
+<div class="destaque">
+<p><strong>Dever de fundamentação qualificada (art. 489, §1º):</strong> o CPC/2015 criou um catálogo de hipóteses em que a decisão é considerada não fundamentada. Não se considera fundamentada a decisão que: (I) se limita a indicar, reproduzir ou parafrasear ato normativo, sem explicar sua relação com a causa; (II) emprega conceitos jurídicos indeterminados sem explicar o motivo concreto de sua incidência; (III) invoca motivos que se prestariam a justificar qualquer outra decisão; (IV) não enfrenta todos os argumentos deduzidos capazes de infirmar a conclusão; (V) se limita a invocar precedente ou súmula sem identificar seus fundamentos determinantes e demonstrar que o caso se ajusta; (VI) deixa de seguir súmula, jurisprudência ou precedente sem demonstrar a distinção ou a superação do entendimento.</p>
+</div>
+
+<p>O §1º do art. 489 é um dos dispositivos mais relevantes do CPC/2015 para a advocacia pública. Ele permite ao procurador impugnar decisões genéricas — frequentes em juízos com grande volume de processos — sustentando nulidade por ausência de fundamentação adequada. Ao mesmo tempo, exige que as manifestações da própria Fazenda sejam bem fundamentadas, pois o dever de qualidade argumentativa é recíproco.</p>
+
+<h3>Princípio da congruência (art. 492)</h3>
+
+<p>O art. 492 consagra o princípio da congruência (ou adstrição ou correlação): o juiz está vinculado aos limites do pedido formulado pelo autor. Os vícios decorrentes da violação desse princípio são: <strong>sentença <em>extra petita</em></strong> (juiz concede providência diversa da pedida — nulidade total ou parcial); <strong>sentença <em>ultra petita</em></strong> (juiz concede mais do que o pedido — redução ao limite do pedido); e <strong>sentença <em>citra petita</em></strong> (juiz deixa de apreciar algum pedido — omissão sanável por embargos de declaração ou anulação parcial).</p>
+
+<p>O princípio da congruência se aplica plenamente à Fazenda Pública. O juiz não pode condenar o Estado além do que foi pedido pelo autor, mesmo que entenda que o dano é maior. A exceção fica por conta dos pedidos implícitos (juros, correção monetária, verbas de sucumbência — art. 322, §1º) e das matérias cognoscíveis de ofício.</p>
+
+<h3>Honorários advocatícios e Fazenda Pública (art. 85, §§2º-3º e §11)</h3>
+
+<p>A sentença deve fixar os honorários advocatícios sucumbenciais. A regra geral (§2º) é de 10% a 20% sobre o valor da condenação, do proveito econômico ou do valor da causa. Quando a <strong>Fazenda Pública for parte</strong> (§3º), o CPC estabelece faixas regressivas conforme o valor envolvido: de 10% a 20% até 200 salários mínimos; de 8% a 10% de 200 a 2.000 salários mínimos; de 5% a 8% de 2.000 a 20.000 salários mínimos; de 3% a 5% de 20.000 a 100.000 salários mínimos; e de 1% a 3% acima de 100.000 salários mínimos.</p>
+
+<p>Os <strong>honorários recursais</strong> (§11) são novidade do CPC/2015: o tribunal, ao julgar recurso, deve majorar os honorários fixados em primeiro grau, levando em conta o trabalho adicional do advogado em grau recursal. O teto, no entanto, é o percentual máximo da faixa aplicável (§§2º e 3º), computado o valor total (primeira instância + majoração recursal).</p>
+
+<h3>Vedação à decisão-surpresa (art. 10)</h3>
+
+<p>O CPC/2015 veda que o juiz decida com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de manifestação, ainda que se trate de matéria cognoscível de ofício (art. 10). Essa regra se aplica diretamente à sentença: o juiz não pode acolher fundamento jurídico inédito — não debatido nos autos — sem antes intimar as partes para se manifestarem. A vedação à decisão-surpresa é uma dimensão do contraditório substancial, e sua violação pode fundamentar recurso por nulidade.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 203, §1º</strong> — conceito de sentença. Critério misto: conteúdo (fundamento nos arts. 485 ou 487) + finalidade (encerrar fase cognitiva ou execução).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 485</strong> — hipóteses de extinção sem resolução do mérito (sentença terminativa). Dez incisos. Não forma coisa julgada material — permite repropositura (art. 486).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 487</strong> — hipóteses de resolução do mérito (sentença definitiva). Três incisos. Forma coisa julgada material.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 489</strong> — elementos essenciais (relatório, fundamentação, dispositivo). §1º: catálogo de fundamentação inadequada (6 incisos). §2º: dever de ponderação quando houver colisão de normas.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 492</strong> — princípio da congruência. Vedação de sentença <em>extra petita</em>, <em>ultra petita</em> e <em>citra petita</em>.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 85, §§2º, 3º e 11</strong> — honorários advocatícios. Faixas regressivas para Fazenda (§3º). Honorários recursais (§11).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 10</strong> — vedação à decisão-surpresa. O juiz não pode decidir com base em fundamento não debatido pelas partes, mesmo em matéria de ordem pública.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 93, IX</strong> — todas as decisões judiciais devem ser fundamentadas, sob pena de nulidade. Fundamento constitucional do dever de motivação.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>REsp 1.698.774/RS (2020)</strong> — o STJ fixou que o art. 489, §1º, VI, exige fundamentação analítica (demonstração de distinção ou superação) apenas para súmulas e precedentes vinculantes, não para os meramente persuasivos. Entendimento relevante porque delimita o alcance do dever de fundamentação.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.255 (2024)</strong> — o STF reconheceu repercussão geral para discutir a possibilidade de fixação dos honorários por apreciação equitativa (art. 85, §8º, do CPC) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela leitura integral dos arts. 485-495, com atenção especial aos §§1º e 2º do art. 489 — são os dispositivos mais cobrados. Faça leitura comparada dos arts. 485 e 487, memorizando pelo menos as principais hipóteses de cada um. O art. 485 tem 10 incisos, mas os mais frequentes em prova são os incisos I (indeferimento da inicial), IV (ausência de pressupostos), V (perempção, litispendência, coisa julgada) e VI (falta de legitimidade ou interesse).</p>
+
+<p>Para o art. 489, §1º, faça um esquema com os seis incisos e, para cada um, elabore um exemplo concreto de decisão que violaria a regra. Isso facilita a memorização e permite responder com propriedade na prova discursiva. Por exemplo: inciso III (motivos genéricos) — "a sentença que indefere tutela de urgência afirmando apenas que 'não estão presentes os requisitos legais' sem indicar qual requisito falta".</p>
+
+<p>Conecte com pontos anteriores: a sentença encerra o itinerário estudado nos Pontos 4c (petição inicial → pedido → congruência) e 5d (audiência → sentença). Conecte com pontos futuros: a classificação entre terminativa e definitiva determina o recurso cabível (Ponto 7) e a formação de coisa julgada (Ponto 6c). Faça essas pontes mentais ao estudar cada tema.</p>
+
+<p>Para os honorários (art. 85), monte uma tabela com as faixas do §3º — a informação é concreta e pode cair em prova objetiva. No §11 (honorários recursais), grave a regra central: o tribunal majora, mas não pode ultrapassar o limite máximo da faixa aplicável.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Sentença terminativa permite repropositura — mas com ressalvas:</strong> o art. 486 permite a repropositura da ação extinta sem mérito, desde que corrigido o vício. Porém, no caso de perempção (art. 486, §3º c/c art. 485, V), a repropositura é vedada. Além disso, a desistência da ação (art. 485, VIII) depois da contestação depende de consentimento do réu (art. 485, §4º) — é erro comum esquecer essa exigência.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 489, §1º, IV — "todos os argumentos" não significa todos os argumentos:</strong> o STJ tem interpretado que o dever de enfrentar "todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão" não obriga o juiz a responder ponto por ponto cada alegação das partes. Exige-se que enfrente os argumentos relevantes e potencialmente decisivos. A distinção é sutil, mas importante para a prova.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fundamentação <em>per relationem</em>:</strong> o STJ admite a fundamentação por referência a decisão anterior ou parecer do Ministério Público, desde que a referência contenha efetiva análise da questão. Não se confunde com ausência de fundamentação: a decisão <em>per relationem</em> adota como razões de decidir os fundamentos de outro ato, incorporando-os. A banca pode explorar essa distinção.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Sentença <em>citra petita</em> e embargos de declaração:</strong> quando o juiz deixa de apreciar um dos pedidos, a sentença é <em>citra petita</em>. O vício, contudo, é de omissão — e deve ser arguido primeiro por embargos de declaração (art. 1.022, II), antes de se pleitear nulidade em apelação. A jurisprudência exige o prequestionamento do vício pela via dos embargos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Honorários e apreciação equitativa em causas de grande valor:</strong> o STF reconheceu repercussão geral (Tema 1.255) para decidir se é possível a fixação de honorários por apreciação equitativa (art. 85, §8º) quando os valores envolvidos forem exorbitantes. O STJ já firmou, em repetitivo, que a equidade não pode ser utilizada quando o valor é líquido ou liquidável. A definição pelo STF impacta diretamente as condenações em honorários contra a Fazenda em causas de grande vulto.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>REsp 1.698.774/RS — Informativo 679 (2020)</strong> — o STJ firmou que o dever de fundamentação analítica previsto no art. 489, §1º, VI (demonstrar distinção ou superação quando não seguir precedente ou súmula), aplica-se apenas a súmulas e precedentes de natureza vinculante. Para os meramente persuasivos, basta a fundamentação genérica. Esse entendimento delimita o alcance prático do dispositivo.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre fundamentação <em>per relationem</em></strong> — o STJ consolidou que a fundamentação por remissão a decisão anterior ou parecer ministerial é válida e não viola o art. 489, §1º, desde que o documento referenciado contenha efetiva análise das questões. A prática é especialmente comum em decisões que ratificam pareceres da Procuradoria em processos contra a Fazenda.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Decisão genérica e nulidade</strong> — decisões que utilizam modelos padronizados sem adaptação ao caso concreto ("decisões carimbo") são consideradas nulas por violação ao art. 489, §1º, III. O STJ tem anulado decisões que empregam motivos que "se prestariam a justificar qualquer outra decisão".</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.255 (2024 — em análise)</strong> — o STF reconheceu repercussão geral para definir se é possível a fixação dos honorários por apreciação equitativa (art. 85, §8º, do CPC) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes. A questão tem grande impacto financeiro: o STJ já fixara, em recurso repetitivo, que a apreciação equitativa não é permitida quando o valor é líquido ou liquidável, devendo-se aplicar os percentuais dos §§2º e 3º do art. 85. O STF analisa a constitucionalidade dessa interpretação.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Honorários recursais — requisitos para majoração (2024)</strong> — o STJ consolidou que a majoração do §11 do art. 85 é obrigatória sempre que o recurso for desprovido, não sendo facultativa ao tribunal. Também fixou que: (i) a majoração independe de pedido da parte vencedora; (ii) deve considerar o trabalho adicional em grau recursal; (iii) o cálculo do teto (§§2º e 3º) deve considerar a soma da fixação em primeiro grau com a majoração, e não cada uma isoladamente.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Vedação à decisão-surpresa em matéria de ordem pública (2024-2025)</strong> — o STJ vem reafirmando que, mesmo em matérias cognoscíveis de ofício (prescrição, decadência, pressupostos processuais), o juiz deve intimar as partes para manifestação antes de decidir, sob pena de nulidade por violação ao art. 10 do CPC. Essa orientação protege a Fazenda contra extinções processuais inesperadas, especialmente em matérias como prescrição, em que a defesa pode requerer a inaplicabilidade (como nos casos de prescrição contra menores).</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Sentença terminativa (art. 485)</th><th>Sentença de mérito (art. 487)</th></tr>
+<tr><td><strong>Resolve o mérito?</strong></td><td>Não</td><td>Sim</td></tr>
+<tr><td><strong>Coisa julgada material</strong></td><td>Não forma</td><td>Forma</td></tr>
+<tr><td><strong>Repropositura da ação</strong></td><td>Possível, corrigido o vício (art. 486)</td><td>Impossível (salvo rescisória)</td></tr>
+<tr><td><strong>Exemplos principais</strong></td><td>Falta de pressupostos, ilegitimidade, litispendência, desistência</td><td>Procedência/improcedência, prescrição, homologação de acordo</td></tr>
+<tr><td><strong>Recurso cabível</strong></td><td>Apelação</td><td>Apelação</td></tr>
+</table>
+
+<table>
+<tr><th>Art. 489, §1º — Decisão não fundamentada</th><th>Exemplo</th></tr>
+<tr><td><strong>I</strong> — Parafraseia norma sem explicar relação com o caso</td><td>"Indefiro, pois não presentes os requisitos do art. 300"</td></tr>
+<tr><td><strong>II</strong> — Conceito indeterminado sem motivo concreto</td><td>"Ofende a dignidade da pessoa humana" sem explicar como</td></tr>
+<tr><td><strong>III</strong> — Motivos genéricos que justificariam qualquer decisão</td><td>"Diante dos elementos dos autos, julgo improcedente"</td></tr>
+<tr><td><strong>IV</strong> — Não enfrenta argumento capaz de infirmar</td><td>Ignora prova documental favorável à parte vencida</td></tr>
+<tr><td><strong>V</strong> — Invoca precedente sem identificar fundamentos determinantes</td><td>"Conforme Súmula X do STJ" sem demonstrar ajuste ao caso</td></tr>
+<tr><td><strong>VI</strong> — Não segue precedente sem demonstrar distinção/superação</td><td>Decide contra tese repetitiva sem distinguir</td></tr>
+</table>
+
+<table>
+<tr><th>Faixa de valor (art. 85, §3º)</th><th>Percentual mínimo</th><th>Percentual máximo</th></tr>
+<tr><td>Até 200 salários mínimos</td><td>10%</td><td>20%</td></tr>
+<tr><td>De 200 a 2.000 SM</td><td>8%</td><td>10%</td></tr>
+<tr><td>De 2.000 a 20.000 SM</td><td>5%</td><td>8%</td></tr>
+<tr><td>De 20.000 a 100.000 SM</td><td>3%</td><td>5%</td></tr>
+<tr><td>Acima de 100.000 SM</td><td>1%</td><td>3%</td></tr>
+</table>
+
+<table>
+<tr><th>Vício da sentença</th><th>Descrição</th><th>Consequência</th></tr>
+<tr><td><strong><em>Extra petita</em></strong></td><td>Concede providência diversa do pedido</td><td>Nulidade (total ou parcial)</td></tr>
+<tr><td><strong><em>Ultra petita</em></strong></td><td>Concede mais do que o pedido</td><td>Redução ao limite do pedido</td></tr>
+<tr><td><strong><em>Citra petita</em></strong></td><td>Deixa de apreciar pedido formulado</td><td>Omissão — embargos de declaração; se persistir, anulação parcial</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta de 15 linhas sobre sentença, demonstre domínio do conceito misto (art. 203, §1º), diferencie terminativa (art. 485 — sem coisa julgada, permite repropositura) de definitiva (art. 487 — coisa julgada material), cite os três elementos essenciais (art. 489) com ênfase no dever de fundamentação qualificada (§1º), mencione o princípio da congruência (art. 492) e, se o enunciado envolver Fazenda, conecte com o regime de honorários do §3º do art. 85 (faixas regressivas) e com os honorários recursais (§11).</p>
+</div>
+<h1>Coisa Julgada</h1>
+
+<p>A coisa julgada é uma das garantias fundamentais do Estado de Direito, assegurada pelo art. 5º, XXXVI, da Constituição Federal. No processo civil, ela confere estabilidade às decisões judiciais, impedindo que a mesma questão seja rediscutida indefinidamente. Para a Fazenda Pública, o tema é estratégico em pelo menos duas frentes: de um lado, a coisa julgada protege decisões favoráveis ao Estado contra tentativas de rediscussão; de outro, condenações transitadas em julgado contra o erário devem ser cumpridas, a menos que se identifiquem vícios que permitam a rescisão ou a arguição de inexigibilidade.</p>
+
+<p>O CPC/2015 trouxe inovação relevante ao ampliar os limites objetivos da coisa julgada, estendendo-a à resolução de questões prejudiciais incidentais (art. 503, §1º), independentemente de ação declaratória incidental — que foi suprimida do novo código. Também consolidou regras sobre a eficácia preclusiva (art. 508) e aperfeiçoou o regime da ação rescisória (art. 966 e seguintes). Para o candidato à PGE/RJ, a coisa julgada é tema de altíssima incidência em provas discursivas, pois envolve conceitos densos e aplicações práticas constantes na advocacia pública.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e distinções fundamentais</h3>
+
+<p>O art. 502 define coisa julgada material como "a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso". Dois atributos compõem o conceito: <strong>imutabilidade</strong> (não pode ser modificada) e <strong>indiscutibilidade</strong> (não pode ser rediscutida, nem mesmo em outro processo). A coisa julgada material recai apenas sobre decisões de mérito (art. 487) — decisões terminativas (art. 485) fazem apenas coisa julgada formal.</p>
+
+<p>A <strong>coisa julgada formal</strong> é a imutabilidade da decisão dentro do próprio processo em que foi proferida: esgotados os recursos ou decorrido o prazo, a decisão se torna irrecorrível naquele processo. Toda decisão pode transitar em julgado formalmente. A <strong>coisa julgada material</strong>, por sua vez, projeta seus efeitos para fora do processo, impedindo a rediscussão da matéria em qualquer outro processo entre as mesmas partes.</p>
+
+<h3>Limites objetivos da coisa julgada (arts. 503-504)</h3>
+
+<p>O art. 503 estabelece que a decisão que julga total ou parcialmente o mérito tem força de lei nos limites da <strong>questão principal expressamente decidida</strong>. A coisa julgada recai sobre o dispositivo da sentença — é ali que o juiz resolve o pedido do autor. Os <strong>motivos</strong> da decisão e a <strong>verdade dos fatos</strong> estabelecida como fundamento da sentença não fazem coisa julgada (art. 504, I e II). Essa é a regra geral: a fundamentação serve apenas como razão de decidir, mas não se torna imutável.</p>
+
+<div class="destaque">
+<p><strong>Coisa julgada sobre questão prejudicial (art. 503, §1º):</strong> o CPC/2015 inovou ao estender a coisa julgada material à resolução de questão prejudicial decidida expressa e incidentemente no processo, desde que preenchidos cumulativamente três requisitos: (I) a resolução da prejudicial depende do julgamento do mérito; (II) houve contraditório prévio e efetivo a seu respeito (não se aplica em caso de revelia); e (III) o juízo tem competência em razão da matéria e da pessoa para resolvê-la como questão principal. Além disso, o §2º acrescenta uma condição negativa: não se aplica se houver restrições probatórias ou limitações à cognição que impeçam o aprofundamento da análise.</p>
+</div>
+
+<p>Essa ampliação é importante para a Fazenda Pública. Imagine uma ação de cobrança contra o Estado em que o juiz, incidentalmente, reconhece a existência de relação jurídica tributária entre as partes. Antes do CPC/2015, esse reconhecimento não faria coisa julgada (seria necessária ação declaratória incidental). Agora, preenchidos os requisitos do §1º, a definição da relação jurídica torna-se imutável, o que pode vincular a Fazenda em processos futuros.</p>
+
+<h3>Limites subjetivos (art. 506)</h3>
+
+<p>O art. 506 determina que "a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros". A coisa julgada opera, portanto, <em>inter partes</em> — terceiros que não participaram do processo não podem ser prejudicados pela decisão. Houve mudança sutil em relação ao CPC/1973: o antigo art. 472 dizia que a coisa julgada não beneficiava nem prejudicava terceiros. O CPC/2015 suprimiu a referência a "não beneficiar", permitindo que terceiros se beneficiem da coisa julgada quando lhes for favorável, sem ficar vinculados quando desfavorável.</p>
+
+<p>Exceções relevantes ao regime <em>inter partes</em>: ações coletivas (coisa julgada <em>erga omnes</em> ou <em>ultra partes</em>, conforme o CDC e a LACP), ações de estado (efeitos <em>erga omnes</em>) e ação popular (coisa julgada <em>erga omnes</em>, exceto se improcedente por falta de provas — <em>secundum eventum probationis</em>).</p>
+
+<h3>Eficácia preclusiva da coisa julgada (art. 508)</h3>
+
+<p>O art. 508 consagra a eficácia preclusiva: transitada em julgado a decisão de mérito, consideram-se deduzidas e repelidas todas as alegações e defesas que a parte poderia opor ao acolhimento ou à rejeição do pedido. Essa regra impede que a parte, em processo posterior, invoque fundamentos que poderia ter alegado no processo original mas não o fez. É uma extensão lógica da coisa julgada: protege não apenas o que foi decidido, mas também o que poderia ter sido deduzido.</p>
+
+<h3>Ação rescisória (arts. 966-975)</h3>
+
+<p>A coisa julgada não é absolutamente intangível: pode ser desconstituída por ação rescisória, nas hipóteses taxativas do art. 966. As mais relevantes são: (I) prevaricação, concussão ou corrupção do juiz; (II) impedimento do juiz ou incompetência absoluta do juízo; (III) dolo ou coação da parte vencedora; (IV) simulação ou colusão entre as partes; (V) violação manifesta de norma jurídica; (VI) falsidade de prova; (VII) prova nova cuja existência era ignorada ou de utilização impossível; (VIII) erro de fato verificável do exame dos autos.</p>
+
+<p>O prazo para a rescisória é de <strong>2 anos</strong> contados do trânsito em julgado da última decisão proferida no processo (art. 975). Para a hipótese de prova nova (inciso VII), há regra especial: o prazo de 2 anos conta a partir da descoberta da prova, com limite máximo de 5 anos do trânsito em julgado (art. 975, §2º).</p>
+
+<p>O CPC/2015 inovou ao admitir rescisória de capítulo de decisão (art. 966, §3º) e ao prever rescisória contra decisão que aplicou precedente sem considerar a existência de distinção (art. 966, §5º). Para decisões fundadas em norma declarada inconstitucional pelo STF, os arts. 525, §15, e 535, §8º, do CPC preveem a reabertura do prazo da ação rescisória: o prazo de 2 anos conta-se do trânsito em julgado da decisão do STF que declarou a inconstitucionalidade.</p>
+
+<h3>Coisa julgada inconstitucional e Fazenda Pública</h3>
+
+<p>O tema da coisa julgada inconstitucional é de enorme relevância para a advocacia pública. O art. 535, §5º, do CPC permite que a Fazenda Pública, na impugnação ao cumprimento de sentença, alegue que o título executivo judicial se funda em lei ou ato normativo considerado inconstitucional pelo STF, ou em aplicação/interpretação tida por incompatível com a Constituição, em controle concentrado ou difuso.</p>
+
+<p>O STF, no RE 730.462/SP (Tema 733), fixou balizas importantes: a declaração de inconstitucionalidade pelo STF não produz reforma automática das decisões transitadas em julgado anteriormente. Se o trânsito em julgado é posterior à declaração de inconstitucionalidade, a inexigibilidade pode ser arguida diretamente na impugnação ao cumprimento (art. 535, §5º). Se o trânsito em julgado é anterior, o único instrumento é a ação rescisória, respeitado o prazo.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 5º, XXXVI</strong> — "a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada". Fundamento constitucional da proteção à coisa julgada.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 502</strong> — conceito de coisa julgada material: autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 503, §1º</strong> — extensão da coisa julgada à questão prejudicial. Três requisitos cumulativos + condição negativa (§2º). Inovação central do CPC/2015.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 504</strong> — não fazem coisa julgada: os motivos (I) e a verdade dos fatos (II).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 506</strong> — limites subjetivos: coisa julgada <em>inter partes</em>. Terceiros não são prejudicados (podem ser beneficiados).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 508</strong> — eficácia preclusiva: consideram-se deduzidas e repelidas todas as alegações que a parte poderia ter oposto.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 535, §5º</strong> — inexigibilidade do título fundado em norma inconstitucional. Instrumento de defesa da Fazenda na impugnação ao cumprimento.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 966-975</strong> — ação rescisória. Hipóteses taxativas (art. 966). Prazo: 2 anos do trânsito em julgado (art. 975). Prova nova: 2 anos da descoberta, limite de 5 anos (§2º).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 730.462/SP — Tema 733</strong> — a declaração de inconstitucionalidade não opera reforma automática de decisões transitadas em julgado. Se o trânsito ocorreu após a declaração: impugnação ao cumprimento. Se antes: ação rescisória.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 502, que define o conceito, e siga até o art. 508, que encerra a seção sobre coisa julgada. São apenas sete artigos, mas densos. O ponto mais importante e inovador é o art. 503, §§1º e 2º (coisa julgada sobre prejudicial): memorize os três requisitos cumulativos e a condição negativa, e pense em exemplos concretos.</p>
+
+<p>Em seguida, estude o art. 504 (motivos e verdade dos fatos não fazem coisa julgada) em contraposição ao art. 503, §1º (questão prejudicial pode fazer coisa julgada). A tensão entre esses dois dispositivos é exatamente o tipo de questão que uma banca pode explorar na prova discursiva: onde termina a fundamentação (art. 504) e onde começa a prejudicial com força de coisa julgada (art. 503, §1º)?</p>
+
+<p>Para a ação rescisória, concentre-se nas hipóteses mais cobradas do art. 966: violação de norma jurídica (V), prova nova (VII) e erro de fato (VIII). Grave o prazo de 2 anos e a exceção para prova nova (2+5 anos). Conecte com a coisa julgada inconstitucional (art. 535, §5º e RE 730.462/STF), que é tema de altíssima relevância para a advocacia pública.</p>
+
+<p>Faça pontes mentais: a coisa julgada é consequência da sentença de mérito (Ponto 6a), que pode precisar de liquidação (Ponto 6b). A rescisória é ação originária nos tribunais, conectando-se com competência (Ponto 1b). E a inexigibilidade do título inconstitucional é matéria de impugnação ao cumprimento de sentença contra a Fazenda (Ponto 8d).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Motivos da sentença × questão prejudicial:</strong> o art. 504 diz que os motivos não fazem coisa julgada. O art. 503, §1º, diz que a questão prejudicial pode fazer. Não há contradição: a prejudicial é uma questão específica (relação jurídica, estado de pessoa, etc.) que o juiz decide expressamente e que preenche os requisitos do §1º. Os motivos genéricos da fundamentação continuam excluídos da coisa julgada. A banca pode exigir que o candidato distinga essas hipóteses.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Revelia exclui a coisa julgada sobre prejudicial:</strong> o art. 503, §1º, II, exige "contraditório prévio e efetivo" e expressamente ressalva que o dispositivo não se aplica no caso de revelia. Se o réu é revel, a questão prejudicial decidida incidentalmente não fará coisa julgada material. Essa ressalva é frequentemente esquecida.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Art. 506: terceiros podem ser beneficiados pela coisa julgada:</strong> o CPC/2015 suprimiu a expressão "não beneficia" que constava no CPC/1973. A interpretação dominante é que terceiros não podem ser prejudicados pela coisa julgada, mas podem invocar a decisão em seu benefício. Essa mudança sutil tem consequências práticas — por exemplo, em litisconsórcio facultativo, o terceiro pode se valer da decisão favorável proferida em processo alheio.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Prazo da rescisória e "última decisão proferida no processo":</strong> o art. 975 conta o prazo de 2 anos a partir do trânsito em julgado da "última decisão proferida no processo", e não da sentença. Se houve recurso julgado pelo tribunal, o prazo corre do trânsito dessa decisão. Se houve recurso extraordinário, corre do trânsito do acórdão do STF ou STJ. Candidatos frequentemente erram ao contar o prazo a partir da sentença de primeiro grau.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Coisa julgada inconstitucional — momento do trânsito é decisivo:</strong> o STF (Tema 733) distingue duas situações: (i) se o trânsito em julgado foi posterior à declaração de inconstitucionalidade pelo STF → cabe impugnação ao cumprimento (art. 535, §5º); (ii) se foi anterior → apenas ação rescisória, no prazo de 2 anos. Essa distinção temporal é crucial para a Fazenda e frequentemente cobrada em provas.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 730.462/SP — Tema 733 (2015)</strong> — o STF fixou que a eficácia executiva da declaração de inconstitucionalidade tem como marco a data de publicação da decisão do Tribunal. Não há reforma automática de julgados anteriores. A coisa julgada formada antes da declaração de inconstitucionalidade só pode ser desconstituída por ação rescisória, dentro do prazo legal. A impugnação ao cumprimento com base na inconstitucionalidade (art. 535, §5º) só é cabível quando o trânsito em julgado for posterior à decisão do STF.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Coisa julgada em relações tributárias continuativas — Temas 881 e 885 (2023)</strong> — o STF decidiu que a coisa julgada em matéria tributária com efeitos continuados (<em>pro futuro</em>) cessa automaticamente quando o STF decide em sentido contrário, em controle concentrado, sem necessidade de ação rescisória ou revisional. A tese afeta diretamente a Fazenda Pública: contribuintes que obtiveram decisão favorável transitada em julgado reconhecendo imunidade ou isenção podem perder essa proteção se o STF posteriormente declarar a constitucionalidade do tributo.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Eficácia preclusiva e limites</strong> — o STJ consolidou que a eficácia preclusiva do art. 508 não impede a propositura de nova ação com causa de pedir diferente. O que se reputa "deduzido e repelido" são as alegações e defesas relativas à mesma causa de pedir, não causas de pedir autônomas que poderiam ter sido cumuladas mas não foram.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885 — modulação e repercussões (2024-2025)</strong> — após a fixação da tese em 2023, o STF vem enfrentando a modulação dos efeitos da cessação da coisa julgada tributária. A Corte fixou que a cobrança retroativa do tributo pelo fisco é possível a partir da publicação da ata de julgamento do precedente que alterou a orientação, respeitada a anterioridade nonagesimal e anual para tributos que a exijam. Essa definição é diretamente relevante para as procuradorias estaduais.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Rescisória por violação de norma jurídica — alcance ampliado (2024)</strong> — o STJ tem interpretado de forma ampla a hipótese do art. 966, V ("violação manifesta de norma jurídica"), reconhecendo que o CPC/2015 ampliou o espectro em relação ao CPC/1973 (que exigia "literal disposição de lei"). A expressão "norma jurídica" abrange princípios, normas constitucionais e infraconstitucionais, permitindo rescisória em casos de violação de princípios como o contraditório, a ampla defesa e a motivação das decisões.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Rescisória e Tema 69/STF (2025)</strong> — o STJ admitiu o ajuizamento de ação rescisória para adequar julgados anteriores à modulação de efeitos estabelecida pelo STF no Tema 69 (exclusão do ICMS da base de cálculo do PIS/COFINS). A decisão tem impacto enorme para a Fazenda, pois permite que o fisco busque a rescisão de decisões que aplicaram a tese do STF de forma incompatível com a modulação posterior.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Coisa julgada formal</th><th>Coisa julgada material</th></tr>
+<tr><td><strong>Conceito</strong></td><td>Irrecorribilidade da decisão no próprio processo</td><td>Imutabilidade e indiscutibilidade da decisão em qualquer processo</td></tr>
+<tr><td><strong>Abrangência</strong></td><td>Endoprocessual (dentro do processo)</td><td>Extraprocessual (para além do processo)</td></tr>
+<tr><td><strong>Decisões que a produzem</strong></td><td>Qualquer decisão (terminativa ou de mérito)</td><td>Apenas decisões de mérito (art. 487)</td></tr>
+<tr><td><strong>Desconstituição</strong></td><td>Não cabe rescisória (já transitou)</td><td>Ação rescisória (art. 966)</td></tr>
+</table>
+
+<table>
+<tr><th>Limite</th><th>O que faz coisa julgada</th><th>O que NÃO faz coisa julgada</th></tr>
+<tr><td><strong>Objetivo</strong></td><td>Questão principal (dispositivo) + questão prejudicial se preenchidos os requisitos do §1º do art. 503</td><td>Motivos da decisão (art. 504, I) e verdade dos fatos (art. 504, II)</td></tr>
+<tr><td><strong>Subjetivo</strong></td><td>Partes do processo (art. 506)</td><td>Terceiros não podem ser prejudicados (mas podem ser beneficiados)</td></tr>
+</table>
+
+<table>
+<tr><th>Requisitos da coisa julgada sobre prejudicial (art. 503, §1º)</th></tr>
+<tr><td><strong>I</strong> — A resolução da prejudicial depende do julgamento do mérito</td></tr>
+<tr><td><strong>II</strong> — Houve contraditório prévio e efetivo (NÃO se aplica se houver revelia)</td></tr>
+<tr><td><strong>III</strong> — O juízo tem competência em razão da matéria e da pessoa para resolver como questão principal</td></tr>
+<tr><td><strong>§2º</strong> — Não se aplica se houver restrições probatórias ou limitações à cognição</td></tr>
+</table>
+
+<table>
+<tr><th>Coisa julgada inconstitucional — mecanismos</th><th>Quando o trânsito é posterior à declaração do STF</th><th>Quando o trânsito é anterior à declaração do STF</th></tr>
+<tr><td><strong>Instrumento</strong></td><td>Impugnação ao cumprimento (art. 535, §5º)</td><td>Ação rescisória (art. 966)</td></tr>
+<tr><td><strong>Prazo</strong></td><td>No prazo da impugnação (30 dias para Fazenda)</td><td>2 anos do trânsito em julgado</td></tr>
+<tr><td><strong>Base legal</strong></td><td>Art. 535, §5º, CPC</td><td>Arts. 525, §15, e 535, §8º, CPC + art. 966, V</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre coisa julgada, comece pelo conceito (art. 502 — autoridade que torna imutável e indiscutível), diferencie formal e material, apresente os limites objetivos (arts. 503-504, com destaque para a inovação da prejudicial no §1º) e subjetivos (art. 506 — <em>inter partes</em>), mencione a eficácia preclusiva (art. 508) e, se o enunciado envolver Fazenda Pública, explore a coisa julgada inconstitucional (art. 535, §5º e RE 730.462/Tema 733) e a recente jurisprudência dos Temas 881/885 sobre relações tributárias continuativas.</p>
+</div>

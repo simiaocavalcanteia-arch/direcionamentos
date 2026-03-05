@@ -1,0 +1,177 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 5a — Tutela Provisória</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A tutela provisória é um dos temas mais transversais do processo civil: permeia todas as fases do processo, todas as espécies de ação e todas as instâncias. O CPC/2015 reorganizou inteiramente a matéria nos arts. 294 a 311, substituindo o sistema dual do CPC/1973 (processo cautelar autônomo + antecipação de tutela no processo de conhecimento) por um regime unificado que distingue <strong>tutela de urgência</strong> (antecipada e cautelar) e <strong>tutela da evidência</strong>. O candidato a Procurador do Estado precisa dominar o tema sob duas perspectivas: como réu (a Fazenda Pública é frequentemente alvo de tutelas provisórias) e como autor (a Fazenda pode requerer tutela provisória em ações de sua iniciativa).</p>
+
+<p>Para a PGE/RJ, a relevância prática é enorme. A concessão de tutelas provisórias contra a Fazenda pode impactar diretamente a arrecadação tributária, o planejamento orçamentário e a execução de políticas públicas. O ordenamento prevê vedações e limitações específicas (Leis 9.494/97, 8.437/92 e 12.016/09), além de instrumentos como a suspensão de segurança e a suspensão de liminar — ferramentas cotidianas da advocacia pública.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Classificação das tutelas provisórias (art. 294)</h3>
+
+<p>O CPC/2015 organiza as tutelas provisórias em duas grandes categorias, cada uma com características e requisitos próprios:</p>
+
+<table>
+<tr><th>Categoria</th><th>Espécies</th><th>Requisitos</th></tr>
+<tr><td>Tutela de urgência</td><td>Antecipada (satisfativa) e Cautelar (conservativa)</td><td>Probabilidade do direito + perigo de dano ou risco ao resultado útil do processo (art. 300)</td></tr>
+<tr><td>Tutela da evidência</td><td>Única (sempre satisfativa)</td><td>Dispensa urgência — fundamento exclusivo na evidência do direito do autor (art. 311)</td></tr>
+</table>
+
+<p>Ambas podem ser concedidas em caráter <strong>antecedente</strong> (antes da formulação do pedido principal) ou <strong>incidental</strong> (no curso do processo já instaurado). A tutela da evidência, porém, só pode ser antecedente nos incisos II e III do art. 311 (quando concedida <em>inaudita altera parte</em>).</p>
+
+<h3>Tutela de urgência antecipada (arts. 300-304)</h3>
+
+<p>A tutela antecipada é a providência que <strong>antecipa os efeitos práticos do provimento final</strong> — o autor obtém, desde logo, o resultado que buscaria ao final do processo. Os requisitos são: <strong>probabilidade do direito</strong> (<em>fumus boni iuris</em>) e <strong>perigo de dano ou risco ao resultado útil do processo</strong> (<em>periculum in mora</em>). Trata-se de cognição sumária — o juiz decide com base em elementos que evidenciem a probabilidade, sem exaurir a análise do mérito.</p>
+
+<p>O art. 300, §3º, veda a tutela de urgência de natureza antecipada quando houver perigo de irreversibilidade dos efeitos da decisão. Essa vedação, contudo, não é absoluta: a doutrina e a jurisprudência admitem a concessão quando a irreversibilidade é recíproca (o risco de não conceder é tão grave quanto o de conceder) ou quando o direito do autor é tão evidente que a vedação configuraria denegação de justiça.</p>
+
+<div class="destaque">
+<strong>Tutela antecipada antecedente (art. 303):</strong> quando a urgência for contemporânea à propositura da ação, o autor pode limitar-se a formular o requerimento de tutela antecipada, indicando o pedido de tutela final e expondo a lide de forma sumária. Concedida a tutela, o autor tem 15 dias (ou prazo maior fixado pelo juiz) para aditar a inicial, complementando a argumentação e juntando novos documentos. Se não o fizer, o processo é extinto sem resolução de mérito.
+</div>
+
+<h3>Estabilização da tutela antecipada (art. 304)</h3>
+
+<p>Esta é uma das maiores inovações do CPC/2015, inspirada no <em>référé</em> do direito francês. Se a tutela antecipada antecedente é concedida e o réu <strong>não interpõe recurso</strong> (agravo de instrumento), a decisão se torna estável, o processo é extinto e os efeitos da tutela são mantidos. A estabilização não produz coisa julgada material — qualquer das partes pode, no prazo de <strong>2 anos</strong> (contados da ciência da decisão que extinguiu o processo), ajuizar ação autônoma para rever, reformar ou invalidar a tutela estabilizada (art. 304, §§2º e 5º).</p>
+
+<p>O STJ tem adotado interpretação ampliativa: entende que não apenas o agravo de instrumento, mas também a <strong>contestação</strong> do réu é apta a impedir a estabilização. O fundamento é que a contestação demonstra inequívoca resistência à pretensão do autor, afastando a presunção de aquiescência que justifica a estabilização. Essa posição é majoritária nas turmas do STJ e tende a se consolidar como entendimento pacífico.</p>
+
+<h3>Tutela de urgência cautelar (arts. 305-310)</h3>
+
+<p>A tutela cautelar visa <strong>assegurar o resultado útil do processo</strong>, sem satisfazer o direito do autor. É providência conservativa: preserva a situação fática ou jurídica para que, ao final, o provimento de mérito possa ser efetivo. Exemplos clássicos: arresto de bens, sequestro, arrolamento de bens, produção antecipada de provas.</p>
+
+<p>Quando requerida em caráter antecedente (art. 305), o autor indica a lide e seu fundamento, o direito que se busca proteger e o perigo de dano. O juiz, ao deferir a cautelar, determina a citação do réu para contestar em 5 dias. Efetivada a medida cautelar, o pedido principal deve ser formulado em <strong>30 dias</strong> (art. 308), sob pena de cessação da eficácia da cautelar. O pedido principal é formulado nos mesmos autos — não há mais processo cautelar autônomo como no CPC/1973.</p>
+
+<div class="destaque">
+<strong>Fungibilidade:</strong> o art. 305, parágrafo único, consagra a fungibilidade entre tutela antecipada e cautelar. Se o autor requerer tutela cautelar mas o juiz entender que a natureza é antecipada (ou vice-versa), aplica-se o regime procedimental adequado, sem necessidade de emenda à inicial. Essa fungibilidade é bilateral — funciona nos dois sentidos.
+</div>
+
+<h3>Tutela da evidência (art. 311)</h3>
+
+<p>A tutela da evidência dispensa a demonstração de urgência. Fundamenta-se exclusivamente na alta probabilidade do direito do autor, nas quatro hipóteses taxativas do art. 311:</p>
+
+<table>
+<tr><th>Inciso</th><th>Hipótese</th><th><em>Inaudita altera parte</em>?</th></tr>
+<tr><td>I</td><td>Abuso do direito de defesa ou manifesto propósito protelatório do réu</td><td>Não (exige conduta processual do réu — incidental)</td></tr>
+<tr><td>II</td><td>Alegações de fato comprovadas por prova documental + tese firmada em repetitivo ou súmula vinculante</td><td>Sim (pode ser liminar)</td></tr>
+<tr><td>III</td><td>Pedido reipersecutório de contrato de depósito, comprovado documentalmente</td><td>Sim (pode ser liminar)</td></tr>
+<tr><td>IV</td><td>Petição inicial instruída com prova documental suficiente e o réu não opõe prova capaz de gerar dúvida razoável</td><td>Não (exige manifestação do réu)</td></tr>
+</table>
+
+<p>A tutela de evidência é particularmente relevante para a Fazenda Pública como autora, quando pode demonstrar seu direito por prova documental robusta aliada a tese firmada em repetitivo. Como ré, a Fazenda deve estar atenta às hipóteses dos incisos II e III, que autorizam concessão liminar sem oitiva prévia — situação em que a única saída é o recurso imediato.</p>
+
+<h3>Tutela provisória contra a Fazenda Pública — vedações e limitações</h3>
+
+<p>O ordenamento brasileiro prevê restrições à concessão de tutelas provisórias contra a Fazenda Pública, consolidadas em três diplomas principais:</p>
+
+<p><strong>Lei 9.494/97 (art. 1º):</strong> veda a tutela antecipada contra a Fazenda nas hipóteses do art. 1º da Lei 8.437/92 — ou seja, quando se busca, na prática, a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores, ou a concessão de aumento ou extensão de vantagens a servidores. O <strong>art. 2º-B</strong> da mesma lei proíbe tutela antecipada que esgote, no todo ou em parte, o objeto da ação contra a Fazenda. A constitucionalidade dessas restrições foi declarada pelo STF na <strong>ADC 4</strong>.</p>
+
+<p><strong>Lei 12.016/09 (art. 7º, §2º):</strong> no mandado de segurança, não se concederá liminar que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens do exterior, a reclassificação ou equiparação de servidores, ou a concessão de aumento ou extensão de vantagens.</p>
+
+<div class="destaque">
+<strong>Rol taxativo das vedações:</strong> o STJ interpreta restritivamente as vedações: elas se limitam às hipóteses expressamente previstas. Fora dessas hipóteses, a tutela provisória contra a Fazenda é admissível, desde que preenchidos os requisitos legais. A Súmula 729 do STF confirma que as restrições não se aplicam a ações previdenciárias.
+</div>
+
+<p><strong>Suspensão de segurança e de liminar:</strong> mesmo quando concedida a tutela contra a Fazenda, o ente público dispõe de mecanismos para suspender seus efeitos junto ao presidente do tribunal: a <strong>suspensão de segurança</strong> (art. 15 da Lei 12.016/09, em mandado de segurança) e a <strong>suspensão de liminar e de sentença</strong> (Lei 8.437/92, art. 4º, em outros processos). Os requisitos são: grave lesão à ordem, à saúde, à segurança ou à economia públicas. Trata-se de juízo político-jurídico, não de juízo sobre o mérito da causa. Para a PGE/RJ, esses pedidos de suspensão são ferramentas recorrentes.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 294:</strong> disposição geral — tutela provisória pode ser de urgência ou de evidência, concedida em caráter antecedente ou incidental.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 300:</strong> requisitos da tutela de urgência: probabilidade do direito e perigo de dano ou risco ao resultado útil. §3º: vedação da irreversibilidade (não absoluta).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 303:</strong> tutela antecipada antecedente — urgência contemporânea; prazo de 15 dias para aditamento da inicial.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 304:</strong> estabilização da tutela antecipada antecedente — não recurso pelo réu; prazo de 2 anos para ação de revisão; não forma coisa julgada.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 305:</strong> tutela cautelar antecedente — pedido principal em 30 dias após efetivação. Parágrafo único: fungibilidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 311:</strong> tutela da evidência — quatro hipóteses taxativas; incisos II e III admitem concessão liminar.</p>
+
+<p><span class="tag tag-lei">Lei 9.494/97</span> <strong>Arts. 1º e 2º-B:</strong> vedações à tutela antecipada contra a Fazenda. Constitucionalidade confirmada na ADC 4/STF.</p>
+
+<p><span class="tag tag-lei">Lei 8.437/92</span> <strong>Art. 4º:</strong> suspensão de liminar/sentença contra a Fazenda — grave lesão à ordem, saúde, segurança ou economia públicas.</p>
+
+<p><span class="tag tag-lei">Lei 12.016/09</span> <strong>Art. 7º, §2º:</strong> vedações à liminar em mandado de segurança. <strong>Art. 15:</strong> suspensão de segurança.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADC 4:</strong> constitucionalidade das restrições à tutela antecipada contra a Fazenda (Lei 9.494/97).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 729:</strong> a decisão na ADC 4 não se aplica à antecipação de tutela em ações previdenciárias.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela estrutura geral das tutelas provisórias (art. 294): entenda a distinção fundamental entre urgência e evidência, e entre tutela antecipada (satisfativa) e cautelar (conservativa). Depois, estude os requisitos da tutela de urgência (art. 300 — probabilidade + perigo) e da evidência (art. 311 — quatro hipóteses, dispensando urgência). Esses são os conceitos de base que fundamentam todo o restante.</p>
+
+<p>Em seguida, aprofunde-se nos procedimentos antecedentes: tutela antecipada antecedente (art. 303) com seu prazo de aditamento de 15 dias e a estabilização do art. 304, e tutela cautelar antecedente (art. 305) com o prazo de 30 dias para o pedido principal. A estabilização merece atenção especial — é inovação do CPC/2015 com contornos ainda em definição pela jurisprudência, especialmente quanto ao alcance da "não interposição de recurso" (STJ admite que a contestação também impede a estabilização).</p>
+
+<p>Para o concurso da PGE/RJ, as vedações à tutela contra a Fazenda Pública são tema obrigatório. Estude os três diplomas legais (Leis 9.494/97, 8.437/92 e 12.016/09), a ADC 4 do STF e a Súmula 729. Igualmente importantes são os instrumentos de suspensão (de segurança e de liminar), que constituem prática rotineira da advocacia de Estado. Esses mecanismos não envolvem análise de mérito — são fundados em interesse público qualificado (grave lesão à ordem, saúde, segurança ou economia públicas).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Estabilização e coisa julgada são institutos distintos:</strong> a estabilização do art. 304 mantém os efeitos da tutela, mas não produz coisa julgada material. A decisão estabilizada pode ser revista em ação autônoma no prazo de 2 anos. Após o decurso do prazo sem ajuizamento da ação revisional, há controvérsia sobre se a estabilização se converte em coisa julgada — a posição majoritária no STJ é que não, mantendo-se como mera estabilidade processual.
+</div>
+
+<div class="atencao">
+<strong>Tutela de evidência não exige urgência — mas pode ser liminar:</strong> os incisos II e III do art. 311 autorizam a concessão <em>inaudita altera parte</em>. Já os incisos I e IV dependem de conduta do réu (abuso de direito de defesa ou ausência de prova contrária), portanto só podem ser concedidos incidentalmente, após manifestação do réu. Confundir essas hipóteses é erro frequente.
+</div>
+
+<div class="atencao">
+<strong>Vedações à tutela contra a Fazenda são taxativas:</strong> o STJ interpreta restritivamente o rol das Leis 9.494/97 e 8.437/92. Fora das hipóteses expressamente previstas (compensação tributária, entrega de mercadorias, reclassificação de servidores, aumento de vantagens), a tutela provisória contra a Fazenda é admissível. Não existe vedação genérica à tutela antecipada contra o Poder Público.
+</div>
+
+<div class="atencao">
+<strong>Irreversibilidade não é vedação absoluta:</strong> o §3º do art. 300 fala em "perigo de irreversibilidade dos efeitos da decisão". Na prática, porém, tribunais concedem tutela antecipada irreversível quando a negativa causaria dano igual ou superior ao risco de concessão — é a chamada "irreversibilidade recíproca" ou "dupla irreversibilidade". Em provas, demonstre que conhece a regra e a exceção.
+</div>
+
+<div class="atencao">
+<strong>Prazos do procedimento antecedente:</strong> tutela antecipada antecedente: 15 dias para aditar a inicial (art. 303, §1º, I). Tutela cautelar antecedente: 30 dias para formular o pedido principal (art. 308). Confundir esses prazos é armadilha recorrente.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Estabilização da tutela antecipada — contestação como impeditivo</h3>
+
+<p><span class="tag tag-stj">STJ</span> As turmas do STJ têm adotado, de forma consistente, o entendimento de que a interposição de agravo de instrumento não é a única conduta processual apta a impedir a estabilização do art. 304. A apresentação de <strong>contestação</strong> pelo réu também demonstra resistência à pretensão autoral e, portanto, afasta a estabilização. O fundamento é teleológico: a estabilização pressupõe aquiescência tácita do réu, o que não se verifica quando há contestação. A doutrina aponta a necessidade de manifestação da Corte Especial para pacificar definitivamente a questão, mas a tendência é claramente favorável à interpretação ampliativa.</p>
+
+<h3>ADC 4 — Constitucionalidade das vedações à tutela contra a Fazenda</h3>
+
+<p><span class="tag tag-stf">STF</span> Na Ação Declaratória de Constitucionalidade nº 4, o STF confirmou a validade do art. 1º da Lei 9.494/97, que estende à tutela antecipada contra a Fazenda as vedações antes aplicáveis apenas a liminares em mandado de segurança. A decisão reconheceu que as restrições se justificam pela natureza das prestações envolvidas (reclassificação de servidores, compensação tributária, etc.) e pelo impacto orçamentário que tutelas provisórias nessas áreas podem causar. Porém, o STF deixou claro que as vedações são pontuais — não há proibição genérica de tutela antecipada contra a Fazenda.</p>
+
+<h3>Súmula 729/STF — Ações previdenciárias excepcionadas</h3>
+
+<p><span class="tag tag-stf">STF</span> A Súmula 729 estabelece que a ADC 4 não impede a concessão de tutela antecipada em ações de natureza previdenciária. A razão é a natureza alimentar dos benefícios previdenciários: postergar sua concessão enquanto tramita o processo pode causar dano irreversível ao segurado. Esse entendimento reforça que as vedações são excepcionais e de interpretação restrita.</p>
+
+<h3>Suspensão de segurança e de liminar — prática da advocacia pública</h3>
+
+<p><span class="tag tag-stf">STF</span> <span class="tag tag-stj">STJ</span> Os pedidos de suspensão de segurança (art. 15, Lei 12.016/09) e de suspensão de liminar/sentença (art. 4º, Lei 8.437/92) são instrumentos de uso frequente pela Fazenda Pública. A jurisprudência consolidou que: (a) o juízo é de natureza político-jurídica, não se confundindo com análise de mérito; (b) os fundamentos são grave lesão à ordem, saúde, segurança ou economia públicas; (c) a decisão do presidente do tribunal é recorrível por agravo interno; (d) a suspensão pode ser renovada perante o presidente do tribunal superior quando a causa chegar àquela instância. Para a PGE/RJ, o manejo desses instrumentos é rotina — demonstre familiaridade com o procedimento na prova discursiva.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Tutela antecipada (satisfativa)</th><th>Tutela cautelar (conservativa)</th></tr>
+<tr><td>Finalidade</td><td>Antecipar efeitos do provimento final</td><td>Assegurar o resultado útil do processo</td></tr>
+<tr><td>Requisitos</td><td>Probabilidade do direito + perigo de dano</td><td>Probabilidade do direito + perigo de dano</td></tr>
+<tr><td>Vedação de irreversibilidade</td><td>Sim (art. 300, §3º — não absoluta)</td><td>Não se aplica</td></tr>
+<tr><td>Estabilização</td><td>Sim (art. 304 — apenas antecedente)</td><td>Não</td></tr>
+<tr><td>Antecedente — prazo</td><td>15 dias para aditar inicial (art. 303)</td><td>30 dias para pedido principal (art. 308)</td></tr>
+<tr><td>Fungibilidade</td><td colspan="2">Bilateral — art. 305, parágrafo único</td></tr>
+</table>
+
+<table>
+<tr><th>Vedação legal</th><th>Diploma</th><th>Objeto vedado</th></tr>
+<tr><td>Compensação de créditos tributários</td><td>Leis 9.494/97, 8.437/92, 12.016/09</td><td>Liminar/antecipação</td></tr>
+<tr><td>Entrega de mercadorias/bens do exterior</td><td>Idem</td><td>Liminar/antecipação</td></tr>
+<tr><td>Reclassificação/equiparação de servidores</td><td>Idem</td><td>Liminar/antecipação</td></tr>
+<tr><td>Aumento/extensão de vantagens a servidores</td><td>Idem</td><td>Liminar/antecipação</td></tr>
+<tr><td>Esgotamento do objeto da ação contra Fazenda</td><td>Lei 9.494/97, art. 2º-B</td><td>Tutela antecipada</td></tr>
+</table>
+
+<table>
+<tr><th>Instrumento de suspensão</th><th>Diploma</th><th>Cabimento</th><th>Fundamento</th></tr>
+<tr><td>Suspensão de segurança</td><td>Lei 12.016/09, art. 15</td><td>Mandado de segurança</td><td>Grave lesão à ordem, saúde, segurança ou economia públicas</td></tr>
+<tr><td>Suspensão de liminar/sentença</td><td>Lei 8.437/92, art. 4º</td><td>Demais ações contra Fazenda</td><td>Idem</td></tr>
+<tr><td>Competência</td><td colspan="2">Presidente do tribunal ao qual couber o julgamento do recurso</td><td>Decisão monocrática, recorrível por agravo interno</td></tr>
+</table>

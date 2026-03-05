@@ -1,0 +1,67 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 9b — Jurisdição Voluntária. Procedimentos Especiais de Jurisdição Voluntária. Disposições Gerais. Procedimentos em Espécie</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A jurisdição voluntária é a atividade estatal de administração pública de interesses privados, exercida pelo Poder Judiciário sem caráter contencioso. Não há lide em sentido técnico — o juiz atua como fiscal da regularidade de atos da vida civil que exigem intervenção estatal. Para o Procurador do Estado, o tema tem relevância quando o Estado é interessado (ex.: autorização judicial para alienação de bens públicos, nomeação de administradores de fundações).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Natureza jurídica — controvérsia doutrinária</h3>
+
+<p><strong>Corrente administrativista (clássica):</strong> a jurisdição voluntária não é jurisdição em sentido próprio — é administração pública de interesses privados exercida pelo juiz. Não há lide, partes, coisa julgada material nem ação. Os "interessados" não são "partes" no sentido processual.</p>
+
+<p><strong>Corrente jurisdicionalista (adotada pelo CPC/2015):</strong> o CPC/2015 inclui a jurisdição voluntária na atividade jurisdicional, aplicando-lhe as normas fundamentais do processo (arts. 1-15). O art. 719 refere-se a "interessados" (não "partes"), mas o Código trata os procedimentos voluntários como genuínos processos.</p>
+
+<h3>Disposições gerais (arts. 719-725)</h3>
+
+<p><strong>Início (art. 720):</strong> os procedimentos de jurisdição voluntária podem ser iniciados por provocação do interessado, do Ministério Público ou da Defensoria Pública.</p>
+
+<p><strong>Citação dos interessados (art. 721):</strong> serão citados todos os interessados e intimado o Ministério Público (quando não for requerente).</p>
+
+<p><strong>Decisão por equidade (art. 723, parágrafo único):</strong> o juiz não é obrigado a observar critério de legalidade estrita, podendo adotar em cada caso a solução que reputar mais conveniente ou oportuna. É uma das características mais marcantes da jurisdição voluntária — o juiz tem mais liberdade do que na jurisdição contenciosa.</p>
+
+<p><strong>Sentença (art. 724):</strong> da sentença caberá apelação (art. 724). A questão da coisa julgada material em jurisdição voluntária é controvertida: a corrente majoritária entende que não há coisa julgada material (por não haver lide), mas o CPC/2015 não faz essa distinção expressamente.</p>
+
+<h3>Procedimentos em espécie (arts. 726-770)</h3>
+
+<p>O CPC/2015 disciplina os seguintes procedimentos de jurisdição voluntária:</p>
+
+<p><strong>Notificação e interpelação (arts. 726-729):</strong> mecanismo para constituir em mora, dar ciência ou interpelar o destinatário.</p>
+
+<p><strong>Alienações judiciais (art. 730):</strong> quando a lei exigir autorização judicial para alienação de bens.</p>
+
+<p><strong>Divórcio e separação consensuais, extinção consensual de união estável e alteração do regime de bens (arts. 731-734).</strong></p>
+
+<p><strong>Testamentos e codicilos (arts. 735-737).</strong></p>
+
+<p><strong>Herança jacente (arts. 738-743).</strong></p>
+
+<p><strong>Bens dos ausentes (arts. 744-745).</strong></p>
+
+<p><strong>Coisas vagas (arts. 746-748).</strong></p>
+
+<p><strong>Interdição (arts. 747-758):</strong> procedimento para declarar incapacidade — tema profundamente alterado pelo Estatuto da Pessoa com Deficiência (Lei 13.146/2015), que substituiu a interdição total pela curatela parcial.</p>
+
+<p><strong>Organização e fiscalização de fundações (arts. 764-765):</strong> relevante para a PGE quando o Estado mantém ou fiscaliza fundações públicas.</p>
+
+<p><strong>Ratificação dos protestos marítimos e dos processos testemunháveis formados a bordo (arts. 766-770).</strong></p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 719-725:</strong> disposições gerais da jurisdição voluntária — início, citação, equidade, sentença.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 723, parágrafo único:</strong> decisão por equidade — conveniência e oportunidade.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 726-770:</strong> procedimentos em espécie.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Jurisdição voluntária ≠ ausência de conflito:</strong> pode haver conflito de interesses entre os interessados (ex.: disputa sobre regime de bens em divórcio consensual). A distinção é que o conflito não é o objeto principal do procedimento — o objeto é a regularização de uma situação jurídica.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Decisão por equidade (art. 723, p.u.):</strong> diferentemente da jurisdição contenciosa, onde o juiz está vinculado à legalidade estrita, na jurisdição voluntária o juiz pode decidir pela solução mais conveniente. Mas isso não significa arbitrariedade — a decisão deve ser fundamentada.</p>
+</div>

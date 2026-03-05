@@ -1,0 +1,289 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 9c — Proteção de Direitos Difusos, Coletivos e Individuais Homogêneos. Processo Coletivo. Ação Popular. Mandado de Segurança Coletivo. Ação Civil Pública. Inquérito Civil. Ação de Improbidade Administrativa</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O processo coletivo brasileiro é regido por um <strong>microssistema normativo</strong> formado pela interação de diversos diplomas legislativos: a Lei da Ação Civil Pública (Lei 7.347/85), o Código de Defesa do Consumidor (Lei 8.078/90, Título III), a Lei da Ação Popular (Lei 4.717/65), a Lei do Mandado de Segurança (Lei 12.016/09), a Lei da Improbidade Administrativa (Lei 8.429/92), o Estatuto da Criança e do Adolescente, o Estatuto do Idoso, entre outros. Esses diplomas se intercomunicam: as normas de um aplicam-se subsidiariamente aos demais, formando um corpo normativo coerente.</p>
+
+<p>Para a PGE/RJ, o processo coletivo importa sob múltiplas perspectivas. O Estado pode ser réu em ações civis públicas (meio ambiente, saúde, educação, patrimônio público), em ações populares e em mandados de segurança coletivos. Ao mesmo tempo, a PGE pode atuar como fiscal da lei ou mesmo como legitimada ativa para ações coletivas que protejam o patrimônio público. O candidato deve dominar a teoria geral do processo coletivo — categorias de direitos, legitimidade, coisa julgada, liquidação e execução coletivas — reservando os procedimentos específicos para os Pontos 10b (ACP) e 10c (ação popular e mandado de segurança).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Categorias de direitos coletivos (art. 81 do CDC)</h3>
+
+<p>O art. 81, parágrafo único, do CDC define as três categorias de direitos coletivos lato sensu, que fundamentam toda a estrutura do processo coletivo:</p>
+
+<table>
+<tr><th>Categoria</th><th>Definição</th><th>Titulares</th><th>Objeto</th><th>Relação jurídica</th></tr>
+<tr><td><strong>Difusos</strong></td><td>Transindividuais, de natureza indivisível, de que sejam titulares pessoas indeterminadas e ligadas por circunstâncias de fato</td><td>Indeterminados e indetermináveis</td><td>Indivisível</td><td>Ligação de fato</td></tr>
+<tr><td><strong>Coletivos stricto sensu</strong></td><td>Transindividuais, de natureza indivisível, de que seja titular grupo, categoria ou classe ligados entre si ou com a parte contrária por relação jurídica base</td><td>Indeterminados, mas determináveis (grupo/classe)</td><td>Indivisível</td><td>Relação jurídica base</td></tr>
+<tr><td><strong>Individuais homogêneos</strong></td><td>Decorrentes de origem comum</td><td>Determinados (identificáveis)</td><td>Divisível</td><td>Origem comum</td></tr>
+</table>
+
+<p>A distinção é fundamental porque determina o regime de coisa julgada, a forma de liquidação e execução, e a extensão dos efeitos da sentença. Na prática, o mesmo fato pode gerar pretensões nas três categorias: uma poluição industrial afeta o meio ambiente (direito difuso), a comunidade de moradores da região (direito coletivo) e cada morador individualmente lesado (direito individual homogêneo).</p>
+
+<h3>Legitimidade ativa — legitimação extraordinária concorrente e disjuntiva</h3>
+
+<p>A legitimidade para ações coletivas é <strong>extraordinária</strong> (o autor atua em nome próprio na defesa de direito alheio), <strong>concorrente</strong> (múltiplos legitimados podem propor a mesma ação) e <strong>disjuntiva</strong> (cada legitimado pode agir independentemente dos demais). O elenco de legitimados varia conforme o instrumento processual:</p>
+
+<div class="destaque">
+<strong>Principais legitimados:</strong> Ministério Público, Defensoria Pública (para defesa de direitos difusos e coletivos de necessitados — Tema 607/STJ), União, Estados, DF e Municípios, autarquias, empresas públicas, fundações públicas, sociedades de economia mista, e associações constituídas há pelo menos 1 ano que incluam entre seus fins institucionais a defesa dos direitos em questão. A legitimidade do MP é ampla para direitos difusos e coletivos; para individuais homogêneos, exige-se relevância social.
+</div>
+
+<p>A legitimidade da Defensoria Pública para ações coletivas foi reconhecida pelo STF (ADI 3.943), desde que voltada à proteção de pessoas em situação de vulnerabilidade. O STJ, porém, delimitou: a Defensoria não tem legitimidade para impetrar mandado de segurança coletivo, por não constar do rol taxativo do art. 5º, LXX, da CF e do art. 21 da Lei 12.016/09.</p>
+
+<h3>Coisa julgada coletiva (art. 103 do CDC)</h3>
+
+<p>O regime de coisa julgada no processo coletivo difere substancialmente do processo individual. O art. 103 do CDC estabelece três regimes distintos, conforme a categoria de direito tutelado:</p>
+
+<table>
+<tr><th>Categoria</th><th>Regime de coisa julgada</th><th>Efeito</th></tr>
+<tr><td>Difusos (I)</td><td><em>Erga omnes</em>, salvo improcedência por insuficiência de provas (nesse caso, qualquer legitimado pode repropor com prova nova)</td><td><em>Secundum eventum probationis</em></td></tr>
+<tr><td>Coletivos <em>stricto sensu</em> (II)</td><td><em>Ultra partes</em> (limitada ao grupo/classe), salvo improcedência por insuficiência de provas</td><td><em>Secundum eventum probationis</em></td></tr>
+<tr><td>Individuais homogêneos (III)</td><td><em>Erga omnes</em> apenas em caso de <strong>procedência</strong>; se improcedente, não prejudica ações individuais</td><td><em>Secundum eventum litis</em></td></tr>
+</table>
+
+<p>O mecanismo é protetivo: a coisa julgada coletiva desfavorável nunca prejudica os direitos individuais dos lesados. Se a ação coletiva for julgada improcedente, os indivíduos podem ajuizar suas ações próprias. Já a procedência beneficia a todos — é o chamado <strong>transporte <em>in utilibus</em></strong>: os interessados podem liquidar e executar individualmente a sentença coletiva favorável, sem precisar rediscutir o <em>an debeatur</em> (dever de indenizar).</p>
+
+<h3>Liquidação e execução coletivas</h3>
+
+<p>A sentença coletiva de procedência que reconhece direitos individuais homogêneos é genérica (art. 95 do CDC) — fixa a responsabilidade do réu e a obrigação de indenizar, mas não determina os beneficiários individuais nem os valores devidos. A fase de liquidação individual é necessária: cada interessado deve comprovar a titularidade do direito, o nexo causal e a extensão do dano sofrido.</p>
+
+<p>Se, decorrido 1 ano sem habilitação de número compatível de interessados, as indenizações individuais forem insuficientes para reparar o dano global, os legitimados coletivos podem promover a <strong>liquidação e execução do dano residual</strong> (<em>fluid recovery</em>), revertendo o produto a um fundo de direitos difusos (art. 100 do CDC). Esse mecanismo impede que o réu se beneficie da inércia das vítimas individuais.</p>
+
+<h3>Litispendência e conexão entre ações coletivas e individuais</h3>
+
+<p>Não há litispendência entre ação coletiva e ação individual (art. 104 do CDC). O autor individual pode prosseguir com sua demanda própria, paralelamente à ação coletiva. Porém, se quiser se beneficiar da sentença coletiva favorável, deve requerer a suspensão de sua ação individual no prazo de 30 dias a contar da ciência da propositura da ação coletiva. Se não o fizer, a sentença coletiva não o beneficiará — ele fica vinculado apenas ao resultado de sua ação individual.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 81:</strong> definição das três categorias de direitos coletivos — difusos, coletivos <em>stricto sensu</em> e individuais homogêneos.</p>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 82:</strong> legitimados para ações coletivas de defesa do consumidor (MP, entes federativos, associações).</p>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 95:</strong> sentença genérica em ação coletiva de direitos individuais homogêneos — fixa responsabilidade, não quantifica danos individuais.</p>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 100:</strong> <em>fluid recovery</em> — execução do dano residual coletivo quando as indenizações individuais são insuficientes.</p>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 103:</strong> regime de coisa julgada coletiva — <em>erga omnes</em>, <em>ultra partes</em>, <em>secundum eventum probationis/litis</em>.</p>
+
+<p><span class="tag tag-lei">CDC</span> <strong>Art. 104:</strong> inexistência de litispendência entre ação coletiva e ação individual.</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 5º:</strong> legitimados para ACP (MP, Defensoria, entes federativos, autarquias, empresas públicas, fundações, sociedades de economia mista, associações).</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 16:</strong> abrangência territorial da coisa julgada (declarado inconstitucional pelo STF — Tema 1.075/STF).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 3.943:</strong> constitucionalidade da legitimidade da Defensoria Pública para ações civis públicas.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 607:</strong> a Defensoria Pública tem legitimidade para propor ACP em defesa de direitos difusos e coletivos de necessitados.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 948:</strong> em ACP proposta por associação como substituta, todos os beneficiados têm legitimidade para execução, independentemente de filiação.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelas categorias de direitos coletivos (art. 81 do CDC) — essa é a classificação fundante de todo o microssistema. Domine os três critérios distintivos: indivisibilidade do objeto, determinabilidade dos titulares e natureza da relação jurídica (de fato, jurídica base, ou origem comum). Depois, estude a legitimidade ativa (arts. 82 do CDC e 5º da LACP), com atenção à posição do MP, da Defensoria e das associações.</p>
+
+<p>A coisa julgada coletiva (art. 103 do CDC) é o coração técnico do tema — memorize os três regimes e suas consequências práticas: <em>erga omnes</em> para difusos e individuais homogêneos procedentes, <em>ultra partes</em> para coletivos <em>stricto sensu</em>, <em>secundum eventum probationis</em> para difusos e coletivos, <em>secundum eventum litis</em> para individuais homogêneos. Conecte com o transporte <em>in utilibus</em> e a <em>fluid recovery</em>.</p>
+
+<p>Para a PGE/RJ, dedique atenção especial à posição do Estado no processo coletivo: como réu (em ACPs sobre políticas públicas, meio ambiente, patrimônio cultural) e como legitimado ativo (proteção do patrimônio público, combate à improbidade — embora essa última tenha rito próprio na Lei 8.429/92). Conecte com os Pontos 10b e 10c para uma visão integrada.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Difusos × coletivos × individuais homogêneos:</strong> a classificação parece simples, mas a distinção entre difusos e coletivos <em>stricto sensu</em> é sutil. Ambos têm objeto indivisível; a diferença está na relação: nos difusos, é de fato (circunstancial); nos coletivos, há relação jurídica base. Nos individuais homogêneos, o objeto é divisível e os titulares são determinados — a tutela coletiva se justifica pela origem comum e pela economia processual.
+</div>
+
+<div class="atencao">
+<strong>Coisa julgada desfavorável nunca prejudica ações individuais:</strong> esse é um princípio central. Se a ação coletiva é julgada improcedente, os indivíduos mantêm suas ações próprias (art. 103, §§1º-3º, CDC). A proteção é unidirecional — a coisa julgada coletiva só beneficia, nunca prejudica o titular individual. Bancas exploram situações em que o candidato confunde coisa julgada coletiva com individual.
+</div>
+
+<div class="atencao">
+<strong>Abrangência territorial da coisa julgada — Tema 1.075/STF:</strong> o art. 16 da LACP (com redação da Lei 9.494/97) limitava a coisa julgada coletiva à competência territorial do órgão prolator. Porém, o STF declarou a inconstitucionalidade desse dispositivo no Tema 1.075 (RE 1.101.937, julgado em 2021), entendendo que a limitação territorial é incompatível com a natureza indivisível dos direitos difusos e coletivos. A sentença em ACP tem eficácia nacional ou regional, conforme a extensão do dano.
+</div>
+
+<div class="atencao">
+<strong>Defensoria Pública — legitimidade com limites:</strong> a Defensoria pode propor ACP para defesa de direitos difusos e coletivos de necessitados (ADI 3.943/STF, Tema 607/STJ). Mas não pode impetrar mandado de segurança coletivo (rol taxativo do art. 5º, LXX, CF). Essa distinção é frequentemente explorada em provas de procuradorias.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Tema 1.075/STF — Abrangência territorial da coisa julgada coletiva</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário do STF, no Tema 1.075 (RE 1.101.937, julgado em 2021), declarou a inconstitucionalidade do art. 16 da LACP na redação dada pela Lei 9.494/97, que limitava os efeitos da sentença coletiva à competência territorial do órgão prolator. O STF entendeu que a restrição é incompatível com a natureza indivisível dos direitos difusos e coletivos, repristinando a redação original do dispositivo. A sentença em ACP tem eficácia nacional ou regional, conforme a extensão do dano. A definição impacta diretamente a atuação da PGE/RJ, pois decisões proferidas em outros estados podem produzir efeitos sobre o Estado do Rio de Janeiro.</p>
+
+<h3>ADI 3.943/STF — Legitimidade da Defensoria para ACP</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário declarou a constitucionalidade do art. 5º, II, da Lei 7.347/85 (incluído pela Lei 11.448/2007), que confere à Defensoria Pública legitimidade para propor ação civil pública. O STF entendeu que a atuação da Defensoria em ações coletivas é compatível com sua função constitucional de orientação jurídica e defesa dos necessitados (art. 134 da CF). A legitimidade não se restringe a direitos individuais homogêneos de hipossuficientes — alcança também direitos difusos e coletivos quando há interesse de pessoas necessitadas.</p>
+
+<h3>Tema 948/STJ — Execução individual de sentença coletiva por não filiados</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Corte Especial fixou que, em ação civil pública proposta por associação como substituta processual, <strong>todos os beneficiados pela procedência</strong> têm legitimidade para executar individualmente a sentença, independentemente de serem filiados à associação autora. O fundamento é que a legitimidade nas ações coletivas é extraordinária — a associação age como substituta processual, e não como representante. Logo, a sentença favorável beneficia toda a classe, e não apenas os associados. Esse entendimento é relevante para a Fazenda como ré: a potencial amplitude de execuções individuais é maior do que se apenas os filiados pudessem executar.</p>
+
+<h3>Tema 499/STF — Abrangência dos efeitos subjetivos em ação coletiva de associação</h3>
+
+<p><span class="tag tag-stf">STF</span> O STF fixou, no Tema 499 (RE 612.043, Rel. Min. Marco Aurélio, Pleno, julgado em 10/5/2017), que a eficácia subjetiva da coisa julgada formada em ação coletiva de rito ordinário, proposta por <strong>associação civil</strong> atuando como representante processual, <strong>alcança somente os filiados</strong> residentes no âmbito da jurisdição do órgão julgador, que o fossem em momento anterior ou até a data da propositura da demanda, constantes da relação jurídica juntada à inicial. Atenção: esse entendimento se aplica a associações civis em regime de representação processual (que exige autorização), e não a sindicatos em substituição processual (que dispensam autorização individual — art. 8º, III, CF). Esse precedente delimita o alcance subjetivo das sentenças coletivas associativas — relevante para o Estado quando é réu em ações movidas por associações de servidores.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Instrumento</th><th>Legislação</th><th>Direitos tutelados</th><th>Legitimados principais</th></tr>
+<tr><td>Ação Civil Pública</td><td>Lei 7.347/85</td><td>Difusos, coletivos, individuais homogêneos</td><td>MP, Defensoria, entes federativos, associações</td></tr>
+<tr><td>Ação Popular</td><td>Lei 4.717/65</td><td>Patrimônio público, moralidade administrativa</td><td>Qualquer cidadão</td></tr>
+<tr><td>Mandado de Segurança Coletivo</td><td>Lei 12.016/09</td><td>Direito líquido e certo coletivo</td><td>Partidos políticos, organizações sindicais, associações</td></tr>
+<tr><td>Ação coletiva do CDC</td><td>Lei 8.078/90</td><td>Direitos do consumidor (todas as categorias)</td><td>MP, entes federativos, associações, Defensoria</td></tr>
+</table>
+
+<table>
+<tr><th>Categoria</th><th>Titulares</th><th>Objeto</th><th>Coisa julgada (procedência)</th><th>Coisa julgada (improcedência)</th></tr>
+<tr><td>Difusos</td><td>Indeterminados</td><td>Indivisível</td><td><em>Erga omnes</em></td><td>Não faz coisa julgada se por insuficiência de provas</td></tr>
+<tr><td>Coletivos <em>s.s.</em></td><td>Grupo/classe</td><td>Indivisível</td><td><em>Ultra partes</em></td><td>Não faz coisa julgada se por insuficiência de provas</td></tr>
+<tr><td>Individuais homogêneos</td><td>Determinados</td><td>Divisível</td><td><em>Erga omnes</em></td><td>Não prejudica ações individuais</td></tr>
+</table>
+<h1>Ação Civil Pública e Inquérito Civil</h1>
+
+<h3>Objeto da ACP (art. 1º da LACP)</h3>
+
+<p>A ACP tutela responsabilidade por danos causados a uma ampla gama de interesses: meio ambiente (I), consumidor (II), bens de valor artístico, estético, histórico e paisagístico (III), qualquer outro interesse difuso ou coletivo (IV — cláusula aberta), ordem econômica (V), ordem urbanística (VI), honra e dignidade de grupos raciais, étnicos ou religiosos (VII) e patrimônio público e social (VIII). O art. 3º prevê que a ação pode ter por objeto a condenação em dinheiro ou o cumprimento de obrigação de fazer ou não fazer, sendo admitida a cumulação.</p>
+
+<div class="atencao">
+<strong>Vedação tributária (art. 1º, parágrafo único):</strong> não cabe ACP para veicular pretensões que envolvam tributos, contribuições previdenciárias, FGTS ou outros fundos de natureza institucional cujos beneficiários possam ser individualmente determinados. Esse dispositivo (incluído pela MP 2.180-35/2001) é criticado pela doutrina como restrição inconstitucional à tutela coletiva, mas nunca foi expressamente enfrentado pelo STF em controle concentrado. Para a prova, conheça a vedação e a controvérsia.
+</div>
+
+<h3>Legitimidade ativa (art. 5º da LACP)</h3>
+
+<p>A legitimidade para a ACP é concorrente e disjuntiva — cada legitimado pode agir independentemente dos demais. O rol do art. 5º inclui: Ministério Público, Defensoria Pública, União, Estados, DF e Municípios, autarquias, empresas públicas, fundações, sociedades de economia mista e associações (constituídas há pelo menos 1 ano e com pertinência temática). O requisito de pré-constituição de 1 ano pode ser dispensado pelo juiz quando houver manifesto interesse social (§4º).</p>
+
+<p>O MP tem papel preponderante: se não for autor, atua como fiscal da ordem jurídica (<em>custos legis</em>), e assume a titularidade ativa se o autor desistir ou abandonar a ação (art. 5º, §3º). Entre MPs, admite-se litisconsórcio facultativo (§5º). A PGE/RJ, como representante do Estado, é legitimada ativa para ACPs de proteção ao patrimônio público — embora na prática atue predominantemente como ré.</p>
+
+<h3>Procedimento</h3>
+
+<p>A ACP segue o procedimento comum do CPC, com as especificidades da Lei 7.347/85. A competência é do foro do local do dano (art. 2º — competência funcional, portanto absoluta). Para ações de âmbito nacional ou regional, aplica-se o art. 93, II, do CDC (capital do Estado ou DF). A petição inicial deve preencher os requisitos do art. 319 do CPC, indicando com precisão o interesse tutelado.</p>
+
+<p>O juiz pode conceder liminar com ou sem justificação prévia (art. 12). As condenações em dinheiro revertem ao fundo de direitos difusos (art. 13), gerido por conselho federal ou estadual. A sentença segue o regime de coisa julgada do art. 103 do CDC (estudado no Ponto 10a). Se o autor desistir infundadamente, outro legitimado pode assumir a titularidade ativa.</p>
+
+<h3>Inquérito civil</h3>
+
+<p>O inquérito civil é procedimento administrativo investigatório de titularidade <strong>exclusiva do Ministério Público</strong> (art. 8º, §1º, da LACP c/c art. 129, III, da CF). Tem por finalidade colher elementos de prova para fundamentar eventual ACP. Suas características centrais: é facultativo (não é pressuposto da ACP), inquisitorial (sem contraditório obrigatório), público (com possibilidade de sigilo excepcional) e informal (sem rito rígido).</p>
+
+<p>Se o membro do MP concluir pela inexistência de fundamento para a ACP, promove o arquivamento, elaborando relatório circunstanciado. Os autos são remetidos ao <strong>Conselho Superior do Ministério Público (CSMP)</strong> no prazo de 3 dias (art. 9º). O CSMP pode homologar o arquivamento, determinar diligências complementares ou designar outro membro para prosseguir. Esse controle impede arquivamentos injustificados.</p>
+
+<h3>Compromisso de ajustamento de conduta — TAC (art. 5º, §6º)</h3>
+
+<p>Os órgãos públicos legitimados podem tomar dos interessados compromisso de ajustamento de conduta às exigências legais, mediante cominações, com eficácia de <strong>título executivo extrajudicial</strong>. O TAC é instrumento de resolução consensual: o compromissário adere às exigências legais, negociando prazos, formas de cumprimento e cominações — sem transigir sobre o direito material, que é indisponível.</p>
+
+<div class="destaque">
+<strong>Quem pode firmar TAC:</strong> somente órgãos públicos legitimados — MP, Defensoria, entes federativos e entidades da administração indireta. Associações civis não podem firmar TAC (não são órgãos públicos). A PGE/RJ, como representante do Estado, pode firmar TAC em nome do ente federativo — ferramenta estratégica para resolver conflitos coletivos sem condenação judicial.
+</div>
+
+<p>O TAC não depende de homologação judicial para ter eficácia (prevalece na jurisprudência). Sua celebração pode levar ao arquivamento do inquérito civil. Porém, o TAC não impede que outros legitimados ajuízem ACP sobre o mesmo objeto, se entenderem que o compromisso é insuficiente — não há vinculação de terceiros à solução consensual.</p>
+
+<h3>ACP e controle de políticas públicas</h3>
+
+<p>A ACP é o instrumento mais utilizado para o controle judicial de políticas públicas, o que gera tensão permanente entre efetividade de direitos fundamentais e separação de poderes. O STF enfrentou o tema de forma paradigmática no <strong>Tema 698 (RE 684.612/RJ)</strong>, caso originado no Rio de Janeiro envolvendo a precariedade do atendimento hospitalar. As teses fixadas definem os parâmetros de atuação judicial:</p>
+
+<div class="destaque">
+<strong>Tema 698 — teses do STF (2023):</strong> (1) a intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de <strong>ausência ou grave deficiência</strong> do serviço, não viola a separação dos poderes; (2) a decisão judicial, como regra, ao invés de determinar medidas específicas, deve <strong>apontar as finalidades</strong> a serem alcançadas e determinar que a Administração Pública apresente plano e/ou meios adequados para alcançar o resultado.
+</div>
+
+<p>O Tema 698 consolida a distinção entre mínimo existencial e reserva do possível: a Administração não pode invocar limitações orçamentárias para se eximir de garantir o mínimo existencial. A reserva do possível só é oponível acima desse patamar, e o ônus de demonstrar a impossibilidade orçamentária é do Estado (não basta alegação genérica). Para a PGE/RJ, o Tema 698 é referência obrigatória: orienta tanto a defesa do Estado (propondo planos de ação em vez de sofrer imposições judiciais específicas) quanto a argumentação sobre limites da intervenção judicial.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 1º:</strong> objeto da ACP — rol amplo com cláusula aberta (inciso IV). Parágrafo único: vedação em matéria tributária.</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 2º:</strong> competência do foro do local do dano (absoluta).</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 5º:</strong> legitimados ativos. §3º: assunção pelo MP em caso de desistência. §6º: TAC com eficácia de título executivo extrajudicial.</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 8º, §1º:</strong> inquérito civil — exclusividade do MP.</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 9º:</strong> arquivamento do inquérito civil — remessa ao CSMP em 3 dias.</p>
+
+<p><span class="tag tag-lei">LACP</span> <strong>Art. 13:</strong> fundo de direitos difusos — destino das condenações pecuniárias.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 698 (RE 684.612/RJ, 2023):</strong> parâmetros para intervenção judicial em políticas públicas — ausência ou grave deficiência; decisão fixa finalidades, não meios específicos.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.075 (RE 1.101.937, 2021):</strong> inconstitucionalidade do art. 16 da LACP (limitação territorial da coisa julgada). Sentença em ACP tem eficácia nacional ou regional conforme a extensão do dano.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 3.943:</strong> constitucionalidade da legitimidade da Defensoria Pública para ACP.</p>
+
+<p><span class="tag tag-stj">STJ</span> Imprescritibilidade da pretensão de reparação de dano ambiental, inclusive na fase de execução (confirmada em decisões de 2025).</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela Lei 7.347/85 — são poucos artigos (21 na versão compilada) e a leitura integral é rápida. Concentre-se nos arts. 1º (objeto e vedação), 2º (competência), 3º (pedidos), 5º (legitimados e TAC), 8º-9º (inquérito civil e arquivamento) e 13 (fundo). Depois, articule com o CDC (arts. 81, 82, 95, 100, 103 e 104 — estudados no Ponto 10a) para completar o microssistema.</p>
+
+<p>Para a PGE/RJ, os temas mais cobráveis são: (a) o Tema 698 sobre controle de políticas públicas (caso originado no RJ!), com a distinção entre mínimo existencial e reserva do possível; (b) o Tema 1.075 sobre a abrangência territorial da coisa julgada; e (c) o TAC como instrumento de solução consensual à disposição da Fazenda. Esses três tópicos são altamente prováveis em prova discursiva de procuradoria.</p>
+
+<p>Estude o inquérito civil e o TAC com foco nas características essenciais: exclusividade do MP para o IC, facultatividade como pressuposto da ACP, controle do CSMP sobre arquivamento, e legitimidade restrita a órgãos públicos para o TAC. Essas distinções são frequentemente testadas em provas objetivas e discursivas.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Vedação tributária (art. 1º, parágrafo único):</strong> não cabe ACP sobre tributos, contribuições previdenciárias e FGTS. A doutrina critica a vedação como inconstitucional, mas ela está vigente e nunca foi declarada inconstitucional pelo STF. Em prova, aplique a vedação e mencione a controvérsia.
+</div>
+
+<div class="atencao">
+<strong>Associações não podem firmar TAC:</strong> apenas órgãos públicos legitimados (MP, Defensoria, entes federativos, entidades da administração indireta). Associações civis, embora legitimadas para a ACP, não são órgãos públicos — portanto, não podem celebrar TAC. Essa distinção é cobrada com frequência.
+</div>
+
+<div class="atencao">
+<strong>Tema 698 — meios vs. finalidades:</strong> o STF determinou que o Judiciário deve fixar metas e finalidades, mas não ditar meios específicos. Isso significa que o juiz pode determinar que o serviço de saúde atinja determinado patamar de atendimento, mas não pode impor a contratação de X médicos por concurso público. A Administração escolhe os meios — e a PGE pode propor planos de ação como resposta a determinações judiciais.
+</div>
+
+<div class="atencao">
+<strong>Inquérito civil é exclusivo do MP:</strong> outros legitimados para a ACP podem investigar por meios próprios, mas o inquérito civil é instrumento exclusivo do Ministério Público. E lembre-se: o IC não é pressuposto da ACP — a ação pode ser ajuizada sem inquérito prévio, desde que haja elementos suficientes.
+</div>
+
+<div class="atencao">
+<strong>Art. 16 da LACP — inconstitucional (Tema 1.075/STF):</strong> a limitação territorial da coisa julgada coletiva ao âmbito da competência do órgão prolator foi declarada inconstitucional pelo STF. A sentença em ACP tem eficácia nacional ou regional, conforme a extensão do dano. Consequência prática para a PGE/RJ: uma ACP julgada em outro estado pode produzir efeitos sobre o Rio de Janeiro.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Tema 698 (RE 684.612/RJ) — Controle judicial de políticas públicas</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário, em julho de 2023, fixou os parâmetros para a intervenção judicial em políticas públicas. O caso concreto envolvia a precariedade do atendimento no Hospital Municipal Salgado Filho, no Rio de Janeiro. As duas teses centrais são: (1) o Judiciário pode intervir quando houver ausência ou grave deficiência de serviço público (não basta qualquer deficiência — deve ser grave); (2) a decisão judicial deve apontar finalidades, não meios — a Administração apresenta plano adequado para atingir o resultado. O STF sinalizou preferência por soluções dialogais e processos estruturais, com monitoramento judicial de planos e metas. Para a PGE/RJ, o precedente é de uso diário: fundamenta tanto a defesa (limites da intervenção judicial, discricionariedade administrativa) quanto a construção de soluções consensuais (planos de ação, TACs).</p>
+
+<h3>Tema 1.075 (RE 1.101.937) — Abrangência da coisa julgada em ACP</h3>
+
+<p><span class="tag tag-stf">STF</span> O Plenário declarou a inconstitucionalidade do art. 16 da LACP na redação dada pela Lei 9.494/97, repristinando a redação original. Fixou que, em ACP de efeitos nacionais ou regionais, a competência deve observar o art. 93, II, do CDC (capital do Estado ou DF), e a prevenção se firma pelo juízo que primeiro conhecer de ação conexa. A decisão ampliou significativamente o impacto das ACPs: uma sentença proferida em qualquer estado pode vincular todos os demais, o que aumenta a exposição da Fazenda Pública a condenações oriundas de outros foros.</p>
+
+<h3>Imprescritibilidade do dano ambiental</h3>
+
+<p><span class="tag tag-stf">STF</span> <span class="tag tag-stj">STJ</span> Ambas as cortes consolidaram que a pretensão de reparação de dano ambiental é imprescritível, alcançando inclusive a fase de execução. O STJ, em decisões de 2025, reafirmou que não se aplica prescrição intercorrente à execução de reparação ambiental, mesmo quando convertida em perdas e danos. Para o Procurador do Estado, o tema é relevante tanto na defesa contra ACPs ambientais quanto na atuação proativa de proteção ambiental pelo Estado.</p>
+
+<h3>Mínimo existencial vs. reserva do possível</h3>
+
+<p><span class="tag tag-stf">STF</span> <span class="tag tag-stj">STJ</span> A jurisprudência consolidada estabelece que a Administração não pode invocar a reserva do possível para se eximir de garantir o mínimo existencial (saúde básica, educação fundamental, alimentação, moradia mínima, saneamento). Acima desse patamar, a reserva do possível pode ser invocada, mas o ônus de demonstrar concretamente a impossibilidade orçamentária é do Estado — alegações genéricas são insuficientes. Nas ACPs sobre políticas públicas, a PGE deve produzir prova robusta sobre as limitações orçamentárias quando invocar essa cláusula.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Inquérito Civil</th><th>TAC</th></tr>
+<tr><td>Titularidade</td><td>Exclusiva do MP</td><td>Órgãos públicos legitimados (MP, Defensoria, entes federativos, administração indireta)</td></tr>
+<tr><td>Natureza</td><td>Procedimento administrativo investigatório</td><td>Negócio jurídico bilateral (título executivo extrajudicial)</td></tr>
+<tr><td>Contraditório</td><td>Não obrigatório (inquisitorial)</td><td>Consensual (adesão do compromissário)</td></tr>
+<tr><td>Relação com ACP</td><td>Facultativo — não é pressuposto</td><td>Pode evitar a propositura da ACP; não impede ACP por outros legitimados</td></tr>
+<tr><td>Controle</td><td>CSMP homologa arquivamento</td><td>Não depende de homologação judicial</td></tr>
+<tr><td>Associações</td><td>Não podem instaurar IC</td><td>Não podem firmar TAC</td></tr>
+</table>
+
+<table>
+<tr><th>Parâmetro</th><th>Tema 698 — Controle de políticas públicas</th></tr>
+<tr><td>Quando o Judiciário pode intervir</td><td>Ausência ou grave deficiência de serviço público</td></tr>
+<tr><td>Como deve intervir</td><td>Fixando finalidades e metas, não meios específicos</td></tr>
+<tr><td>Mínimo existencial</td><td>Deve ser garantido independentemente de limitações orçamentárias</td></tr>
+<tr><td>Reserva do possível</td><td>Oponível apenas acima do mínimo existencial, com ônus da prova do Estado</td></tr>
+<tr><td>Modelo preferencial</td><td>Soluções dialogais, processos estruturais, planos de ação monitorados</td></tr>
+</table>
+
+<table>
+<tr><th>Legitimado</th><th>Pode propor ACP?</th><th>Pode firmar TAC?</th><th>Pode instaurar IC?</th></tr>
+<tr><td>Ministério Público</td><td>Sim</td><td>Sim</td><td>Sim (exclusivo)</td></tr>
+<tr><td>Defensoria Pública</td><td>Sim (ADI 3.943)</td><td>Sim</td><td>Não</td></tr>
+<tr><td>Entes federativos (União, Estados, DF, Municípios)</td><td>Sim</td><td>Sim</td><td>Não</td></tr>
+<tr><td>Autarquias, EP, fundações, SEM</td><td>Sim</td><td>Sim</td><td>Não</td></tr>
+<tr><td>Associações (≥1 ano)</td><td>Sim</td><td>Não</td><td>Não</td></tr>
+</table>

@@ -1,0 +1,181 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8b — Cumprimento de Sentença</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O cumprimento de sentença é a fase processual destinada a efetivar os comandos contidos nos títulos executivos judiciais. Diferentemente da execução de título extrajudicial, aqui não se instaura um processo autônomo — trata-se de fase complementar ao processo de conhecimento, dentro da lógica sincrética adotada pelo CPC/2015 (arts. 513 a 538). Para a PGE/RJ, o tema importa sob dupla perspectiva: a Fazenda Pública é frequentemente executada em cumprimentos de sentença (obrigações de pagar, fazer e não fazer), mas também pode figurar como credora quando obtém condenações em seus favor.</p>
+
+<p>O edital cobra conhecimento integrado do assunto, conectando-o à teoria geral da execução (Ponto 8a), à execução contra a Fazenda Pública (Ponto 8d) e aos recursos (Ponto 7). O candidato deve dominar o procedimento tanto do cumprimento definitivo quanto do provisório, as especificidades do cumprimento contra a Fazenda Pública e os mecanismos de defesa do executado — especialmente a impugnação do art. 525 e a impugnação da Fazenda do art. 535.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Estrutura do cumprimento de sentença no CPC/2015</h3>
+
+<p>O CPC organiza o cumprimento de sentença em capítulos bem delimitados. As disposições gerais (arts. 513 a 519) se aplicam a todas as modalidades. Depois, o Código trata separadamente: o cumprimento provisório (arts. 520-522), o cumprimento definitivo de obrigação de pagar quantia certa (arts. 523-527), o cumprimento de obrigação alimentar (arts. 528-533) e o cumprimento contra a Fazenda Pública (arts. 534-535). Por fim, regula o cumprimento de obrigações de fazer, não fazer e entregar coisa (arts. 536-538).</p>
+
+<p>O art. 513 estabelece que o cumprimento de sentença será feito conforme os artigos do capítulo, exigindo-se a demonstração de título executivo judicial (art. 515). Toda a sistemática parte da premissa de que já existe título formado, dispensando nova citação do executado — basta a intimação, que pode se dar na pessoa do advogado (art. 513, §2º, I), por carta com AR (inciso II), por edital (inciso III) ou por meio eletrônico (inciso IV).</p>
+
+<h3>Cumprimento provisório (arts. 520-522)</h3>
+
+<p>O cumprimento provisório ocorre quando a sentença ainda não transitou em julgado, pendente recurso recebido apenas no efeito devolutivo. Ele se processa nos mesmos termos do definitivo, mas com duas diferenças relevantes: corre por iniciativa e <strong>responsabilidade objetiva do exequente</strong>, que assume o risco de restituição ao estado anterior caso a decisão seja reformada (art. 520, I e II); e o levantamento de depósito em dinheiro e atos que importem transferência de posse ou propriedade exigem <strong>caução suficiente e idônea</strong> (art. 520, IV).</p>
+
+<div class="destaque">
+<strong>Dispensa de caução:</strong> o §3º do art. 520 permite dispensar a caução quando o crédito for de natureza alimentar (independentemente da origem), quando o credor demonstrar situação de necessidade, ou quando pender agravo em RE ou REsp (salvo se houver manifesta probabilidade de provimento do recurso). A dispensa não se aplica quando o levantamento pode causar manifesto risco de grave dano de difícil ou incerta reparação.
+</div>
+
+<p>Se a sentença for reformada, a execução provisória fica sem efeito, restituindo-se as partes ao estado anterior. Se a reforma for parcial, apenas nessa parte perde eficácia (art. 520, II e III). A multa e os honorários do art. 523, §1º, incidem normalmente no cumprimento provisório — o STJ já consolidou esse entendimento.</p>
+
+<h3>Cumprimento definitivo de obrigação de pagar quantia certa (arts. 523-527)</h3>
+
+<p>Esta é a modalidade mais cobrada em provas. Intimado o executado — na pessoa de seu advogado ou na forma do art. 513, §2º —, ele tem <strong>15 dias</strong> para efetuar o pagamento voluntário do valor atualizado. Transcorrido o prazo sem pagamento, o débito é automaticamente acrescido de <strong>multa de 10%</strong> e <strong>honorários advocatícios de 10%</strong> (art. 523, §1º). Essa sanção tem dupla finalidade: incentivar o pagamento espontâneo e desestimular a protelação.</p>
+
+<div class="destaque">
+<strong>Pagamento parcial:</strong> caso o executado pague apenas parte do valor, a multa e os honorários de 10% incidirão sobre o restante (art. 523, §2º). Essa previsão é inovação do CPC/2015 que impede o executado de frustrar a execução com pagamento ínfimo.
+</div>
+
+<p>O executado pode ainda depositar a integralidade do valor para evitar a multa — mas atenção: o STJ entende que o depósito realizado expressamente para garantia do juízo (com vistas à obtenção de efeito suspensivo à impugnação) não equivale a pagamento voluntário, devendo incidir a multa e os honorários. É preciso que haja efetiva intenção de pagamento, e não mera estratégia processual.</p>
+
+<h3>Impugnação ao cumprimento de sentença (art. 525)</h3>
+
+<p>A impugnação é o meio de defesa do executado no cumprimento de sentença — análoga aos embargos à execução de título extrajudicial, mas com natureza jurídica de mero incidente processual. O prazo para apresentá-la é de <strong>15 dias</strong>, contados a partir do auto de penhora e da avaliação (art. 525, caput). As matérias arguíveis estão taxativamente elencadas no §1º:</p>
+
+<table>
+<tr><th>Inciso</th><th>Matéria arguível</th></tr>
+<tr><td>I</td><td>Falta ou nulidade da citação, se o processo correu à revelia na fase de conhecimento</td></tr>
+<tr><td>II</td><td>Ilegitimidade de parte</td></tr>
+<tr><td>III</td><td>Inexequibilidade do título ou inexigibilidade da obrigação</td></tr>
+<tr><td>IV</td><td>Penhora incorreta ou avaliação errônea</td></tr>
+<tr><td>V</td><td>Excesso de execução ou cumulação indevida de execuções</td></tr>
+<tr><td>VI</td><td>Incompetência absoluta ou relativa do juízo da execução</td></tr>
+<tr><td>VII</td><td>Causa modificativa ou extintiva superveniente à sentença (pagamento, novação, compensação, transação, prescrição)</td></tr>
+</table>
+
+<div class="atencao">
+<strong>Rejeição liminar por excesso:</strong> quando o executado alegar excesso de execução (inciso V), deve imediatamente indicar o valor que entende correto, acompanhado de demonstrativo discriminado e atualizado. Caso não o faça, a impugnação será <strong>rejeitada liminarmente</strong> nesse ponto (art. 525, §4º). Essa exigência é fatal em provas — bancas adoram cobrar a consequência da omissão.
+</div>
+
+<p>A impugnação, como regra, <strong>não tem efeito suspensivo</strong> (art. 525, §6º). Porém, o juiz pode atribuí-lo excepcionalmente, desde que presentes cumulativamente: (a) requerimento do executado; (b) garantia do juízo por penhora, caução ou depósito suficientes; e (c) fundamentos relevantes com risco de grave dano de difícil reparação caso prossiga a execução. Mesmo concedido o efeito suspensivo, a execução pode prosseguir em relação à parcela incontroversa.</p>
+
+<h3>Inexigibilidade do título fundado em norma inconstitucional (art. 525, §§12-15)</h3>
+
+<p>Uma das mais importantes inovações do CPC/2015 é a previsão de que se considera inexigível a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo declarado inconstitucional pelo STF, ou em aplicação ou interpretação de lei tida como incompatível com a Constituição em controle de constitucionalidade. Essa arguição pode ser feita na impugnação (§12) ou, após o trânsito em julgado, por ação rescisória (§15), cujo prazo é de 2 anos contados do trânsito em julgado da decisão do STF.</p>
+
+<p>Esse mecanismo dialoga diretamente com a coisa julgada inconstitucional (estudada no Ponto 6c) e com os Temas 881 e 885 do STF, que definiram os limites da coisa julgada em relações tributárias de trato continuado quando sobrevém decisão do STF em sentido contrário.</p>
+
+<h3>Cumprimento contra a Fazenda Pública (arts. 534-535)</h3>
+
+<p>O procedimento de cumprimento contra a Fazenda tem importantes particularidades. A requisição de pagamento segue o rito constitucional dos precatórios (art. 100 da CF) ou das Requisições de Pequeno Valor (RPV), conforme o montante. O exequente deve apresentar demonstrativo discriminado e atualizado do crédito, contendo o nome completo e CPF/CNPJ do beneficiário, e o valor individualizado caso haja litisconsórcio (art. 534).</p>
+
+<p>A Fazenda é intimada na pessoa de seu representante judicial para, no prazo de <strong>30 dias</strong> (não 15 — atenção à diferença!), impugnar a execução (art. 535). As matérias arguíveis são similares às do art. 525, §1º, com um acréscimo relevante: a Fazenda pode invocar qualquer causa modificativa ou extintiva da obrigação superveniente ao trânsito em julgado. A impugnação da Fazenda também segue a regra de não ter efeito suspensivo automático, mas o juiz pode concedê-lo nos mesmos moldes já descritos.</p>
+
+<div class="destaque">
+<strong>Multa do art. 523 e Fazenda Pública:</strong> a multa de 10% e os honorários de 10% por inadimplemento voluntário <strong>não se aplicam</strong> à Fazenda Pública. O regime constitucional dos precatórios impede a imposição dessa penalidade, pois o pagamento depende de dotação orçamentária e não pode ser feito de forma imediata pelo ente público. Esse é um ponto recorrente em provas.
+</div>
+
+<h3>Cumprimento de obrigações de fazer, não fazer e entregar coisa (arts. 536-538)</h3>
+
+<p>Essas modalidades seguem lógica distinta da execução por quantia certa. O juiz pode, de ofício ou a requerimento, determinar as medidas necessárias à satisfação do exequente, inclusive multa (astreintes), busca e apreensão, remoção de pessoas e coisas, desfazimento de obras e impedimento de atividade nociva, podendo requisitar auxílio de força policial (art. 536, §1º). A atipicidade dos meios executivos é regra expressa: o juiz não está limitado às medidas previstas em lei, podendo adotar qualquer providência idônea para garantir o resultado prático equivalente.</p>
+
+<p>Para obrigações de entregar coisa (art. 538), o executado é intimado para, no prazo fixado pelo juiz, satisfazer a obrigação. Não cumprida, expede-se mandado de busca e apreensão ou de imissão na posse. Se a coisa tiver se deteriorado ou não for encontrada, converte-se em perdas e danos, com liquidação nos próprios autos.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 513:</strong> o cumprimento de sentença será feito segundo os arts. 513 a 538. Os §§2º a 4º disciplinam as formas de intimação do executado, que variam conforme a natureza da obrigação e a condição do devedor.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 515:</strong> elenca os títulos executivos judiciais: decisões proferidas no processo civil (I), decisão homologatória de autocomposição judicial (II) e extrajudicial (III), formal e certidão de partilha (IV), crédito de auxiliar da justiça (V), sentença penal condenatória transitada em julgado (VI), sentença arbitral (VII), sentença estrangeira homologada (VIII) e decisão interlocutória estrangeira após exequatur (IX).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 520:</strong> cumprimento provisório — responsabilidade objetiva do exequente, caução para levantamento, restituição ao estado anterior em caso de reforma. Conectar com o art. 1.012, §1º, que lista as sentenças sem efeito suspensivo automático (portanto, passíveis de cumprimento provisório imediato).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 523:</strong> prazo de 15 dias para pagamento voluntário, multa e honorários de 10% cada em caso de inadimplemento. Regra central do cumprimento definitivo.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 525:</strong> impugnação ao cumprimento de sentença — prazo de 15 dias após penhora, matérias arguíveis (§1º), inexigibilidade por inconstitucionalidade (§§12-15), rejeição liminar por falta de indicação do valor correto no excesso de execução (§4º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 534-535:</strong> cumprimento contra Fazenda Pública — demonstrativo discriminado, prazo de 30 dias para impugnação, matérias arguíveis, expedição de precatório ou RPV.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 85, §7º:</strong> não são devidos honorários no cumprimento de sentença contra a Fazenda que enseje expedição de precatório, desde que não tenha sido impugnada.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 517:</strong> são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.190 (2024):</strong> na ausência de impugnação, não são devidos honorários sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito se submeta a RPV. Modulação: alcança apenas cumprimentos iniciados após a publicação do acórdão.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>O estudo do cumprimento de sentença exige disciplina na separação das modalidades. Comece pelo cumprimento definitivo de pagar quantia certa (arts. 523-527), que é a base do sistema e concentra as questões mais cobradas em prova — multa de 10%, honorários de 10%, prazo de 15 dias, impugnação. Depois, avance para o cumprimento provisório (arts. 520-522), focando nas diferenças em relação ao definitivo: responsabilidade objetiva, caução, hipóteses de dispensa de caução. Na sequência, estude o cumprimento contra a Fazenda (arts. 534-535), comparando prazo (30 dias vs. 15 dias), inaplicabilidade da multa, e o regime de honorários diferenciado (art. 85, §7º).</p>
+
+<p>Ao estudar a impugnação (art. 525), memorize as sete matérias do §1º e concentre-se nos detalhes que mais caem: a exigência de indicação do valor correto no excesso de execução sob pena de rejeição liminar (§4º), a regra de que a impugnação não tem efeito suspensivo automático (§6º) e os requisitos cumulativos para obtê-lo. Tenha atenção especial à inexigibilidade por inconstitucionalidade (§§12-15), que conecta cumprimento de sentença com controle de constitucionalidade e coisa julgada — tema transversal favorito de bancas de procuradorias.</p>
+
+<p>Leia os arts. 536-538 sobre obrigações de fazer, não fazer e entregar coisa com foco na atipicidade dos meios executivos e na possibilidade de conversão em perdas e danos. Esses dispositivos são menos cobrados isoladamente, mas frequentemente surgem em questões que pedem comparação entre as diferentes modalidades de cumprimento.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Prazos diferentes:</strong> o devedor comum tem 15 dias para pagar (art. 523) e 15 dias para impugnar (art. 525). A Fazenda Pública tem 30 dias para impugnar (art. 535) e não se submete à multa do art. 523. Confundir esses prazos é erro recorrente em provas.
+</div>
+
+<div class="atencao">
+<strong>Honorários e Fazenda — Tema 1.190/STJ:</strong> a regra do art. 85, §7º, do CPC dispensa honorários no cumprimento contra a Fazenda que enseje precatório sem impugnação. O STJ estendeu a lógica para RPV no Tema 1.190. Porém, se houver impugnação rejeitada, são devidos honorários sobre a parcela controvertida. Atenção à modulação temporal.
+</div>
+
+<div class="atencao">
+<strong>Depósito judicial ≠ pagamento voluntário:</strong> o executado que deposita para garantir o juízo e obter efeito suspensivo à impugnação não está pagando voluntariamente. A multa e os honorários de 10% continuam incidindo. Só há pagamento voluntário quando a intenção é efetivamente quitar o débito.
+</div>
+
+<div class="atencao">
+<strong>Impugnação por excesso sem indicar valor correto:</strong> o art. 525, §4º, impõe rejeição liminar da impugnação nesse ponto. O executado perde a possibilidade de discutir o excesso se não apresentar imediatamente o demonstrativo com o valor que entende correto. Esse detalhe é altamente cobrado.
+</div>
+
+<div class="atencao">
+<strong>Cumprimento provisório — sentenças do art. 1.012, §1º:</strong> não confunda cumprimento provisório genérico com as hipóteses de sentença sem efeito suspensivo automático (condenação em alimentos, extinção sem mérito, improcedência dos embargos, etc.). Nas sentenças do §1º do art. 1.012, o cumprimento provisório é imediato, independentemente de requerimento de efeito suspensivo pelo apelante.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Tema 1.190 — Honorários em cumprimento contra Fazenda não impugnado</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Primeira Seção do STJ, sob relatoria do Min. Herman Benjamin, fixou em 2024 a tese de que "na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de RPV". A decisão deu interpretação sistemática ao art. 85, §7º, do CPC, equiparando precatório e RPV para fins de dispensa de honorários. O Tribunal modulou os efeitos para atingir apenas os cumprimentos iniciados após a publicação do acórdão — ponto essencial para questões de direito intertemporal.</p>
+
+<h3>Multa do art. 523 — condições de incidência</h3>
+
+<p><span class="tag tag-stj">STJ</span> A jurisprudência do STJ consolidou que a multa de 10% exige intempestividade do pagamento ou efetiva resistência do devedor. Se o devedor não foi validamente intimado, ou se havia dúvida razoável sobre o valor a ser pago (como nos casos em que há impugnação pendente de julgamento sobre a correção dos cálculos), a multa pode ser afastada. Essa orientação reforça que a penalidade sanciona a resistência injustificada, e não a simples discordância legítima sobre valores.</p>
+
+<h3>Honorários em cumprimento — Súmula 517/STJ e suas exceções</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Súmula 517 consolidou que são devidos honorários no cumprimento de sentença, com ou sem impugnação, após o escoamento do prazo para pagamento voluntário. A Súmula se aplica ao devedor comum. Para a Fazenda Pública, incide o regime especial do art. 85, §7º, com a modulação do Tema 1.190. Em 2025, a Primeira Seção afetou novo tema repetitivo para definir se são devidos honorários quando a Fazenda impugna e tem sua impugnação rejeitada (parcial ou totalmente) — questão que ainda pode render novidades até a data da prova.</p>
+
+<h3>Depósito para efeito suspensivo e multa do art. 523</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Terceira Turma do STJ decidiu que o depósito realizado expressamente como garantia do juízo para fins de efeito suspensivo à impugnação não pode ser caracterizado como pagamento voluntário. A consequência prática é a manutenção da multa de 10% e a majoração dos honorários no mesmo percentual. O raciocínio é que a garantia do juízo tem finalidade processual (viabilizar efeito suspensivo), enquanto o pagamento voluntário visa à satisfação da obrigação — são institutos com finalidades distintas.</p>
+
+<h3>Inexigibilidade por inconstitucionalidade superveniente</h3>
+
+<p><span class="tag tag-stf">STF</span> O Tema 733 (RE 730.462), julgado pelo STF, estabeleceu que a decisão do STF que declara a inconstitucionalidade de norma não retroage automaticamente para desconstituir coisa julgada já formada. É necessário o manejo de ação rescisória no prazo legal. Esse precedente dialoga diretamente com o art. 525, §§12-15, do CPC: a alegação de inexigibilidade por inconstitucionalidade na impugnação só se aplica quando a decisão do STF é anterior ao trânsito em julgado do título. Se posterior, o caminho é a rescisória com prazo próprio (2 anos do trânsito em julgado da decisão do STF).</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Aspecto</th><th>Devedor Comum</th><th>Fazenda Pública</th></tr>
+<tr><td>Prazo para pagamento</td><td>15 dias (art. 523)</td><td>Precatório/RPV (regime constitucional)</td></tr>
+<tr><td>Multa por inadimplemento</td><td>10% (art. 523, §1º)</td><td>Não se aplica</td></tr>
+<tr><td>Honorários por inadimplemento</td><td>10% (art. 523, §1º)</td><td>Regime do art. 85, §7º</td></tr>
+<tr><td>Prazo para impugnação</td><td>15 dias após penhora (art. 525)</td><td>30 dias após intimação (art. 535)</td></tr>
+<tr><td>Efeito suspensivo da impugnação</td><td>Não automático (art. 525, §6º)</td><td>Não automático (art. 535, §3º)</td></tr>
+<tr><td>Honorários sem impugnação</td><td>Devidos (Súmula 517/STJ)</td><td>Não devidos (art. 85, §7º + Tema 1.190)</td></tr>
+</table>
+
+<table>
+<tr><th>Modalidade</th><th>Base legal</th><th>Características centrais</th></tr>
+<tr><td>Cumprimento provisório</td><td>Arts. 520-522</td><td>Responsabilidade objetiva do exequente; caução para levantamento; restituição ao estado anterior</td></tr>
+<tr><td>Cumprimento definitivo — pagar quantia</td><td>Arts. 523-527</td><td>Multa e honorários de 10%; prazo de 15 dias; impugnação após penhora</td></tr>
+<tr><td>Cumprimento — alimentos</td><td>Arts. 528-533</td><td>Prisão civil (1-3 meses); protesto; desconto em folha</td></tr>
+<tr><td>Cumprimento — Fazenda Pública</td><td>Arts. 534-535</td><td>Precatório/RPV; prazo 30 dias para impugnação; sem multa do art. 523</td></tr>
+<tr><td>Cumprimento — fazer/não fazer/entregar</td><td>Arts. 536-538</td><td>Atipicidade dos meios executivos; astreintes; conversão em perdas e danos</td></tr>
+</table>
+
+<table>
+<tr><th>Requisito</th><th>Efeito suspensivo à impugnação (art. 525, §6º)</th></tr>
+<tr><td>1. Requerimento</td><td>Deve ser feito expressamente pelo executado</td></tr>
+<tr><td>2. Garantia do juízo</td><td>Penhora, caução ou depósito suficientes</td></tr>
+<tr><td>3. Fundamentos relevantes</td><td>Probabilidade de acolhimento da impugnação</td></tr>
+<tr><td>4. Risco de grave dano</td><td>Prosseguimento da execução pode causar dano de difícil ou incerta reparação</td></tr>
+</table>

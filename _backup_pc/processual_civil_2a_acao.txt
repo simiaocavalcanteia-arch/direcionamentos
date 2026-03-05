@@ -1,0 +1,204 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 2a — Ação</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A ação é o direito de provocar o Estado-juiz a prestar tutela jurisdicional. É um dos conceitos estruturantes do processo civil: sem ação, não há processo; sem compreender seus elementos e condições, não se sabe identificar litispendência, coisa julgada, legitimidade ou interesse processual. Para o Procurador do Estado, o domínio do tema é operacional: ao contestar, o primeiro passo é verificar se a ação preenche suas condições (legitimidade e interesse); ao ajuizar ação em nome do Estado, o Procurador deve estruturar corretamente os elementos da demanda (partes, causa de pedir e pedido) para evitar a extinção prematura do processo.</p>
+
+<p>O edital cobra: conceito, natureza jurídica, classificações e critérios identificadores, tutela jurisdicional, condições da ação, elementos da demanda, concurso e cumulação de ações. A abordagem exige tanto a base teórica (teorias da ação) quanto a aplicação prática (como o CPC/2015 trata as condições da ação e a cumulação de pedidos).</p>
+
+<p>O tema conecta-se com jurisdição e competência (Ponto 1b — a ação provoca a jurisdição), com o processo e seus pressupostos (Ponto 2b), com a petição inicial e o pedido (Ponto 4c), com a sentença e a coisa julgada (Ponto 6c — os elementos da demanda delimitam os limites objetivos da coisa julgada) e com a litispendência e a continência (identificadas pela comparação dos elementos das demandas).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e natureza jurídica</h3>
+
+<p>Ação é o direito público subjetivo de provocar o exercício da função jurisdicional. É um direito exercido contra o Estado (que tem o dever de prestar tutela) e em face do réu (que se sujeita à jurisdição). A ação é autônoma em relação ao direito material: o direito de ação existe independentemente de o autor ter razão no mérito — quem perde no mérito exerceu ação; apenas não tinha o direito material alegado.</p>
+
+<p>A natureza jurídica da ação foi objeto de intensa disputa doutrinária, sintetizada em três grandes teorias:</p>
+
+<p><strong>Teoria concreta (ou concretista):</strong> a ação só existe quando o autor tem razão — quem perde não exerceu ação, apenas fez petição. Superada pela doutrina moderna por confundir o direito de ação com o direito material.</p>
+
+<p><strong>Teoria abstrata:</strong> o direito de ação é incondicionado — qualquer pessoa pode provocar o Judiciário, independentemente de ter ou não razão. A ação se confunde com o direito de petição.</p>
+
+<p><strong>Teoria eclética (Liebman):</strong> a ação é abstrata (independe do direito material), mas condicionada — só existe quando preenchidas determinadas condições. Quem não demonstra legitimidade ou interesse não tem ação, recebendo sentença sem resolução de mérito (carência de ação). Foi a teoria adotada pelo CPC/1973.</p>
+
+<div class="destaque">
+<p><strong>O CPC/2015 e a posição intermediária:</strong> o CPC/2015 não menciona expressamente a categoria "condições da ação", mas mantém a legitimidade e o interesse processual como requisitos cuja ausência leva à extinção sem resolução do mérito (art. 485, VI). A possibilidade jurídica do pedido — terceira condição na formulação original de Liebman — foi eliminada como categoria autônoma: um pedido juridicamente impossível resulta em improcedência (julgamento de mérito), não em carência de ação. A doutrina debate se o CPC/2015 adotou a teoria eclética modificada ou se superou a categoria das condições da ação, integrando legitimidade e interesse nos pressupostos processuais.</p>
+</div>
+
+<h3>Teoria da asserção</h3>
+
+<p>A teoria da asserção (ou della prospettazione) propõe que as condições da ação sejam verificadas com base exclusivamente nas alegações do autor na petição inicial, tal como afirmadas — sem necessidade de produção de provas. Se, em abstrato, as afirmações do autor conduzem à legitimidade e ao interesse, a ação é admitida; a verificação da veracidade dessas afirmações pertence ao mérito.</p>
+
+<p>O STJ adota expressamente a teoria da asserção. No REsp 1.561.498/RJ (3ª Turma, 2016), o Tribunal reafirmou que "a análise das condições da ação é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial." Se a verificação de legitimidade ou interesse demandar exame probatório aprofundado, a questão será de mérito, não de condição de ação.</p>
+
+<h3>Condições da ação no CPC/2015</h3>
+
+<p><strong>Legitimidade para a causa (legitimidade ad causam):</strong> é a pertinência subjetiva para figurar em um dos polos da relação processual. Em regra, é parte legítima quem se afirma titular do direito (legitimidade ativa) ou aquele contra quem se dirige a pretensão (legitimidade passiva) — é a chamada legitimidade ordinária. A <strong>legitimidade extraordinária</strong> (ou substituição processual) ocorre quando a lei autoriza alguém a pleitear em nome próprio direito alheio (art. 18 do CPC). Exemplos: o Ministério Público ajuizando ação civil pública em defesa de direitos difusos; a associação atuando em nome dos associados.</p>
+
+<p><strong>Interesse de agir (interesse processual):</strong> composto pelo binômio necessidade-adequação. A <strong>necessidade</strong> significa que a tutela jurisdicional é imprescindível para a satisfação do direito — se o direito pode ser exercido sem intervenção judicial, falta interesse. A <strong>adequação</strong> exige que o autor utilize a via processual correta para o fim pretendido — o mandado de segurança é adequado para proteger direito líquido e certo; a ação de cobrança, para exigir crédito sem título executivo.</p>
+
+<p>A ausência de legitimidade ou interesse de agir leva à extinção sem resolução de mérito (art. 485, VI, CPC). O juiz deve, antes de extinguir, dar oportunidade para a parte sanar o vício (art. 317 — primazia do mérito).</p>
+
+<h3>Elementos da demanda (elementos identificadores da ação)</h3>
+
+<p>Os elementos da demanda são os componentes que identificam e individualizam uma ação, permitindo distingui-la de outra. São três:</p>
+
+<p><strong>Partes:</strong> quem pede (autor) e contra quem se pede (réu). A identidade de partes é relevante para verificar litispendência e coisa julgada (art. 337, §§1º a 4º, CPC). Note-se que a identidade de partes para fins de coisa julgada é substancial (mesmas partes na mesma qualidade jurídica), não meramente formal.</p>
+
+<p><strong>Causa de pedir:</strong> o fundamento fático e jurídico do pedido. Divide-se em causa de pedir remota (fatos constitutivos do direito — o contrato celebrado, o acidente sofrido, a demissão ilegal) e causa de pedir próxima (consequência jurídica dos fatos — o inadimplemento contratual, o dano a ser reparado, a nulidade do ato). O CPC adota a teoria da substanciação: não basta indicar o fundamento jurídico; é necessário descrever os fatos que sustentam o pedido.</p>
+
+<p><strong>Pedido:</strong> o que se pede ao juiz. Subdivide-se em pedido imediato (a espécie de tutela jurisdicional pretendida — condenação, declaração, constituição) e pedido mediato (o bem da vida — a quantia em dinheiro, a anulação do contrato, o reconhecimento do direito). O pedido deve ser certo e determinado (art. 322, CPC), admitindo-se pedido genérico nas hipóteses do art. 324, §1º.</p>
+
+<div class="destaque">
+<p><strong>Função dos elementos:</strong> a tríade partes-causa de pedir-pedido serve para identificar a demanda e para controlar a litispendência (duas ações idênticas não podem tramitar simultaneamente — art. 337, §3º), a coisa julgada (a mesma demanda não pode ser rejulgada — art. 337, §4º) e a conexão/continência (demandas com elementos parcialmente coincidentes podem ser reunidas — arts. 55-56).</p>
+</div>
+
+<h3>Classificação das ações e tutela jurisdicional</h3>
+
+<p>As ações (e as sentenças correspondentes) são classificadas conforme a natureza da tutela jurisdicional pretendida:</p>
+
+<p><strong>Declaratória:</strong> visa a obter uma declaração judicial sobre a existência ou inexistência de relação jurídica, ou sobre a autenticidade ou falsidade de documento (art. 19, CPC). Não impõe condenação nem modifica relação jurídica — apenas declara.</p>
+
+<p><strong>Constitutiva:</strong> visa a criar, modificar ou extinguir relação jurídica (ex: anulação de contrato, divórcio, resolução contratual). Produz efeitos <em>ex nunc</em> (regra) ou <em>ex tunc</em> (quando envolve anulação por vício).</p>
+
+<p><strong>Condenatória:</strong> visa a obter a condenação do réu a uma prestação (dar, fazer, não fazer). É a base para a execução forçada — a sentença condenatória é título executivo judicial (art. 515, I, CPC).</p>
+
+<p><strong>Mandamental:</strong> visa a obter uma ordem judicial dirigida ao réu, cujo descumprimento pode configurar desobediência (ex: mandado de segurança, tutelas inibitórias). A efetivação é imediata, por meio de mandado.</p>
+
+<p><strong>Executiva <em>lato sensu</em>:</strong> visa a obter a satisfação do direito no próprio processo de conhecimento, sem necessidade de fase executiva autônoma (ex: ações possessórias, ação de despejo). O CPC/2015, com o sincretismo processual, aproximou todas as ações condenatórias desse modelo — a execução ocorre como fase do mesmo processo (cumprimento de sentença).</p>
+
+<h3>Concurso e cumulação de ações</h3>
+
+<p>A <strong>cumulação de pedidos</strong> permite que o autor formule vários pedidos contra o mesmo réu em uma única ação (art. 327, CPC). Pode ser:</p>
+
+<p><strong>Cumulação simples:</strong> os pedidos são independentes entre si e podem ser todos acolhidos (ex: cobrança de aluguéis atrasados + indenização por danos ao imóvel).</p>
+
+<p><strong>Cumulação sucessiva:</strong> o acolhimento de um pedido depende do acolhimento do anterior (ex: declaração de paternidade + condenação a alimentos).</p>
+
+<p><strong>Cumulação eventual (subsidiária):</strong> o autor formula pedido principal e, para o caso de sua rejeição, pedido subsidiário (ex: resolução do contrato; subsidiariamente, revisão de cláusulas).</p>
+
+<p><strong>Cumulação alternativa:</strong> o autor formula pedidos alternativos, bastando o acolhimento de qualquer um deles.</p>
+
+<p>Requisitos para a cumulação (art. 327, §1º): (i) compatibilidade entre os pedidos (salvo cumulação eventual/alternativa); (ii) competência do mesmo juízo para todos; (iii) adequação do mesmo tipo de procedimento (ou possibilidade de empregar o procedimento comum).</p>
+
+<p>O <strong>concurso de ações</strong> ocorre quando o mesmo fato gera ao titular mais de uma pretensão jurídica (ex: compra de produto defeituoso gera direito à troca, ao abatimento do preço ou à resolução do contrato). O titular pode cumular essas pretensões ou escolher uma delas.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Legislação fundamental</h3>
+
+<table>
+<tr><th>Diploma</th><th>Conteúdo relevante</th></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 17</td><td>Para postular em juízo é necessário ter interesse e legitimidade</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 18</td><td>Legitimidade extraordinária (substituição processual): só se admite nos casos previstos em lei</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 19</td><td>Ação declaratória: existência/inexistência de relação jurídica, autenticidade/falsidade de documento</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Arts. 319-324</td><td>Petição inicial e pedido: requisitos, pedido certo e determinado, pedido genérico, interpretação</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 327</td><td>Cumulação de pedidos: simples, sucessiva, alternativa, eventual; requisitos (§1º)</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 337, §§1º-4º</td><td>Litispendência e coisa julgada: identidade de partes, causa de pedir e pedido</td></tr>
+<tr><td><span class="tag tag-lei">CPC/2015</span> Art. 485, VI</td><td>Extinção sem mérito por ausência de legitimidade ou interesse</td></tr>
+<tr><td><span class="tag tag-lei">CF/88</span> Art. 5º, XXXV</td><td>Inafastabilidade da jurisdição — fundamento constitucional do direito de ação</td></tr>
+</table>
+
+<h3>Jurisprudência relevante</h3>
+
+<table>
+<tr><th>Julgado</th><th>Conteúdo</th></tr>
+<tr><td><span class="tag tag-stj">STJ</span> REsp 1.561.498/RJ (3ª Turma, 2016)</td><td>Teoria da asserção: condições da ação são aferidas pelas alegações da petição inicial; se a verificação demandar prova, é mérito</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span> Jurisprudência consolidada</td><td>A possibilidade jurídica do pedido não é mais condição de ação no CPC/2015 — pedido impossível leva à improcedência (mérito)</td></tr>
+</table>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela base teórica — as teorias da ação (concreta, abstrata, eclética). Saiba explicar brevemente cada uma e demonstrar que o CPC/2015 adotou posição intermediária: manteve legitimidade e interesse como requisitos de admissibilidade, mas eliminou a possibilidade jurídica do pedido como categoria autônoma. Não demore nesse ponto: a banca espera que você saiba as teorias, mas o foco da prova está na aplicação prática.</p>
+
+<p>Depois, estude as condições da ação (legitimidade e interesse) e a teoria da asserção (adotada pelo STJ). Domine a distinção entre legitimidade ordinária e extraordinária (art. 18 do CPC), o binômio necessidade-adequação do interesse de agir, e os efeitos da carência de ação (extinção sem mérito — art. 485, VI). Relacione cada conceito com a perspectiva do Procurador do Estado: legitimidade do Estado para certas ações, interesse processual em ações contra a Fazenda, substituição processual.</p>
+
+<p>Os elementos da demanda (partes, causa de pedir, pedido) são essenciais: servem para identificar litispendência, coisa julgada e conexão. Entenda a teoria da substanciação (causa de pedir remota e próxima), a distinção entre pedido imediato e mediato, e a exigência de pedido certo e determinado. Para a cumulação de ações, leia o art. 327 com atenção — as quatro espécies (simples, sucessiva, eventual, alternativa) e os três requisitos (compatibilidade, competência, procedimento).</p>
+
+<p>A classificação das ações (declaratória, constitutiva, condenatória, mandamental, executiva lato sensu) é mais doutrinária. Saiba identificar cada tipo com exemplos práticos e compreenda o sincretismo processual do CPC/2015 (o cumprimento de sentença como fase do processo, não como ação autônoma).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Possibilidade jurídica do pedido — não é mais condição de ação:</strong> o CPC/1973 tratava a possibilidade jurídica do pedido como terceira condição da ação. O CPC/2015 eliminou essa categoria. Pedido juridicamente impossível (ex: pleitear pena de morte) resulta em julgamento de mérito (improcedência), não em carência de ação. Em prova discursiva, demonstrar conhecimento dessa mudança é essencial.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Teoria da asserção e suas consequências:</strong> pela teoria da asserção, se o autor alega ser titular do direito e ter interesse, as condições da ação estão preenchidas "in status assertionis". Se, após a instrução probatória, ficar provado que o autor não é titular ou não tem interesse, o resultado será improcedência (mérito), não carência de ação. A consequência prática: a análise das condições da ação não exige dilação probatória; se exige, é questão de mérito.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Cumulação eventual e o dever do juiz:</strong> na cumulação eventual (subsidiária), o juiz deve analisar primeiro o pedido principal. Só examinará o pedido subsidiário se rejeitar o principal. Se acolher o principal, o subsidiário fica prejudicado. O erro comum é confundir cumulação eventual com cumulação alternativa — nesta, o autor se satisfaz com qualquer dos pedidos; naquela, há ordem de preferência.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Legitimidade extraordinária é excepcional (art. 18):</strong> ninguém pode pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico. Exemplos clássicos: MP em ação civil pública, associação em mandado de segurança coletivo, sindicato como substituto processual de servidores (art. 8º, III, CF). A PGE/RJ atua como representante processual do Estado (legitimidade ordinária), não como substituto processual.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Teoria da asserção</strong> — Posição consolidada no STJ: as condições da ação são analisadas com base nas alegações do autor na petição inicial, independentemente de instrução probatória. Se a análise da legitimidade ou do interesse depender de prova, trata-se de questão de mérito (REsp 1.561.498/RJ, 3ª Turma, 2016). A teoria é aplicada tanto para legitimidade quanto para interesse processual.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Eliminação da possibilidade jurídica do pedido</strong> — O STJ reconhece que o CPC/2015 suprimiu a possibilidade jurídica do pedido como condição de ação, passando a tratar a matéria como questão de mérito. Demandas que antes seriam extintas por impossibilidade jurídica agora são julgadas improcedentes — com formação de coisa julgada material.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Legitimidade do Ministério Público para ação civil pública</strong> — O STF reconheceu ampla legitimidade do MP para defesa de direitos difusos, coletivos e individuais homogêneos de relevância social. Para o concurso da PGE/RJ, a contrapartida é relevante: as ADIs 7.042/7.043 confirmaram que a pessoa jurídica lesada (inclusive estados) pode ajuizar ação de improbidade — legitimidade ordinária da PGE.</p>
+
+<h3>Temas recentes (2024-2026)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Interesse de agir e esgotamento da via administrativa</strong> — O STJ tem reafirmado que, como regra, não se exige o esgotamento da via administrativa como condição para o acesso ao Judiciário (art. 5º, XXXV, CF). Exceções: habeas data (exige recusa prévia — Súmula 2/STJ) e Justiça Desportiva (art. 217, §1º, CF — esgotamento obrigatório).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Primazia do mérito e condições da ação (art. 317 do CPC)</strong> — Em consonância com o art. 4º (primazia do mérito), o STJ tem determinado que, antes de extinguir a ação por carência, o juiz deve dar oportunidade para a parte corrigir o vício. A extinção por carência de ação sem prévia intimação para emenda viola o dever de cooperação (art. 6º) e a primazia do mérito.</p>
+
+<table>
+<tr><th>Tema</th><th>Objeto</th><th>Status</th></tr>
+<tr><td><span class="tag tag-stj">STJ</span> Teoria da asserção</td><td>Condições da ação verificadas pelas alegações iniciais</td><td>Consolidada — se exige prova, é mérito</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span> Possibilidade jurídica do pedido</td><td>Não é mais condição de ação no CPC/2015</td><td>Consolidada — pedido impossível = improcedência</td></tr>
+<tr><td><span class="tag tag-stj">STJ</span> Art. 317 CPC</td><td>Dever de intimar antes de extinguir por carência</td><td>Consolidada — primazia do mérito</td></tr>
+</table>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Teorias da ação</h3>
+
+<table>
+<tr><th>Teoria</th><th>Ação é...</th><th>Condições?</th><th>Observação</th></tr>
+<tr><td><strong>Concreta</strong></td><td>Direito a uma decisão favorável</td><td>Quem perde não tem ação</td><td>Superada — confunde ação com direito material</td></tr>
+<tr><td><strong>Abstrata</strong></td><td>Direito incondicionado de provocar o Judiciário</td><td>Nenhuma</td><td>Confunde ação com direito de petição</td></tr>
+<tr><td><strong>Eclética (Liebman)</strong></td><td>Direito abstrato, mas condicionado</td><td>Legitimidade, interesse, possibilidade jurídica</td><td>Base do CPC/1973</td></tr>
+<tr><td><strong>CPC/2015</strong></td><td>Posição intermediária</td><td>Legitimidade e interesse (art. 17); possibilidade jurídica eliminada</td><td>Adota teoria da asserção (STJ)</td></tr>
+</table>
+
+<h3>Elementos da demanda</h3>
+
+<table>
+<tr><th>Elemento</th><th>O que identifica</th><th>Relevância</th></tr>
+<tr><td><strong>Partes</strong></td><td>Quem pede (autor) e contra quem (réu)</td><td>Litispendência, coisa julgada, legitimidade</td></tr>
+<tr><td><strong>Causa de pedir</strong></td><td>Por que se pede (fatos + fundamentos jurídicos)</td><td>Litispendência, coisa julgada, conexão</td></tr>
+<tr><td><strong>Pedido</strong></td><td>O que se pede (tutela + bem da vida)</td><td>Litispendência, coisa julgada, limites da sentença</td></tr>
+</table>
+
+<h3>Cumulação de pedidos (art. 327 do CPC)</h3>
+
+<table>
+<tr><th>Espécie</th><th>Característica</th><th>Exemplo</th></tr>
+<tr><td><strong>Simples</strong></td><td>Pedidos independentes, todos podem ser acolhidos</td><td>Cobrança de aluguéis + indenização por danos</td></tr>
+<tr><td><strong>Sucessiva</strong></td><td>Acolhimento de um depende do anterior</td><td>Declaração de paternidade + alimentos</td></tr>
+<tr><td><strong>Eventual (subsidiária)</strong></td><td>Pedido subsidiário só se o principal for rejeitado</td><td>Resolução do contrato; se não, revisão</td></tr>
+<tr><td><strong>Alternativa</strong></td><td>Qualquer dos pedidos satisfaz o autor</td><td>Entrega do bem ou pagamento equivalente</td></tr>
+</table>
+
+<h3>Classificação das ações pela tutela pretendida</h3>
+
+<table>
+<tr><th>Tipo</th><th>Finalidade</th><th>Exemplo</th></tr>
+<tr><td><strong>Declaratória</strong></td><td>Declarar existência/inexistência de relação jurídica</td><td>Ação declaratória de inexistência de débito</td></tr>
+<tr><td><strong>Constitutiva</strong></td><td>Criar, modificar ou extinguir relação jurídica</td><td>Anulação de contrato, divórcio</td></tr>
+<tr><td><strong>Condenatória</strong></td><td>Condenar o réu a uma prestação (dar, fazer, não fazer)</td><td>Ação de cobrança, ação indenizatória</td></tr>
+<tr><td><strong>Mandamental</strong></td><td>Emitir ordem judicial ao réu</td><td>Mandado de segurança, tutela inibitória</td></tr>
+<tr><td><strong>Executiva <em>lato sensu</em></strong></td><td>Satisfação imediata no próprio processo</td><td>Ações possessórias, despejo</td></tr>
+</table>

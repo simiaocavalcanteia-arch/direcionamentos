@@ -1,0 +1,92 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 10c — Juizados Cíveis e Juizado Federal. Juizados Especiais da Fazenda Pública</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os Juizados Especiais são o microssistema processual de maior volume no Judiciário brasileiro. Para o Procurador do Estado, o tema é central: os Juizados Especiais da Fazenda Pública (Lei 12.153/2009) concentram boa parte das demandas de menor valor contra o Estado. Saber as peculiaridades do rito sumaríssimo, as limitações de competência e os recursos cabíveis é operacional para a PGE/RJ.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Juizados Especiais Cíveis Estaduais (Lei 9.099/1995)</h3>
+
+<p><strong>Princípios (art. 2º):</strong> oralidade, simplicidade, informalidade, economia processual e celeridade. Busca-se a conciliação ou transação.</p>
+
+<p><strong>Competência (art. 3º):</strong> causas cíveis de menor complexidade: (I) até 40 salários mínimos; (II) as enumeradas no art. 275, II, do CPC/1973 (ação de despejo para uso próprio, ações possessórias sobre bens imóveis de valor até 40 SM); (III) ação de despejo para uso próprio; (IV) ações possessórias sobre bens imóveis de valor até 40 SM.</p>
+
+<p><strong>Exclusões (art. 3º, §2º):</strong> ficam excluídas as causas de natureza alimentar, falimentar, fiscal e de interesse da Fazenda Pública — a Fazenda Pública NÃO pode ser demandada nos Juizados Especiais Cíveis da Lei 9.099/1995 (Súmula 556/STJ: "É inviável a utilização do mandado de segurança como sucedâneo de ação de cobrança"). Mais relevante: o <strong>Enunciado 2 do FONAJE</strong> e a <strong>jurisprudência consolidada</strong> afirmam que a Fazenda Pública não pode ser ré nos Juizados da Lei 9.099.</p>
+
+<p><strong>Partes (art. 8º):</strong> somente pessoas físicas capazes podem ser autoras. Excluem-se: incapazes, presos, pessoas jurídicas de direito público, empresas públicas da União, massa falida e insolvente civil.</p>
+
+<p><strong>Recursos:</strong> recurso inominado para a Turma Recursal (art. 41) no prazo de 10 dias. Embargos de declaração em 5 dias (art. 48). Não cabe recurso especial (Súmula 203/STJ). Cabe recurso extraordinário (art. 102, III, CF).</p>
+
+<h3>Juizados Especiais Federais (Lei 10.259/2001)</h3>
+
+<p><strong>Competência (art. 3º):</strong> causas de competência da Justiça Federal até 60 salários mínimos. Inclui ações contra a União, autarquias, fundações e empresas públicas federais.</p>
+
+<p><strong>Diferenças em relação à Lei 9.099:</strong> (i) a Fazenda Pública federal pode ser ré; (ii) valor limite é 60 SM (não 40); (iii) não cabe ação rescisória (art. 59, Lei 9.099, aplicável subsidiariamente); (iv) os representantes judiciais da União podem conciliar, transigir ou desistir nos termos da legislação própria (art. 10, parágrafo único).</p>
+
+<p><strong>Turmas de Uniformização:</strong> Turma Regional de Uniformização, Turma Nacional de Uniformização (TNU) e, em último grau, o STJ via incidente de uniformização (art. 14, §4º). Não cabe recurso especial contra decisão de Turma Recursal (Súmula 203/STJ).</p>
+
+<h3>Juizados Especiais da Fazenda Pública — JEFP (Lei 12.153/2009)</h3>
+
+<p>Os JEFP são o instrumento mais relevante para a PGE/RJ neste tema. Foram criados para processar e julgar causas cíveis de interesse dos Estados, do DF, dos Territórios e dos Municípios, até o valor de 60 salários mínimos.</p>
+
+<p><strong>Competência (art. 2º):</strong> causas de até 60 SM propostas contra: Estados, DF, Municípios, autarquias, fundações e empresas públicas a eles vinculadas. Inclui ações que tenham como objeto: obrigações de fazer, não fazer, entrega de coisa certa e pagamento de quantia.</p>
+
+<p><strong>Exclusões (art. 2º, §1º):</strong> NÃO se incluem na competência dos JEFP: (I) ações de mandado de segurança, desapropriação, divisórias, demarcatórias, populares, execuções fiscais, improbidade e demais ações que não possam ser propostas no Juizado Comum; (II) ações sobre bens imóveis dos Estados, DF, Municípios e respectivas autarquias e fundações; (III) ações para anulação ou cancelamento de ato administrativo federal (exceto de natureza previdenciária e de lançamentos fiscais); (IV) causas que envolvam interesse da Fazenda Pública Municipal no DF.</p>
+
+<p><strong>Competência absoluta (art. 2º, §4º):</strong> onde estiver instalado Juizado Especial da Fazenda Pública, sua competência é absoluta — não cabe ao autor optar pela vara comum.</p>
+
+<div class="destaque">
+<p><strong>Impacto na PGE/RJ:</strong> a competência absoluta dos JEFP significa que grande volume de ações contra o Estado do RJ (até 60 SM) tramita obrigatoriamente nos Juizados. O Procurador precisa dominar o rito sumaríssimo, a impossibilidade de produzir determinadas provas complexas e os limites recursais. A estratégia de defesa nos Juizados difere significativamente das varas comuns.</p>
+</div>
+
+<p><strong>Procedimento:</strong> aplica-se subsidiariamente a Lei 9.099/1995, no que não conflitar com a Lei 12.153 (art. 27). Audiência de conciliação obrigatória. Resposta oral ou escrita. Sentença dispensada de relatório.</p>
+
+<p><strong>Conciliação pela Fazenda (art. 8º):</strong> os representantes judiciais dos réus (Procuradores) ficam autorizados a conciliar, transigir ou desistir, nos termos e nas hipóteses previstas na lei do respectivo ente. É essencial que a PGE/RJ tenha regulamentação interna sobre alçadas e limites para transação nos JEFP.</p>
+
+<p><strong>Cumprimento de sentença (art. 13):</strong> as obrigações de pagar quantia certa serão cumpridas após o trânsito em julgado mediante: (I) RPV para valores até o limite definido em lei (art. 87, I, ADCT — 40 SM para Estados); (II) precatório para valores acima do limite.</p>
+
+<p><strong>Recursos:</strong> recurso inominado para Turma Recursal no prazo de 10 dias. Não cabe recurso especial. Cabe recurso extraordinário. Pedido de uniformização de interpretação de lei quando houver divergência entre Turmas Recursais de diferentes Estados (art. 18 — competência do STJ).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">Lei 9.099/1995:</span> Juizados Especiais Cíveis Estaduais.</p>
+<p><span class="tag tag-lei">Lei 10.259/2001:</span> Juizados Especiais Federais.</p>
+<p><span class="tag tag-lei">Lei 12.153/2009:</span> Juizados Especiais da Fazenda Pública.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 203:</strong> "Não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais."</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 571.572 (Plenário, 2009):</strong> quando houver divergência entre decisão de Turma Recursal e jurisprudência do STJ, cabe reclamação ao STJ. Esse entendimento foi posteriormente regulamentado pela Resolução STJ 12/2009 (hoje superada pelo pedido de uniformização).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 376:</strong> "Compete à turma recursal processar e julgar o mandado de segurança contra ato de juizado especial."</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Fazenda Pública não é ré nos Juizados da Lei 9.099:</strong> a exclusão é expressa. A Fazenda Pública estadual/municipal só pode ser ré nos JEFP (Lei 12.153/2009). A Fazenda federal pode ser ré nos JEFs (Lei 10.259/2001). Confundir os microssistemas é erro grave.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Competência absoluta dos JEFP (art. 2º, §4º):</strong> onde houver JEFP instalado, o autor não pode escolher a vara comum para causas até 60 SM contra a Fazenda. A competência é absoluta, não relativa — pode ser reconhecida de ofício.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Não cabe recurso especial nos Juizados:</strong> a decisão da Turma Recursal não é "acórdão de tribunal" — não se enquadra no art. 105, III, CF. O meio de impugnação é o pedido de uniformização (para o STJ, quando houver divergência entre Turmas de Estados diferentes).</p>
+</div>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Comparação dos microssistemas de Juizados</h3>
+
+<table>
+<tr><th>Aspecto</th><th>JEC Estadual (Lei 9.099)</th><th>JEF (Lei 10.259)</th><th>JEFP (Lei 12.153)</th></tr>
+<tr><td>Valor</td><td>Até 40 SM</td><td>Até 60 SM</td><td>Até 60 SM</td></tr>
+<tr><td>Fazenda como ré</td><td>Não</td><td>Sim (federal)</td><td>Sim (estadual/municipal)</td></tr>
+<tr><td>Competência</td><td>Relativa (autor pode optar)</td><td>Absoluta</td><td>Absoluta</td></tr>
+<tr><td>Recurso</td><td>Inominado (10 dias)</td><td>Inominado (10 dias)</td><td>Inominado (10 dias)</td></tr>
+<tr><td>REsp</td><td>Não cabe</td><td>Não cabe</td><td>Não cabe</td></tr>
+<tr><td>RE</td><td>Cabe</td><td>Cabe</td><td>Cabe</td></tr>
+<tr><td>Uniformização</td><td>FONAJE</td><td>TNU → STJ</td><td>STJ (art. 18)</td></tr>
+</table>

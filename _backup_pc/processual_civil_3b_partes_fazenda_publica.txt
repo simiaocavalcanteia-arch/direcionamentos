@@ -1,0 +1,273 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 3b — Partes e Procuradores. A Fazenda Pública em Juízo. Advocacia Pública</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Este é, provavelmente, o ponto mais intimamente ligado à futura atividade profissional do candidato. O Procurador do Estado é a encarnação processual da Fazenda Pública: é ele quem exerce a capacidade postulatória em nome do Estado, quem goza das prerrogativas processuais e quem deve conhecer, com precisão cirúrgica, os limites e os alcances dessas prerrogativas. Dominar o regime processual da Fazenda Pública não é apenas uma exigência do edital — é a base do ofício.</p>
+
+<p>O edital cobra: partes e procuradores, a Fazenda Pública em juízo, a Procuradoria Geral do Estado e a advocacia pública. O tema conecta-se com praticamente todos os demais pontos de Processual Civil: competência (Ponto 1b — foro das causas contra a Fazenda Pública), pressupostos processuais (Ponto 2b — capacidade postulatória da Advocacia Pública), o juiz (Ponto 3a — deveres do juiz em relação à Fazenda Pública), resposta do réu (Ponto 4b — prazo em dobro para contestar), sentença e coisa julgada (Ponto 6 — remessa necessária), execução contra a Fazenda Pública (Pontos 8 e 9 — precatórios, RPV), e meios de impugnação (Ponto 7 — prazo em dobro para recorrer).</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Partes e procuradores — conceitos gerais</h3>
+
+<p><strong>Parte</strong> é quem formula pretensão em juízo (autor) e aquele em face de quem a pretensão é formulada (réu). O conceito é processual — basta figurar no polo da relação processual. A capacidade de ser parte é ampla: toda pessoa natural ou jurídica a possui, assim como entes despersonalizados como o espólio, a massa falida, o condomínio e órgãos públicos com capacidade processual especial (art. 75, CPC).</p>
+
+<p><strong>Capacidade processual</strong> é a aptidão para praticar atos processuais válidos. Pessoas absolutamente incapazes devem ser representadas; relativamente incapazes, assistidas (art. 71, CPC). A pessoa jurídica de direito público é representada em juízo conforme o art. 75 do CPC: a União, pela Advocacia-Geral da União (inciso I); o Estado e o Distrito Federal, por seus procuradores (inciso II); o Município, por seu prefeito ou procurador (inciso III).</p>
+
+<p><strong>Procuradores</strong> são os profissionais habilitados a postular em juízo — advogados privados, defensores públicos, membros do Ministério Público (nas causas de sua atribuição) e procuradores públicos. O art. 103 do CPC exige que a parte seja representada em juízo por advogado regularmente inscrito na OAB. Quanto à advocacia pública, os procuradores do Estado e os advogados da União atuam com capacidade postulatória independentemente de inscrição separada — a nomeação e posse no cargo já conferem essa capacidade, embora a inscrição na OAB seja exigida como requisito de ingresso na carreira (art. 132, CF).</p>
+
+<h3>A Fazenda Pública em juízo — conceito e abrangência</h3>
+
+<p>A expressão "Fazenda Pública" designa, no processo civil, as pessoas jurídicas de direito público que integram a Administração Pública direta e indireta. Abrange: União, Estados, Distrito Federal, Municípios, autarquias e fundações públicas de direito público. Não estão incluídas as empresas públicas e sociedades de economia mista, que seguem o regime processual das pessoas jurídicas de direito privado, salvo previsões específicas.</p>
+
+<p>O regime processual diferenciado da Fazenda Pública justifica-se pelo princípio da supremacia do interesse público, pela indisponibilidade dos bens públicos e pela necessidade de isonomia processual substancial (tratar desigualmente os desiguais) — o volume de demandas, a burocracia interna e a complexidade da estrutura administrativa justificam prerrogativas que equilibram a posição processual do ente público.</p>
+
+<h3>Prerrogativas processuais da Fazenda Pública</h3>
+
+<p><strong>Prazo em dobro para manifestações processuais (art. 183, CPC):</strong> a Fazenda Pública gozará de prazo em dobro para todas as suas manifestações processuais, cuja contagem terá início a partir da intimação pessoal. Essa é a regra geral, mas há exceções: quando a lei estabelecer prazo próprio para a Fazenda Pública (por exemplo, prazo de 30 dias para embargar na execução fiscal — art. 16, Lei 6.830/1980), o prazo específico prevalece sobre o dobro genérico. O prazo em dobro também não se aplica quando o CPC já estabelece prazo diferenciado (como o prazo de 30 dias para contestar — art. 183, §2º, combinado com art. 335).</p>
+
+<p><strong>Intimação pessoal (art. 183, §1º):</strong> a intimação pessoal far-se-á por carga, remessa ou meio eletrônico. No sistema de processo eletrônico, a intimação pelo portal é equiparada à intimação pessoal (art. 5º da Lei 11.419/2006). A regra é relevante porque garante que o Procurador do Estado tenha ciência efetiva dos atos processuais, evitando perdas de prazo por falha de comunicação.</p>
+
+<p><strong>Remessa necessária (art. 496, CPC):</strong> a sentença proferida contra a Fazenda Pública que não for objeto de apelação está sujeita ao duplo grau obrigatório. O tribunal deve reexaminar a sentença, podendo reformá-la em favor da Fazenda Pública. As hipóteses de cabimento são: sentença contrária à União, Estados, Municípios, DF e suas autarquias e fundações de direito público; e sentença que julgar procedentes os embargos à execução fiscal (art. 496, II).</p>
+
+<div class="destaque">
+<p><strong>Hipóteses de dispensa da remessa necessária (art. 496, §§3º e 4º):</strong> não há remessa necessária quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a: (i) 1.000 salários mínimos para a União e suas autarquias/fundações; (ii) 500 salários mínimos para Estados, DF e suas autarquias/fundações, e para Municípios que sejam capitais de Estado; (iii) 100 salários mínimos para os demais Municípios e suas autarquias/fundações. Também não há remessa quando a sentença estiver fundada em: súmula de tribunal superior, acórdão do STF ou STJ em recurso repetitivo, entendimento firmado em IRDR ou assunção de competência, ou orientação vinculante firmada no âmbito administrativo do próprio ente público.</p>
+</div>
+
+<p><strong>Inaplicabilidade dos efeitos materiais da revelia (art. 345, II, CPC):</strong> quando a Fazenda Pública é ré e não contesta, não se aplicam os efeitos materiais da revelia (presunção de veracidade dos fatos — art. 344). A razão é a indisponibilidade do interesse público: os direitos tutelados pela Fazenda Pública não podem ser presumidos reconhecidos por inércia. Aplicam-se apenas os efeitos processuais (dispensa de intimação para atos subsequentes, julgamento antecipado).</p>
+
+<p><strong>Inaplicabilidade da confissão ficta (art. 345, II, CPC):</strong> pela mesma razão (indisponibilidade do interesse público), a Fazenda Pública não se sujeita aos efeitos da confissão ficta decorrente do não comparecimento à audiência de conciliação ou da não resposta a interrogatório.</p>
+
+<p><strong>Dispensa do adiantamento de custas (art. 91, CPC):</strong> as despesas dos atos processuais praticados a requerimento da Fazenda Pública serão pagas ao final pelo vencido. A Fazenda Pública não adianta custas, emolumentos ou despesas processuais, mas arca com elas ao final se vencida. Note que isso não é isenção — é diferimento.</p>
+
+<p><strong>Execução por precatório (art. 100, CF; arts. 534-535, CPC):</strong> a execução de decisão judicial contra a Fazenda Pública segue o regime de precatórios (para valores acima do limite de RPV) ou requisição de pequeno valor. O pagamento não é feito por penhora e alienação de bens — os bens públicos são impenhoráveis.</p>
+
+<p><strong>Impossibilidade de antecipação de tutela em certas hipóteses:</strong> a Lei 9.494/1997 (art. 1º) e a Lei 8.437/1992 restringem a concessão de liminares e tutelas antecipadas contra a Fazenda Pública em casos de reclassificação ou equiparação de servidores, pagamento de qualquer natureza e esgotamento de verbas. O STF validou parte dessas restrições (ADC 4).</p>
+
+<h3>Advocacia Pública — marco constitucional</h3>
+
+<p>A advocacia pública foi alçada a função essencial à Justiça pela Constituição de 1988 (Seção II do Capítulo IV do Título IV — arts. 131 e 132). Distingue-se do Ministério Público (que atua na defesa da ordem jurídica e dos interesses sociais) e da Defensoria Pública (que atua na defesa dos hipossuficientes). A advocacia pública atua na representação judicial e na consultoria jurídica dos entes públicos.</p>
+
+<p><strong>Art. 131, CF:</strong> a Advocacia-Geral da União é a instituição que representa a União, judicial e extrajudicialmente, e exerce as atividades de consultoria e assessoramento jurídico do Poder Executivo. O Advogado-Geral da União é nomeado pelo Presidente da República, dentre cidadãos maiores de 35 anos, de notável saber jurídico e reputação ilibada.</p>
+
+<p><strong>Art. 132, CF:</strong> os Procuradores dos Estados e do Distrito Federal, organizados em carreira — cujo ingresso depende de concurso público de provas e títulos, com participação da OAB em todas as fases — exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas. É assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho. Note que a Constituição atribui aos Procuradores do Estado duas funções cumulativas e indissociáveis: representação judicial (atuar em juízo) e consultoria jurídica (orientar a Administração sobre a legalidade e juridicidade de seus atos).</p>
+
+<h3>A Procuradoria Geral do Estado do Rio de Janeiro</h3>
+
+<p>A PGE/RJ é o órgão central do Sistema Jurídico do Estado do Rio de Janeiro. Sua base normativa inclui o art. 176 da Constituição do Estado do Rio de Janeiro, a Lei Complementar Estadual nº 15/1980 (Lei Orgânica da PGE/RJ), atualizada pela Lei Complementar nº 104/2002 e, mais recentemente, pela Lei Complementar nº 226/2025.</p>
+
+<p><strong>Atribuições:</strong> a PGE/RJ exerce a representação judicial do Estado do Rio de Janeiro em todas as instâncias e a consultoria jurídica do Poder Executivo Estadual. Compete ao Procurador-Geral do Estado a direção superior da Instituição, a supervisão dos órgãos locais e setoriais, a regulamentação dos procedimentos administrativos sancionadores e a defesa institucional dos direitos dos membros da carreira.</p>
+
+<p><strong>Estrutura:</strong> a carreira é composta por Procuradores do Estado, organizados em 1ª, 2ª e 3ª categorias, com iguais direitos e deveres. A Lei Complementar nº 226/2025 consolidou 330 cargos de Procurador do Estado e criou 30 novas vagas, além de reestruturar a Chefia de Gabinete e as competências internas do Procurador-Geral.</p>
+
+<p><strong>Autonomia funcional:</strong> os Procuradores do Estado atuam com independência técnica na elaboração de pareceres e na condução dos processos judiciais, observada a orientação normativa da PGE. A autonomia funcional não se confunde com independência absoluta — o Procurador vincula-se às teses institucionais fixadas pelo Procurador-Geral e pelos órgãos de consultoria.</p>
+
+<h3>Capacidade postulatória dos procuradores públicos</h3>
+
+<p>O Procurador do Estado exerce capacidade postulatória em razão do cargo público: sua nomeação, posse e exercício o habilitam a postular em juízo em nome do Estado, sem necessidade de procuração específica (o ato de investidura equivale ao mandato). A Lei Complementar nº 226/2025, seguindo orientação da OAB, reforçou a exigência de inscrição na OAB como requisito para o exercício do cargo, alinhando-se ao art. 3º, §1º, do Estatuto da Advocacia (Lei 8.906/1994).</p>
+
+<p>Os procuradores públicos estão sujeitos ao Código de Ética da OAB, mas com adaptações decorrentes da natureza pública da função: não podem recusar causa por convicção pessoal (o "cliente" é o Estado), devem observar as orientações institucionais e não exercem advocacia privada (incompatibilidade do art. 28, I, do Estatuto da Advocacia, para ocupantes de cargos da Advocacia Pública).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<h3>Dispositivos legais centrais</h3>
+
+<p><span class="tag tag-lei">CF</span> <strong>Arts. 131-132:</strong> marco constitucional da advocacia pública. O art. 132 é o dispositivo mais importante para o Procurador do Estado: estabelece a carreira, o concurso, a estabilidade e as duas funções (representação judicial e consultoria jurídica). Deve ser citado em qualquer resposta sobre o tema.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 100:</strong> regime de precatórios para pagamento de dívidas judiciais da Fazenda Pública. Define a fila de pagamento e a exceção das obrigações de pequeno valor (RPV). Tema aprofundado nos Pontos 8-9 de Processual Civil.</p>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 176, CERJ:</strong> dispositivo da Constituição do Estado do Rio de Janeiro que disciplina a PGE/RJ, suas atribuições e prerrogativas no âmbito estadual.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 75:</strong> representação processual. O inciso I designa a AGU para representar a União; o inciso II designa os procuradores para representar o Estado. Dispositivo essencial para compreender como a Fazenda Pública é representada em juízo.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 183:</strong> prazo em dobro para a Fazenda Pública. §1º: intimação pessoal. §2º: o prazo em dobro não se aplica quando a lei estabelecer prazo específico para a Fazenda Pública. É o dispositivo central das prerrogativas processuais.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 345, II:</strong> exceção aos efeitos da revelia — não se aplicam quando o litígio versar sobre direitos indisponíveis. Como a Fazenda Pública tutela predominantemente direitos indisponíveis, está abrangida por essa exceção.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 496:</strong> remessa necessária. §3º: dispensa por valor (1.000, 500 ou 100 salários mínimos, conforme o ente). §4º: dispensa qualitativa (súmula, repetitivo, IRDR, parecer vinculante). Memorizar as faixas de valor e as hipóteses qualitativas é fundamental.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 534-535:</strong> cumprimento de sentença que reconheça obrigação de pagar quantia certa pela Fazenda Pública. Procedimento específico: o credor apresenta demonstrativo do débito, a Fazenda é intimada para impugnar em 30 dias. Se o valor superar o limite de RPV, segue para precatório.</p>
+
+<p><span class="tag tag-lei">Lei 6.830/1980:</span> Lei de Execução Fiscal. Procedimento especial para cobrança da dívida ativa da Fazenda Pública. Prazo de 30 dias para embargos (art. 16). Aplicação subsidiária do CPC (art. 1º).</p>
+
+<p><span class="tag tag-lei">LC Estadual 15/1980</span> (com alterações da LC 104/2002 e LC 226/2025): Lei Orgânica da PGE/RJ. Disciplina a estrutura, as atribuições e o regime jurídico dos Procuradores do Estado do Rio de Janeiro.</p>
+
+<h3>Jurisprudência relevante</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência consolidada (Corte Especial e Turmas):</strong> a Fazenda Pública não está sujeita aos efeitos materiais da revelia. A revelia da Fazenda Pública produz apenas efeitos processuais (dispensa de intimação, julgamento antecipado). Não incide a presunção de veracidade dos fatos alegados pelo autor (art. 345, II, CPC — direitos indisponíveis). Precedente essencial para o Procurador do Estado, que deve conhecer essa proteção ao litigar.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 325:</strong> "A remessa oficial devolve ao Tribunal o reexame de todas as parcelas da condenação suportadas pela Fazenda Pública, inclusive os honorários de advogado." A remessa necessária tem efeito devolutivo amplo — o tribunal pode examinar toda a matéria, inclusive majorar a condenação em favor da Fazenda (reformatio in melius para o ente público).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 490:</strong> "A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a 60 salários mínimos, não se aplica a sentenças ilíquidas." Editada sob a vigência do CPC/1973, mantém relevância interpretativa: a dispensa por valor exige que a condenação seja líquida. O CPC/2015 positivou essa exigência no art. 496, §3º (valor certo e líquido).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 421:</strong> "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença." Tema de confusão entre credor e devedor — quando a Defensoria estadual litiga contra o próprio Estado, não há honorários. Destaque: o STF superou parcialmente essa orientação ao reconhecer a autonomia da Defensoria Pública (EC 80/2014), mas a discussão persiste.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADC 4 (Plenário, 2008, confirmação em 2018):</strong> o STF declarou constitucional o art. 1º da Lei 9.494/1997, que veda a concessão de tutela antecipada contra a Fazenda Pública para reclassificação de servidores, pagamentos e esgotamento de verbas. Entendimento que limita significativamente a tutela de urgência contra o Estado.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 599.628/DF (Tema 253, Repercussão Geral, 2019):</strong> "Sociedades de economia mista que desenvolvem atividade econômica em regime concorrencial não se beneficiam do regime de precatórios, previsto no art. 100 da Constituição da República." Por outro lado, é aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Amplia o conceito funcional de Fazenda Pública para fins de execução.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pelo art. 132 da Constituição Federal — é o fundamento de toda a carreira para a qual você está se preparando. Compreenda as duas funções (representação judicial e consultoria jurídica), o regime de ingresso (concurso com participação da OAB) e a estabilidade. Em seguida, estude o regime processual diferenciado da Fazenda Pública, priorizando as prerrogativas na ordem de importância prática: prazo em dobro (art. 183), remessa necessária (art. 496), inaplicabilidade dos efeitos da revelia (art. 345, II) e execução por precatório (arts. 534-535).</p>
+
+<p>Dê atenção especial à remessa necessária — é o tema mais cobrado sobre Fazenda Pública em juízo. Memorize as faixas de dispensa por valor (1.000, 500, 100 salários mínimos) e as hipóteses de dispensa qualitativa (súmula, repetitivo, IRDR, parecer vinculante). Uma questão discursiva que pergunte "quando não há remessa necessária?" está essencialmente pedindo o conteúdo dos §§3º e 4º do art. 496.</p>
+
+<p>Sobre a PGE/RJ especificamente, conheça o art. 176 da CERJ e a Lei Complementar 15/1980 (com as alterações da LC 226/2025). Não é necessário decorar a estrutura interna completa, mas saiba que a PGE/RJ é o órgão central do sistema jurídico estadual, que os procuradores exercem representação judicial e consultoria, e que a carreira é organizada em categorias com ingresso por concurso.</p>
+
+<p>Quanto à distinção entre prerrogativas e privilégios, tenha segurança para argumentar que as prerrogativas processuais da Fazenda Pública não violam a isonomia — são mecanismos de compensação pela desigualdade estrutural entre o ente público (com sua burocracia, volume de processos e indisponibilidade de direitos) e o particular.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Prazo em dobro — exceções que derrubam candidatos:</strong> o prazo em dobro do art. 183 não se aplica quando a lei fixar prazo específico para a Fazenda Pública. Exemplos: o prazo para embargar execução fiscal é de 30 dias (art. 16, Lei 6.830/1980), não de 60; o prazo para oferecer contestação nas causas cíveis é de 30 dias por força do prazo em dobro (15 dias × 2 = 30 dias, conforme art. 335 c/c art. 183), mas na execução fiscal o prazo para embargos é prazo próprio, não se multiplica. Cuidado: se o CPC já prevê prazo expressamente diferenciado para a Fazenda Pública, esse prazo não é duplicado.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Remessa necessária — não é recurso:</strong> a remessa necessária não é recurso (não há voluntariedade, não se aplica o princípio dispositivo). É condição de eficácia da sentença — a sentença contra a Fazenda Pública não transita em julgado sem o reexame pelo tribunal, salvo nas hipóteses de dispensa. O candidato que classificar a remessa necessária como recurso cometerá erro conceitual grave. Também não se aplica a proibição de reformatio in pejus — o tribunal pode agravar a situação da Fazenda Pública na remessa necessária, pois não se trata de recurso da Fazenda.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Fazenda Pública e revelia — nuance relevante:</strong> a regra geral é a inaplicabilidade dos efeitos materiais da revelia. Porém, o STJ já admitiu a aplicação dos efeitos da revelia contra a Fazenda Pública quando o litígio versa sobre relação de direito privado (ex.: contrato de locação, relação obrigacional pura). A proteção é mais forte nos litígios de direito público (tributário, administrativo, previdenciário), em que a indisponibilidade do interesse público é mais evidente.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Dispensa da remessa necessária — valor deve ser líquido:</strong> a dispensa por valor (§3º do art. 496) só se aplica quando a condenação for de valor certo e líquido. Sentença ilíquida (que depende de liquidação) está sujeita à remessa necessária, independentemente do valor que venha a ser apurado na liquidação. É uma pegadinha clássica, já cristalizada na Súmula 490 do STJ.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência consolidada sobre revelia e Fazenda Pública:</strong> o STJ consolidou a inaplicabilidade dos efeitos materiais da revelia contra a Fazenda Pública. A distinção é entre efeitos materiais (presunção de veracidade — inaplicáveis) e efeitos processuais (dispensa de intimação, julgamento antecipado — aplicáveis). A fundamentação se apoia na indisponibilidade do interesse público (art. 345, II, CPC) e na especial proteção que o ordenamento confere ao patrimônio público.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 599.628/DF (Tema 253, Repercussão Geral, 2019):</strong> o STF fixou que "sociedades de economia mista que desenvolvem atividade econômica em regime concorrencial não se beneficiam do regime de precatórios." Inversamente, estendeu o regime de precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Amplia funcionalmente o conceito de Fazenda Pública: mesmo que a entidade tenha personalidade de direito privado, se presta serviço público essencial sem concorrência, submete-se ao regime de precatórios. Exemplo: a Empresa de Obras Públicas do Estado do Rio de Janeiro (EMOP) poderia se enquadrar nessa categoria.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADC 4 (Plenário, julgamento definitivo em 2018):</strong> confirmou a constitucionalidade das restrições à tutela antecipada contra a Fazenda Pública previstas na Lei 9.494/1997. O STF entendeu que as vedações são compatíveis com o princípio da tutela jurisdicional efetiva, pois se justificam pela proteção do erário e pela irrepetibilidade de determinados pagamentos.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 17 (Corte Especial) e Súmula 490:</strong> o STJ fixou que a remessa necessária é cabível nas sentenças ilíquidas proferidas contra a Fazenda Pública, não se aplicando a dispensa por valor. A Súmula 490 do STJ cristaliza esse entendimento: "A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a 60 salários mínimos, não se aplica a sentenças ilíquidas." A orientação mantém plena relevância sob a égide do CPC/2015 (art. 496, §3º — exigência de valor certo e líquido).</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Discussão sobre retroatividade dos limites do art. 496, §3º, do CPC/2015:</strong> discute-se se os limites de dispensa da remessa necessária previstos no art. 496, §3º, do CPC/2015 são aplicáveis retroativamente a sentenças proferidas na vigência do CPC/1973. Tema com impacto significativo para a advocacia pública estadual, que poderá ampliar ou restringir o universo de sentenças sujeitas ao reexame obrigatório. A jurisprudência ainda não está consolidada nesse ponto.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre prazo em dobro e prazos judiciais:</strong> o STJ entende que o prazo em dobro da Defensoria Pública (art. 186, CPC) e da Fazenda Pública (art. 183, CPC) incide sobre prazos legais, e não sobre prazos fixados casuisticamente pelo juiz. Esse raciocínio decorre da própria redação dos artigos, que fazem referência a "manifestações processuais" cujos prazos decorrem da lei.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Prerrogativas processuais da Fazenda Pública — síntese</h3>
+
+<table>
+<tr>
+<th>Prerrogativa</th>
+<th>Fundamento</th>
+<th>Exceções/Limites</th>
+</tr>
+<tr>
+<td><strong>Prazo em dobro</strong></td>
+<td>Art. 183, CPC</td>
+<td>Não se aplica quando a lei fixa prazo específico para a Fazenda</td>
+</tr>
+<tr>
+<td><strong>Intimação pessoal</strong></td>
+<td>Art. 183, §1º, CPC</td>
+<td>Processo eletrônico: intimação pelo portal equivale à pessoal</td>
+</tr>
+<tr>
+<td><strong>Remessa necessária</strong></td>
+<td>Art. 496, CPC</td>
+<td>Dispensa por valor (§3º) e qualitativa (§4º)</td>
+</tr>
+<tr>
+<td><strong>Inaplicabilidade da revelia material</strong></td>
+<td>Art. 345, II, CPC</td>
+<td>STJ admite efeitos em relações de direito privado</td>
+</tr>
+<tr>
+<td><strong>Dispensa de adiantamento de custas</strong></td>
+<td>Art. 91, CPC</td>
+<td>Diferimento (paga ao final se vencida), não isenção</td>
+</tr>
+<tr>
+<td><strong>Execução por precatório</strong></td>
+<td>Art. 100, CF; arts. 534-535, CPC</td>
+<td>Impenhorabilidade dos bens públicos</td>
+</tr>
+<tr>
+<td><strong>Restrições à tutela de urgência</strong></td>
+<td>Lei 9.494/1997; Lei 8.437/1992</td>
+<td>ADC 4 (STF) — constitucionalidade confirmada</td>
+</tr>
+</table>
+
+<h3>Remessa necessária — hipóteses de dispensa (art. 496, §§3º e 4º)</h3>
+
+<table>
+<tr>
+<th>Critério</th>
+<th>Hipótese</th>
+<th>Observação</th>
+</tr>
+<tr>
+<td rowspan="3"><strong>Por valor (§3º)</strong></td>
+<td>Até 1.000 salários mínimos</td>
+<td>União e suas autarquias/fundações</td>
+</tr>
+<tr>
+<td>Até 500 salários mínimos</td>
+<td>Estados, DF, suas autarquias/fundações e Municípios-capitais</td>
+</tr>
+<tr>
+<td>Até 100 salários mínimos</td>
+<td>Demais Municípios e suas autarquias/fundações</td>
+</tr>
+<tr>
+<td rowspan="4"><strong>Qualitativa (§4º)</strong></td>
+<td>Súmula de tribunal superior</td>
+<td>STF ou STJ</td>
+</tr>
+<tr>
+<td>Acórdão em recurso repetitivo</td>
+<td>STF ou STJ</td>
+</tr>
+<tr>
+<td>IRDR ou assunção de competência</td>
+<td>Entendimento firmado em incidente</td>
+</tr>
+<tr>
+<td>Orientação vinculante administrativa</td>
+<td>Parecer, súmula administrativa do próprio ente</td>
+</tr>
+</table>
+
+<h3>Advocacia Pública — comparativo constitucional</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>AGU (art. 131, CF)</th>
+<th>Procuradorias Estaduais (art. 132, CF)</th>
+</tr>
+<tr>
+<td><strong>Função</strong></td>
+<td>Representação judicial e extrajudicial da União; consultoria do Poder Executivo</td>
+<td>Representação judicial e consultoria jurídica dos Estados/DF</td>
+</tr>
+<tr>
+<td><strong>Chefia</strong></td>
+<td>Advogado-Geral da União (nomeado pelo Presidente, sem concurso)</td>
+<td>Procurador-Geral do Estado (forma de nomeação varia por Estado)</td>
+</tr>
+<tr>
+<td><strong>Ingresso na carreira</strong></td>
+<td>Concurso público de provas e títulos</td>
+<td>Concurso público de provas e títulos, com participação da OAB em todas as fases</td>
+</tr>
+<tr>
+<td><strong>Estabilidade</strong></td>
+<td>Regime geral do art. 41, CF</td>
+<td>Após 3 anos de efetivo exercício, com avaliação de desempenho (art. 132, parágrafo único)</td>
+</tr>
+<tr>
+<td><strong>Vinculação</strong></td>
+<td>Poder Executivo Federal</td>
+<td>Poder Executivo Estadual</td>
+</tr>
+</table>

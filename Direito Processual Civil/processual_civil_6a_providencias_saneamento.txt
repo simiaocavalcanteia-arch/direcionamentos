@@ -1,0 +1,98 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 6a — Providências Preliminares. Julgamento Conforme o Estado do Processo. Julgamento Antecipado do Mérito. Julgamento Antecipado Parcial do Mérito. Saneamento e Organização do Processo</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Após a fase postulatória (petição inicial, audiência de conciliação, contestação), o juiz analisa o processo e decide os rumos: toma providências preliminares, verifica se é caso de julgamento imediato (total ou parcial) ou se deve sanear e organizar o feito para a instrução. Para o Procurador do Estado, o saneamento é momento estratégico — é nele que se fixam os pontos controvertidos, se definem as provas a produzir e se estabiliza o objeto da instrução.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Providências preliminares (arts. 347-353)</h3>
+
+<p>Encerrada a fase postulatória, o juiz toma providências preliminares conforme a situação processual:</p>
+
+<p><strong>Se o réu não contestou (revelia — art. 348):</strong> o juiz verifica se incide a presunção de veracidade (art. 344) ou se há exceção (art. 345). Se houver presunção e não for necessária prova em audiência, julga antecipadamente (art. 355, II).</p>
+
+<p><strong>Se o réu contestou e há fatos novos (art. 350):</strong> quando o réu alega fatos impeditivos, modificativos ou extintivos, o juiz intima o autor para se manifestar em réplica no prazo de 15 dias (art. 351). A réplica é obrigatória quando o réu alega fato novo — o autor deve se manifestar sob pena de preclusão.</p>
+
+<p><strong>Se há preliminares na contestação (art. 337):</strong> o juiz resolve as questões preliminares antes de analisar o mérito. Se acolher preliminar que extingue o processo (ex.: litispendência, coisa julgada), profere sentença terminativa (art. 485). Se rejeitar as preliminares, prossegue.</p>
+
+<p><strong>Se há vício sanável (art. 352):</strong> o juiz determina a correção de irregularidades ou vícios sanáveis antes de prosseguir — prazo razoável para emenda, sob pena de extinção.</p>
+
+<h3>Julgamento antecipado do mérito (art. 355)</h3>
+
+<p>O juiz julga antecipadamente o mérito quando: (I) não houver necessidade de produção de outras provas — o processo está maduro para julgamento com base nas provas documentais e nas alegações das partes; (II) o réu for revel, ocorrer o efeito do art. 344, e não houver requerimento de prova (revelia com presunção de veracidade).</p>
+
+<p>O julgamento antecipado é providência de economia processual: se as provas já são suficientes, não há sentido em designar audiência de instrução. Para a Fazenda Pública, é especialmente útil nas ações repetitivas (ex.: ações sobre temas já pacificados) em que os fatos são incontroversos e a discussão é puramente jurídica.</p>
+
+<h3>Julgamento antecipado parcial do mérito (art. 356)</h3>
+
+<p>Inovação do CPC/2015: o juiz pode julgar antecipadamente <strong>parte</strong> do mérito quando: (I) um ou mais pedidos (ou parcela deles) mostrar-se incontroverso; (II) estiver em condições de imediato julgamento, nos termos do art. 355.</p>
+
+<p>A decisão que julga antecipadamente parte do mérito é <strong>decisão interlocutória de mérito</strong>, recorrível por <strong>agravo de instrumento</strong> (art. 356, §5º, c/c art. 1.015, II). Não confundir com sentença — sentença é o ato que põe fim à fase cognitiva em primeiro grau (art. 203, §1º).</p>
+
+<p><strong>Liquidação e cumprimento imediatos (art. 356, §§1º-2º):</strong> a parte pode liquidar e executar o capítulo julgado antecipadamente, desde logo, em autos suplementares. Essa execução é provisória, pois ainda há mérito pendente de julgamento.</p>
+
+<div class="destaque">
+<p><strong>Para a PGE/RJ:</strong> o julgamento antecipado parcial é relevante quando o Estado é réu e parte dos pedidos é manifestamente improcedente (ex.: pedido de danos morais sem qualquer fundamento + pedido de revisão contratual que exige prova). O juiz pode rejeitar liminarmente o primeiro e prosseguir com o segundo. Inversamente, se parte do pedido é incontroversa (ex.: o Estado reconhece o débito mas discute o valor), o juiz pode acolher a parte incontroversa antecipadamente.</p>
+</div>
+
+<h3>Saneamento e organização do processo (art. 357)</h3>
+
+<p>Se não for caso de extinção nem de julgamento antecipado (total ou parcial), o juiz proferirá <strong>decisão de saneamento e organização do processo</strong>, na qual deverá (art. 357, incisos):</p>
+
+<p><strong>(I) Resolver questões processuais pendentes</strong> — preliminares não decididas, vícios a sanar.</p>
+
+<p><strong>(II) Delimitar as questões de fato sobre as quais recairá a atividade probatória</strong> — os pontos controvertidos que demandam prova.</p>
+
+<p><strong>(III) Definir a distribuição do ônus da prova</strong> — podendo inverter o ônus nos termos do art. 373, §1º.</p>
+
+<p><strong>(IV) Delimitar as questões de direito relevantes para a decisão de mérito.</strong></p>
+
+<p><strong>(V) Designar, se necessário, audiência de instrução e julgamento.</strong></p>
+
+<p><strong>Estabilização do saneamento (art. 357, §1º):</strong> as partes podem pedir esclarecimentos ou solicitar ajustes à decisão de saneamento no prazo de 5 dias. Após esse prazo, a decisão se torna estável — as questões nela resolvidas não podem mais ser reexaminadas no curso do processo, salvo matéria de ordem pública.</p>
+
+<p><strong>Saneamento compartilhado (art. 357, §3º):</strong> se a causa apresentar complexidade em matéria de fato ou de direito, o juiz pode designar audiência para que, em cooperação com as partes, se proceda ao saneamento. É manifestação do princípio da cooperação (art. 6º).</p>
+
+<p><strong>Fixação de calendário processual (art. 191):</strong> o juiz e as partes podem, de comum acordo, fixar calendário para a prática dos atos processuais, dispensando intimações. Pode ser feito na decisão de saneamento.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 347-353:</strong> providências preliminares — réplica, resolução de preliminares, correção de vícios.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 355:</strong> julgamento antecipado do mérito — desnecessidade de prova + revelia com presunção.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 356:</strong> julgamento antecipado parcial — pedido incontroverso ou em condições de julgamento imediato. §5º: agravo de instrumento.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 357:</strong> saneamento e organização — 5 incisos. §1º: estabilização. §3º: saneamento compartilhado em causa complexa.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre julgamento antecipado e cerceamento de defesa:</strong> o STJ entende que o julgamento antecipado do mérito (art. 355) não configura cerceamento de defesa quando o processo está maduro — ou seja, quando a prova documental é suficiente e a questão é predominantemente de direito. Mas configura cerceamento se a parte requereu prova oral ou pericial pertinente e o juiz julgou antecipadamente sem justificar a desnecessidade.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Julgamento antecipado total (sentença) versus parcial (decisão interlocutória):</strong> o julgamento antecipado total (art. 355) produz sentença, recorrível por apelação. O julgamento antecipado parcial (art. 356) produz decisão interlocutória de mérito, recorrível por agravo de instrumento. Confundir os recursos é erro fatal.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Estabilização da decisão de saneamento:</strong> após o prazo de 5 dias para esclarecimentos (art. 357, §1º), a decisão de saneamento se torna estável. As partes não podem, na fase de instrução, reabrir questões já resolvidas no saneamento (ex.: rediscutir a distribuição do ônus da prova definida no saneamento).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Réplica obrigatória:</strong> quando o réu alega fatos novos (impeditivos, modificativos, extintivos), o juiz deve intimar o autor para réplica (art. 350-351). A decisão de mérito proferida sem oportunizar réplica sobre fatos novos é nula — violação do contraditório.</p>
+</div>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Sequência pós-contestação — decisão do juiz</h3>
+
+<table>
+<tr><th>Situação</th><th>Providência</th><th>Dispositivo</th></tr>
+<tr><td>Preliminar acolhida (extintiva)</td><td>Sentença terminativa (sem mérito)</td><td>Art. 485</td></tr>
+<tr><td>Revelia + presunção + sem prova necessária</td><td>Julgamento antecipado total</td><td>Art. 355, II</td></tr>
+<tr><td>Questão puramente de direito / provas suficientes</td><td>Julgamento antecipado total</td><td>Art. 355, I</td></tr>
+<tr><td>Parte dos pedidos incontroversa</td><td>Julgamento antecipado parcial</td><td>Art. 356</td></tr>
+<tr><td>Necessidade de instrução</td><td>Saneamento e organização</td><td>Art. 357</td></tr>
+</table>

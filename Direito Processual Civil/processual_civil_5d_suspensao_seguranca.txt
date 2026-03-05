@@ -1,0 +1,108 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 5d — Suspensão de Segurança. Suspensão de Liminar e de Sentença Contrárias ao Poder Público. Cabimento e Restrições à Concessão de Tutela Provisória contra a Fazenda Pública</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O tema agrupa os instrumentos processuais de defesa da Fazenda Pública contra decisões judiciais de urgência. São mecanismos típicos da advocacia pública: a suspensão de segurança, a suspensão de liminar e de sentença, e as restrições legais à concessão de tutela provisória contra o Poder Público. Para o Procurador do Estado, este é um dos temas mais práticos do edital — é ferramenta de uso cotidiano para evitar danos ao erário e à ordem administrativa.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Suspensão de segurança (art. 15, Lei 12.016/2009)</h3>
+
+<p>A suspensão de segurança é pedido formulado pela pessoa jurídica de direito público interessada ao <strong>presidente do tribunal competente</strong> para suspender a execução de liminar ou sentença concessiva de mandado de segurança, quando houver risco de grave lesão à <strong>ordem, à saúde, à segurança ou à economia públicas</strong>.</p>
+
+<p><strong>Natureza jurídica:</strong> não é recurso — é incidente processual de natureza cautelar, de competência originária do presidente do tribunal. O juízo é político-administrativo: o presidente não reexamina o mérito da decisão suspendenda, mas avalia se há risco de grave lesão ao interesse público.</p>
+
+<p><strong>Legitimidade:</strong> pessoa jurídica de direito público interessada ou o Ministério Público (art. 15, caput, Lei 12.016/2009). Na prática, é a PGE que formula o pedido quando o Estado é parte.</p>
+
+<p><strong>Efeitos:</strong> suspende a eficácia da decisão até o trânsito em julgado (art. 15, §3º). Se a sentença de mérito for favorável ao impetrante, a suspensão continua vigente até o trânsito em julgado.</p>
+
+<p><strong>Agravo interno:</strong> da decisão do presidente do tribunal que defere ou indefere a suspensão cabe agravo interno para o órgão colegiado competente (art. 15, §1º). Se o tribunal local mantiver a decisão, cabe novo pedido ao presidente do STJ ou do STF, conforme a matéria (art. 15, §2º — "pedido de suspensão ao tribunal superior").</p>
+
+<h3>Suspensão de liminar e de sentença (art. 4º, Lei 8.437/1992)</h3>
+
+<p>A Lei 8.437/1992 estende o mecanismo de suspensão para além do mandado de segurança: compete ao presidente do tribunal, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, suspender a execução de <strong>liminar ou sentença em ações movidas contra o Poder Público</strong>, nas mesmas hipóteses (ordem, saúde, segurança, economia públicas).</p>
+
+<p>A Lei 9.494/1997 (art. 1º) reforça que se aplica a tutela antecipada concedida contra a Fazenda Pública o mesmo regime da suspensão de segurança.</p>
+
+<div class="destaque">
+<p><strong>Na prática da PGE:</strong> a suspensão de liminar é usada quando o Estado perde uma decisão de urgência em qualquer tipo de ação (não apenas mandado de segurança). O pedido vai ao presidente do TJRJ, demonstrando risco à ordem ou economia pública. Se indeferido, pode-se ir ao STJ (matéria infraconstitucional) ou STF (matéria constitucional). É o chamado "pedido de suspensão em cascata".</p>
+</div>
+
+<h3>Restrições à tutela provisória contra a Fazenda Pública</h3>
+
+<p>O ordenamento prevê diversas restrições à concessão de tutelas de urgência contra o Poder Público:</p>
+
+<p><strong>Lei 9.494/1997, art. 1º:</strong> aplica-se à tutela antecipada contra a Fazenda Pública as mesmas restrições previstas para a liminar em mandado de segurança.</p>
+
+<p><strong>Lei 12.016/2009, art. 7º, §2º:</strong> não será concedida liminar em mandado de segurança que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou extensão de vantagens.</p>
+
+<p><strong>Lei 8.437/1992, art. 1º:</strong> não será cabível, no juízo de primeiro grau, medida cautelar inominada ou sua liminar quando impugnado ato de autoridade sujeita, na via do mandado de segurança, à competência originária de tribunal.</p>
+
+<p><strong>Lei 9.494/1997, art. 2º-B:</strong> a sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do DF e dos Municípios somente pode ser executada após o trânsito em julgado.</p>
+
+<p><strong>ADC 4 (STF, Plenário):</strong> o STF declarou constitucional o art. 1º da Lei 9.494/1997, confirmando a vedação de tutela antecipada contra a Fazenda Pública para reclassificação/equiparação de servidores e para pagamento de vantagens antes do trânsito em julgado.</p>
+
+<h3>Exceções — quando a tutela é admitida</h3>
+
+<p><strong>Ações previdenciárias:</strong> a Súmula 729/STF ressalva que a vedação não se aplica a ações de natureza previdenciária. O STJ e o STF admitem tutela antecipada em ações previdenciárias contra a Fazenda Pública (benefícios assistenciais, aposentadorias).</p>
+
+<p><strong>Saúde:</strong> a jurisprudência admite amplamente tutela de urgência contra o Poder Público em ações de saúde (fornecimento de medicamentos, cirurgias, leitos), dada a natureza fundamental do direito envolvido.</p>
+
+<p><strong>Alimentos:</strong> quando a verba tem caráter alimentar e há risco de dano irreparável, a jurisprudência mitiga as restrições.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">Lei 12.016/2009</span> <strong>Art. 15:</strong> suspensão de segurança — pedido ao presidente do tribunal, grave lesão à ordem/saúde/segurança/economia.</p>
+
+<p><span class="tag tag-lei">Lei 8.437/1992</span> <strong>Art. 4º:</strong> suspensão de liminar e sentença contra o Poder Público — mesmos fundamentos.</p>
+
+<p><span class="tag tag-lei">Lei 9.494/1997</span> <strong>Arts. 1º e 2º-B:</strong> restrições à tutela antecipada e execução contra a Fazenda.</p>
+
+<p><span class="tag tag-lei">Lei 12.016/2009</span> <strong>Art. 7º, §2º:</strong> vedações específicas à liminar em MS (compensação tributária, entrega de mercadorias, reclassificação de servidores).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADC 4 (Plenário, 2008/2018):</strong> constitucionalidade do art. 1º da Lei 9.494/1997 — vedação de tutela antecipada contra Fazenda para pagamento de vantagens a servidores.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 729:</strong> "A decisão na ADC-4 não se aplica à antecipação de tutela em causa de natureza previdenciária."</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre suspensão de segurança:</strong> o presidente do tribunal, ao analisar pedido de suspensão, faz juízo político sobre o risco ao interesse público — não reexamina o mérito da decisão suspendenda. O efeito multiplicador (muitas ações similares) é argumento relevante para demonstrar risco à economia pública.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Suspensão de segurança NÃO é recurso:</strong> é incidente de competência originária do presidente do tribunal. Não se confunde com agravo de instrumento, apelação ou qualquer recurso. A parte pode interpor recurso E pedir suspensão simultaneamente — são vias autônomas e cumuláveis.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Cascata de suspensões:</strong> se o presidente do tribunal local indeferir a suspensão, cabe novo pedido ao presidente do STJ (matéria infraconstitucional) ou do STF (matéria constitucional). Se o presidente do tribunal local deferir e o tribunal manter por agravo interno, cabe novo pedido ao tribunal superior. Essa "cascata" é peculiaridade do sistema brasileiro.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Vedações ≠ Impossibilidade absoluta:</strong> as restrições à tutela contra a Fazenda são severas mas não absolutas. Em matéria previdenciária (Súmula 729/STF), saúde e alimentos, a jurisprudência admite a tutela de urgência. O candidato que afirmar que "é vedada qualquer tutela provisória contra a Fazenda" erra.</p>
+</div>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Suspensão de segurança versus suspensão de liminar</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Suspensão de segurança</th><th>Suspensão de liminar/sentença</th></tr>
+<tr><td>Diploma</td><td>Lei 12.016/2009, art. 15</td><td>Lei 8.437/1992, art. 4º</td></tr>
+<tr><td>Âmbito</td><td>Mandado de segurança</td><td>Qualquer ação contra o Poder Público</td></tr>
+<tr><td>Competência</td><td>Presidente do tribunal</td><td>Presidente do tribunal</td></tr>
+<tr><td>Fundamento</td><td>Grave lesão à ordem/saúde/segurança/economia</td><td>Idem</td></tr>
+<tr><td>Recurso</td><td>Agravo interno (§1º)</td><td>Agravo interno</td></tr>
+<tr><td>Cascata</td><td>Sim — STJ ou STF</td><td>Sim — STJ ou STF</td></tr>
+</table>
+
+<h3>Vedações à tutela provisória contra a Fazenda</h3>
+
+<table>
+<tr><th>Vedação</th><th>Diploma</th><th>Exceção</th></tr>
+<tr><td>Compensação de créditos tributários</td><td>Lei 12.016/2009, art. 7º, §2º</td><td>—</td></tr>
+<tr><td>Entrega de mercadorias do exterior</td><td>Lei 12.016/2009, art. 7º, §2º</td><td>—</td></tr>
+<tr><td>Reclassificação/equiparação de servidores</td><td>Lei 9.494/1997, art. 1º + ADC 4</td><td>—</td></tr>
+<tr><td>Pagamento de vantagens a servidores</td><td>Lei 9.494/1997, art. 2º-B</td><td>Matéria previdenciária (SV 729)</td></tr>
+<tr><td>Cautelar contra ato sujeito a MS em tribunal</td><td>Lei 8.437/1992, art. 1º</td><td>—</td></tr>
+</table>

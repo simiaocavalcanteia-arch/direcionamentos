@@ -1,0 +1,149 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8a — Liquidação de Sentença. Espécies. Procedimento</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>A liquidação de sentença é a fase processual destinada a tornar líquida — isto é, determinar o valor exato de — uma condenação que não fixou montante certo. Trata-se de etapa intermediária entre o acertamento do direito (sentença) e a execução propriamente dita: sem liquidação, a sentença ilíquida não pode ser executada. Para a advocacia pública, o tema é particularmente sensível porque grande parte das condenações contra a Fazenda envolve valores expressivos e precisa ser submetida a liquidação antes da expedição de precatório ou requisição de pequeno valor (RPV).</p>
+
+<p>O CPC/2015 manteve a liquidação como fase do processo sincrético (não como ação autônoma), regulando-a nos arts. 509 a 512. Prevê duas modalidades: liquidação por arbitramento e liquidação pelo procedimento comum. A terceira hipótese — apuração por simples cálculo aritmético — tecnicamente não é liquidação, pois o credor promove diretamente o cumprimento de sentença com a memória de cálculo (art. 509, §2º).</p>
+
+<p>Este ponto conecta-se diretamente com a sentença (Ponto 6a), pois é na sentença que se define se a condenação é líquida ou ilíquida, e com o cumprimento de sentença contra a Fazenda (Ponto 8d), pois a liquidação é etapa prévia obrigatória quando a condenação não fixar valor certo.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Conceito e natureza jurídica</h3>
+
+<p>No CPC/2015, a liquidação é uma fase do processo de conhecimento, inserida no modelo sincrético (processo único que abrange conhecimento, liquidação e cumprimento). Não se instaura ação autônoma de liquidação — o credor ou devedor requer a liquidação nos próprios autos, por simples petição (art. 509). A natureza jurídica da decisão que encerra a liquidação é de <strong>decisão interlocutória de mérito</strong>, pois resolve questão incidental (o valor da condenação) sem encerrar a fase cognitiva como um todo.</p>
+
+<p>A legitimidade para requerer a liquidação é ampla: pode ser promovida pelo credor ou pelo devedor (art. 509, caput). Essa bilateralidade é relevante para a Fazenda Pública, que frequentemente tem interesse em liquidar a sentença para conhecer e controlar o montante da condenação antes da fase executiva.</p>
+
+<h3>Liquidação por arbitramento (art. 510)</h3>
+
+<p>A liquidação por arbitramento é cabível quando: (i) for determinada pela sentença; (ii) for convencionada pelas partes; ou (iii) a natureza do objeto exigir (art. 509, I). O procedimento é concentrado: o juiz intima as partes para apresentar pareceres ou documentos elucidativos no prazo que fixar e, se não puder decidir de plano, nomeia perito (art. 510). Aplicam-se, no que couber, as regras da prova pericial (arts. 464-480).</p>
+
+<p>A expressão "arbitramento" refere-se à estimativa técnica do valor, geralmente por perito. É a modalidade utilizada quando a quantificação depende de conhecimento especializado — por exemplo, avaliação de danos materiais complexos, lucros cessantes que exijam análise contábil, ou indenizações por desapropriação indireta envolvendo avaliação imobiliária.</p>
+
+<h3>Liquidação pelo procedimento comum (art. 511)</h3>
+
+<p>A liquidação pelo procedimento comum é cabível quando houver necessidade de provar <strong>fato novo</strong> — fato que não foi objeto de cognição na fase de conhecimento e que é indispensável para a fixação do valor (art. 509, II). Atenção: "fato novo" aqui não é fato superveniente, mas sim fato que, embora existente, não precisou ser provado na fase de conhecimento porque lá se discutia apenas o <em>an debeatur</em> (se deve), e não o <em>quantum debeatur</em> (quanto deve).</p>
+
+<p>O procedimento é mais complexo que o da liquidação por arbitramento. O requerido é intimado na pessoa de seu advogado para contestar em 15 dias (art. 511). Em seguida, observa-se, no que couber, o rito do procedimento comum: há possibilidade de produção de provas, audiência e decisão fundamentada. É o procedimento mais longo e oneroso, por isso a sentença deve, sempre que possível, fixar critérios que dispensem a liquidação pelo procedimento comum.</p>
+
+<h3>Apuração por mero cálculo aritmético (art. 509, §2º)</h3>
+
+<p>Quando o valor da condenação depende apenas de cálculo aritmético — aplicação de índices de correção monetária, juros de mora, descontos previstos na sentença —, não é necessária liquidação. O credor promove diretamente o cumprimento de sentença, instruindo o requerimento com memória de cálculo discriminada e atualizada (art. 509, §2º). O devedor poderá, na impugnação ao cumprimento, questionar os cálculos apresentados (art. 525, §1º, IV; art. 535, III, para a Fazenda).</p>
+
+<div class="destaque">
+<p><strong>Importância prática para a Fazenda:</strong> a maioria das condenações contra o Estado em ações indenizatórias, previdenciárias ou de servidores envolve valores que dependem de cálculos aritméticos (atualização monetária + juros). Nesses casos, não há liquidação formal — o credor apresenta a planilha e inicia o cumprimento. O procurador deve conferir criteriosamente os cálculos, pois erros na aplicação de índices (IPCA-E, SELIC, TR) ou na definição do termo inicial dos juros podem gerar diferenças de milhões de reais em condenações de grande porte.</p>
+</div>
+
+<h3>Vedação à sentença ilíquida quando possível a liquidez</h3>
+
+<p>O art. 491 do CPC determina que, na ação relativa à obrigação de pagar quantia, a sentença deve definir desde logo a extensão da obrigação, o índice de correção monetária, a taxa de juros, o termo inicial de ambos e a periodicidade da capitalização. A fixação de sentença ilíquida quando os elementos estão disponíveis nos autos é considerada vício, corrigível por embargos de declaração ou pela própria instância recursal.</p>
+
+<h3>Liquidação na pendência de recurso (art. 512)</h3>
+
+<p>A liquidação pode ser promovida na pendência de recurso, processando-se em autos apartados no juízo de origem (art. 512). Essa possibilidade é estrategicamente relevante: permite que o credor ou o devedor adiante a apuração do valor enquanto aguarda o trânsito em julgado, acelerando a fase executiva posterior. O resultado da liquidação fica condicionado ao resultado do recurso — se a sentença for reformada, a liquidação perde o objeto.</p>
+
+<h3>Liquidação e Fazenda Pública</h3>
+
+<p>A liquidação contra a Fazenda Pública segue as mesmas regras gerais (arts. 509-512), com particularidades na fase subsequente de cumprimento (art. 534-535). A Fazenda é intimada na pessoa de seu procurador e tem prazo de 30 dias para impugnar o cumprimento de sentença (art. 535), prazo que reflete a prerrogativa de prazo em dobro (art. 183). Na liquidação propriamente dita, aplica-se igualmente a intimação pessoal do procurador e o prazo em dobro para manifestação.</p>
+
+<p>Após a liquidação (ou apresentação dos cálculos), o cumprimento de sentença contra a Fazenda segue rito próprio: não há penhora nem expropriação de bens, mas sim requisição de pagamento por precatório (valores acima do teto de RPV) ou requisição de pequeno valor (abaixo do teto). O teto de RPV do Estado do Rio de Janeiro é definido por legislação estadual — é informação relevante para a prova.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 509</strong> — disposição geral sobre liquidação. Legitimidade do credor e devedor. Modalidades: arbitramento (I) e procedimento comum (II). §2º: mero cálculo aritmético dispensa liquidação.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 510</strong> — liquidação por arbitramento. Procedimento: intimação para pareceres/documentos → decisão de plano ou nomeação de perito.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 511</strong> — liquidação pelo procedimento comum. Cabível quando há necessidade de provar fato novo. Intimação para contestação em 15 dias.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 512</strong> — liquidação na pendência de recurso, em autos apartados no juízo de origem.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 491</strong> — dever de proferir sentença líquida quando possível. O juiz deve fixar extensão da obrigação, correção, juros, termos iniciais.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 534-535</strong> — cumprimento de sentença contra a Fazenda. Art. 534: requisitos da petição do credor. Art. 535: prazo de 30 dias para impugnação e rol de matérias arguíveis.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 1.015, parágrafo único</strong> — cabe agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação ou cumprimento de sentença.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre recurso cabível</strong> — o STJ consolidou que a decisão que encerra a liquidação tem natureza de decisão interlocutória de mérito, recorrível por agravo de instrumento (art. 1.015, parágrafo único). A interposição de apelação configura erro grosseiro, não admitindo fungibilidade.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Leia os arts. 509-512 na íntegra — são apenas quatro artigos, mas seus parágrafos contêm regras importantes. O art. 509, §§1º a 4º, traz disposições sobre parte líquida + ilíquida, liquidação provisória e legitimidade, que são frequentemente cobradas.</p>
+
+<p>Concentre-se em distinguir com clareza as três situações: (i) mero cálculo aritmético — sem liquidação, direto ao cumprimento (art. 509, §2º); (ii) arbitramento — quando a quantificação exige avaliação técnica (art. 510); (iii) procedimento comum — quando há fato novo a provar (art. 511). Essa tripartição é o que mais cai em prova.</p>
+
+<p>Conecte com o Ponto 6a (sentença): o art. 491 exige que o juiz profira sentença líquida sempre que possível. Conecte com o Ponto 8d (execução contra Fazenda): a liquidação precede o cumprimento de sentença contra a Fazenda (art. 534), que segue rito especial com prazo de 30 dias para impugnação. Também conecte com o Ponto 7 (recursos): a decisão de liquidação é recorrível por agravo de instrumento, não por apelação.</p>
+
+<p>Para a Fazenda Pública, grave a seguinte sequência prática: sentença ilíquida → liquidação (arbitramento ou procedimento comum) → cumprimento de sentença (art. 534) → impugnação pela Fazenda (art. 535, 30 dias) → requisição de pagamento (precatório ou RPV). Essa cadeia processual é o cotidiano do procurador.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>"Fato novo" na liquidação pelo procedimento comum não é fato superveniente:</strong> o conceito de fato novo do art. 509, II, refere-se a fato que não foi objeto de prova na fase de conhecimento porque irrelevante para o <em>an debeatur</em>, mas que precisa ser provado para definir o <em>quantum</em>. Exemplo: em ação de indenização por lucros cessantes, o juiz reconhece o direito, mas a quantificação exige prova de faturamento e despesas que não foram discutidas na fase cognitiva.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Vedação à inovação na liquidação:</strong> o art. 509, §4º, proíbe, na liquidação, a rediscussão da lide ou a modificação da sentença que a julgou. A liquidação tem objeto estritamente quantitativo — determinar o valor da condenação já fixada. Se a Fazenda tentar rediscutir a procedência na liquidação, o pedido será indeferido. Da mesma forma, o credor não pode ampliar a condenação.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Recurso contra a decisão de liquidação:</strong> a decisão que resolve a liquidação é recorrível por agravo de instrumento (art. 1.015, parágrafo único), e não por apelação. Esse ponto é fonte constante de erros: como a liquidação integra o processo de conhecimento (modelo sincrético), candidatos confundem a decisão de liquidação com sentença. A interposição de apelação é erro grosseiro.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Parte líquida + parte ilíquida:</strong> o art. 509, §1º, permite que o credor promova simultaneamente a execução da parte líquida e a liquidação da parte ilíquida, em autos apartados. Essa possibilidade é estrategicamente relevante e frequentemente esquecida pelos candidatos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Honorários no cumprimento não impugnado pela Fazenda (STJ 2024):</strong> o STJ decidiu em 2024 que não são devidos honorários advocatícios em cumprimento de sentença não impugnado pela Fazenda Pública. Esse entendimento impacta diretamente o interesse do procurador em impugnar ou não a execução.</p>
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Temas consolidados</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Cabimento de agravo de instrumento em liquidação e cumprimento</strong> — o STJ firmou, desde o julgamento de recursos repetitivos em 2019, que cabe agravo de instrumento contra todas as decisões interlocutórias proferidas em liquidação e cumprimento de sentença, por força do art. 1.015, parágrafo único, do CPC. Essa orientação é pacífica e afasta a discussão sobre taxatividade do rol do <em>caput</em> do art. 1.015.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Vedação ao excesso de liquidação</strong> — o STJ reiteradamente anula liquidações que ultrapassam os limites da sentença exequenda. O princípio da fidelidade ao título determina que a liquidação deve apurar exatamente o valor correspondente à condenação, sem ampliação. Decisões que fixem parcelas não contempladas na sentença são nulas por excesso.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Índices de correção contra a Fazenda Pública</strong> — o STF, no RE 870.947/SE (Tema 810), fixou que a correção monetária de condenações contra a Fazenda deve seguir o IPCA-E (até a vigência da EC 113/2021) e, a partir de dezembro de 2021, a taxa SELIC (que engloba correção + juros). Essa definição impacta diretamente a fase de liquidação/cálculos contra o Estado.</p>
+
+<h3>Decisões recentes (2024-2025)</h3>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Honorários em cumprimento não impugnado pela Fazenda (2024)</strong> — em julgamento de agosto de 2024, o STJ decidiu que não são devidos honorários advocatícios quando a Fazenda Pública não impugna o cumprimento de sentença. O entendimento é que o pagamento por precatório/RPV constitui forma específica de cumprimento que não se equipara ao adimplemento voluntário, e a ausência de resistência pela Fazenda afasta a condenação em honorários executivos.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>EC 113/2021 — SELIC como índice unificado (vigente desde 2021)</strong> — a Emenda Constitucional 113/2021 estabeleceu que, nas discussões e condenações que envolvam a Fazenda Pública, independentemente de sua natureza, incidirão apenas a taxa SELIC para fins de atualização monetária, de remuneração do capital e de compensação da mora (art. 3º). Essa unificação simplificou a fase de cálculos: desde dezembro de 2021, aplica-se apenas SELIC, sem necessidade de separar correção monetária e juros de mora.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Tema 1.170 — Índices de juros moratórios em condenações contra a Fazenda (2024)</strong> — o STF, no Tema 1.170 (RE 1.317.982), definiu que é aplicável às condenações da Fazenda Pública o índice de juros moratórios estabelecido no art. 1º-F da Lei 9.494/97, na redação da Lei 11.960/09, mesmo quando o título executivo judicial tenha fixado índice diverso. A questão impacta diretamente a fase de liquidação/cálculos, especialmente na transição entre IPCA-E (até 2021) e SELIC (a partir da EC 113/2021).</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Modalidade</th><th>Base legal</th><th>Quando se aplica</th><th>Procedimento</th></tr>
+<tr><td><strong>Mero cálculo aritmético</strong></td><td>Art. 509, §2º</td><td>Valor depende apenas de operações matemáticas (juros, correção)</td><td>Não há liquidação — cumprimento direto com memória de cálculo</td></tr>
+<tr><td><strong>Arbitramento</strong></td><td>Arts. 509, I + 510</td><td>Determinada pela sentença, convencionada ou exigida pela natureza do objeto</td><td>Intimação para pareceres → decisão de plano ou perícia</td></tr>
+<tr><td><strong>Procedimento comum</strong></td><td>Arts. 509, II + 511</td><td>Necessidade de provar fato novo para quantificar</td><td>Intimação → contestação (15 dias) → instrução → decisão</td></tr>
+</table>
+
+<table>
+<tr><th>Aspecto</th><th>Liquidação por arbitramento</th><th>Liquidação pelo procedimento comum</th></tr>
+<tr><td><strong>Prova necessária</strong></td><td>Técnica/pericial</td><td>Qualquer meio (inclusive testemunhal)</td></tr>
+<tr><td><strong>Complexidade</strong></td><td>Menor (concentrada)</td><td>Maior (segue rito do proc. comum)</td></tr>
+<tr><td><strong>Duração típica</strong></td><td>Mais rápida</td><td>Mais longa</td></tr>
+<tr><td><strong>Contestação</strong></td><td>Não há contestação formal</td><td>Sim, prazo de 15 dias (art. 511)</td></tr>
+<tr><td><strong>Recurso</strong></td><td>Agravo de instrumento</td><td>Agravo de instrumento</td></tr>
+</table>
+
+<table>
+<tr><th>Índice de correção contra a Fazenda</th><th>Período</th><th>Base</th></tr>
+<tr><td><strong>IPCA-E</strong></td><td>Até 08/12/2021</td><td>RE 870.947/SE (Tema 810/STF)</td></tr>
+<tr><td><strong>SELIC (englobando correção + juros)</strong></td><td>A partir de 09/12/2021</td><td>EC 113/2021, art. 3º</td></tr>
+</table>
+
+<div class="destaque">
+<p><strong>Síntese para a prova discursiva:</strong> em uma resposta sobre liquidação de sentença, demonstre conhecimento das duas modalidades (arbitramento e procedimento comum), distingua ambas do mero cálculo aritmético, cite o art. 509, §4º (vedação à rediscussão da lide), mencione que o recurso cabível é agravo de instrumento (art. 1.015, parágrafo único), e, tratando-se de Fazenda Pública, conecte com o rito de cumprimento do art. 534-535 e com os índices de correção (IPCA-E até 2021, SELIC a partir da EC 113/2021).</p>
+</div>

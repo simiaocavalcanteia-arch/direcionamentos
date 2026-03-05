@@ -1,0 +1,91 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 8e — Defesas do Executado: Embargos à Execução, Impugnação ao Cumprimento de Sentença e Exceção de Pré-Executividade. Embargos à Execução Fiscal. Embargos de Terceiro</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O edital separa as defesas do executado em ponto autônomo, revelando a importância do tema para o Procurador do Estado — que atua tanto defendendo o Estado como executado (cumprimento de sentença contra a Fazenda) quanto atacando as defesas do contribuinte/devedor (embargos à execução fiscal). Dominar a distinção entre os meios de defesa (impugnação, embargos, exceção de pré-executividade) é essencial.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Impugnação ao cumprimento de sentença (arts. 525 e 535)</h3>
+
+<p>A impugnação é o meio de defesa do executado no cumprimento de sentença. Distinguem-se dois regimes:</p>
+
+<p><strong>Cumprimento contra devedor comum (art. 525):</strong> o executado pode impugnar alegando: (I) falta ou nulidade da citação se o processo correu à revelia; (II) ilegitimidade de parte; (III) inexigibilidade do título ou inexigibilidade da obrigação; (IV) penhora incorreta ou avaliação errônea; (V) excesso de execução ou cumulação indevida; (VI) incompetência absoluta ou relativa do juízo da execução; (VII) qualquer causa modificativa ou extintiva da obrigação (pagamento, novação, compensação, prescrição). A impugnação é apresentada no prazo de 15 dias após a intimação do auto de penhora e avaliação.</p>
+
+<p><strong>Cumprimento contra a Fazenda Pública (art. 535):</strong> a Fazenda Pública pode impugnar alegando as mesmas matérias do art. 525, acrescidas de: excesso de execução (que deve indicar o valor correto — §2º) e <strong>inconstitucionalidade da lei em que se funda o título</strong>, quando declarada pelo STF em controle concentrado ou decidida em repercussão geral (§5º, com base nos Temas 881/885). Prazo: 30 dias (art. 535, caput) — dobro do prazo comum, aplicando-se o art. 183.</p>
+
+<div class="destaque">
+<p><strong>Efeito suspensivo:</strong> a impugnação, em regra, não suspende o cumprimento (art. 525, §6º). Mas o juiz pode atribuir efeito suspensivo se o executado demonstrar que o prosseguimento pode causar dano grave e de difícil reparação, e desde que garantido o juízo por penhora, depósito ou caução (art. 525, §6º). Para a Fazenda Pública, a questão do efeito suspensivo é menos relevante porque a execução contra a Fazenda segue o regime de precatório/RPV, que já impede a expropriação.</p>
+</div>
+
+<h3>Embargos à execução de título extrajudicial (arts. 914-920)</h3>
+
+<p>Os embargos são o meio de defesa do executado na execução fundada em título extrajudicial. Diferem da impugnação: são ação autônoma (não mero incidente) e têm cognição mais ampla — o executado pode alegar qualquer matéria que lhe seria lícita deduzir como defesa em processo de conhecimento (art. 917, VI).</p>
+
+<p><strong>Prazo:</strong> 15 dias, contados da juntada aos autos do mandado de citação (art. 915). Para a Fazenda Pública: 30 dias (art. 183).</p>
+
+<p><strong>Garantia do juízo:</strong> no CPC/2015, os embargos <strong>não dependem de garantia do juízo</strong> (art. 914) — mudança significativa em relação ao CPC/1973. Porém, o efeito suspensivo depende de garantia (art. 919, §1º).</p>
+
+<p><strong>Matérias arguíveis (art. 917):</strong> inexequibilidade do título, inexigibilidade da obrigação, penhora incorreta, retenção por benfeitorias, incompetência absoluta ou relativa, e qualquer matéria de defesa admissível no processo de conhecimento.</p>
+
+<h3>Embargos à execução fiscal (art. 16, Lei 6.830/1980)</h3>
+
+<p>Na execução fiscal, os embargos têm regime próprio (LEF): prazo de <strong>30 dias</strong> contados do depósito, da juntada da prova de fiança bancária ou do seguro garantia, ou da intimação da penhora (art. 16, I-III). Diferença fundamental: na execução fiscal, <strong>os embargos dependem de garantia do juízo</strong> (art. 16, §1º, LEF) — a garantia é requisito de admissibilidade.</p>
+
+<p><strong>Efeito suspensivo:</strong> os embargos à execução fiscal não têm efeito suspensivo automático. O juiz pode atribuir efeito suspensivo quando relevantes seus fundamentos e o prosseguimento da execução possa causar ao executado grave dano de difícil ou incerta reparação (art. 151, V, CTN, c/c art. 919, §1º, CPC, por analogia).</p>
+
+<h3>Exceção de pré-executividade</h3>
+
+<p>A exceção de pré-executividade é criação jurisprudencial (não tem previsão legal expressa). É petição simples nos autos da execução, sem necessidade de garantia do juízo, para alegar matérias de ordem pública ou vícios cognoscíveis de ofício (nulidade do título, prescrição, ilegitimidade, falta de condição da ação).</p>
+
+<p><strong>Limites:</strong> a exceção de pré-executividade só é admitida para matérias que não demandem dilação probatória — se a alegação exigir produção de prova, o executado deve usar embargos ou impugnação. O STJ consolidou esse entendimento na <strong>Súmula 393:</strong> "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória."</p>
+
+<h3>Embargos de terceiro (arts. 674-681)</h3>
+
+<p>Os embargos de terceiro são ação de conhecimento incidental para proteger a posse ou propriedade de quem não é parte na execução, mas sofre constrição judicial indevida (penhora, apreensão, arresto, sequestro). Podem ser opostos a qualquer tempo enquanto não transitada em julgado a sentença de mérito (art. 675).</p>
+
+<p><strong>Legitimidade (art. 674):</strong> quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo. Também pode opor embargos o cônjuge/companheiro quando a constrição recair sobre bens próprios ou de sua meação (art. 674, §2º).</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 525:</strong> impugnação ao cumprimento — matérias, prazo, efeito suspensivo.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 535:</strong> impugnação pela Fazenda Pública — matérias ampliadas (§5º: inconstitucionalidade).</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 914-920:</strong> embargos à execução — prazo 15 dias, sem garantia, cognição ampla.</p>
+<p><span class="tag tag-lei">LEF</span> <strong>Art. 16:</strong> embargos à execução fiscal — prazo 30 dias, com garantia.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 674-681:</strong> embargos de terceiro.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 393:</strong> "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória."</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 317:</strong> "É definitiva a execução de título extrajudicial, ainda que pendente apelação contra sentença que julgue improcedentes os embargos."</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Tema 1.049 (REsp 1.937.821, 1ª Seção, 2022):</strong> sobre a necessidade de garantia para embargos à execução fiscal — confirmou a exigência do art. 16, §1º, LEF.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Impugnação (cumprimento) versus embargos (título extrajudicial):</strong> são meios de defesa distintos. A impugnação é incidental ao cumprimento de sentença; os embargos são ação autônoma na execução de título extrajudicial. Matérias, prazos e regimes de efeito suspensivo diferem.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Embargos à execução fiscal EXIGEM garantia; embargos à execução comum NÃO:</strong> essa distinção é cobradíssima. No CPC/2015, os embargos à execução de título extrajudicial não dependem de garantia (art. 914). Mas na execução fiscal (LEF), a garantia continua sendo requisito de admissibilidade (art. 16, §1º).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Exceção de pré-executividade — sem dilação probatória:</strong> se a matéria exigir prova (ex.: alegação de pagamento que depende de perícia), a exceção é inadmissível — deve-se usar embargos. Esse é o limite fixado pela Súmula 393/STJ.</p>
+</div>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Defesas do executado — comparação</h3>
+
+<table>
+<tr><th>Aspecto</th><th>Impugnação (art. 525/535)</th><th>Embargos à execução (art. 914)</th><th>Embargos à exec. fiscal (LEF, art. 16)</th><th>Exceção de pré-executividade</th></tr>
+<tr><td>Título</td><td>Judicial</td><td>Extrajudicial</td><td>CDA</td><td>Qualquer</td></tr>
+<tr><td>Natureza</td><td>Incidente</td><td>Ação autônoma</td><td>Ação autônoma</td><td>Petição simples</td></tr>
+<tr><td>Garantia</td><td>Não (efeito suspensivo sim)</td><td>Não</td><td>Sim (requisito)</td><td>Não</td></tr>
+<tr><td>Prazo</td><td>15 dias (Fazenda: 30)</td><td>15 dias (Fazenda: 30)</td><td>30 dias</td><td>A qualquer tempo</td></tr>
+<tr><td>Cognição</td><td>Restrita (art. 525)</td><td>Ampla (art. 917, VI)</td><td>Ampla</td><td>Matérias de ordem pública, sem dilação</td></tr>
+<tr><td>Efeito suspensivo</td><td>Não automático</td><td>Não automático</td><td>Não automático</td><td>Possível se relevante</td></tr>
+</table>

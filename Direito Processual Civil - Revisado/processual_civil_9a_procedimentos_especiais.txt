@@ -1,0 +1,266 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 9a — Procedimentos Especiais de Jurisdição Contenciosa. Teoria Geral. Características. Procedimentos em Espécie. Legislação Extravagante</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os procedimentos especiais constituem um vasto conjunto de ritos processuais que fogem ao procedimento comum (ordinário e sumário do CPC/1973, unificados no procedimento comum do CPC/2015). O CPC/2015 regulamenta esses procedimentos no Livro I da Parte Especial (arts. 539 a 770), dividindo-os em procedimentos de jurisdição contenciosa (arts. 539-681) e de jurisdição voluntária (arts. 719-770). Além do CPC, há procedimentos especiais previstos em legislação extravagante de grande relevância para a advocacia pública: desapropriação (DL 3.365/41), ação discriminatória de terras devolutas (Lei 6.383/76), mandado de segurança (Lei 12.016/09), ação popular (Lei 4.717/65) e ação civil pública (Lei 7.347/85).</p>
+
+<p>Para a PGE/RJ, alguns procedimentos especiais têm relevância prática direta: a <strong>desapropriação</strong> (o Estado é frequente expropriante), a <strong>consignação em pagamento</strong> (o Estado pode ser réu em ações de consignação tributária), a <strong>ação monitória</strong> (pode ser utilizada contra a Fazenda ou pela Fazenda), os <strong>embargos de terceiro</strong> (frequentes em execuções fiscais) e a <strong>ação discriminatória</strong> (para identificação de terras devolutas estaduais). O candidato não precisa dominar cada procedimento em minúcia, mas deve ter visão segura dos mais cobrados e de suas particularidades.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Consignação em pagamento (arts. 539-549)</h3>
+
+<p>A ação de consignação em pagamento serve para liberar o devedor de sua obrigação quando o credor recusa injustificadamente o pagamento, quando há dúvida sobre quem é o legítimo credor, ou quando o credor não pode ser encontrado. A ação tem natureza constitutiva negativa (extingue a obrigação mediante depósito judicial). O procedimento é simples: o autor deposita o valor que entende devido e requer a citação do réu para levantar o depósito ou contestar em 15 dias.</p>
+
+<p>Na consignação tributária, o devedor deposita o valor do tributo que a Fazenda se recusa a receber (normalmente porque há discussão sobre a base de cálculo ou o montante). A Fazenda Pública, como ré, pode alegar que o valor depositado é insuficiente — nesse caso, o juiz poderá determinar o complemento. Se o depósito for integral e tempestivo, opera-se a extinção da obrigação tributária (art. 156, VIII, do CTN).</p>
+
+<h3>Ação monitória (arts. 700-702)</h3>
+
+<p>A ação monitória permite ao credor que possui prova escrita sem eficácia de título executivo obter, de forma célere, um mandado de pagamento. A prova escrita pode ser qualquer documento que demonstre a obrigação: nota fiscal, e-mail, contrato não assinado por testemunhas, orçamento aprovado, entre outros. O CPC/2015 ampliou significativamente o objeto da monitória, que agora abrange obrigações de pagar quantia, entregar coisa fungível ou infungível, ou fazer/não fazer (art. 700, I a III).</p>
+
+<p>O réu é citado para pagar (ou entregar/fazer) em 15 dias, ou apresentar embargos monitórios (art. 702). Se o réu não impugnar, o mandado converte-se automaticamente em título executivo judicial. A ação monitória pode ser proposta contra a Fazenda Pública — nesse caso, os embargos monitórios independem de garantia e o prazo para impugnar é de 30 dias (não 15), aplicando-se as prerrogativas de prazo da Fazenda.</p>
+
+<div class="destaque">
+<strong>Monitória e Fazenda Pública:</strong> admite-se a ação monitória contra a Fazenda (Súmula 339/STJ). O rito, porém, é adaptado: se não houver impugnação pela Fazenda, o mandado monitório converte-se em título executivo judicial, seguindo-se o procedimento de cumprimento de sentença contra a Fazenda (arts. 534-535 — precatório ou RPV). Não há conversão automática em título extrajudicial.
+</div>
+
+<h3>Embargos de terceiro (arts. 674-681)</h3>
+
+<p>Os embargos de terceiro destinam-se a proteger quem, não sendo parte no processo, sofre constrição ou ameaça de constrição sobre seus bens. Na prática da execução fiscal, essa ação é frequente: cônjuges, sócios, e adquirentes de boa-fé invocam os embargos para liberar bens penhorados. O prazo para oposição é de até 5 dias após a adjudicação, alienação ou arrematação (art. 675). O terceiro pode ser qualquer pessoa que não participe do processo e demonstre posse ou direito sobre o bem constrito.</p>
+
+<p>A Fazenda Pública também pode opor embargos de terceiro — por exemplo, quando bens públicos são indevidamente penhorados em execuções entre particulares.</p>
+
+<h3>Desapropriação (DL 3.365/41)</h3>
+
+<p>A desapropriação é procedimento especial de enorme relevância prática para a PGE/RJ. O Decreto-Lei 3.365/41 regula o rito judicial da desapropriação por utilidade pública. O procedimento envolve: declaração de utilidade pública (fase administrativa), propositura da ação de desapropriação, imissão provisória na posse (mediante depósito prévio), perícia para avaliação do bem, sentença fixando a justa indenização, e pagamento por precatório.</p>
+
+<div class="destaque">
+<strong>Imissão provisória na posse:</strong> o expropriante pode ser imitido provisoriamente na posse do bem mediante declaração de urgência e depósito prévio (art. 15 do DL 3.365/41). Para imóveis, o STF exige que o depósito seja em valor que não agrida o princípio da justa e prévia indenização — não basta o depósito de valor irrisório. A imissão provisória é imprescindível quando há urgência na implantação de obras públicas.
+</div>
+
+<p>Na ação de desapropriação, a contestação do expropriado é limitada: ele não pode discutir a utilidade pública ou o interesse social (questões políticas, insindicáveis no processo de desapropriação), podendo apenas impugnar o valor ofertado e alegar vícios processuais (art. 20 do DL 3.365/41). Os juros compensatórios, devidos pela perda antecipada da posse, são de 12% ao ano sobre a diferença entre a indenização fixada e o valor do depósito prévio (Súmula 618/STF), incidindo desde a imissão na posse.</p>
+
+<h3>Ação discriminatória de terras devolutas (Lei 6.383/76)</h3>
+
+<p>A ação discriminatória serve para identificar e separar as terras devolutas (públicas) das terras particulares. Para o Estado do Rio de Janeiro, a questão é relevante, pois a Constituição Estadual inclui entre os bens do Estado as terras devolutas situadas em seu território. O procedimento tem duas fases: administrativa (demarcação e identificação, com possibilidade de acordo) e judicial (quando frustrada a via administrativa). A sentença tem natureza declaratória — reconhece o domínio público sobre as terras discriminadas.</p>
+
+<h3>Jurisdição voluntária (arts. 719-770)</h3>
+
+<p>Na jurisdição voluntária, não há lide propriamente dita — o juiz atua como administrador público de interesses privados que exigem intervenção estatal. Os procedimentos mais relevantes incluem: notificação e interpelação (arts. 726-729), alienação judicial (arts. 730-733), divórcio e separação consensuais (art. 733), testamentos e codicilos (arts. 735-737), herança jacente (arts. 738-743), bens dos ausentes (arts. 744-745), coisas vagas (arts. 746-748) e interdição (arts. 747-758). A Fazenda Pública tem interesse em procedimentos de herança jacente e coisas vagas (bens que podem reverter ao patrimônio público) e em interdições que envolvam beneficiários de prestações estatais.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 539-549:</strong> ação de consignação em pagamento — depósito, citação, complementação, sentença. Art. 539: cabimento quando o credor recusa o recebimento ou há dúvida sobre quem deve receber.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 700-702:</strong> ação monitória — prova escrita, mandado de pagamento, embargos monitórios em 15 dias (30 para Fazenda). Art. 700, §6º: admissibilidade contra a Fazenda.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 674-681:</strong> embargos de terceiro — proteção de quem sofre constrição indevida. Prazo: até 5 dias após adjudicação/alienação.</p>
+
+<p><span class="tag tag-lei">DL 3.365/41:</span> desapropriação por utilidade pública — declaração de utilidade, imissão provisória (art. 15), contestação limitada ao valor (art. 20), justa indenização.</p>
+
+<p><span class="tag tag-lei">Lei 6.383/76:</span> ação discriminatória de terras devolutas — procedimento administrativo e judicial para identificação de terras públicas.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 339:</strong> é cabível ação monitória contra a Fazenda Pública.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 282:</strong> cabe a citação por edital em ação monitória (relevante quando o devedor não é encontrado).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 618:</strong> na desapropriação direta ou indireta, a taxa dos juros compensatórios é de 12% ao ano.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 416:</strong> pela demora no pagamento do preço da desapropriação não cabe indenização complementar além dos juros.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 69:</strong> na desapropriação direta, os juros compensatórios são devidos desde a antecipada imissão na posse e, na desapropriação indireta, a partir da efetiva ocupação pelo Poder Público.</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>A amplitude do tema exige uma abordagem seletiva. Foque nos procedimentos mais cobrados em concursos de procuradorias: consignação em pagamento, ação monitória, embargos de terceiro e desapropriação. Para cada um, domine o conceito, a petição inicial, o rito resumido e as peculiaridades quando a Fazenda é parte. Na consignação, atenção ao depósito como causa extintiva da obrigação tributária. Na monitória, grave a Súmula 339/STJ e o prazo diferenciado para a Fazenda. Nos embargos de terceiro, concentre-se na legitimidade e no prazo. Na desapropriação, memorize as restrições à contestação (art. 20) e os juros compensatórios (Súmula 618/STF).</p>
+
+<p>Os procedimentos de jurisdição voluntária merecem leitura mais superficial — foque em herança jacente (possibilidade de os bens reverterem ao patrimônio público), interdição (relevante para políticas assistenciais) e notificação judicial. Para a ação discriminatória, basta conhecer o conceito e a finalidade — a natureza declaratória da sentença e a dupla fase (administrativa e judicial) são os pontos centrais.</p>
+
+<p>Conecte o estudo com os Pontos 9c (ações possessórias — que também são procedimento especial) e 10 (processo coletivo — ação popular, ação civil pública e mandado de segurança, todos procedimentos especiais em legislação extravagante).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Ação monitória contra a Fazenda — prazo dos embargos:</strong> quando a Fazenda é ré em monitória, o prazo para embargos monitórios é de 30 dias (art. 701, caput — prazo base de 15 dias, c/c art. 183 — prazo em dobro para a Fazenda), não 15. E os embargos independem de garantia do juízo. Se a Fazenda não impugnar, o mandado se converte em título executivo judicial, seguindo-se o cumprimento de sentença por precatório/RPV.
+</div>
+
+<div class="atencao">
+<strong>Contestação na desapropriação é limitada:</strong> o expropriado não pode discutir a utilidade pública ou o interesse social — apenas o valor da indenização e vícios processuais (art. 20, DL 3.365/41). A impugnação ao decreto expropriatório deve ser feita por via autônoma (mandado de segurança ou ação anulatória). Confundir o objeto da defesa no processo de desapropriação é erro grave.
+</div>
+
+<div class="atencao">
+<strong>Consignação tributária e extinção do crédito:</strong> o depósito integral do montante do tributo extingue a obrigação tributária (art. 156, VIII, CTN). Porém, o depósito deve ser integral e tempestivo. Se houver diferença, o crédito subsiste sobre o valor não depositado, sem prejuízo da multa e juros sobre a parte remanescente.
+</div>
+
+<div class="atencao">
+<strong>Embargos de terceiro em execução fiscal:</strong> a oposição de embargos de terceiro independe de garantia do juízo — o terceiro não precisa oferecer caução para defender seus bens. É instrumento distinto dos embargos à execução (art. 16 da LEF), que exigem garantia. Confundir as duas espécies de embargos é armadilha recorrente.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Ação monitória contra a Fazenda — Súmula 339/STJ</h3>
+
+<p><span class="tag tag-stj">STJ</span> O STJ consolidou que a ação monitória é cabível contra a Fazenda Pública (Súmula 339). A admissibilidade decorre do fato de que a monitória visa a formação de título executivo judicial, sendo compatível com o regime de precatórios. Se a Fazenda não opuser embargos monitórios, constitui-se título executivo judicial, seguindo-se o procedimento dos arts. 534-535 do CPC. A particularidade é que a não impugnação pela Fazenda não equivale à revelia com seus efeitos típicos (confissão ficta) — a Fazenda possui prerrogativas que impedem a presunção de veracidade dos fatos alegados.</p>
+
+<h3>Desapropriação — juros compensatórios e moratórios</h3>
+
+<p><span class="tag tag-stf">STF</span> <span class="tag tag-stj">STJ</span> Os juros compensatórios na desapropriação (12% ao ano — Súmula 618/STF) incidem desde a imissão provisória na posse e visam compensar a perda antecipada do bem. Os juros moratórios (a partir do trânsito em julgado — Súmula 70/STJ) remuneram o atraso no pagamento da indenização. Ambos são cumuláveis (Súmula 12/STJ), mas incidem sobre bases diferentes e com termos iniciais distintos. A MP 2.183-56/2001 tentou reduzir os juros compensatórios para 6%, mas o STF suspendeu essa redução em liminar na ADI 2.332. Em 2018, o Plenário do STF julgou parcialmente procedente a ADI 2.332, declarando inconstitucional o art. 15-A, §§1º e 2º, do DL 3.365/41 (base de cálculo dos juros compensatórios), mantendo a taxa de 12%.</p>
+
+<h3>Ação monitória — prova escrita e alcance</h3>
+
+<p><span class="tag tag-stj">STJ</span> O STJ ampliou progressivamente o conceito de "prova escrita" para fins da monitória. Aceita-se como prova: notas fiscais, e-mails, mensagens eletrônicas, contratos sem testemunhas, orçamentos aprovados, e até cheques prescritos. A Pesquisa Pronta do STJ, atualizada em 2024, destaca especificamente a admissibilidade de notas fiscais como prova para ação monitória. Essa amplitude reforça a utilidade da monitória como instrumento de cobrança célere, inclusive contra a Fazenda.</p>
+
+<h3>Desapropriação indireta e prescrição</h3>
+
+<p><span class="tag tag-stj">STJ</span> A desapropriação indireta (apossamento administrativo sem o devido processo legal) sujeita-se a prazo prescricional. O STJ entende que a prescrição da ação de desapropriação indireta é de 10 anos (se não houver registro — REsp 1.300.442, Tema 1.019) ou de 15 anos (se houver registro), aplicando-se o prazo do art. 1.238 do CC (usucapião extraordinária) por analogia. Trata-se de tema relevante para o Procurador do Estado, pois o ente público pode ser demandado em ações indenizatórias decorrentes de apossamento administrativo ocorrido há décadas.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Procedimento</th><th>Base legal</th><th>Relevância para PGE</th><th>Prazo de defesa</th></tr>
+<tr><td>Consignação em pagamento</td><td>CPC, arts. 539-549</td><td>Fazenda como ré (consignação tributária)</td><td>15 dias</td></tr>
+<tr><td>Ação monitória</td><td>CPC, arts. 700-702</td><td>Contra ou pela Fazenda (Súmula 339)</td><td>15 dias (30 para Fazenda)</td></tr>
+<tr><td>Embargos de terceiro</td><td>CPC, arts. 674-681</td><td>Frequentes em execuções fiscais</td><td>Até 5 dias após alienação</td></tr>
+<tr><td>Desapropriação</td><td>DL 3.365/41</td><td>Estado como expropriante</td><td>15 dias (contestação limitada)</td></tr>
+<tr><td>Ação discriminatória</td><td>Lei 6.383/76</td><td>Identificação de terras devolutas estaduais</td><td>Fase administrativa + judicial</td></tr>
+</table>
+
+<table>
+<tr><th>Aspecto</th><th>Desapropriação direta</th><th>Desapropriação indireta</th></tr>
+<tr><td>Iniciativa</td><td>Poder Público (ação de desapropriação)</td><td>Particular (ação indenizatória)</td></tr>
+<tr><td>Pagamento</td><td>Prévio e justo (regra — precatório na prática)</td><td>Indenização por precatório</td></tr>
+<tr><td>Juros compensatórios</td><td>Desde a imissão provisória na posse</td><td>Desde a efetiva ocupação</td></tr>
+<tr><td>Taxa de juros compensatórios</td><td>12% ao ano (Súmula 618/STF)</td><td>12% ao ano</td></tr>
+<tr><td>Prescrição</td><td>Não se aplica (ação do Estado)</td><td>10 anos sem registro / 15 anos com registro</td></tr>
+</table>
+<h1>Ações Possessórias</h1>
+
+<h3>As três ações possessórias e a fungibilidade</h3>
+
+<p>Cada ação possessória corresponde a um tipo de ofensa à posse: a <strong>reintegração de posse</strong> protege contra o esbulho (perda total da posse), a <strong>manutenção de posse</strong> contra a turbação (embaraço ao exercício da posse, sem perda) e o <strong>interdito proibitório</strong> contra a ameaça (justo receio de que a turbação ou esbulho venha a ocorrer). O art. 554 consagra a <strong>fungibilidade</strong>: a propositura de uma ação em vez de outra não impede o juiz de conceder a proteção adequada, desde que comprovados os respectivos pressupostos.</p>
+
+<p>Essa fungibilidade é relevante na prática: se o autor ajuíza manutenção de posse, mas durante o processo ocorre o esbulho, o juiz pode conceder a reintegração sem necessidade de nova ação. O mesmo vale no sentido inverso — reintegração pedida pode ser convertida em manutenção se ficar provada apenas turbação.</p>
+
+<h3>Procedimento especial: ação de força nova (até ano e dia)</h3>
+
+<p>As ações possessórias seguem procedimento especial quando ajuizadas dentro de <strong>ano e dia</strong> do esbulho ou da turbação — são chamadas de "ações de força nova". Nesse caso, o autor pode obter <strong>liminar</strong> de manutenção ou reintegração de posse, bastando provar: (a) a posse; (b) a turbação ou o esbulho praticado pelo réu; (c) a data da turbação ou do esbulho; e (d) a continuação da posse (na turbação) ou a perda da posse (no esbulho) — art. 561.</p>
+
+<p>Se a ação for ajuizada após ano e dia ("ação de força velha"), segue o <strong>procedimento comum</strong>, sem possibilidade de liminar específica — embora o autor ainda possa buscar tutela provisória de urgência (art. 300). A diferença não é de direito material (a posse continua protegida), mas de procedimento (o rito especial com liminar específica exige a tempestividade de ano e dia).</p>
+
+<div class="destaque">
+<strong>Liminar sem audiência prévia do réu:</strong> na ação de força nova, o juiz deve deferir a liminar sem ouvir o réu, se a petição estiver suficientemente instruída (art. 562). Se não estiver, designa audiência de justificação prévia, citando o réu (art. 562, parágrafo único). A liminar é mandamental — descumprimento autoriza medidas de apoio (busca e apreensão, auxílio de força policial, etc.).
+</div>
+
+<h3>Caráter dúplice (art. 556)</h3>
+
+<p>As ações possessórias têm natureza dúplice: o réu pode, na contestação, requerer proteção possessória e indenização pelos prejuízos resultantes da turbação ou do esbulho praticado pelo autor, <strong>sem necessidade de reconvenção</strong> (art. 556). Isso simplifica o procedimento — o réu formula pedidos contráveis diretamente na contestação, e o juiz os aprecia na sentença.</p>
+
+<h3>Litígio coletivo pela posse: inovações do CPC/2015</h3>
+
+<p>Uma das maiores novidades do CPC/2015 é o tratamento específico dos litígios coletivos pela posse de imóvel (arts. 554, §1º, e 565). Quando o polo passivo envolve <strong>grande número de pessoas</strong>, o procedimento ganha contornos diferenciados:</p>
+
+<p><strong>Citação especial (art. 554, §1º):</strong> os ocupantes encontrados no local serão citados pessoalmente; os demais, por edital. O Ministério Público deve ser intimado, e a Defensoria Pública será cientificada sempre que houver pessoas em situação de hipossuficiência econômica.</p>
+
+<p><strong>Audiência de mediação obrigatória (art. 565):</strong> quando o litígio coletivo pela posse envolver esbulho ou turbação ocorridos <strong>há mais de ano e dia</strong> (ação de força velha), antes de apreciar o pedido de tutela provisória o juiz deve designar <strong>audiência de mediação</strong> a ser realizada em até 30 dias. O MP e a Defensoria são obrigatoriamente intimados. O juiz pode comparecer à área objeto do litígio para verificar pessoalmente as condições do local. Órgãos responsáveis pela política agrária e urbana (União, Estados, DF e Municípios) também devem ser cientificados para se manifestarem sobre possibilidade de solução consensual.</p>
+
+<div class="destaque">
+<strong>Ação de força nova coletiva:</strong> se o litígio coletivo for de força nova (até ano e dia), o juiz pode conceder liminar sem a audiência de mediação obrigatória — mas deve garantir a citação pessoal dos ocupantes encontrados e por edital dos demais. A audiência de mediação é obrigatória apenas quando o litígio coletivo é de força velha. Essa distinção é sutil e muito cobrada em provas.
+</div>
+
+<h3>Posse de bens públicos e a posição da Fazenda</h3>
+
+<p>A relação entre posse e bens públicos é tratada pela jurisprudência com rigor. O STJ consolidou que a <strong>ocupação irregular de bem público não configura posse, mas mera detenção</strong> (Súmula 619/STJ). Consequências práticas: o ocupante não tem direito a retenção por benfeitorias, nem a indenização por acessões, nem pode invocar proteção possessória contra o Poder Público. A Fazenda, por sua vez, pode ajuizar ação de reintegração de posse para retomar seus imóveis, bastando demonstrar a propriedade pública e a ocupação irregular.</p>
+
+<p>Há, porém, uma nuance importante: entre particulares, o ocupante de terra pública pode invocar proteção possessória contra outros particulares que tentem esbulhá-lo. O STJ distingue: a detenção existe em relação ao Poder Público; entre ocupantes privados, porém, reconhece-se a posse relativa, passível de proteção possessória. Outra exceção discutida é a dos bens dominicais sem destinação específica: há decisões que admitem proteção possessória quando o ocupante confere função social ao bem, embora esse entendimento não seja pacífico.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 554:</strong> fungibilidade das ações possessórias. §1º: litígio coletivo — citação pessoal e por edital, intimação do MP, ciência da Defensoria.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 556:</strong> caráter dúplice — réu pode pedir proteção possessória e indenização na contestação.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 558:</strong> cumulação de pedidos — o autor pode cumular pedidos de indenização por danos, desfazimento de construção ou plantação, imposição de medida de apoio e perdas e danos.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 561:</strong> requisitos para liminar de reintegração/manutenção: posse, turbação/esbulho, data da ofensa, continuação ou perda da posse.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 562:</strong> liminar sem audiência do réu na ação de força nova, se suficientemente instruída a petição. Parágrafo único: audiência de justificação se insuficiente a prova.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 565:</strong> audiência de mediação obrigatória em litígio coletivo de força velha, com intimação do MP e da Defensoria, em até 30 dias.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 567:</strong> interdito proibitório — cominação de pena pecuniária para o caso de transgressão.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Súmula 619:</strong> a ocupação indevida de bem público configura mera detenção, de natureza precária, insuscetível de retenção ou indenização por acessões e benfeitorias.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula 340:</strong> desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião.</p>
+
+<p><span class="tag tag-stj">STJ</span> O ocupante de terra pública pode ajuizar ações possessórias contra outros particulares, embora não possa fazê-lo contra o Poder Público (distinção consolidada em múltiplos julgados da Corte).</p>
+
+<h2>Estratégia de Estudo</h2>
+
+<p>Comece pela estrutura das três ações possessórias e pelo princípio da fungibilidade (art. 554). Depois, domine o procedimento de força nova: requisitos da liminar (art. 561), possibilidade de concessão sem oitiva do réu (art. 562) e audiência de justificação prévia. Em seguida, estude o caráter dúplice (art. 556) e a possibilidade de cumulação de pedidos (art. 558) — esses são os conceitos mais cobrados no rito geral.</p>
+
+<p>Reserve atenção especial para o litígio coletivo (arts. 554, §1º, e 565), que é a maior inovação do CPC/2015 nessa matéria. Memorize: citação pessoal + edital, intimação do MP, ciência da Defensoria, audiência de mediação obrigatória em força velha, e participação de órgãos de política agrária/urbana. Esse procedimento reflete preocupações com a função social da posse e o direito à moradia — temas transversais que a banca pode explorar em prova discursiva.</p>
+
+<p>Para a PGE/RJ, o tema mais prático é a posse de bens públicos. Grave a Súmula 619/STJ (ocupação irregular = mera detenção) e suas consequências: ausência de direito a retenção, indenização ou proteção possessória contra o Poder Público. Mas não esqueça a exceção: entre particulares, o ocupante pode defender sua posse. Conecte com a Súmula 340/STF (vedação de usucapião de bens públicos) para ter uma visão completa da proteção do patrimônio público.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<strong>Força nova × força velha:</strong> a classificação se baseia no prazo de ano e dia do esbulho ou turbação. Na ação de força nova, há procedimento especial com liminar própria. Na força velha, segue-se o procedimento comum, mas a tutela provisória de urgência continua disponível. Em litígio coletivo de força velha, a audiência de mediação é obrigatória antes de qualquer tutela provisória.
+</div>
+
+<div class="atencao">
+<strong>Mediação obrigatória só em litígio coletivo de força velha:</strong> o art. 565 exige audiência de mediação em até 30 dias apenas quando o litígio coletivo envolver posse com mais de ano e dia. Se for litígio coletivo de força nova, a liminar pode ser concedida diretamente (observada a citação especial do §1º do art. 554). Bancas exploram essa distinção com frequência.
+</div>
+
+<div class="atencao">
+<strong>Súmula 619/STJ — ocupação de bem público:</strong> ocupação irregular de bem público é mera detenção. O ocupante não tem direito a proteção possessória contra o Poder Público, nem a retenção ou indenização por benfeitorias. Porém, entre particulares, o ocupante pode defender sua posse contra terceiros. Essa distinção é sutil e altamente cobrada.
+</div>
+
+<div class="atencao">
+<strong>Interdito proibitório e pena pecuniária:</strong> no interdito, o juiz comina pena pecuniária para o caso de transgressão (art. 567). Não confunda com astreintes genéricas — a pena cominada no interdito tem natureza específica e não depende de requerimento da parte para ser fixada (o juiz pode fazê-lo de ofício).
+</div>
+
+<div class="atencao">
+<strong>Posse × propriedade:</strong> as ações possessórias protegem a posse, não a propriedade. O art. 557 veda a alegação de propriedade ou domínio como defesa em ação possessória ("exceção de domínio"). Porém, na prática, quando a Fazenda Pública requer reintegração de posse, ela comprova seu domínio (certidão imobiliária, ato administrativo) como prova indireta da posse — o que é admitido pela jurisprudência.
+</div>
+
+<h2>Discussões nos Tribunais Superiores</h2>
+
+<h3>Súmula 619/STJ — Detenção em bens públicos</h3>
+
+<p><span class="tag tag-stj">STJ</span> A Súmula 619, editada em 2018, consolidou o entendimento de que a ocupação indevida de bem público configura mera detenção, de natureza precária, insuscetível de retenção ou indenização por acessões e benfeitorias. A consequência prática é dupla: (a) o ocupante não pode opor ações possessórias contra o Poder Público; (b) na reintegração movida pelo ente público, o ocupante não tem direito a indenização pelas melhorias realizadas. Esse entendimento se fundamenta no art. 1.208 do CC (detentores) e na indisponibilidade dos bens públicos. Para a PGE/RJ, a Súmula 619 facilita a retomada de imóveis estaduais ocupados irregularmente.</p>
+
+<h3>Possessória entre particulares sobre terra pública</h3>
+
+<p><span class="tag tag-stj">STJ</span> O STJ distingue as ações possessórias entre particulares e contra o Poder Público quando o bem é público. Na relação horizontal (entre ocupantes), reconhece-se posse relativa, passível de proteção. Na relação vertical (ocupante vs. Poder Público), prevalece a mera detenção. A Pesquisa Pronta do STJ, atualizada em 2025, destaca a prejudicialidade entre ações possessórias e de usucapião sobre o mesmo imóvel — quando o bem é público, a impossibilidade de usucapião (Súmula 340/STF; arts. 183, §3º, e 191, parágrafo único, da CF) reforça a precariedade da ocupação.</p>
+
+<h3>Litígio coletivo e mediação — eficácia prática</h3>
+
+<p><span class="tag tag-stj">STJ</span> A aplicação dos arts. 554, §1º, e 565 do CPC tem gerado discussões sobre a efetividade da mediação em conflitos possessórios de grande magnitude. O STJ já se pronunciou sobre a necessidade de observância estrita desses dispositivos, sob pena de nulidade dos atos praticados sem a prévia audiência de mediação em litígios coletivos de força velha. A participação obrigatória do MP e da Defensoria é requisito de validade, não mera formalidade. Para a PGE/RJ, que pode figurar tanto como autora (reintegração de imóvel público) quanto como ente interessado (política urbana/habitacional), o domínio desse procedimento é indispensável.</p>
+
+<h2>Quadros Esquemáticos</h2>
+
+<table>
+<tr><th>Ação possessória</th><th>Ofensa à posse</th><th>Efeito</th><th>Exemplo</th></tr>
+<tr><td>Reintegração de posse</td><td>Esbulho</td><td>Restituição da posse</td><td>Invasão de imóvel</td></tr>
+<tr><td>Manutenção de posse</td><td>Turbação</td><td>Cessação da turbação</td><td>Construção parcial no terreno vizinho</td></tr>
+<tr><td>Interdito proibitório</td><td>Ameaça</td><td>Prevenção + pena pecuniária</td><td>Declarações de que pretende invadir</td></tr>
+</table>
+
+<table>
+<tr><th>Aspecto</th><th>Ação de força nova (≤ 1 ano e dia)</th><th>Ação de força velha (> 1 ano e dia)</th></tr>
+<tr><td>Procedimento</td><td>Especial (arts. 554-568)</td><td>Comum (com tutela provisória genérica)</td></tr>
+<tr><td>Liminar possessória</td><td>Sim (art. 562)</td><td>Não (mas cabe tutela de urgência — art. 300)</td></tr>
+<tr><td>Litígio coletivo</td><td>Liminar possível; citação especial (art. 554, §1º)</td><td>Audiência de mediação obrigatória antes da tutela (art. 565)</td></tr>
+</table>
+
+<table>
+<tr><th>Situação</th><th>Ocupante vs. Poder Público</th><th>Ocupante vs. outro particular</th></tr>
+<tr><td>Qualificação jurídica</td><td>Mera detenção (Súmula 619/STJ)</td><td>Posse relativa</td></tr>
+<tr><td>Proteção possessória</td><td>Não</td><td>Sim</td></tr>
+<tr><td>Retenção por benfeitorias</td><td>Não</td><td>Discutível (depende da boa-fé)</td></tr>
+<tr><td>Usucapião</td><td>Vedada (Súmula 340/STF)</td><td>Vedada (bem público)</td></tr>
+</table>

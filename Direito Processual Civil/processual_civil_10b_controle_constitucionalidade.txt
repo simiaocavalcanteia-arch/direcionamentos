@@ -1,0 +1,79 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 10b — O Processo Civil no Controle da Constitucionalidade. Ação Direta de Inconstitucionalidade. Ação Declaratória de Constitucionalidade. Arguição de Descumprimento de Preceito Fundamental. Representação de Inconstitucionalidade no Tribunal de Justiça. Incidente de Arguição de Inconstitucionalidade. Ações Civis Constitucionais</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O controle de constitucionalidade no processo civil é tema de altíssima relevância para o Procurador do Estado. A PGE/RJ atua diretamente no controle concentrado estadual (representação de inconstitucionalidade no TJRJ), defende a constitucionalidade de leis estaduais perante o STF (ADIs contra leis do Estado do Rio de Janeiro) e pratica o controle difuso em todas as ações em que o Estado é parte. O tema conecta Direito Processual Civil com Direito Constitucional — o edital cobra a dimensão processual.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Ação Direta de Inconstitucionalidade — ADI (art. 102, I, "a", CF; Lei 9.868/1999)</h3>
+
+<p><strong>Objeto:</strong> lei ou ato normativo federal ou estadual em face da Constituição Federal.</p>
+
+<p><strong>Legitimidade (art. 103, CF):</strong> rol taxativo — Presidente da República, Mesa do Senado, Mesa da Câmara, Mesa de Assembleia Legislativa ou Câmara Legislativa do DF, Governador de Estado ou do DF, PGR, Conselho Federal da OAB, partido político com representação no Congresso, confederação sindical ou entidade de classe de âmbito nacional. Os legitimados especiais (Governador, Mesa de AL, confederação sindical e entidade de classe) devem demonstrar pertinência temática.</p>
+
+<p><strong>Procedimento (Lei 9.868/1999):</strong> petição inicial com indicação do dispositivo impugnado e fundamentação jurídica → informações do órgão que editou o ato (30 dias) → manifestação do AGU em defesa do ato (15 dias) → parecer do PGR (15 dias) → julgamento pelo Plenário do STF (quórum: 8 ministros presentes; maioria absoluta de 6 para declarar inconstitucionalidade).</p>
+
+<p><strong>Medida cautelar (art. 10, Lei 9.868):</strong> o STF pode, por maioria absoluta, conceder cautelar para suspender a eficácia do ato normativo impugnado. A cautelar é dotada de eficácia erga omnes e efeito vinculante.</p>
+
+<p><strong>Efeitos da decisão (art. 28, Lei 9.868):</strong> eficácia contra todos (erga omnes) e efeito vinculante em relação aos demais órgãos do Poder Judiciário e à Administração Pública. Em regra, efeitos ex tunc (retroativos). Modulação temporal (art. 27): por maioria de 2/3, o STF pode restringir os efeitos ou fixar outro momento para eficácia.</p>
+
+<h3>Ação Declaratória de Constitucionalidade — ADC (art. 102, I, "a", CF; Lei 9.868/1999)</h3>
+
+<p><strong>Objeto:</strong> lei ou ato normativo federal — busca declarar a constitucionalidade, eliminando controvérsia judicial relevante.</p>
+
+<p><strong>Requisito específico:</strong> demonstração de controvérsia judicial relevante sobre a constitucionalidade do ato (art. 14, III, Lei 9.868). Sem controvérsia, não há interesse de agir.</p>
+
+<p><strong>Efeitos:</strong> mesmos da ADI — erga omnes, vinculante, com possibilidade de modulação.</p>
+
+<h3>Arguição de Descumprimento de Preceito Fundamental — ADPF (art. 102, §1º, CF; Lei 9.882/1999)</h3>
+
+<p><strong>Cabimento (art. 1º, Lei 9.882):</strong> para evitar ou reparar lesão a preceito fundamental resultante de ato do Poder Público. É subsidiária — só cabe quando não houver outro meio eficaz de sanar a lesividade (art. 4º, §1º).</p>
+
+<p><strong>Modalidades:</strong> ADPF autônoma (art. 1º, caput — evitar ou reparar lesão a preceito fundamental) e ADPF incidental (art. 1º, parágrafo único — controvérsia constitucional relevante sobre lei ou ato normativo federal, estadual ou municipal, incluindo anteriores à CF/1988).</p>
+
+<p><strong>Alcance ampliado:</strong> diferentemente da ADI, a ADPF pode ter por objeto: (i) leis municipais; (ii) leis anteriores à CF/1988 (direito pré-constitucional); (iii) atos normativos secundários; (iv) decisões judiciais. É o instrumento de controle concentrado mais abrangente.</p>
+
+<h3>Representação de inconstitucionalidade no Tribunal de Justiça (art. 125, §2º, CF)</h3>
+
+<p>Os Estados podem instituir representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual. No Rio de Janeiro, a representação é julgada pelo Órgão Especial do TJRJ.</p>
+
+<p><strong>Relevância para a PGE/RJ:</strong> o Procurador-Geral do Estado é um dos legitimados para propor representação de inconstitucionalidade no TJRJ. Também atua na defesa de leis estaduais impugnadas por terceiros.</p>
+
+<p><strong>Parâmetro:</strong> apenas a Constituição Estadual — não se pode usar a CF como parâmetro na representação estadual (sob pena de usurpação da competência do STF).</p>
+
+<h3>Incidente de arguição de inconstitucionalidade (arts. 948-950, CPC)</h3>
+
+<p>Já detalhado no complemento do Ponto 4c (incidentes processuais). Em síntese: decorre da cláusula de reserva de plenário (art. 97, CF; SV 10). Quando órgão fracionário considerar inconstitucional lei ou ato normativo, deve submeter a questão ao plenário ou órgão especial. Exceção: quando já houver pronunciamento do tribunal pleno, órgão especial ou STF (art. 949, p.u.).</p>
+
+<h3>Ações civis constitucionais</h3>
+
+<p>Termo que abrange as ações de estatura constitucional com finalidade de tutela de direitos fundamentais e controle do poder público: mandado de segurança (individual e coletivo), habeas corpus, habeas data, mandado de injunção, ação popular e ação civil pública. Os aspectos processuais do MS, MI e HD já estão detalhados no Ponto 10a; da ação popular e ACP, no Ponto 9c.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Arts. 97, 102 (I, "a" e §1º), 103, 125 §2º:</strong> fundamentos constitucionais do controle concentrado.</p>
+<p><span class="tag tag-lei">Lei 9.868/1999:</span> ADI e ADC — procedimento, cautelar, efeitos, modulação.</p>
+<p><span class="tag tag-lei">Lei 9.882/1999:</span> ADPF — cabimento, subsidiariedade, efeitos.</p>
+<p><span class="tag tag-lei">CPC</span> <strong>Arts. 948-950:</strong> incidente de arguição de inconstitucionalidade.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Súmula Vinculante 10:</strong> reserva de plenário.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 2.135 (Plenário, 06/11/2024, 8×3):</strong> julgou improcedente a ADI contra a EC 19/1998 (art. 39, caput, CF). Exemplo prático de ADI com modulação ex nunc.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885 (2023):</strong> a coisa julgada em matéria tributária cessa seus efeitos quando o STF decide em controle concentrado — demonstra a força do controle concentrado sobre a coisa julgada individual.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>ADI ≠ ADPF — subsidiariedade:</strong> a ADPF só é cabível quando não houver outro meio eficaz (art. 4º, §1º, Lei 9.882). Se a lei pode ser impugnada por ADI, não cabe ADPF. Mas a ADPF alcança o que a ADI não alcança: leis municipais, direito pré-constitucional, atos não normativos.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Controle estadual — parâmetro é a CE, não a CF:</strong> na representação de inconstitucionalidade no TJRJ, o parâmetro é a Constituição do Estado do RJ. Se a norma viola a CF (mas não a CE), o instrumento é a ADI perante o STF, não a representação estadual.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Modulação exige maioria qualificada de 2/3:</strong> a modulação temporal dos efeitos (art. 27, Lei 9.868) exige 2/3 dos membros do STF (8 de 11). A declaração de inconstitucionalidade exige maioria absoluta (6 de 11). São quóruns diferentes.</p>
+</div>

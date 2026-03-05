@@ -1,0 +1,134 @@
+<div class="badge">DIREITO PROCESSUAL CIVIL | PGE/RJ</div>
+
+<h1>Ponto 4b — Da Formação, Suspensão e Extinção do Processo</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O edital cobra especificamente a formação, suspensão e extinção do processo — três momentos essenciais da relação jurídica processual. Para o Procurador do Estado, o tema é operacional: saber quando o processo se forma (e a partir de quando surgem obrigações processuais para a Fazenda Pública), quando ele se suspende (impedindo a prática de atos) e quando ele se extingue (com ou sem resolução de mérito) é fundamental para a atuação cotidiana.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Formação do processo (arts. 312 e 313)</h3>
+
+<p>O processo civil inicia-se por iniciativa da parte (art. 2º, CPC) e se considera instaurado com o <strong>registro ou distribuição da petição inicial</strong> (art. 312). A partir desse momento, a relação processual existe entre o autor e o Estado-juiz. A relação processual tríplice (autor–juiz–réu) só se completa com a <strong>citação válida do réu</strong> (art. 312, segunda parte), que produz os seguintes efeitos (art. 240):</p>
+
+<p>(I) <strong>Induz litispendência</strong> — a partir da citação, há processo pendente com as mesmas partes, causa de pedir e pedido, impedindo a propositura de ação idêntica (art. 337, §§1º-3º).</p>
+
+<p>(II) <strong>Torna litigiosa a coisa</strong> — a alienação do bem litigioso após a citação é ineficaz perante o autor (art. 792, I).</p>
+
+<p>(III) <strong>Constitui em mora o devedor</strong> — salvo se a mora já decorrer de outro fato (art. 240, caput, parte final).</p>
+
+<p>(IV) <strong>Interrompe a prescrição</strong> — a interrupção retroage à data da propositura da ação (art. 240, §1º), desde que o autor promova a citação nos prazos e termos da lei processual. Para a Fazenda Pública, a interrupção da prescrição pela citação é especialmente relevante nas ações de cobrança e nas execuções fiscais (art. 174, parágrafo único, I, do CTN, e art. 8º, §2º, da LEF).</p>
+
+<div class="destaque">
+<p><strong>Perpetuação da jurisdição (art. 43):</strong> determina-se a competência no momento do registro ou distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta. Isso significa que, uma vez formado o processo perante o juízo competente, fatos supervenientes (como mudança de domicílio do réu) não alteram a competência — regra fundamental para a segurança jurídica.</p>
+</div>
+
+<h3>Suspensão do processo (arts. 313-315)</h3>
+
+<p>A suspensão do processo é a paralisação temporária do curso processual, durante a qual nenhum ato processual pode ser praticado — exceto atos urgentes para evitar dano irreparável (art. 314). O CPC/2015 prevê as seguintes hipóteses de suspensão:</p>
+
+<p><strong>Art. 313, I — Morte ou perda da capacidade processual de qualquer das partes, de seu representante legal ou de seu procurador.</strong> Se a parte falece, o processo fica suspenso até a habilitação dos sucessores (arts. 687-692). Se o advogado falece ou é declarado incapaz, o processo fica suspenso por 15 dias para que a parte constitua novo procurador (art. 313, §3º).</p>
+
+<p><strong>Art. 313, II — Convenção das partes.</strong> As partes podem convencionar a suspensão do processo por até 6 meses (art. 313, §4º). É hipótese de negócio jurídico processual (art. 190). Durante a suspensão convencional, não corre prazo.</p>
+
+<p><strong>Art. 313, III — Arguição de impedimento ou suspeição.</strong> O processo fica suspenso até que o incidente seja julgado (art. 146, §2º).</p>
+
+<p><strong>Art. 313, IV — Admissão de incidente de resolução de demandas repetitivas (IRDR).</strong> A admissão do IRDR suspende os processos pendentes que versem sobre a mesma questão de direito, na área de jurisdição do tribunal (art. 982, I).</p>
+
+<p><strong>Art. 313, V — Questão prejudicial.</strong> Quando o julgamento do mérito depender de verificação de existência de fato delituoso ou de questão que deva ser decidida por outro juízo. O juiz pode suspender o processo por até 1 ano (art. 313, §4º), após o que o processo retoma seu curso sem prejuízo do exame da questão prejudicial.</p>
+
+<p><strong>Art. 313, VI — Força maior.</strong> Eventos extraordinários que impossibilitem o prosseguimento do feito (calamidades, pandemias — como a suspensão generalizada de prazos durante a COVID-19).</p>
+
+<p><strong>Art. 313, VII — Sentença de mérito com repercussão geral reconhecida ou recurso repetitivo admitido (art. 1.037, II).</strong> O relator do recurso repetitivo pode determinar a suspensão dos processos que versem sobre a mesma questão de direito.</p>
+
+<p><strong>Outras hipóteses legais:</strong> suspensão para cumprimento de carta rogatória (art. 377); suspensão na execução fiscal quando não encontrados bens (art. 40, LEF); suspensão por prejudicialidade externa (art. 315).</p>
+
+<div class="destaque">
+<p><strong>Fazenda Pública e suspensão:</strong> hipótese prática relevante — o Procurador pode requerer a suspensão do processo com base no art. 313, V, quando houver processo criminal pendente sobre os mesmos fatos (ex.: ação de improbidade cumulada com processo penal). Também é comum a suspensão por recurso repetitivo (art. 313, VII), quando a Fazenda está litigando sobre tese jurídica já afetada pelo STJ/STF. A suspensão convencional (art. 313, II) pode ser usada estrategicamente para negociações de acordo.</p>
+</div>
+
+<h3>Extinção do processo</h3>
+
+<p>O processo pode ser extinto <strong>com resolução de mérito</strong> (art. 487) ou <strong>sem resolução de mérito</strong> (art. 485). A distinção é fundamental porque a extinção com resolução de mérito produz coisa julgada material (impede a rediscussão do mérito), enquanto a extinção sem resolução de mérito permite a repropositura da ação (art. 486).</p>
+
+<h4>Extinção sem resolução de mérito (art. 485)</h4>
+
+<p>O juiz não resolverá o mérito quando: (I) indeferir a petição inicial; (II) o processo ficar parado mais de 1 ano por negligência das partes; (III) o autor abandonar a causa por mais de 30 dias (§1º: intimação pessoal + requerimento do réu); (IV) ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo; (V) reconhecer a existência de perempção, litispendência ou coisa julgada; (VI) verificar ausência de legitimidade ou interesse processual; (VII) acolher a alegação de convenção de arbitragem ou quando o juízo arbitral reconhecer sua competência; (VIII) homologar a desistência da ação; (IX) quando faltar autor ou réu por morte e a ação for intransmissível; (X) nos demais casos prescritos no CPC.</p>
+
+<p><strong>§3º — Perempção:</strong> a parte que der causa, por 3 vezes, à extinção por abandono (inciso III) não poderá intentar nova ação contra o réu com o mesmo objeto, ficando-lhe ressalvada a possibilidade de alegar o que seria objeto de ação em defesa.</p>
+
+<h4>Extinção com resolução de mérito (art. 487)</h4>
+
+<p>Haverá resolução de mérito quando o juiz: (I) acolher ou rejeitar o pedido formulado na ação ou na reconvenção; (II) decidir, de ofício ou a requerimento, sobre a ocorrência de decadência ou prescrição; (III) homologar: (a) reconhecimento da procedência do pedido; (b) transação; (c) renúncia à pretensão formulada na ação ou na reconvenção.</p>
+
+<div class="destaque">
+<p><strong>Fazenda Pública e extinção:</strong> (i) a Fazenda Pública não pode ser extinta por abandono sem intimação pessoal do Procurador (art. 485, §1º), e a jurisprudência do STJ é restritiva quanto à extinção por abandono contra entes públicos; (ii) a prescrição e a decadência são matérias de mérito que o juiz pode reconhecer de ofício (art. 487, II), mesmo sem provocação do réu — relevante para ações contra a Fazenda em que a prescrição quinquenal (Decreto 20.910/1932) pode ser aplicada de ofício; (iii) a homologação de transação envolvendo a Fazenda exige autorização legal específica e, em regra, parecer do Procurador.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 312:</strong> formação do processo — registro/distribuição da inicial. Relação processual completa com a citação.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 240:</strong> efeitos da citação — litispendência, litigiosidade, mora, interrupção da prescrição (retroativa à propositura).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 313:</strong> hipóteses de suspensão — 7 incisos. §4º: prazo máximo de suspensão convencional (6 meses) e por questão prejudicial (1 ano).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 314:</strong> vedação de atos processuais durante a suspensão, exceto atos urgentes.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 485:</strong> extinção sem resolução de mérito — 10 incisos. §1º: abandono exige intimação pessoal + 5 dias. §3º: perempção na 3ª extinção por abandono.</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 486:</strong> repropositura da ação após extinção sem mérito — exige correção do vício (§1º).</p>
+
+<p><span class="tag tag-lei">CPC</span> <strong>Art. 487:</strong> extinção com resolução de mérito — acolhimento/rejeição do pedido, prescrição/decadência, homologação de autocomposição.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre abandono e Fazenda Pública:</strong> o STJ entende que a extinção por abandono (art. 485, III) exige o cumprimento rigoroso dos requisitos: intimação pessoal do autor para suprir a falta em 5 dias + requerimento do réu. A jurisprudência é restritiva quanto à aplicação contra a Fazenda Pública, exigindo a intimação pessoal do Procurador.</p>
+
+<p><span class="tag tag-stj">STJ</span> <strong>Jurisprudência sobre prescrição de ofício:</strong> o STJ admite o reconhecimento de ofício da prescrição (art. 487, II), inclusive em favor da Fazenda Pública, sem necessidade de provocação. Isso é especialmente relevante nas execuções fiscais, em que o juiz pode reconhecer a prescrição intercorrente de ofício (art. 40, §4º, LEF, com redação da Lei 11.051/2004).</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Formação do processo ≠ Citação:</strong> o processo se forma com o registro/distribuição da inicial (art. 312), mas a relação processual tríplice só se completa com a citação. A interrupção da prescrição, porém, retroage à data da propositura (art. 240, §1º) — não à data da citação.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Extinção sem mérito permite repropositura; com mérito, não:</strong> a distinção é elementar mas frequentemente cobrada. A extinção sem resolução de mérito (art. 485) não impede nova ação — desde que corrigido o vício (art. 486, §1º). A extinção com resolução de mérito (art. 487) produz coisa julgada material — a mesma pretensão não pode ser rediscutida.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Suspensão convencional — prazo máximo de 6 meses:</strong> as partes podem convencionar a suspensão, mas o prazo não pode exceder 6 meses (art. 313, §4º). Findo o prazo, o processo retoma o curso independentemente de requerimento.</p>
+</div>
+
+<h2>Quadros Esquemáticos</h2>
+
+<h3>Hipóteses de suspensão do processo</h3>
+
+<table>
+<tr>
+<th>Inciso</th>
+<th>Hipótese</th>
+<th>Duração</th>
+</tr>
+<tr><td>I</td><td>Morte/incapacidade da parte ou procurador</td><td>Até habilitação ou novo procurador (15 dias)</td></tr>
+<tr><td>II</td><td>Convenção das partes</td><td>Até 6 meses</td></tr>
+<tr><td>III</td><td>Impedimento/suspeição</td><td>Até julgamento do incidente</td></tr>
+<tr><td>IV</td><td>Admissão de IRDR</td><td>Até julgamento do IRDR</td></tr>
+<tr><td>V</td><td>Questão prejudicial</td><td>Até 1 ano</td></tr>
+<tr><td>VI</td><td>Força maior</td><td>Até cessar o impedimento</td></tr>
+<tr><td>VII</td><td>Recurso repetitivo</td><td>Até julgamento do repetitivo</td></tr>
+</table>
+
+<h3>Extinção — com e sem resolução de mérito</h3>
+
+<table>
+<tr>
+<th>Aspecto</th>
+<th>Sem resolução (art. 485)</th>
+<th>Com resolução (art. 487)</th>
+</tr>
+<tr><td>Coisa julgada material</td><td>Não</td><td>Sim</td></tr>
+<tr><td>Repropositura</td><td>Admitida (art. 486)</td><td>Vedada (mesma pretensão)</td></tr>
+<tr><td>Exemplos</td><td>Inépcia, abandono, falta de pressupostos, perempção, litispendência</td><td>Procedência/improcedência, prescrição, transação, renúncia</td></tr>
+<tr><td>Recurso cabível</td><td>Apelação</td><td>Apelação</td></tr>
+</table>
