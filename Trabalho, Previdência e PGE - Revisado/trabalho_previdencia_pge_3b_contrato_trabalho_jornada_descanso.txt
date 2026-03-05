@@ -153,7 +153,7 @@
 
 <h3>Temas clássicos já consolidados</h3>
 
-<p><strong>Súmula 331 do TST (terceirização e vínculo):</strong> embora a terceirização tenha sido tratada no Ponto 2b, há conexão direta com o contrato de trabalho: o reconhecimento de vínculo empregatício com a Administração Pública é vedado (item II), e a responsabilidade subsidiária do tomador depende da demonstração de culpa na fiscalização (item V, conforme ADC 16 e Tema 246 do STF).</p>
+<p><strong>Súmula 331 do TST (terceirização e vínculo):</strong> embora a terceirização tenha sido tratada no Ponto 3b, há conexão direta com o contrato de trabalho: o reconhecimento de vínculo empregatício com a Administração Pública é vedado (item II), e a responsabilidade subsidiária do tomador depende da demonstração de culpa na fiscalização (item V, conforme ADC 16 e Tema 246 do STF).</p>
 
 <p><strong>Súmula 212 do TST (ônus da prova na rescisão):</strong> o ônus de provar o término do contrato de trabalho, quando negados a prestação de serviço e o despedimento, é do empregador. Esse entendimento permanece vigente e é relevante nas demandas contra o Estado.</p>
 

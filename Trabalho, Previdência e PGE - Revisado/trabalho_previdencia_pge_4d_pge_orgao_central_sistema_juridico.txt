@@ -152,7 +152,7 @@ strong { font-weight: 700; }
 
 <p>Para consolidar, leia o julgamento do MS 24.631/STF, que é a referência sobre a tripartição dos pareceres (facultativo, obrigatório e vinculante) e a responsabilidade do advogado público. Esse precedente é recorrente em provas discursivas.</p>
 
-<p>Conecte o tema com outros pontos do edital: a atuação da PGE na cobrança de dívida ativa (Ponto 3c), o papel da Corregedoria (Ponto 6c), a representação judicial (Ponto 1c) e os órgãos da PGE e atribuições do Procurador-Geral (Ponto 10c). A visão sistêmica é valiosa na prova discursiva.</p>
+<p>Conecte o tema com outros pontos do edital: a atuação da PGE na cobrança de dívida ativa (Ponto 4d), o papel da Corregedoria (Ponto 6c), a representação judicial (Ponto 1c) e os órgãos da PGE e atribuições do Procurador-Geral (Ponto 10c). A visão sistêmica é valiosa na prova discursiva.</p>
 
 <h2>Atenção Redobrada</h2>
 

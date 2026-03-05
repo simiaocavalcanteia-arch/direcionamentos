@@ -112,7 +112,7 @@
 <tr><td>ADI 2.729/RN (STF, 2013)</td><td>Declarou <strong>inconstitucionais</strong> dispositivos de LC do RN que conferiam vitaliciedade e inamovibilidade a Procuradores do Estado, por reproduzirem garantias exclusivas do MP sem previsão constitucional para a advocacia pública</td></tr>
 <tr><td>RE 558.258 (STF, 2010)</td><td>Discutiu o teto remuneratório aplicável a procuradores autárquicos, reafirmando que a fixação de teto por decreto estadual deve observar os parâmetros constitucionais</td></tr>
 <tr><td>Tema 1.002 (STF, 2023)</td><td>Decidiu que são devidos honorários de sucumbência à Defensoria Pública quando litiga contra o ente público ao qual é vinculada, superando a Súmula 421/STJ</td></tr>
-<tr><td>ADIs 5.215/GO, 5.262/RR e 4.449/AL (STF, 2018)</td><td>O STF reafirmou a <strong>unicidade da representação judicial</strong> nos Estados: a representação judicial e a consultoria jurídica da administração direta, autarquias e fundações estaduais compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de procuradorias paralelas</td></tr>
+<tr><td>ADI 145/CE (STF, 2018)</td><td>O STF reafirmou a <strong>unicidade da representação judicial</strong> nos Estados: a representação judicial e a consultoria jurídica da administração direta, autarquias e fundações estaduais compete exclusivamente aos Procuradores do Estado (art. 132, CF), vedada a criação de procuradorias paralelas</td></tr>
 </table>
 
 <h2>Estratégia de Estudo</h2>

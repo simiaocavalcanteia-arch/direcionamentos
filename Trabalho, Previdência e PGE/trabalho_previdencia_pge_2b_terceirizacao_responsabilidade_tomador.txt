@@ -11,7 +11,7 @@
 
 <p>O tema passou por profunda transformação jurisprudencial: a Súmula 331 do TST, que proibia a terceirização de atividade-fim, foi superada pelo STF no julgamento da ADPF 324 e do RE 958.252 (Tema 725), que consagraram a licitude da terceirização em qualquer atividade. Paralelamente, a ADC 16 (Tema 246) definiu que a responsabilidade da Administração Pública por débitos trabalhistas de terceirizados depende de comprovação de <strong>culpa na fiscalização</strong> — não é automática. Esse conjunto normativo e jurisprudencial é constantemente cobrado em provas de procuradorias.</p>
 
-<p>Este ponto conecta-se com os princípios do Direito do Trabalho (Ponto 1a), com os regimes funcionais (Ponto 2a), com a competência da Justiça do Trabalho (Ponto 1a) e com as prerrogativas da Fazenda Pública (Ponto 7a).</p>
+<p>Este ponto conecta-se com os princípios do Direito do Trabalho (Ponto 2b), com os regimes funcionais (Ponto 2a), com a competência da Justiça do Trabalho (Ponto 2b) e com as prerrogativas da Fazenda Pública (Ponto 7a).</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

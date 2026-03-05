@@ -11,7 +11,7 @@
 
 <p>A EC 41/2003 reformulou integralmente o regime do teto remuneratório, submetendo ao limite todas as vantagens pessoais, inclusive as anteriores à emenda. A EC 47/2005 (§11 do art. 37) excluiu do teto apenas as parcelas de caráter indenizatório previstas em lei. A EC 135/2024 endureceu essa regra: agora, apenas verbas indenizatórias previstas em <strong>lei de caráter nacional</strong> (aprovada pelo Congresso Nacional) estão fora do teto — eliminando a possibilidade de cada ente federativo criar suas próprias exclusões por lei local.</p>
 
-<p>Este ponto conecta-se com os regimes funcionais (Ponto 2a), com a estabilidade e os cargos públicos (Ponto 4a), com a remuneração e o salário no regime celetista (Ponto 5a) e com a previdência do servidor (Ponto 5b).</p>
+<p>Este ponto conecta-se com os regimes funcionais (Ponto 3a), com a estabilidade e os cargos públicos (Ponto 4a), com a remuneração e o salário no regime celetista (Ponto 5a) e com a previdência do servidor (Ponto 5b).</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

@@ -11,7 +11,7 @@
 
 <p>A Reforma Trabalhista (Lei 13.467/2017) alterou profundamente a CLT, especialmente nos temas de negociação coletiva, hierarquia de fontes e acesso à justiça gratuita. O STF vem examinando a constitucionalidade de diversos dispositivos da reforma, gerando jurisprudência relevante e recente. Para o Procurador do Estado, é fundamental compreender como essas mudanças repercutem na gestão de pessoal celetista do Estado e nas ações trabalhistas em que a Fazenda Pública é parte.</p>
 
-<p>Este ponto conecta-se com os regimes jurídicos funcionais (Ponto 2a), com a terceirização e responsabilidade do tomador (Ponto 2b), com a competência da Justiça do Trabalho para ações envolvendo o Estado (Ponto 7a) e com o direito de greve do servidor público (Ponto 6a).</p>
+<p>Este ponto conecta-se com os regimes jurídicos funcionais (Ponto 1a), com a terceirização e responsabilidade do tomador (Ponto 2b), com a competência da Justiça do Trabalho para ações envolvendo o Estado (Ponto 7a) e com o direito de greve do servidor público (Ponto 6a).</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
