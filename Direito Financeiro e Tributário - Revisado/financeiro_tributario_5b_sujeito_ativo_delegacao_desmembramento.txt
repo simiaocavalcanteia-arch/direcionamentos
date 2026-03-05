@@ -10,7 +10,7 @@
 
 <p>Este ponto aprofunda uma das distinções mais importantes do Direito Tributário brasileiro: a separação entre competência tributária e capacidade tributária ativa. Enquanto a competência é poder constitucional de criar tributos — indelegável, irrenunciável e imprescritível —, a capacidade ativa é função administrativa de arrecadar e fiscalizar, passível de delegação. Compreender essa separação é essencial para o Procurador do Estado, que frequentemente precisa justificar a legitimidade do ente público na cobrança de tributos ou defender a regularidade de delegações de arrecadação.</p>
 
-<p>O tema se conecta com a sujeição ativa e passiva (Ponto 5a), com o sistema tributário nacional (Ponto 2b) e com questões práticas de competência federativa. A dimensão do desmembramento territorial, embora menos frequente em provas, é matéria que pode ser cobrada em questão discursiva sobre a organização federativa do Estado do Rio de Janeiro — especialmente considerando a história de emancipação de distritos fluminenses.</p>
+<p>O tema se conecta com a sujeição ativa e passiva (Ponto 5b), com o sistema tributário nacional (Ponto 2b) e com questões práticas de competência federativa. A dimensão do desmembramento territorial, embora menos frequente em provas, é matéria que pode ser cobrada em questão discursiva sobre a organização federativa do Estado do Rio de Janeiro — especialmente considerando a história de emancipação de distritos fluminenses.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -96,7 +96,7 @@
 
 <p>O art. 120 do CTN (desmembramento) merece uma leitura integrada com o art. 18, §4º, da CF/88 e com a EC 57/2008. Entenda o problema prático que a norma resolve (continuidade da arrecadação após emancipação de distritos) e os limites constitucionais para a criação de municípios.</p>
 
-<p>Por fim, conecte este tema com o Ponto 5a (sujeição ativa e passiva) e com o sistema constitucional de repartição de competências tributárias (Ponto 2b). A prova pode exigir que o candidato articule esses conceitos em uma resposta integrada.</p>
+<p>Por fim, conecte este tema com o Ponto 5b (sujeição ativa e passiva) e com o sistema constitucional de repartição de competências tributárias (Ponto 2b). A prova pode exigir que o candidato articule esses conceitos em uma resposta integrada.</p>
 
 <!-- ========== SEÇÃO 5 ========== -->
 <h2>Atenção Redobrada</h2>

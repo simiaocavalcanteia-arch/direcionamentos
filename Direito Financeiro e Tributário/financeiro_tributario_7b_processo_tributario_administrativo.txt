@@ -10,7 +10,7 @@
 
 <p>O processo administrativo tributário (PAT) é a via pela qual o contribuinte impugna, em sede administrativa, a exigência fiscal formalizada no auto de infração ou na notificação de lançamento. Para o Procurador do Estado, dominar esse tema é vital por dois motivos: primeiro, porque o contencioso administrativo estadual precede (e muitas vezes define) o desfecho do contencioso judicial; segundo, porque a PGE/RJ atua em estreita interface com a Secretaria de Fazenda nas questões que envolvem o Conselho de Contribuintes do Estado.</p>
 
-<p>O tema se conecta diretamente com o lançamento (Ponto 6a), a suspensão e extinção do crédito tributário (Ponto 6b) e o processo judicial tributário (Ponto 7a). A impugnação administrativa suspende a exigibilidade do crédito (art. 151, III, do CTN), e a decisão administrativa irrecorrível pode extingui-lo (art. 156, IX). Por isso, compreender a estrutura do PAT é compreender o momento em que o crédito tributário pode ser definitivamente constituído ou desconstituído sem necessidade de provocação judicial.</p>
+<p>O tema se conecta diretamente com o lançamento (Ponto 7b), a suspensão e extinção do crédito tributário (Ponto 6b) e o processo judicial tributário (Ponto 7a). A impugnação administrativa suspende a exigibilidade do crédito (art. 151, III, do CTN), e a decisão administrativa irrecorrível pode extingui-lo (art. 156, IX). Por isso, compreender a estrutura do PAT é compreender o momento em que o crédito tributário pode ser definitivamente constituído ou desconstituído sem necessidade de provocação judicial.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -145,9 +145,9 @@
 
 <p>"O direito ao contraditório e à ampla defesa somente se instaura com a apresentação de impugnação ao lançamento." Reforça que a fase litigiosa propriamente dita (com todos os direitos processuais que dela decorrem) somente se instala com a formalização da impugnação tempestiva.</p>
 
-<h3>Tema 668/STF (RE 796.939) — arrolamento de bens e direitos</h3>
+<h3>Tema 736/STF (RE 796.939) — constitucionalidade da multa isolada por compensação não homologada</h3>
 
-<p>O STF declarou a constitucionalidade do arrolamento de bens e direitos previsto no art. 64 da Lei 9.532/1997 (quando o crédito tributário exceder 30% do patrimônio do contribuinte). Tese fixada: "é constitucional o arrolamento de bens e direitos do sujeito passivo da obrigação tributária previsto no art. 64 da Lei 9.532/1997." O arrolamento não é requisito para recurso (isso seria inconstitucional pela SV 21), mas sim medida acautelatória do crédito tributário que não impede a livre disposição dos bens pelo contribuinte, apenas obriga a comunicação da alienação à Receita Federal.</p>
+<p>O STF reconheceu a repercussão geral da questão relativa à constitucionalidade da multa isolada de 50% aplicada nos casos de indeferimento de pedido de ressarcimento ou de não homologação de declaração de compensação perante a Receita Federal (art. 74, §§ 15 e 17, da Lei 9.430/1996). O julgamento do mérito está pendente. Nota: o arrolamento de bens previsto no art. 64 da Lei 9.532/1997 é medida acautelatória cuja constitucionalidade foi reafirmada pelo STF em diversas decisões monocráticas e colegiadas, porém sem fixação de tese em repercussão geral específica sobre o tema.</p>
 
 <!-- ========== SEÇÃO 7 ========== -->
 <h2>Quadros Esquemáticos</h2>

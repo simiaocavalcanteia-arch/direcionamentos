@@ -10,7 +10,7 @@
 
 <p>O lançamento tributário é o ato que formaliza a exigência do tributo pelo Estado. Sem ele, o crédito tributário não se constitui definitivamente e não pode ser inscrito em dívida ativa nem cobrado em execução fiscal. Para o Procurador do Estado, compreender as modalidades de lançamento é condição para avaliar a regularidade da CDA, calcular prazos de decadência e prescrição e fundamentar a defesa do crédito tributário em juízo.</p>
 
-<p>O tema conecta-se diretamente com a decadência e prescrição (Ponto 6b), com a suspensão e extinção do crédito tributário (também 6b) e com as garantias do crédito (Ponto 6d). A modalidade de lançamento determina o dies a quo do prazo decadencial — razão pela qual a correta identificação da modalidade tem consequência processual direta.</p>
+<p>O tema conecta-se diretamente com a decadência e prescrição (Ponto 6a), com a suspensão e extinção do crédito tributário (também 6b) e com as garantias do crédito (Ponto 6d). A modalidade de lançamento determina o dies a quo do prazo decadencial — razão pela qual a correta identificação da modalidade tem consequência processual direta.</p>
 
 <p>No contexto do Estado do Rio de Janeiro, o ICMS (principal tributo estadual) é sujeito a lançamento por homologação, o IPVA é lançado de ofício, e o ITCMD é lançado por declaração. Cada modalidade impõe dinâmicas distintas de fiscalização, constituição e cobrança que o Procurador deve dominar.</p>
 
@@ -101,7 +101,7 @@
 
 <p>Domine a Súmula 436/STJ, pois ela tem implicações enormes para a PGE/RJ: a declaração do contribuinte (GIA-ICMS, por exemplo) já constitui o crédito e permite a inscrição direta em dívida ativa. Essa compreensão é essencial para a prova discursiva.</p>
 
-<p>Por fim, conecte as modalidades de lançamento com os prazos decadenciais (Ponto 6b): tributos de ofício seguem o art. 173, I; tributos por homologação com pagamento seguem o art. 150, §4º; e tributos por homologação sem declaração seguem o art. 173, I (Súmula 555/STJ).</p>
+<p>Por fim, conecte as modalidades de lançamento com os prazos decadenciais (Ponto 6a): tributos de ofício seguem o art. 173, I; tributos por homologação com pagamento seguem o art. 150, §4º; e tributos por homologação sem declaração seguem o art. 173, I (Súmula 555/STJ).</p>
 
 <!-- ========== SEÇÃO 5 ========== -->
 <h2>Atenção Redobrada</h2>

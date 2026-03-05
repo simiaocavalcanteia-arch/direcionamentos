@@ -12,7 +12,7 @@
 
 <p>Para o Procurador do Estado, esse ponto é relevante por várias razões: a União é parte em litígios que envolvem esses impostos e o Estado pode atuar em defesa de seus interesses quando a tributação federal repercute sobre receitas estaduais (como no caso do IR retido na fonte, parcialmente pertencente aos Estados — art. 157, I, CF). Além disso, os princípios constitucionais que regem os impostos federais (legalidade, anterioridade, seletividade, não cumulatividade, capacidade contributiva) são os mesmos aplicáveis aos tributos estaduais, e a compreensão sólida dessas regras permite ao candidato articular respostas comparativas em prova discursiva.</p>
 
-<p>O tema conecta-se com as limitações ao poder de tributar (Ponto 2), com a repartição de receitas tributárias (Ponto 3), com o princípio da não cumulatividade (Ponto 8c — ICMS), e com a reforma tributária (EC 132/2023), que remodela a tributação sobre o consumo ao substituir IPI, PIS, COFINS, ICMS e ISS pelo IBS, CBS e Imposto Seletivo.</p>
+<p>O tema conecta-se com as limitações ao poder de tributar (Ponto 2), com a repartição de receitas tributárias (Ponto 3), com o princípio da não cumulatividade (Ponto 10a — ICMS), e com a reforma tributária (EC 132/2023), que remodela a tributação sobre o consumo ao substituir IPI, PIS, COFINS, ICMS e ISS pelo IBS, CBS e Imposto Seletivo.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

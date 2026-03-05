@@ -53,7 +53,7 @@
 
 <h3>Substituição tributária (art. 128 c/c art. 150, §7º, da CF)</h3>
 
-<p>A substituição tributária já foi tratada no Ponto 5c, mas aqui cabe o aprofundamento na perspectiva da responsabilidade. O substituto tributário é responsável por tributo cujo fato gerador foi praticado (ou será praticado, na ST progressiva) pelo substituído. A CF/88 autoriza expressamente a substituição "para frente" (art. 150, §7º, EC 3/93), assegurando ao substituído o direito de restituição quando o fato gerador presumido não se realize.</p>
+<p>A substituição tributária já foi tratada no Ponto 5d, mas aqui cabe o aprofundamento na perspectiva da responsabilidade. O substituto tributário é responsável por tributo cujo fato gerador foi praticado (ou será praticado, na ST progressiva) pelo substituído. A CF/88 autoriza expressamente a substituição "para frente" (art. 150, §7º, EC 3/93), assegurando ao substituído o direito de restituição quando o fato gerador presumido não se realize.</p>
 
 <!-- ========== SEÇÃO 3 ========== -->
 <h2>Legislação e Jurisprudência Essencial</h2>

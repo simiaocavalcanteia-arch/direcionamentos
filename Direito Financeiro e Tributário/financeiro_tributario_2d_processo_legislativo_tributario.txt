@@ -1,0 +1,91 @@
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 2d — Processo Legislativo Tributário: Emenda Constitucional, Lei Complementar, Lei Ordinária, Medida Provisória, Decreto Legislativo, Resoluções do Senado, Tratados e Convenções Internacionais. Convênios Interestaduais do ICMS</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O Direito Tributário está sujeito a um processo legislativo específico, com reservas de matéria e hierarquia normativa próprias. Para o Procurador do Estado, compreender quais instrumentos normativos podem criar tributos, conceder benefícios fiscais e regular o ICMS é essencial — especialmente os convênios CONFAZ e as resoluções do Senado, que impactam diretamente a arrecadação estadual.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Emenda Constitucional em matéria tributária</h3>
+
+<p>A EC pode criar novos tributos (como a EC 132/2023, que instituiu o IBS e a CBS na reforma tributária), alterar competências tributárias, ampliar ou restringir imunidades. A EC está sujeita aos limites do art. 60, §4º, CF (cláusulas pétreas). Em matéria tributária, a doutrina e o STF entendem que as limitações constitucionais ao poder de tributar são cláusulas pétreas (direitos e garantias individuais — art. 60, §4º, IV), de modo que EC não pode suprimir imunidades nem abolir princípios tributários fundamentais (legalidade, anterioridade, irretroatividade).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 939/DF (Plenário, 15/12/1993):</strong> declarou inconstitucional a EC 3/1993 na parte que criava o IPMF com exceção à anterioridade nonagesimal, por violar cláusula pétrea.</p>
+
+<h3>Lei Complementar tributária (art. 146, CF)</h3>
+
+<p>A CF reserva à lei complementar (quórum de maioria absoluta): (I) dispor sobre conflitos de competência em matéria tributária; (II) regular as limitações constitucionais ao poder de tributar; (III) estabelecer normas gerais em matéria de legislação tributária — definição de tributos e suas espécies, fato gerador, base de cálculo e contribuintes, obrigação/lançamento/crédito/prescrição/decadência, adequado tratamento tributário ao ato cooperativo.</p>
+
+<p>O CTN (Lei 5.172/1966) foi recepcionado como lei complementar. As leis complementares tributárias mais relevantes incluem: LC 87/1996 (Lei Kandir — ICMS), LC 116/2003 (ISS), LC 24/1975 (convênios ICMS), LC 101/2000 (LRF).</p>
+
+<h3>Lei Ordinária</h3>
+
+<p>A regra geral é que tributos são instituídos por lei ordinária (art. 150, I, CF). A lei complementar é exceção, reservada para os casos expressos na CF. Os tributos que exigem LC para instituição são: empréstimo compulsório (art. 148), IGF (art. 153, VII), impostos residuais (art. 154, I) e contribuições residuais (art. 195, §4º).</p>
+
+<h3>Medida Provisória em matéria tributária</h3>
+
+<p>O art. 62 da CF permite MP em matéria tributária, com as seguintes restrições: (I) não pode tratar de matéria reservada a LC (art. 62, §1º, III); (II) deve observar o princípio da anterioridade — a MP que institui ou aumenta impostos só produz efeitos no exercício financeiro seguinte se convertida em lei até o último dia do exercício em que foi editada (art. 62, §2º); (III) exceção: II, IE, IPI, IOF e impostos extraordinários de guerra podem ser instituídos/majorados por MP com efeitos imediatos.</p>
+
+<h3>Decreto Legislativo</h3>
+
+<p>Instrumento do Congresso Nacional para: (i) aprovar tratados internacionais em matéria tributária (art. 49, I, CF); (ii) sustar atos normativos do Executivo que exorbitem do poder regulamentar (art. 49, V). Em matéria tributária de ICMS, o decreto legislativo estadual pode ser utilizado para internalizar convênios CONFAZ.</p>
+
+<h3>Resoluções do Senado Federal</h3>
+
+<p>O Senado Federal tem competências exclusivas em matéria de ICMS e ITCMD:</p>
+
+<p><strong>ICMS — alíquotas interestaduais (art. 155, §2º, IV):</strong> o Senado fixa, por resolução, as alíquotas aplicáveis às operações interestaduais (atualmente: 12% regra geral; 7% para operações de Sul/Sudeste destinadas a Norte/Nordeste/Centro-Oeste/ES; 4% para produtos importados — Resolução SF 13/2012).</p>
+
+<p><strong>ICMS — alíquotas mínimas e máximas internas (art. 155, §2º, V):</strong> o Senado pode, por resolução de iniciativa de 1/3, fixar alíquotas mínimas, e por resolução de iniciativa da maioria absoluta, fixar alíquotas máximas.</p>
+
+<p><strong>ITCMD — alíquota máxima (art. 155, §1º, IV):</strong> o Senado fixa a alíquota máxima do ITCMD. Atualmente: 8% (Resolução SF 9/1992).</p>
+
+<h3>Tratados e Convenções Internacionais (art. 98, CTN)</h3>
+
+<p>O art. 98 do CTN dispõe que os tratados e convenções internacionais revogam ou modificam a legislação tributária interna, e serão observados pela que lhes sobrevenha. A jurisprudência do STF e do STJ entende que o tratado não revoga a lei interna — prevalece sobre ela por especialidade (critério lex specialis). Os tratados de bitributação (ex.: Brasil-Portugal, Brasil-Espanha) são relevantes para evitar a dupla tributação sobre a renda.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 229.096 (Plenário, j. 16/08/2007):</strong> confirmou que tratados internacionais podem conceder isenção de tributos estaduais/municipais (isenção heterônoma por tratado), sem violar o art. 151, III, CF, pois o Presidente age como chefe de Estado (não da União enquanto ente federativo).</p>
+
+<h3>Convênios interestaduais do ICMS (art. 155, §2º, XII, "g", CF; LC 24/1975)</h3>
+
+<p>Os convênios celebrados no âmbito do CONFAZ (Conselho Nacional de Política Fazendária) são indispensáveis para a concessão de benefícios fiscais relativos ao ICMS: isenções, reduções de base de cálculo, créditos presumidos e quaisquer outros incentivos ou favores fiscais. A exigência de convênio decorre do art. 155, §2º, XII, "g", CF, regulamentado pela LC 24/1975.</p>
+
+<p><strong>Unanimidade:</strong> a LC 24/1975 exige aprovação unânime dos Estados representados no CONFAZ para concessão de benefícios fiscais. Benefícios concedidos sem convênio são inconstitucionais — é a base jurídica da guerra fiscal.</p>
+
+<p><strong>Guerra fiscal:</strong> Estados que concedem benefícios unilateralmente (sem convênio) praticam guerra fiscal. O STF tem declarado inconstitucionais inúmeras leis estaduais que concederam benefícios sem convênio CONFAZ (ADIs contra incentivos de ICMS). A LC 160/2017 e o Convênio ICMS 190/2017 criaram regime de convalidação de benefícios fiscais concedidos irregularmente.</p>
+
+<div class="destaque">
+<p><strong>Para a PGE/RJ:</strong> o Estado do Rio de Janeiro foi tanto vítima quanto protagonista da guerra fiscal. O Procurador precisa dominar: (i) a exigência de convênio para benefícios de ICMS; (ii) os mecanismos de glosa de créditos de operações interestaduais com benefícios irregulares; (iii) o regime de convalidação da LC 160/2017.</p>
+</div>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 62, §§1º-2º:</strong> MP em matéria tributária — vedações e anterioridade.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 146:</strong> matérias reservadas a LC tributária.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 155, §2º, IV-V e XII, "g":</strong> resoluções do Senado e convênios ICMS.</p>
+<p><span class="tag tag-lei">CTN</span> <strong>Art. 98:</strong> tratados internacionais e legislação tributária interna.</p>
+<p><span class="tag tag-lei">LC 24/1975:</span> convênios para concessão de benefícios de ICMS — unanimidade.</p>
+<p><span class="tag tag-lei">LC 160/2017:</span> convalidação de benefícios fiscais concedidos sem convênio.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 939/DF (1993):</strong> IPMF — EC tributária e cláusulas pétreas.</p>
+<p><span class="tag tag-stf">STF</span> <strong>RE 229.096 (2007):</strong> isenção heterônoma por tratado internacional — constitucional.</p>
+<p><span class="tag tag-stf">STF</span> <strong>ADPFs 850, 851, 854 e 1.014 (Plenário, 19/12/2022):</strong> constitucionalidade da LC 160/2017 e do Convênio ICMS 190/2017 — convalidação de benefícios fiscais.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>MP pode instituir imposto, mas não tributo reservado a LC:</strong> a MP não pode criar empréstimo compulsório, IGF, impostos residuais nem contribuições residuais. Pode criar ou majorar os demais impostos, respeitada a anterioridade.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Convênio CONFAZ exige unanimidade, não maioria:</strong> diferentemente da maioria dos órgãos colegiados, o CONFAZ decide por unanimidade para concessão de benefícios de ICMS. Um único Estado pode vetar.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Resoluções do Senado — alíquotas interestaduais, não internas:</strong> o Senado fixa alíquotas interestaduais obrigatoriamente. As alíquotas internas são fixadas por lei estadual, com piso mínimo equivalente à alíquota interestadual (salvo deliberação em contrário dos Estados). O Senado pode fixar alíquotas internas mínimas/máximas, mas de forma facultativa.</p>
+</div>
+
+</div>

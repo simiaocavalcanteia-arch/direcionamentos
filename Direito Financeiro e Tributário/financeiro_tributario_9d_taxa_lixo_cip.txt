@@ -115,9 +115,9 @@
 
 <p>Julgado em 25/03/2009. Tese: "lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e individualizar todos os beneficiários do serviço de iluminação pública. A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva." O STF confirmou a constitucionalidade da contribuição, afastando a possibilidade de taxa para o mesmo serviço.</p>
 
-<h3>Súmula 670/STF</h3>
+<h3>Súmula Vinculante 41/STF (antiga Súmula 670)</h3>
 
-<p>"O serviço de iluminação pública não pode ser remunerado mediante taxa." Antecedente lógico da COSIP: a impossibilidade de taxa (por ser serviço indivisível) gerou a necessidade da EC 39/2002 e do art. 149-A. A Súmula 670 permanece vigente e complementa a disciplina da COSIP.</p>
+<p>"O serviço de iluminação pública não pode ser remunerado mediante taxa." A antiga Súmula 670 foi convertida na Súmula Vinculante 41 (DJe de 20/3/2015). Antecedente lógico da COSIP: a impossibilidade de taxa (por ser serviço indivisível) gerou a necessidade da EC 39/2002 e do art. 149-A. A referência correta a ser citada é a SV 41, não mais a Súmula 670.</p>
 
 <!-- ========== SEÇÃO 7 ========== -->
 <h2>Quadros Esquemáticos</h2>

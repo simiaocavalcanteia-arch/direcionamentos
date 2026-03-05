@@ -10,7 +10,7 @@
 
 <p>A identificação dos sujeitos da relação jurídico-tributária é uma das questões mais recorrentes em provas discursivas de procuradoria. O examinador espera que o candidato saiba distinguir com precisão competência tributária de capacidade tributária ativa, contribuinte de responsável, e que domine as implicações práticas dessas categorias — sobretudo para a atuação do Procurador do Estado em execuções fiscais e defesas judiciais.</p>
 
-<p>O tema conecta-se diretamente com vários outros pontos do edital: responsabilidade tributária (Ponto 5d), lançamento (Ponto 6a), execução fiscal e garantias do crédito (Ponto 6d). Compreender bem a sujeição ativa e passiva é condição para transitar com segurança por todos esses desdobramentos.</p>
+<p>O tema conecta-se diretamente com vários outros pontos do edital: responsabilidade tributária (Ponto 5a), lançamento (Ponto 6a), execução fiscal e garantias do crédito (Ponto 6d). Compreender bem a sujeição ativa e passiva é condição para transitar com segurança por todos esses desdobramentos.</p>
 
 <p>No contexto fluminense, a matéria ganha relevância prática nas discussões sobre legitimidade passiva em execuções de ICMS e IPVA — tributos estaduais cuja arrecadação depende, muitas vezes, de correta identificação do sujeito passivo, especialmente em situações de substituição tributária e alienação fiduciária.</p>
 
@@ -104,7 +104,7 @@
 
 <p>Após a leitura do CTN, dedique-se à distinção entre competência tributária e capacidade tributária ativa. Essa diferença aparece em praticamente todas as provas de tributário para procuradorias e exige precisão conceitual — confundir os dois institutos é erro grave.</p>
 
-<p>Em seguida, estude a solidariedade (arts. 124-125) em conjunto com a responsabilidade tributária (Ponto 5d), pois os temas são interligados. A solidariedade de fato (interesse comum) gera muita discussão prática: o STJ tem entendido, por exemplo, que sócios de sociedade limitada não são solidários pelo simples fato de serem sócios — é necessário demonstrar atuação com excesso de poderes ou infração à lei (art. 135 do CTN).</p>
+<p>Em seguida, estude a solidariedade (arts. 124-125) em conjunto com a responsabilidade tributária (Ponto 5a), pois os temas são interligados. A solidariedade de fato (interesse comum) gera muita discussão prática: o STJ tem entendido, por exemplo, que sócios de sociedade limitada não são solidários pelo simples fato de serem sócios — é necessário demonstrar atuação com excesso de poderes ou infração à lei (art. 135 do CTN).</p>
 
 <p>Por fim, estude as aplicações práticas do art. 126 (<em>pecunia non olet</em>) e do art. 127 (domicílio tributário), que complementam a compreensão sobre quem pode figurar no polo passivo e onde o fisco pode cobrá-lo.</p>
 

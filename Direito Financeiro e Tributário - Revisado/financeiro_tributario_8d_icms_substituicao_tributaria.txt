@@ -10,7 +10,7 @@
 
 <p>A substituição tributária (ST) é uma das técnicas de arrecadação mais utilizadas pelos estados para o ICMS. Ao concentrar a cobrança do tributo em um único elo da cadeia produtiva (normalmente a indústria ou o importador), o Fisco simplifica a fiscalização e antecipa a receita, dispensando a necessidade de acompanhar milhares de estabelecimentos varejistas. Para a PGE/RJ, o contencioso envolvendo ST é volumoso: disputas sobre a base de cálculo presumida (MVA), pedidos de restituição quando o preço efetivo é inferior ao presumido e a definição do próprio regime são matérias recorrentes nos processos.</p>
 
-<p>O tema conecta-se diretamente com fato gerador (Ponto 8a), base de cálculo (Ponto 8b) e não cumulatividade (Ponto 8c). A decisão do STF no Tema 201 alterou radicalmente o modelo de substituição tributária para frente e tem implicações financeiras significativas para todos os estados.</p>
+<p>O tema conecta-se diretamente com fato gerador (Ponto 8d), base de cálculo (Ponto 8b) e não cumulatividade (Ponto 8c). A decisão do STF no Tema 201 alterou radicalmente o modelo de substituição tributária para frente e tem implicações financeiras significativas para todos os estados.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

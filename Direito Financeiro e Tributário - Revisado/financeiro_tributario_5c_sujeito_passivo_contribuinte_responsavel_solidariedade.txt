@@ -10,7 +10,7 @@
 
 <p>A correta identificação do sujeito passivo da obrigação tributária tem consequências processuais imediatas para o Procurador do Estado: legitimidade passiva em execuções fiscais, possibilidade de redirecionamento, limites da solidariedade e condições para repetição de indébito. Errar na qualificação do devedor tributário pode significar a nulidade da CDA e a extinção da execução — razão pela qual a banca da PGE/RJ costuma explorar o tema com frequência.</p>
 
-<p>Este ponto aprofunda as categorias de sujeito passivo (contribuinte e responsável), a construção doutrinária do "contribuinte de fato" e do "contribuinte de direito" nos tributos indiretos, e o regime da solidariedade tributária dos arts. 124 e 125 do CTN. Conecta-se diretamente com a responsabilidade tributária (Ponto 5d), com o lançamento (Ponto 6a) e com as garantias do crédito tributário (Ponto 6d).</p>
+<p>Este ponto aprofunda as categorias de sujeito passivo (contribuinte e responsável), a construção doutrinária do "contribuinte de fato" e do "contribuinte de direito" nos tributos indiretos, e o regime da solidariedade tributária dos arts. 124 e 125 do CTN. Conecta-se diretamente com a responsabilidade tributária (Ponto 5c), com o lançamento (Ponto 6a) e com as garantias do crédito tributário (Ponto 6d).</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -99,7 +99,7 @@
 
 <p>Para a prova discursiva, domine a distinção entre contribuinte e responsável com pelo menos dois exemplos concretos para cada espécie. Decore os três efeitos da solidariedade do art. 125 (pagamento, isenção/remissão e prescrição) e a ausência de benefício de ordem do art. 124, parágrafo único — são altamente memorizáveis e sempre cobrados. E saiba explicar o regime do art. 166 para tributos indiretos, pois a matéria envolve uma tríade muito apreciada por examinadores: contribuinte de direito, contribuinte de fato e condições para repetição.</p>
 
-<p>Conecte a solidariedade tributária com a responsabilidade de terceiros (art. 134-135) que será estudada no Ponto 5d. A diferença entre solidariedade (sem benefício de ordem) e subsidiariedade (com benefício de ordem, como no art. 134) é uma armadilha clássica de prova.</p>
+<p>Conecte a solidariedade tributária com a responsabilidade de terceiros (art. 134-135) que será estudada no Ponto 5c. A diferença entre solidariedade (sem benefício de ordem) e subsidiariedade (com benefício de ordem, como no art. 134) é uma armadilha clássica de prova.</p>
 
 <!-- ========== SEÇÃO 5 ========== -->
 <h2>Atenção Redobrada</h2>

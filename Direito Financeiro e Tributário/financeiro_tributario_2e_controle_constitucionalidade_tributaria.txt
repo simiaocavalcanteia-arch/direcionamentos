@@ -1,0 +1,80 @@
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 2e — Controle da Constitucionalidade da Lei Tributária. O Controle Incidental. A Ação Direta de Inconstitucionalidade. A Declaração de Constitucionalidade. A Eficácia do Controle de Constitucionalidade no Tempo</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O controle de constitucionalidade em matéria tributária é tema central para a PGE/RJ. O Estado atua em duas frentes: (i) defendendo a constitucionalidade de leis tributárias estaduais impugnadas (ADIs, ADPFs, representações de inconstitucionalidade no TJRJ); (ii) questionando leis federais ou municipais que afetem a arrecadação estadual. A modulação temporal dos efeitos é especialmente impactante em matéria tributária — pode determinar se o Estado deverá restituir bilhões em tributos declarados inconstitucionais.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Controle incidental (difuso) em matéria tributária</h3>
+
+<p>Qualquer juiz ou tribunal pode reconhecer a inconstitucionalidade de lei tributária em caso concreto — efeito inter partes. Em matéria tributária, o controle difuso é o mais frequente: o contribuinte ajuíza ação declaratória, anulatória ou mandado de segurança e alega a inconstitucionalidade do tributo como fundamento.</p>
+
+<p><strong>Reserva de plenário (art. 97, CF; SV 10):</strong> os tribunais só podem declarar a inconstitucionalidade pelo voto da maioria absoluta de seus membros ou do órgão especial (art. 97, CF). Exceção: desnecessidade quando já houver pronunciamento do STF (art. 949, p.u., CPC).</p>
+
+<p><strong>Resolução do Senado (art. 52, X, CF):</strong> o Senado pode suspender a execução de lei declarada inconstitucional pelo STF em controle difuso, conferindo efeitos erga omnes. Há debate sobre se o STF teria, por si, efeitos gerais no controle difuso — tese da "mutação constitucional" discutida nas ADIs 3.406 e 3.470 (amianto, 2017), mas não pacificada.</p>
+
+<h3>ADI em matéria tributária</h3>
+
+<p>A ADI é o instrumento mais utilizado no controle concentrado tributário. Exemplos recentes de ADIs em matéria tributária relevantes para a PGE/RJ:</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 939/DF:</strong> inconstitucionalidade do IPMF (EC 3/1993) — EC não pode excepcionar anterioridade (cláusula pétrea).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 2.238/DF (Plenário, 24/06/2020):</strong> declarou inconstitucionais dispositivos da LRF (arts. 9º, §3º; 23, §§1º-2º; 56-57).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADI 5.659/MG (Plenário, 2020):</strong> ICMS sobre operações com software — decidiu pela incidência do ISS (não ICMS) sobre licenciamento e cessão de uso de software.</p>
+
+<h3>ADC em matéria tributária</h3>
+
+<p>A ADC exige demonstração de controvérsia judicial relevante. Exemplos:</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>ADC 49 (Plenário, 2021):</strong> declarou inconstitucional a incidência de ICMS na transferência de mercadorias entre estabelecimentos do mesmo contribuinte em Estados diferentes — tema de enorme impacto para as Fazendas estaduais. Modulação: efeitos a partir de 2024, exceto para processos administrativos e judiciais pendentes.</p>
+
+<h3>Eficácia temporal — modulação em matéria tributária</h3>
+
+<p>A modulação temporal (art. 27, Lei 9.868/1999) é crucial em matéria tributária. Quando o STF declara inconstitucional um tributo, a regra seria efeitos ex tunc (retroativos) — o que obrigaria a Fazenda a restituir todo o tributo indevidamente cobrado. A modulação permite fixar efeitos ex nunc (prospectivos) ou a partir de determinada data, protegendo a segurança jurídica e o equilíbrio fiscal.</p>
+
+<p><strong>Quórum:</strong> 2/3 dos membros do STF (8 de 11).</p>
+
+<p><strong>Exemplos de modulação em matéria tributária:</strong></p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 574.706 (Tema 69 — exclusão do ICMS da base de cálculo do PIS/Cofins):</strong> modulação a partir de 15/03/2017 (data do julgamento do mérito), exceto para ações ajuizadas até aquela data.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885 (REs 949.297 e 955.227, 8/2/2023):</strong> a coisa julgada em matéria tributária de relação continuativa cessa seus efeitos quando o STF decide em sentido contrário em controle concentrado ou em repercussão geral. Modulação: aplicável a fatos geradores ocorridos a partir da publicação da ata de julgamento do precedente do STF.</p>
+
+<div class="destaque">
+<p><strong>Para a PGE/RJ — impacto prático da modulação:</strong> a modulação pode significar a diferença entre o Estado ter que restituir anos de arrecadação ou apenas ajustar a cobrança dali em diante. O Procurador deve sempre requerer modulação quando a Fazenda é afetada pela declaração de inconstitucionalidade, demonstrando impacto fiscal e segurança jurídica.</p>
+</div>
+
+<h3>Coisa julgada e controle de constitucionalidade tributário</h3>
+
+<p>Os Temas 881/885 do STF revolucionaram a relação entre coisa julgada e controle de constitucionalidade em matéria tributária. Antes, o contribuinte que obtivesse trânsito em julgado declarando inconstitucional determinado tributo estava protegido indefinidamente. Agora, se o STF decidir pela constitucionalidade em controle concentrado ou repercussão geral, a coisa julgada cessa automaticamente para fatos geradores futuros — sem necessidade de ação rescisória.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Arts. 97, 102 (I, "a"), 103:</strong> controle concentrado.</p>
+<p><span class="tag tag-lei">Lei 9.868/1999</span> <strong>Art. 27:</strong> modulação temporal — 2/3.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 52, X:</strong> resolução suspensiva do Senado.</p>
+<p><span class="tag tag-stf">STF</span> <strong>SV 10:</strong> reserva de plenário.</p>
+<p><span class="tag tag-stf">STF</span> <strong>Temas 881/885:</strong> coisa julgada tributária e superveniência de controle concentrado.</p>
+<p><span class="tag tag-stf">STF</span> <strong>RE 574.706 (Tema 69):</strong> exclusão do ICMS do PIS/Cofins — exemplo clássico de modulação.</p>
+<p><span class="tag tag-stf">STF</span> <strong>ADC 49:</strong> ICMS em transferência entre estabelecimentos — modulação para 2024.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Modulação exige 2/3 (8 ministros), não maioria simples:</strong> a declaração de inconstitucionalidade exige maioria absoluta (6); a modulação exige 2/3 (8). Pode haver declaração de inconstitucionalidade sem modulação se não se atingir o quórum de 2/3.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Coisa julgada tributária não é mais absoluta (Temas 881/885):</strong> decisão transitada em julgado favorável ao contribuinte perde eficácia para fatos geradores futuros quando o STF decide em sentido contrário. Isso vale tanto para controle concentrado quanto para repercussão geral.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Controle difuso em matéria tributária — efeitos limitados:</strong> a decisão em controle difuso só vale entre as partes. Mas se o STF julgar com repercussão geral, a tese vincula todos os tribunais (art. 927, III, CPC) e afeta inclusive coisa julgada anterior (Temas 881/885).</p>
+</div>
+
+</div>

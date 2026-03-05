@@ -1,0 +1,65 @@
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 2f — O Princípio da Capacidade Contributiva: Progressividade, Proporcionalidade, Seletividade, Universalidade e Personalização. Isonomia Tributária e Proibição de Desigualdade. Os Princípios Aplicáveis às Taxas e às Contribuições Especiais</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>O princípio da capacidade contributiva (art. 145, §1º, CF) é o fundamento material da justiça fiscal. O edital destaca as técnicas de concretização desse princípio — progressividade, proporcionalidade, seletividade, universalidade e personalização — e questiona sua aplicação às taxas e contribuições. Para o Procurador do Estado, o tema é operacional: a progressividade do IPTU, a seletividade do ICMS e os limites da capacidade contributiva nas taxas são questões recorrentes.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Capacidade contributiva (art. 145, §1º, CF)</h3>
+
+<p>"Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte." A expressão "sempre que possível" não esvazia o princípio — é diretriz obrigatória, mitigada apenas pela natureza do tributo (ex.: impostos reais como ICMS e IPI dificultam a personalização).</p>
+
+<h3>Técnicas de concretização</h3>
+
+<p><strong>Progressividade:</strong> alíquotas crescentes conforme a base de cálculo. Há duas espécies: (i) progressividade fiscal — visa arrecadação segundo capacidade (ex.: IR, ITCMD após EC 132/2023); (ii) progressividade extrafiscal — visa estimular ou desestimular condutas (ex.: IPTU progressivo no tempo para imóvel que não cumpre função social — art. 182, §4º, CF).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 562.045 (Tema 21, Plenário, 06/02/2013):</strong> declarou constitucional a progressividade do ITCMD. A EC 132/2023 tornou obrigatória a progressividade do ITCMD (art. 155, §1º, VI, CF — nova redação).</p>
+
+<p><strong>Proporcionalidade:</strong> alíquota fixa aplicada sobre base variável — o valor do tributo cresce proporcionalmente à riqueza, mas sem progressão de alíquotas. Ex.: ICMS com alíquota de 20% — quem compra mais, paga mais em valor absoluto.</p>
+
+<p><strong>Seletividade:</strong> alíquotas diferenciadas conforme a essencialidade do produto ou serviço. No IPI, é obrigatória (art. 153, §3º, I). No ICMS, a CF/88 dizia "poderá ser seletivo" (art. 155, §2º, III) — o STF no RE 714.139 (Tema 745, 2021) decidiu que, se o Estado adotar seletividade no ICMS, não pode aplicar alíquotas mais altas a bens essenciais (energia e telecomunicações). A EC 132/2023 tornou a seletividade obrigatória para o ICMS sobre determinados bens.</p>
+
+<p><strong>Universalidade:</strong> o tributo deve alcançar todas as rendas e proventos do contribuinte (princípio do IR — art. 153, §2º, I). Não pode o legislador excluir determinadas categorias de renda da tributação sem justificativa.</p>
+
+<p><strong>Personalização:</strong> adequação do tributo às condições pessoais do contribuinte (dependentes, despesas médicas, etc.). Concretizado no IR pelas deduções e faixas de isenção.</p>
+
+<h3>Isonomia tributária (art. 150, II, CF)</h3>
+
+<p>Vedação de tratamento desigual entre contribuintes em situação equivalente. A isonomia tributária tem duas faces: (i) proibição de discriminação (não tratar desigualmente os iguais); (ii) obrigação de diferenciação (tratar desigualmente os desiguais — justifica alíquotas diferenciadas por capacidade). A profissão ou função do contribuinte não pode ser critério de distinção (art. 150, II, parte final).</p>
+
+<h3>Capacidade contributiva, taxas e contribuições</h3>
+
+<p>O art. 145, §1º, refere-se expressamente a "impostos". A questão é: o princípio da capacidade contributiva aplica-se às taxas e contribuições?</p>
+
+<p><strong>Taxas:</strong> a taxa remunera serviço público específico e divisível ou exercício do poder de polícia. Seu valor deve corresponder ao custo da atividade estatal — não à riqueza do contribuinte. Porém, o STF admite a utilização de elementos econômicos como critério de graduação da taxa, desde que haja razoável equivalência com o custo (Súmula Vinculante 29).</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>Súmula Vinculante 29:</strong> "É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra."</p>
+
+<p><strong>Contribuições especiais:</strong> a capacidade contributiva aplica-se de forma mitigada. O STF admite a progressividade nas contribuições sociais sobre a folha de salários. Para contribuições corporativas e de intervenção no domínio econômico, a referibilidade ao grupo beneficiado é mais relevante que a capacidade contributiva individual.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 145, §1º:</strong> capacidade contributiva e personalização dos impostos.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 150, II:</strong> isonomia tributária.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 153, §2º, I:</strong> universalidade e progressividade do IR.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 155, §2º, III:</strong> seletividade do ICMS.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 562.045 (Tema 21, 2013):</strong> progressividade do ITCMD — constitucional.</p>
+<p><span class="tag tag-stf">STF</span> <strong>RE 714.139 (Tema 745, 2021):</strong> seletividade do ICMS — energia e telecomunicações não podem ter alíquota maior que a geral.</p>
+<p><span class="tag tag-stf">STF</span> <strong>SV 29:</strong> taxa com elemento de base de cálculo de imposto — constitucional desde que sem identidade integral.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Progressividade ≠ proporcionalidade:</strong> progressividade = alíquotas crescentes; proporcionalidade = alíquota fixa sobre base variável. O IPTU pode ser progressivo (alíquotas crescentes por faixa de valor venal); o ICMS é proporcional (alíquota fixa aplicada sobre a operação).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Seletividade do ICMS após RE 714.139:</strong> se o Estado adota seletividade, não pode tributar bens essenciais (energia, telecomunicações) com alíquota superior à alíquota geral. Isso impactou diretamente a arrecadação do RJ.</p>
+</div>
+
+</div>

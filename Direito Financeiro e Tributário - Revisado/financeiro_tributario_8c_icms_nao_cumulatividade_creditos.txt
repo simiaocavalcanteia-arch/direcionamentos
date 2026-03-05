@@ -10,7 +10,7 @@
 
 <p>A não cumulatividade é o princípio que define a mecânica operacional do ICMS. Todo o sistema de débitos e créditos, a apuração mensal, a transferência de saldos e o contencioso sobre direito a crédito decorrem desse princípio constitucional. Para a PGE/RJ, as disputas sobre créditos de ICMS representam parcela significativa do contencioso tributário — questões como legitimidade do creditamento, estorno proporcional e glosa de créditos oriundos de benefícios fiscais irregulares são matérias do cotidiano da Procuradoria.</p>
 
-<p>O tema conecta-se com a base de cálculo e alíquotas (Ponto 8b), com a substituição tributária (Ponto 8d, que tem regras próprias de crédito) e, de forma mais ampla, com as garantias do crédito tributário (Ponto 6d) e a jurisprudência sobre guerra fiscal, que atravessa toda a disciplina do ICMS.</p>
+<p>O tema conecta-se com a base de cálculo e alíquotas (Ponto 8c), com a substituição tributária (Ponto 8d, que tem regras próprias de crédito) e, de forma mais ampla, com as garantias do crédito tributário (Ponto 6d) e a jurisprudência sobre guerra fiscal, que atravessa toda a disciplina do ICMS.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

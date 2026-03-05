@@ -1,0 +1,74 @@
+<div class="container">
+
+<span class="badge">Direito Financeiro e Tributário | PGE/RJ</span>
+<h1>Ponto 2g — Os Princípios de Segurança Jurídica. Legalidade Tributária. Tipicidade. Anterioridade. Irretroatividade</h1>
+
+<h2>Panorama do Tema</h2>
+
+<p>Os princípios de segurança jurídica tributária são as garantias fundamentais do contribuinte contra a ação fiscal do Estado. Para o Procurador do Estado, o domínio desses princípios é essencial tanto para a defesa de tributos estaduais (demonstrando que foram observados) quanto para a cobrança (verificando se a exigência respeita anterioridade e irretroatividade). O Ponto 2c já abordou esses princípios de forma panorâmica — aqui se aprofundam os aspectos específicos cobrados pelo edital.</p>
+
+<h2>O Que Você Precisa Dominar</h2>
+
+<h3>Legalidade tributária (art. 150, I, CF)</h3>
+
+<p>Sem lei não há tributo — é vedado exigir ou aumentar tributo sem lei que o estabeleça. A legalidade tributária vai além da legalidade administrativa: exige-se não apenas autorização legal genérica, mas a definição em lei de todos os aspectos da hipótese de incidência (fato gerador, base de cálculo, alíquota, sujeito passivo).</p>
+
+<p><strong>Exceções à legalidade estrita:</strong> a CF permite que determinados tributos tenham alíquotas alteradas por ato do Executivo: II, IE, IPI, IOF (art. 153, §1º), CIDE-combustíveis (art. 177, §4º, I, "b") e ICMS-monofásico sobre combustíveis (art. 155, §4º, IV, "c"). São exceções taxativas.</p>
+
+<h3>Tipicidade tributária</h3>
+
+<p>Desdobramento da legalidade: o fato gerador deve corresponder exatamente ao tipo legal descrito na norma. Não se admite tributação por analogia (art. 108, §1º, CTN) — a analogia não pode resultar na exigência de tributo não previsto em lei. A tipicidade também impede a interpretação extensiva do fato gerador a situações não previstas pelo legislador.</p>
+
+<p>Discussão atual: a tipicidade "cerrada" vem sendo relativizada pela jurisprudência, especialmente em matéria de planejamento tributário (elisão) — o art. 116, parágrafo único, do CTN (norma geral antielisiva) permite à autoridade administrativa desconsiderar atos dissimulados.</p>
+
+<h3>Anterioridade tributária</h3>
+
+<p>O princípio da anterioridade divide-se em duas vertentes:</p>
+
+<p><strong>Anterioridade do exercício financeiro (art. 150, III, "b"):</strong> a lei que institui ou aumenta tributo só produz efeitos no exercício financeiro seguinte ao de sua publicação. Exceções: II, IE, IPI, IOF, impostos extraordinários de guerra, empréstimo compulsório de guerra/calamidade, contribuições para a seguridade social (art. 195, §6º — anterioridade nonagesimal, não do exercício), ICMS-monofásico sobre combustíveis e CIDE-combustíveis (apenas a redução e o restabelecimento de alíquota).</p>
+
+<p><strong>Anterioridade nonagesimal / noventena (art. 150, III, "c"):</strong> a lei que institui ou aumenta tributo só produz efeitos após 90 dias da data de publicação. Exceções: II, IE, IOF, impostos extraordinários de guerra, empréstimo compulsório de guerra/calamidade, IR e fixação da base de cálculo do IPTU e IPVA.</p>
+
+<p><strong>Cumulação das anterioridades:</strong> a regra geral é a observância de ambas — a lei só produz efeitos no exercício seguinte E após 90 dias. O tributo se sujeita ao prazo que for mais longo.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 1.473.645 (Tema 1.383, Rel. Min. Barroso, unanimidade, 22/03/2025):</strong> a revogação de benefício fiscal equivale a aumento de tributo para fins de anterioridade — deve observar tanto a anterioridade do exercício quanto a nonagesimal.</p>
+
+<h3>Irretroatividade tributária (art. 150, III, "a")</h3>
+
+<p>É vedado cobrar tributo em relação a fatos geradores ocorridos antes da vigência da lei que os houver instituído ou aumentado. A irretroatividade protege o contribuinte contra surpresas: a lei tributária nova não alcança fatos passados.</p>
+
+<p><strong>Exceções (art. 106, CTN):</strong> a lei tributária retroage quando: (I) for expressamente interpretativa (sem aplicação de penalidade); (II) deixar de definir como infração ato não definitivamente julgado — retroatividade benigna em matéria de penalidades tributárias (análogo ao Direito Penal). A retroatividade benigna é limitada: só se aplica a penalidades, não à obrigação tributária principal.</p>
+
+<h3>Segurança jurídica — proteção da confiança legítima</h3>
+
+<p>A segurança jurídica é princípio implícito que fundamenta todos os demais. Suas manifestações em Direito Tributário incluem: anterioridade, irretroatividade, legalidade, proteção da coisa julgada, modulação temporal dos efeitos de decisões judiciais, proteção da confiança legítima (atos administrativos que geraram expectativas legítimas no contribuinte não podem ser retroativamente anulados sem transição adequada).</p>
+
+<p>A LINDB (art. 24) reforça: a revisão de atos, contratos, ajustes, processos e normas administrativas deve considerar as orientações gerais da época, vedada a imposição de novos critérios com efeitos retroativos.</p>
+
+<h2>Legislação e Jurisprudência Essencial</h2>
+
+<p><span class="tag tag-lei">CF</span> <strong>Art. 150, I:</strong> legalidade tributária.</p>
+<p><span class="tag tag-lei">CF</span> <strong>Art. 150, III, "a", "b", "c":</strong> irretroatividade + anterioridade do exercício + anterioridade nonagesimal.</p>
+<p><span class="tag tag-lei">CTN</span> <strong>Art. 106:</strong> retroatividade benigna em matéria de penalidades.</p>
+<p><span class="tag tag-lei">CTN</span> <strong>Art. 108, §1º:</strong> vedação de analogia para exigir tributo.</p>
+<p><span class="tag tag-lei">CTN</span> <strong>Art. 116, p.u.:</strong> norma geral antielisiva.</p>
+
+<p><span class="tag tag-stf">STF</span> <strong>RE 1.473.645 (Tema 1.383, 2025):</strong> revogação de benefício fiscal = aumento de tributo → anterioridade obrigatória.</p>
+<p><span class="tag tag-stf">STF</span> <strong>ADI 939/DF:</strong> anterioridade como cláusula pétrea.</p>
+<p><span class="tag tag-stf">STF</span> <strong>SV 50:</strong> norma legal que altera prazo de recolhimento de tributo não se sujeita ao princípio da anterioridade.</p>
+
+<h2>Atenção Redobrada</h2>
+
+<div class="atencao">
+<p><strong>Anterioridade do exercício + nonagesimal são cumulativas:</strong> a regra geral é observar ambas. Os tributos devem esperar o exercício seguinte E 90 dias. As exceções são distintas para cada anterioridade — memorize quais tributos escapam de qual anterioridade.</p>
+</div>
+
+<div class="atencao">
+<p><strong>Alteração de prazo de recolhimento NÃO se sujeita à anterioridade (SV 50):</strong> mudar a data de pagamento (ex.: de dia 20 para dia 10) não é aumento de tributo — não exige anterioridade. Mas revogar benefício fiscal sim (Tema 1.383).</p>
+</div>
+
+<div class="atencao">
+<p><strong>Retroatividade benigna — só para penalidades:</strong> o art. 106, II, CTN permite retroatividade da lei que deixa de definir como infração ou comina penalidade menos severa. NÃO se aplica à obrigação principal (tributo devido). O contribuinte não pode invocar lei nova mais favorável para reduzir tributo já devido.</p>
+</div>
+
+</div>

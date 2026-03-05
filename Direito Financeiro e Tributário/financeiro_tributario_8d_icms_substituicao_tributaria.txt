@@ -10,7 +10,7 @@
 
 <p>A substituição tributária (ST) é uma das técnicas de arrecadação mais utilizadas pelos estados para o ICMS. Ao concentrar a cobrança do tributo em um único elo da cadeia produtiva (normalmente a indústria ou o importador), o Fisco simplifica a fiscalização e antecipa a receita, dispensando a necessidade de acompanhar milhares de estabelecimentos varejistas. Para a PGE/RJ, o contencioso envolvendo ST é volumoso: disputas sobre a base de cálculo presumida (MVA), pedidos de restituição quando o preço efetivo é inferior ao presumido e a definição do próprio regime são matérias recorrentes nos processos.</p>
 
-<p>O tema conecta-se diretamente com fato gerador (Ponto 8a), base de cálculo (Ponto 8b) e não cumulatividade (Ponto 8c). A decisão do STF no Tema 201 alterou radicalmente o modelo de substituição tributária para frente e tem implicações financeiras significativas para todos os estados.</p>
+<p>O tema conecta-se diretamente com fato gerador (Ponto 8d), base de cálculo (Ponto 8b) e não cumulatividade (Ponto 8c). A decisão do STF no Tema 201 alterou radicalmente o modelo de substituição tributária para frente e tem implicações financeiras significativas para todos os estados.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -133,7 +133,7 @@
 
 <h3>Responsabilidade supletiva do substituído</h3>
 
-<p>A legislação de diversos estados atribui ao substituído responsabilidade supletiva (subsidiária) pelo pagamento do ICMS-ST não recolhido pelo substituto. O art. 6º, §1º, da LC 87/96 prevê que a responsabilidade do substituto não exclui a do contribuinte originário, ressalvada a lei estadual. No RJ, a Lei 2.657/96 prevê a responsabilidade do substituído quando o substituto não efetua o recolhimento. Essa responsabilidade é supletiva (subsidiária), e não solidária: primeiro se cobra do substituto e, frustrada a cobrança, exige-se do substituído.</p>
+<p>A legislação de diversos estados atribui ao substituído responsabilidade supletiva (subsidiária) pelo pagamento do ICMS-ST não recolhido pelo substituto. O art. 6º, §1º, da LC 87/96 prevê que a responsabilidade poderá ser atribuída em relação ao imposto incidente sobre uma ou mais operações ou prestações, sejam antecedentes, concomitantes ou subsequentes. A legislação estadual, por sua vez, pode prever a responsabilidade supletiva do substituído quando o substituto não efetua o recolhimento. No RJ, a Lei 2.657/96 prevê a responsabilidade do substituído quando o substituto não efetua o recolhimento. Essa responsabilidade é supletiva (subsidiária), e não solidária: primeiro se cobra do substituto e, frustrada a cobrança, exige-se do substituído.</p>
 
 <h3>Tema 1.191/STJ (REsp 2.034.975/MG) — inaplicabilidade do art. 166 do CTN na restituição de ICMS-ST</h3>
 

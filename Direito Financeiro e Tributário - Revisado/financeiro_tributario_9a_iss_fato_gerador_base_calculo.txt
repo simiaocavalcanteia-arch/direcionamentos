@@ -10,7 +10,7 @@
 
 <p>O ISS é tributo de competência municipal, mas sua relevância para a PGE/RJ decorre de dois motivos: primeiro, o Procurador do Estado precisa dominar os limites entre ISS e ICMS (uma das disputas tributárias mais frequentes); segundo, a transição para o novo sistema tributário (EC 132/2023) substituirá o ISS pelo IBS, e compreender o tributo atual é condição para entender o que vem pela frente.</p>
 
-<p>Além disso, o edital cobra expressamente ISS como tema autônomo. O estudo deve ser orientado pela LC 116/2003, que é a norma geral nacional, e pela jurisprudência do STF e do STJ sobre conceito de serviço, locação de bens, operações mistas e conflitos ISS/ICMS (Ponto 9b).</p>
+<p>Além disso, o edital cobra expressamente ISS como tema autônomo. O estudo deve ser orientado pela LC 116/2003, que é a norma geral nacional, e pela jurisprudência do STF e do STJ sobre conceito de serviço, locação de bens, operações mistas e conflitos ISS/ICMS (Ponto 9a).</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -124,7 +124,7 @@
 
 <h3>ADIs 5659 e 1945/STF — software: ISS, não ICMS</h3>
 
-<p>Julgadas em 2021. O STF afastou a incidência do ICMS sobre software (inclusive por download e cloud) e fixou que a operação se sujeita ao ISS. Decisão relevante para a delimitação entre ISS e ICMS (tema aprofundado no Ponto 9b).</p>
+<p>Julgadas em 2021. O STF afastou a incidência do ICMS sobre software (inclusive por download e cloud) e fixou que a operação se sujeita ao ISS. Decisão relevante para a delimitação entre ISS e ICMS (tema aprofundado no Ponto 9a).</p>
 
 <h3>Tema 132/STJ (REsp 1.111.234/PR) — ISS sobre servicos bancarios</h3>
 

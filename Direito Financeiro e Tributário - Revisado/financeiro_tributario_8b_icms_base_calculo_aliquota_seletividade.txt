@@ -10,7 +10,7 @@
 
 <p>Conhecer a base de cálculo e as alíquotas do ICMS é essencial para o Procurador do Estado que defende a arrecadação estadual. A base de cálculo define sobre o quê se aplica a alíquota — e erros nessa etapa contaminam todo o lançamento. As alíquotas, por sua vez, envolvem um complexo sistema de repartição federativa, com regras constitucionais sobre mínimos, máximos e alíquotas interestaduais fixadas pelo Senado Federal.</p>
 
-<p>Este ponto conecta-se diretamente com o fato gerador (Ponto 8a), com a não cumulatividade (Ponto 8c) e com a substituição tributária (Ponto 8d). A jurisprudência recente do STF sobre seletividade (Tema 745) e sobre a inclusão/exclusão de tributos na base de cálculo (Tema 69) trouxe impactos relevantes para a arrecadação dos estados e é temática de grande interesse da PGE/RJ.</p>
+<p>Este ponto conecta-se diretamente com o fato gerador (Ponto 8b), com a não cumulatividade (Ponto 8c) e com a substituição tributária (Ponto 8d). A jurisprudência recente do STF sobre seletividade (Tema 745) e sobre a inclusão/exclusão de tributos na base de cálculo (Tema 69) trouxe impactos relevantes para a arrecadação dos estados e é temática de grande interesse da PGE/RJ.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

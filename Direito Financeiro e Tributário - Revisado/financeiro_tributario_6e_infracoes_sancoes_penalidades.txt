@@ -10,7 +10,7 @@
 
 <p>O regime sancionatório tributário define como o Estado pune o descumprimento das obrigações fiscais. Para o Procurador do Estado, o tema tem dupla relevância: de um lado, a Fazenda Pública precisa sustentar a validade das multas aplicadas em autuações fiscais; de outro, os tribunais impõem limites constitucionais ao poder punitivo, especialmente pela vedação ao confisco. Saber onde se situam esses limites é essencial para a atuação em juízo.</p>
 
-<p>O assunto conecta-se com a responsabilidade tributária (Ponto 5d), com a denúncia espontânea (já abordada no mesmo ponto), com a extinção do crédito tributário (Ponto 6b) e com as garantias do crédito na falência (Ponto 6d), onde as multas tributárias são rebaixadas para a classe dos créditos subquirografários.</p>
+<p>O assunto conecta-se com a responsabilidade tributária (Ponto 6e), com a denúncia espontânea (já abordada no mesmo ponto), com a extinção do crédito tributário (Ponto 6b) e com as garantias do crédito na falência (Ponto 6d), onde as multas tributárias são rebaixadas para a classe dos créditos subquirografários.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

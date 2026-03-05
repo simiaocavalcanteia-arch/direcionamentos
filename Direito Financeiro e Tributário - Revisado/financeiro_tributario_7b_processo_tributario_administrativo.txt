@@ -10,7 +10,7 @@
 
 <p>O processo administrativo tributário (PAT) é a via pela qual o contribuinte impugna, em sede administrativa, a exigência fiscal formalizada no auto de infração ou na notificação de lançamento. Para o Procurador do Estado, dominar esse tema é vital por dois motivos: primeiro, porque o contencioso administrativo estadual precede (e muitas vezes define) o desfecho do contencioso judicial; segundo, porque a PGE/RJ atua em estreita interface com a Secretaria de Fazenda nas questões que envolvem o Conselho de Contribuintes do Estado.</p>
 
-<p>O tema se conecta diretamente com o lançamento (Ponto 6a), a suspensão e extinção do crédito tributário (Ponto 6b) e o processo judicial tributário (Ponto 7a). A impugnação administrativa suspende a exigibilidade do crédito (art. 151, III, do CTN), e a decisão administrativa irrecorrível pode extingui-lo (art. 156, IX). Por isso, compreender a estrutura do PAT é compreender o momento em que o crédito tributário pode ser definitivamente constituído ou desconstituído sem necessidade de provocação judicial.</p>
+<p>O tema se conecta diretamente com o lançamento (Ponto 7b), a suspensão e extinção do crédito tributário (Ponto 6b) e o processo judicial tributário (Ponto 7a). A impugnação administrativa suspende a exigibilidade do crédito (art. 151, III, do CTN), e a decisão administrativa irrecorrível pode extingui-lo (art. 156, IX). Por isso, compreender a estrutura do PAT é compreender o momento em que o crédito tributário pode ser definitivamente constituído ou desconstituído sem necessidade de provocação judicial.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>

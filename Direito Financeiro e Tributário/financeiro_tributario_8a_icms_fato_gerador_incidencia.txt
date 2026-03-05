@@ -59,7 +59,7 @@
 
 <p>O <strong>diferencial de alíquotas (DIFAL)</strong> é disciplinado no art. 14-A da Lei 2.657/96 (incluído pela Lei 9.163/2021, em atendimento ao Tema 1093 do STF e à LC 190/2022). O DIFAL é devido nas operações interestaduais destinadas a consumidor final não contribuinte localizado no RJ — situação muito comum no comércio eletrônico.</p>
 
-<p>O art. 8º da Lei 2.657/96 enumera as hipóteses de isenção específicas do estado, e os arts. 36 a 40 tratam da substituição tributária (que será estudada no Ponto 8d). A legislação estadual deve ser lida sempre em conjunto com os convênios do CONFAZ, que condicionam a concessão de benefícios fiscais (art. 155, §2º, XII, "g", CF).</p>
+<p>O art. 8º da Lei 2.657/96 enumera as hipóteses de isenção específicas do estado, e os arts. 36 a 40 tratam da substituição tributária (que será estudada no Ponto 8a). A legislação estadual deve ser lida sempre em conjunto com os convênios do CONFAZ, que condicionam a concessão de benefícios fiscais (art. 155, §2º, XII, "g", CF).</p>
 
 <!-- ========== SEÇÃO 3 ========== -->
 <h2>Legislação e Jurisprudência Essencial</h2>

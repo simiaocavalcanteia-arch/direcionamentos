@@ -6,7 +6,7 @@
 
 <h2>Panorama do Tema</h2>
 
-<p>Além de compreender o conceito e a natureza jurídica do fato gerador (Ponto 4b), é necessário dominar suas dimensões práticas: como se classifica quanto à duração temporal, em que momento se considera ocorrido e em que local se materializa. Essas três dimensões — classificação, aspecto temporal e aspecto espacial — determinam questões centrais do contencioso tributário: qual a legislação aplicável (lei vigente no momento do FG), qual o ente competente para tributar (o do local de ocorrência) e como se conta a prescrição e a decadência.</p>
+<p>Além de compreender o conceito e a natureza jurídica do fato gerador (Ponto 4c), é necessário dominar suas dimensões práticas: como se classifica quanto à duração temporal, em que momento se considera ocorrido e em que local se materializa. Essas três dimensões — classificação, aspecto temporal e aspecto espacial — determinam questões centrais do contencioso tributário: qual a legislação aplicável (lei vigente no momento do FG), qual o ente competente para tributar (o do local de ocorrência) e como se conta a prescrição e a decadência.</p>
 
 <p>Para a PGE/RJ, a relevância é direta. O Estado arrecada ICMS (Lei Estadual 2.657/1996), ITCMD (Lei Estadual 7.174/2015) e IPVA (Lei Estadual 2.877/1997) — tributos cujo aspecto temporal e espacial gera conflitos constantes. O ICMS na importação, por exemplo, suscita disputa sobre o Estado competente: é o do desembaraço aduaneiro ou o do destinatário jurídico? O ITCMD sobre doação por não residente levanta questão de lugar e competência — tema que ganhou nova dimensão com a EC 132/2023 e a LC 227/2026. Dominar os critérios temporais e espaciais do fato gerador é essencial para sustentar a competência tributária do RJ.</p>
 
@@ -24,7 +24,7 @@
 
 <h3>2. Aspecto temporal — o momento de ocorrência</h3>
 
-<p>O art. 116 do CTN define dois regimes de ocorrência (já analisados no Ponto 4b). Na prática, cada tributo tem seu aspecto temporal definido pela lei instituidora. Alguns exemplos relevantes para a PGE/RJ:</p>
+<p>O art. 116 do CTN define dois regimes de ocorrência (já analisados no Ponto 4c). Na prática, cada tributo tem seu aspecto temporal definido pela lei instituidora. Alguns exemplos relevantes para a PGE/RJ:</p>
 
 <p><strong>ICMS — operações internas:</strong> o fato gerador ocorre na saída da mercadoria do estabelecimento (art. 12, I, da LC 87/1996). Para prestação de serviço de transporte interestadual e intermunicipal, ocorre no início da prestação.</p>
 

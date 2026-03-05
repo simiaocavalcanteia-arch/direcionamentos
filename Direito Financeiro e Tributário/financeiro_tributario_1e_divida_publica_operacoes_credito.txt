@@ -21,7 +21,7 @@
 
 <p>Dívida pública é o conjunto de obrigações financeiras do Estado decorrentes de empréstimos, financiamentos, emissão de títulos ou outras operações de crédito. A doutrina e a legislação classificam-na sob dois critérios principais.</p>
 
-<p><strong>Quanto ao prazo (Lei 4.320/1964):</strong> dívida fundada é a constituída por compromissos de exigibilidade superior a 12 meses, contraída para atender a desequilíbrio orçamentário ou financiamento de obras e serviços públicos (art. 98); dívida flutuante é a de curto prazo, compreendendo restos a pagar, serviços da dívida a pagar, depósitos de terceiros e débitos de tesouraria (art. 92). Note que a ARO integra a dívida flutuante por seu caráter de curto prazo.</p>
+<p><strong>Quanto ao prazo (Lei 4.320/1964):</strong> dívida fundada é a constituída por compromissos de exigibilidade superior a 12 meses, contraída para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos (art. 98); dívida flutuante é a de curto prazo, compreendendo restos a pagar, serviços da dívida a pagar, depósitos de terceiros e débitos de tesouraria (art. 92). Note que a ARO integra a dívida flutuante por seu caráter de curto prazo.</p>
 
 <p><strong>Quanto à natureza (LRF, art. 29):</strong> dívida pública consolidada é o montante total das obrigações financeiras do ente, assumidas em virtude de leis, contratos, convênios ou tratados, para amortização em prazo superior a 12 meses; dívida pública mobiliária é a representada por títulos emitidos pela União, Estados ou Municípios.</p>
 
@@ -135,7 +135,7 @@
 <h2>Atenção Redobrada</h2>
 
 <div class="atencao">
-<p><strong>Dívida fundada (Lei 4.320) ≠ dívida consolidada (LRF).</strong> A Lei 4.320 define dívida fundada como os compromissos de exigibilidade superior a 12 meses, contraídos para atender a desequilíbrio orçamentário ou financiamento de obras e serviços públicos (art. 98). A LRF define dívida consolidada de forma mais ampla (art. 29, I): montante total das obrigações financeiras assumidas em virtude de leis, contratos, convênios ou tratados, para amortização em prazo superior a 12 meses. Além disso, o §3º do art. 29 da LRF inclui na dívida consolidada as operações de crédito de prazo inferior a 12 meses cujas receitas tenham constado do orçamento. As duas classificações coexistem para finalidades diferentes: a Lei 4.320 para contabilidade pública; a LRF para controle de endividamento.</p>
+<p><strong>Dívida fundada (Lei 4.320) ≠ dívida consolidada (LRF).</strong> A Lei 4.320 define dívida fundada como os compromissos de exigibilidade superior a 12 meses, contraídos para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos (art. 98). A LRF define dívida consolidada de forma mais ampla (art. 29, I): montante total das obrigações financeiras assumidas em virtude de leis, contratos, convênios ou tratados, para amortização em prazo superior a 12 meses. Além disso, o §3º do art. 29 da LRF inclui na dívida consolidada as operações de crédito de prazo inferior a 12 meses cujas receitas tenham constado do orçamento. As duas classificações coexistem para finalidades diferentes: a Lei 4.320 para contabilidade pública; a LRF para controle de endividamento.</p>
 </div>
 
 <div class="atencao">

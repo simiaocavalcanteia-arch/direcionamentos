@@ -12,7 +12,7 @@
 
 <p>Para o Procurador do Estado, o domínio dessas espécies tributárias é indispensável: a PGE/RJ frequentemente atua em litígios que envolvem contribuições sociais (como a CSLL e as contribuições previdenciárias), CIDE (especialmente a CIDE-combustíveis, cuja receita é partilhada com os Estados), e taxas estaduais (taxas judiciárias, taxas de serviço, taxas de poder de polícia). A distinção entre taxa e preço público é recorrente em provas discursivas de procuradorias, pois testa a capacidade do candidato de articular conceitos tributários fundamentais.</p>
 
-<p>O tema conecta-se com as espécies tributárias (Ponto 1), com as limitações ao poder de tributar (Ponto 2), com as taxas específicas já estudadas (taxa de lixo — Ponto 9d; taxas de poder de polícia) e com a reforma tributária (EC 132/2023), que substituirá PIS e COFINS pela CBS.</p>
+<p>O tema conecta-se com as espécies tributárias (Ponto 1), com as limitações ao poder de tributar (Ponto 2), com as taxas específicas já estudadas (taxa de lixo — Ponto 10b; taxas de poder de polícia) e com a reforma tributária (EC 132/2023), que substituirá PIS e COFINS pela CBS.</p>
 
 <!-- ========== SEÇÃO 2 ========== -->
 <h2>O Que Você Precisa Dominar</h2>
@@ -54,7 +54,7 @@
 
 <p>As taxas estão previstas no art. 145, II, da CF e nos arts. 77-80 do CTN. Há dois fatos geradores possíveis: o exercício regular do <strong>poder de polícia</strong> (taxa de polícia) ou a utilização, efetiva ou potencial, de <strong>serviço público específico e divisível</strong>, prestado ao contribuinte ou posto à sua disposição (taxa de serviço). A competência para instituir taxas é <strong>comum</strong>: cada ente federativo pode cobrar taxas relativas aos serviços que presta ou ao poder de polícia que exerce.</p>
 
-<p>O art. 145, §2º, veda que taxas tenham base de cálculo própria de impostos. A Súmula Vinculante 29, porém, esclareceu que é possível usar "um ou mais elementos" da base de cálculo de imposto, desde que não haja identidade integral (tema já estudado no Ponto 9d). O poder de polícia, para fins de taxa, é a atividade estatal de limitação ou disciplina de direito, interesse ou liberdade, regulando a prática de ato ou abstenção de fato em razão de interesse público (art. 78, CTN). O STF admite a cobrança de taxa de polícia mesmo quando a fiscalização não é exercida porta a porta, bastando que o órgão fiscalizador exista e esteja em funcionamento (RE 588.322).</p>
+<p>O art. 145, §2º, veda que taxas tenham base de cálculo própria de impostos. A Súmula Vinculante 29, porém, esclareceu que é possível usar "um ou mais elementos" da base de cálculo de imposto, desde que não haja identidade integral (tema já estudado no Ponto 10b). O poder de polícia, para fins de taxa, é a atividade estatal de limitação ou disciplina de direito, interesse ou liberdade, regulando a prática de ato ou abstenção de fato em razão de interesse público (art. 78, CTN). O STF admite a cobrança de taxa de polícia mesmo quando a fiscalização não é exercida porta a porta, bastando que o órgão fiscalizador exista e esteja em funcionamento (RE 588.322).</p>
 
 <h3>Distinção entre taxa e preço público (tarifa)</h3>
 
@@ -94,7 +94,7 @@
 
 <p>A distinção taxa × preço público é tema frequente em provas discursivas. Monte uma resposta-padrão que articule: (1) a Súmula 545/STF; (2) o critério da compulsoriedade; (3) o regime jurídico (tributário vs. contratual); (4) exemplos práticos. Em 15 linhas, uma resposta que percorra esses quatro pontos demonstra solidez conceitual.</p>
 
-<p>Conecte este ponto com os anteriores: a taxa de lixo (Ponto 9d) e a COSIP (art. 149-A) são aplicações práticas dos conceitos de taxa e contribuição. A CIDE-combustíveis se conecta com a repartição de receitas (Ponto 3). A CBS se conecta com a reforma tributária e com a não cumulatividade (Ponto 8c). Essas conexões são valorizadas em provas discursivas que exigem visão sistêmica.</p>
+<p>Conecte este ponto com os anteriores: a taxa de lixo (Ponto 10b) e a COSIP (art. 149-A) são aplicações práticas dos conceitos de taxa e contribuição. A CIDE-combustíveis se conecta com a repartição de receitas (Ponto 3). A CBS se conecta com a reforma tributária e com a não cumulatividade (Ponto 8c). Essas conexões são valorizadas em provas discursivas que exigem visão sistêmica.</p>
 
 <!-- ========== SEÇÃO 5 ========== -->
 <h2>Atenção Redobrada</h2>
